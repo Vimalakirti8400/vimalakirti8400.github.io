@@ -258,16 +258,20 @@
   "corpus": "kangyur",
   "toh": 18,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The illustrious perfection of wisdom in fifty lines",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Perfection of Wisdom of the Blessed Lady in Fifty Lines",
+  "sanskrit": "Āryabhagavatīprajñāpāramitāpañcāśatikā",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Prose",
+   "Doctrinal",
+   "Root text"
+  ],
+  "explainer": "The Noble Perfection of Wisdom of the Blessed Lady in Fifty Lines, known in Sanskrit as the Āryabhagavatī-prajñāpāramitā-pañcāśatikā and in Tibetan as Phags pa bcom ldan 'das ma shes rab kyi pha rol tu phyin pa lnga bcu pa, is a short Prajñāpāramitā sūtra belonging to the Perfection of Wisdom class of Mahāyāna scriptures. As its title indicates, the text is a condensed teaching on the perfection of wisdom, delivered by the Buddha at Vulture Peak Mountain in Rājagṛha to an assembly of monks, bodhisattvas, and various divine and worldly beings, with the venerable Subhūti as the primary interlocutor. The discourse addresses those wishing to train at the levels of śrāvaka, pratyekabuddha, and bodhisattva, offering a succinct distillation of prajñāpāramitā doctrine. It is catalogued as Toh 18 in the Kangyur, where it forms part of the collection of Perfection of Wisdom sūtras.",
+  "pdf": "files/toh18.pdf",
+  "txt": "files/toh18.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-05"
  },
  {
   "corpus": "kangyur",
@@ -8298,16 +8302,16 @@
   "corpus": "kangyur",
   "toh": 820,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The verses of auspiciousness for the thirtyseven deities",
+  "state": "translated",
+  "title": "Toh 820 in the Kangyur is a short liturgical text known in Tibetan as the Auspic",
   "sanskrit": "",
-  "category": "",
+  "category": "Other",
   "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "explainer": "Toh 820 in the Kangyur is a short liturgical text known in Tibetan as the Auspicious Verses of the Thirty-Seven Deities, belonging to the class of Yoga Tantra. The text consists of a series of benedictory verses invoking the auspiciousness of the thirty-seven deities of the maṇḍala of the Yoga Tantra, organized around the five buddha families — Vairocana, Akṣobhya, Ratnasambhava, Amitābha, and Amoghasiddhi — along with their consorts, bodhisattvas, and retinue figures including Vajrasattva. Each verse calls upon the merit and blessings of a particular deity or group of deities and dedicates that auspiciousness to all beings in the present moment. Framed as verses requested by a divine interlocutor, the text functions as a maṅgala or auspiciousness prayer and is placed within the tantra section of the Kangyur.",
+  "pdf": "files/toh820.pdf",
+  "txt": "files/toh820.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-06"
  },
  {
   "corpus": "kangyur",
