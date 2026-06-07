@@ -8937,16 +8937,20 @@
   "corpus": "tengyur",
   "toh": 1113,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Devatisayastotratika",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Extensive Commentary on the Praise Surpassing the Gods",
+  "sanskrit": "Deva-atiśaya-stotra-ṭīkā",
+  "category": "Commentary / Treatise (Śāstra)",
+  "tags": [
+   "Commentary",
+   "Praise of the Buddha",
+   "Verse"
+  ],
+  "explainer": "Toh 1113 in the Tengyur is an extensive Indian commentary known in Sanskrit as the Deva-atiśaya-stotra-ṭīkā and in Tibetan as the Lha las phul du byung bar bstod pa'i rgya cher 'grel pa, rendered in English as the Extensive Commentary on the Praise Surpassing the Gods. It belongs to the genre of stotra literature — works of devotional praise — and serves as a detailed exegetical commentary on a hymn celebrating the Buddha as one who surpasses even the gods, a theme developed in part through a narrative involving two brahmin brothers whose encounter with Buddhist teaching leads them to recognize the Buddha's supreme qualities. The text opens with homage to Mañjuśrī in his youthful form, a conventional dedication that situates the work within the Mahāyāna tradition. It was requested by the monk Paltsek Rakshita and definitively established in its Tibetan form, indicating it passed through the standard process of translation and editorial review that characterized the production of the Tengyur collection.",
+  "pdf": "files/toh1113.pdf",
+  "txt": "files/toh1113.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-07"
  },
  {
   "corpus": "tengyur",
