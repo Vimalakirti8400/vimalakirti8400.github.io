@@ -18,16 +18,20 @@
   "corpus": "kangyur",
   "toh": 2,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Pratimoksa sutra",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Sūtra of Individual Liberation",
+  "sanskrit": "Prātimokṣa Sūtra",
+  "category": "Vinaya (Monastic Discipline)",
+  "tags": [
+   "Verse",
+   "Root text",
+   "Ethics"
+  ],
+  "explainer": "The Prātimokṣa Sūtra, known in Tibetan as the Sosor Tharpa'i Do (སོ་སོར་ཐར་པའི་མདོ་), or in English as the Sūtra of Individual Liberation, is one of the most foundational texts of Buddhist monastic life, setting out the rules of conduct and training that govern the lives of fully ordained monks. It belongs to the Vinaya, the broad category of canonical literature concerned with monastic discipline, and takes the form of a sūtra whose verses and injunctions are traditionally recited at communal confession ceremonies held twice monthly within the monastic community. Opening with a homage to the Buddha as the Omniscient One who discovered the treasury of the Three Jewels and crossed the ocean of suffering, the text frames its detailed disciplinary code within a devotional and doctrinal vision of the Buddha's incomparable wisdom and compassion. This text is Toh 2 in the Kangyur, where it is classified among the Vinaya scriptures.",
+  "pdf": "files/toh2.pdf",
+  "txt": "files/toh2.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-06"
  },
  {
   "corpus": "kangyur",
