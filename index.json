@@ -52,16 +52,20 @@
   "corpus": "kangyur",
   "toh": 4,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Bhiksunis pratimoksa sutra",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Sūtra of Individual Liberation for Fully Ordained Nuns",
+  "sanskrit": "Bhikṣuṇī Prātimokṣa Sūtra",
+  "category": "Vinaya (Monastic Discipline)",
+  "tags": [
+   "Ethics",
+   "Root text",
+   "Verse"
+  ],
+  "explainer": "Toh 4 in the Kangyur is the Bhikṣuṇī Prātimokṣa Sūtra, known in Tibetan as the Dge slong ma'i so sor thar pa'i mdo, or in English as the Sūtra of Individual Liberation for Fully Ordained Nuns. It is a Vinaya text — a code of monastic discipline — setting out the rules of individual liberation, the prātimokṣa, specifically for fully ordained Buddhist nuns, the bhikṣuṇīs. The text opens with verses of homage to the Buddha, Dharma, and Saṅgha before proceeding to enumerate the precepts that govern the conduct and spiritual life of nuns within the monastic community. As one of the foundational disciplinary scriptures, it belongs to the Vinaya section of the Kangyur, the collection of texts attributed to the Buddha himself.",
+  "pdf": "files/toh4.pdf",
+  "txt": "files/toh4.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-08"
  },
  {
   "corpus": "kangyur",
@@ -202,16 +206,20 @@
   "corpus": "kangyur",
   "toh": 13,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The verses that summarize the perfection of wisdom",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Perfection of Wisdom: A Verse Condensation",
+  "sanskrit": "Āryaprajñāpāramitāsaṃcayagāthā",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Verse",
+   "Root text",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 13 in the Kangyur is the Āryaprajñāpāramitāsaṃcayagāthā, known in Tibetan as the Phags pa shes rab kyi pha rol tu phyin pa sdud pa tshigs su bcad pa, and rendered in English as The Noble Perfection of Wisdom: A Verse Condensation. It belongs to the Perfection of Wisdom class of sūtras, one of the most important groupings in the Kangyur, and presents the profound teachings on prajñāpāramitā — the wisdom gone beyond — in metrical verse form rather than the extended prose dialogues characteristic of longer works in this cycle. As its title indicates, the text functions as a poetic summary or condensation of the Perfection of Wisdom teachings, covering themes such as omniscience, the nature of emptiness, and the path of the bodhisattva. It is among the earliest and most studied verse formulations of prajñāpāramitā doctrine and has been widely used across Buddhist traditions as a concise yet comprehensive expression of these teachings.",
+  "pdf": "files/toh13.pdf",
+  "txt": "files/toh13.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-08"
  },
  {
   "corpus": "kangyur",
@@ -232,31 +240,39 @@
   "corpus": "kangyur",
   "toh": 15,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The perfection of wisdom in five hundred lines",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Perfection of Wisdom in Five Hundred Lines",
+  "sanskrit": "Āryapañcaśatikāprajñāpāramitā",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Prose",
+   "Doctrinal",
+   "Root text"
+  ],
+  "explainer": "Toh 15 in the Kangyur is the Noble Perfection of Wisdom in Five Hundred Lines, known in Sanskrit as the Āryapañcaśatikāprajñāpāramitā and in Tibetan as the Phags pa shes rab kyi pha rol tu phyin pa lnga brgya pa. It belongs to the Perfection of Wisdom class of sūtras, a body of canonical Buddhist scripture that explores the nature of emptiness and the transcendent wisdom cultivated on the bodhisattva path. Like others in this genre, it takes the form of a discourse delivered by the Buddha — here on Vulture Peak Mountain at Rājagṛha — in which he instructs the Venerable Subhūti on the insubstantial nature of the aggregates, sense bases, and all conditioned phenomena. As one of the shorter Prajñāpāramitā sūtras, it distills these profound themes concisely, sitting within the broader collection of Perfection of Wisdom texts that forms a central section of the Kangyur.",
+  "pdf": "files/toh15.pdf",
+  "txt": "files/toh15.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-08"
  },
  {
   "corpus": "kangyur",
   "toh": 16,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra on the perfection of wisdom the diamond cutter the diamond sutra",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra of the Perfection of Wisdom Called the Diamond Cutter",
+  "sanskrit": "Āryavajracchedikā-nāma-prajñāpāramitā-mahāyāna-sūtra",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Prose",
+   "Philosophical",
+   "Narrative"
+  ],
+  "explainer": "The Diamond Cutter Perfection of Wisdom Sūtra, known in Sanskrit as the Ārya-vajracchedikā-prajñāpāramitā-mahāyāna-sūtra and in Tibetan as the Phags pa shes rab kyi pha rol tu phyin pa rdo rje gcod pa, is one of the most celebrated texts in the Mahāyāna Buddhist tradition. It belongs to the Perfection of Wisdom class of sūtras and teaches the nature of emptiness and non-attachment, famously using the image of a diamond or thunderbolt that cuts through illusion to convey how wisdom severs all conceptual clinging, including attachment to the very teachings themselves. The text is structured as a dialogue between the Buddha and his disciple Subhūti, set in the garden of Anāthapiṇḍada near Śrāvastī, and unfolds through a series of penetrating questions and answers about the nature of bodhisattvas, merit, and ultimate reality. It is Toh 16 in the Kangyur, preserved among the Perfection of Wisdom sūtras, and has been among the most widely studied and revered scriptures across the Mahāyāna world for well over a millennium.",
+  "pdf": "files/toh16.pdf",
+  "txt": "files/toh16.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-08"
  },
  {
   "corpus": "kangyur",
@@ -431,16 +447,20 @@
   "corpus": "kangyur",
   "toh": 35,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Sutra on maitreya",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Sūtra of Maitreya",
+  "sanskrit": "Maitrīsūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Devotional",
+   "Prose"
+  ],
+  "explainer": "The Sūtra of Maitreya, known in Sanskrit as the Maitrīsūtra and in Tibetan as Byams pa'i mdo, is a canonical Buddhist sūtra concerning the future buddha Maitreya, the successor to the present buddha Śākyamuni. In the text, the venerable Śāriputra addresses the Blessed One at the Nyagrodha pleasure grove beside the Rohiṇī river, asking him to describe the qualities and nature of the coming buddha, and the Blessed One responds by extolling Maitreya's immeasurable merit and boundless renown. It is Toh 35 in the Kangyur, belonging to the general class of sūtra literature, and was translated into Tibetan by Zangpo at the great temple of Palthaling.",
+  "pdf": "files/toh35.pdf",
+  "txt": "files/toh35.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-08"
  },
  {
   "corpus": "kangyur",
