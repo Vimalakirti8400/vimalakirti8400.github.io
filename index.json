@@ -391,16 +391,58 @@
   "corpus": "kangyur",
   "toh": 23,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The perfection of wisdom mother in one syllable",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Perfection of Wisdom in a Single Syllable, the Mother of All Tathāgatas",
+  "sanskrit": "Ekākṣarī Mātā Nāma Sarvatathāgata Prajñāpāramitā",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Root text",
+   "Doctrinal",
+   "Praise of the Buddha"
+  ],
+  "explainer": "Toh 23 in the Kangyur is a Mahāyāna sūtra known in English as \"The Perfection of Wisdom in a Single Syllable, the Mother of All Tathāgatas,\" in Sanskrit as the Eka Akṣarī Mātā Nāma Sarva Tathāgata Prajñāpāramitā, and in Tibetan as the Deshyin shekpa thamché kyi yum yigé chungngü shyejawa. It belongs to the Perfection of Wisdom, or Prajñāpāramitā, class of texts — a body of Mahāyāna literature concerned with the nature of wisdom and emptiness as the path to awakening. This remarkably concise sūtra takes the form of a teaching given by the Buddha on Vulture Peak at Rājagṛha, addressed to his attendant Ānanda, in which the entirety of the Perfection of Wisdom is distilled into a single syllable for the benefit of all sentient beings. As Toh 23 in the Kangyur, it is counted among the canonical scriptures preserved in the Tibetan Buddhist tradition, sitting within the broader Prajñāpāramitā section of that collection.",
+  "pdf": "files/toh23.pdf",
+  "txt": "files/toh23.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-10"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 24,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra Called the Perfection of Wisdom in Seven Hundred Lines",
+  "sanskrit": "Ārya-saptaśatikā-nāma-prajñāpāramitā-mahāyāna-sūtra",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Prose",
+   "Doctrinal",
+   "Philosophical"
+  ],
+  "explainer": "Toh 24 in the Kangyur is the Noble Great Vehicle Sūtra Called the Perfection of Wisdom in Seven Hundred Lines, known in Sanskrit as the Ārya-saptaśatikā-prajñāpāramitā-mahāyāna-sūtra and in Tibetan as the Phags pa shes rab kyi pha rol tu phyin pa bdun brgya pa. It belongs to the Perfection of Wisdom class of Mahāyāna sūtras and, like others in this genre, expounds the doctrine of prajñāpāramitā — the perfection of wisdom that perceives the empty nature of all phenomena. The text opens in the familiar sūtra style, with the Buddha residing at Śrāvastī in the Jeta Grove accompanied by a great assembly of monks and a vast gathering of bodhisattvas including Mañjuśrī and Maitreya, pointing to the dialogical treatment of wisdom that characterizes the Perfection of Wisdom literature. As one of the shorter prajñāpāramitā scriptures, it distills key insights of the tradition in a relatively compact form, situating it within the rich spectrum of Perfection of Wisdom texts preserved in the Kangyur.",
+  "pdf": "files/toh24.pdf",
+  "txt": "files/toh24.txt",
+  "link84000": "",
+  "date": "2026-06-10"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 25,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Perfection of Wisdom: A Text of One Hundred and Eight Names",
+  "sanskrit": "Āryaprajñāpāramitānāmāṣṭaśatakaṃ",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Verse",
+   "Devotional",
+   "Praise of the Buddha"
+  ],
+  "explainer": "Toh 25 in the Kangyur is a short liturgical scripture known in English as \"The Noble Perfection of Wisdom: A Text of One Hundred and Eight Names,\" corresponding to the Sanskrit Āryaprajñāpāramitānāmāṣṭaśatakaṃ and the Tibetan Phags pa shes rab kyi pha rol tu phyin pa'i mtshan brgya rtsa brgyad pa. It belongs to the Perfection of Wisdom class of texts and takes the form of a devotional hymn enumerating one hundred and eight names and epithets of the Perfection of Wisdom, personified as the mother of all buddhas across past, present, and future. Opening with a verse of homage to this \"Blessed Lady,\" the text then proceeds to enumerate her names in rapid succession, covering qualities such as omniscience, suchness, emptiness, and signlessness. As part of the Kangyur, it sits within the vast Prajñāpāramitā scriptural tradition and reflects the deeply devotional as well as philosophical dimensions of that literature.",
+  "pdf": "files/toh25.pdf",
+  "txt": "files/toh25.txt",
+  "link84000": "",
+  "date": "2026-06-10"
  },
  {
   "corpus": "kangyur",
@@ -451,31 +493,39 @@
   "corpus": "kangyur",
   "toh": 29,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The perfection of wisdom for vajrapani",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Perfection of Wisdom, Vajrapāṇi, Great Vehicle Sūtra",
+  "sanskrit": "Ārya-prajñāpāramitā-vajrapāṇi-mahāyāna-sūtra",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Prose",
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 29 in the Kangyur is a Mahāyāna sūtra known in English as the Noble Perfection of Wisdom, Vajrapāṇi Sūtra, in Sanskrit as the Ārya-prajñāpāramitā-vajrapāṇi-mahāyāna-sūtra, and in Tibetan as Phags pa shes rab kyi pha rol tu phyin pa lag na rdo rje theg pa chen po'i mdo. It belongs to the Perfection of Wisdom class of texts and is set at Rājagṛha, where the bodhisattva Vajrapāṇi poses questions to the Buddha about how a bodhisattva should train in the Perfection of Wisdom. The Buddha's central teaching in response is that such training rests on understanding all phenomena as without arising. The text immediately follows Toh 28, the Noble Samantabhadra Great Vehicle Sūtra, and together these short sūtras form part of the broader Prajñāpāramitā section of the Kangyur.",
+  "pdf": "files/toh29.pdf",
+  "txt": "files/toh29.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-10"
  },
  {
   "corpus": "kangyur",
   "toh": 30,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The perfection of wisdom for vajraketu",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Mahāyāna Sūtra of the Perfection of Wisdom, the Vajra Victory Banner",
+  "sanskrit": "Ārya-prajñāpāramitā-vajra-ketu-mahāyāna-sūtra",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Narrative",
+   "Prose",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 30 in the Kangyur is a Mahāyāna sūtra known in English as the Noble Perfection of Wisdom, the Vajra Victory Banner, in Sanskrit as the Ārya-prajñāpāramitā-vajra-ketu-mahāyāna-sūtra, and in Tibetan as འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་རྒྱལ་མཚན. It belongs to the Perfection of Wisdom class of texts, a large body of Mahāyāna scriptures concerned with the nature and practice of prajñāpāramitā, the transcendent wisdom that perceives the emptiness of all phenomena. This particular sūtra takes the form of a dialogue in which the bodhisattva Vajra Victory Banner, seated among an assembled retinue at Rājagṛha, questions the Buddha about the qualities that constitute the Perfection of Wisdom. It is one of the shorter works within the Perfection of Wisdom section of the Kangyur, presenting the teaching in a concise and direct exchange between the Buddha and the inquiring bodhisattva.",
+  "pdf": "files/toh30.pdf",
+  "txt": "files/toh30.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-10"
  },
  {
   "corpus": "kangyur",
