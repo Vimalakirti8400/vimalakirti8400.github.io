@@ -531,16 +531,20 @@
   "corpus": "kangyur",
   "toh": 31,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of turning the wheel of dharma",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Sūtra of the Thoroughly Turning of the Wheel of Dharma",
+  "sanskrit": "Dharmacakrapravartanasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Doctrinal",
+   "Root text"
+  ],
+  "explainer": "The Dharmacakrapravartana Sūtra, known in Tibetan as the Chos kyi 'khor lo rab tu bskor ba'i mdo and in English as the Sūtra of the Thoroughly Turning of the Wheel of Dharma, is one of the most revered and historically significant discourses in the entire Buddhist canon. It records the Buddha's first teaching following his enlightenment, delivered at the Deer Park near Vārāṇasī to his five former companions, in which he sets out the Middle Way between asceticism and sensual indulgence and introduces the Four Noble Truths — the foundational framework of the Buddhist path. This event, traditionally known as the first turning of the wheel of Dharma, marks the very beginning of the Buddha's teaching career and the establishment of the Sangha. The text is catalogued as Toh 31 in the Kangyur, where it belongs to the sūtra literature, and its central place in Buddhist tradition across all schools has made it a touchstone for understanding the origins and core doctrines of the Buddha's teaching.",
+  "pdf": "files/toh31.pdf",
+  "txt": "files/toh31.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-11"
  },
  {
   "corpus": "kangyur",
@@ -561,31 +565,38 @@
   "corpus": "kangyur",
   "toh": 33,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Sutra of atanatiya",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Sūtra of the Palace of Āṭānāṭā",
+  "sanskrit": "Āṭānāṭiya Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Ritual"
+  ],
+  "explainer": "The Āṭānāṭiya Sūtra, known in Tibetan as the Sūtra of the Palace of Āṭānāṭā (Lcang lo can gyi pho brang gi mdo), is a protective discourse in which the four great kings — the guardian deities of the cardinal directions — visit the Buddha on Vulture Peak Mountain and recite a powerful dhāraṇī intended to ward off malevolent spirits and safeguard Buddhist practitioners. The text belongs to the genre of rakṣā or protection literature, drawing on the cosmology of yakṣas, gandharvas, kumbhāṇḍas, and nāgas who serve under the four kings and whose names are invoked throughout the sūtra. It is one of the most widely used ritual protection texts in Buddhist traditions across Asia, recited to this day as a safeguard against harm. This sūtra is Toh 33 in the Kangyur, where it is classified among the general sūtra literature.",
+  "pdf": "files/toh33.pdf",
+  "txt": "files/toh33.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-11"
  },
  {
   "corpus": "kangyur",
   "toh": 34,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Sutra of the great assembly",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Sūtra of the Great Assembly",
+  "sanskrit": "Mahāsamayasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Prose",
+   "Devotional"
+  ],
+  "explainer": "The Sūtra of the Great Assembly, known in Sanskrit as the Mahāsamayasūtra and in Tibetan as Düpa Chenpo'i Do (འདུས་པ་ཆེན་པོའི་མདོ), is a canonical Buddhist sūtra recounting a vast celestial gathering in which the gods of ten world-systems converge to behold the Buddha and his community of five hundred arhats in the Śākya land. The text celebrates this great assembly by enumerating the many divine beings who come to pay homage, making it a remarkable panoramic vision of the Buddhist cosmos and its inhabitants. It belongs to the genre of sūtra literature and is catalogued as Toh 34 in the Kangyur, the Tibetan canon of texts attributed to the Buddha himself.",
+  "pdf": "files/toh34.pdf",
+  "txt": "files/toh34.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-11"
  },
  {
   "corpus": "kangyur",
@@ -610,16 +621,20 @@
   "corpus": "kangyur",
   "toh": 36,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Sutra on the meditation on loving kindness",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Sūtra on Cultivating Loving-Kindness",
+  "sanskrit": "Maitrī Bhāvanā Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Meditation",
+   "Ethics",
+   "Prose"
+  ],
+  "explainer": "The Sūtra on Cultivating Loving-Kindness, known in Sanskrit as the Maitrī Bhāvanā Sūtra and in Tibetan as Byams pa bsgom pa'i mdo, is a canonical Buddhist discourse in which the Buddha, while residing at Śrāvastī in the Jeta Grove, instructs his monks on the practice of loving-kindness as a method for liberating the mind. The text belongs to the sūtra literature and centers on the enumeration of eleven benefits that arise from cultivating loving-kindness diligently, presenting it as a foundational meditative quality to be steadied, developed, and thoroughly familiarized. It is Toh 36 in the Kangyur, where it is classified among the general sūtras of the collection.",
+  "pdf": "files/toh36.pdf",
+  "txt": "files/toh36.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-11"
  },
  {
   "corpus": "kangyur",
@@ -640,16 +655,19 @@
   "corpus": "kangyur",
   "toh": 38,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of giriyananda",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Sūtra of Ānanda of the Mountain",
+  "sanskrit": "Giri Ānanda Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Narrative"
+  ],
+  "explainer": "The Noble Sūtra of Ānanda of the Mountain, known in Sanskrit as the Giri Ānanda Sūtra and in Tibetan as Ri'i Kun dga' bo'i mdo, is a short sūtra belonging to the class of noble discourses attributed to the Buddha himself. It recounts an episode in which the venerable Ānanda falls gravely ill and approaches the Blessed One at Śrāvastī, prompting the Buddha to offer teachings connected with contemplation and the relief of suffering. The text is Toh 38 in the Kangyur, the collection of canonical scriptures regarded as the word of the Buddha, and sits within the sūtra section of that canon. It was translated into Tibetan at the great temple of Dpal Thar pa Gling, where it was edited and finalized for transmission to Tibetan readers.",
+  "pdf": "files/toh38.pdf",
+  "txt": "files/toh38.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-11"
  },
  {
   "corpus": "kangyur",
