@@ -1468,33 +1468,59 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 90,
+  "suffix": "",
+  "state": "translated",
+  "title": "Noble Perfection of Wisdom in Seven Hundred Lines",
+  "sanskrit": "Āryasaptaśatikānāmaprajñāpāramitāmahāyānasūtra",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Doctrinal",
+   "Root text"
+  ],
+  "explainer": "Toh 90 in the Kangyur is the Noble Perfection of Wisdom in Seven Hundred Verses, known in Sanskrit as the Āryasaptaśatikā Prajñāpāramitā Mahāyāna Sūtra and in Tibetan as འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བདུན་བརྒྱ་པ. It is a Mahāyāna sūtra belonging to the Perfection of Wisdom family of texts, presenting teachings on prajñāpāramitā — the wisdom that transcends ordinary understanding and lies at the heart of the bodhisattva path. The text is set at Śrāvastī, where the Buddha addresses a vast assembly of monks and bodhisattvas, and its content is framed as a prophetic discourse concerning the Perfection of Wisdom in seven hundred verses. Within the Kangyur, it forms the forty-sixth chapter of the Noble Great Jewel Heap, a vast collection containing one hundred thousand chapters of Dharma categories, placing this sūtra within one of the most expansive groupings of canonical Buddhist scripture.",
+  "pdf": "files/toh90.pdf",
+  "txt": "files/toh90.txt",
+  "link84000": "",
+  "date": "2026-06-16"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 91,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of ratnacudas questions",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Questions of the Noble Ratnacūḍa: A Mahāyāna Sūtra",
+  "sanskrit": "Āryaratnacūḍaparipṛcchā nāma mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Doctrinal",
+   "Prose"
+  ],
+  "explainer": "The Questions of the Noble Ratnacūḍa, known in Sanskrit as the Āryaratna-cūḍa-paripṛcchā and in Tibetan as Phags pa gtsug na rin po ches zhus pa, is a Mahāyāna sūtra in which the bodhisattva Ratnacūḍa poses questions to the Buddha, who is depicted teaching on Vulture Peak near Rājagṛha before a vast assembly of monks and bodhisattvas. The text belongs to the celebrated Great Jewel Heap collection, the Ratnakūṭa, a large anthology of Mahāyāna sūtras, of which this discourse forms the forty-seventh chapter. It is catalogued as Toh 91 in the Kangyur, where it is preserved among the sūtra texts of that collection.",
+  "pdf": "files/toh91.pdf",
+  "txt": "files/toh91.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-16"
  },
  {
   "corpus": "kangyur",
   "toh": 92,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The lions roar of srimaladevi",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Noble Lion's Roar of Queen Śrīmālā",
+  "sanskrit": "Āryaśrīmālādevīsiṃhanāda nāma mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Doctrinal",
+   "Philosophical"
+  ],
+  "explainer": "The Lion's Roar of Queen Śrīmālā, known in Sanskrit as the Āryaśrīmālādevīsiṃhanāda and in Tibetan as འཕགས་པ་ལྷ་མོ་དཔལ་ཕྲེང་གི་སེང་གེའི་སྒྲ, is a Mahāyāna sūtra centered on the teachings of the noble queen Śrīmālā, who delivers a celebrated discourse on the nature of the tathāgatagarbha, the one vehicle, and the path to liberation. The text takes the form of a dialogue set at Śrāvastī, in which Queen Śrīmālā, daughter of King Prasenajit and Queen Mallikā, expounds profound doctrines before the Buddha, who affirms and praises her understanding. It is one of the most influential Indian Buddhist scriptures on buddha-nature theory, widely studied across Mahāyāna traditions. This text is Toh 92 in the Kangyur, where it appears as the forty-eighth chapter of the vast sūtra collection known as the Great Jewel Heap, and belongs to the general class of Mahāyāna sūtras.",
+  "pdf": "files/toh92.pdf",
+  "txt": "files/toh92.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-16"
  },
  {
   "corpus": "kangyur",
