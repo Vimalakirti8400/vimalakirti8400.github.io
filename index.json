@@ -1646,16 +1646,20 @@
   "corpus": "kangyur",
   "toh": 102,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The condensed sutra a dharma discourse",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Saṅghāṭī Sūtra, a Synonym of the Dharma",
+  "sanskrit": "Ārya Saṅghāṭī Sūtra Dharma Paryāya",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "The Noble Saṅghāṭī Sūtra, known in Sanskrit as the Ārya Saṅghāṭī Sūtra Dharma Paryāya and in Tibetan as Phakpa Zung gi Do chö kyi Namgrang, is a Mahāyāna sūtra belonging to the general sūtra literature of the Buddhist canon. It takes the form of a discourse delivered by the Buddha at Vulture Peak Mountain in Rājagṛha before a vast assembly of monks and bodhisattvas, and it is renowned for its emphasis on the extraordinary merit generated simply by hearing, reciting, or venerating the text itself. The sūtra is Toh 102 in the Kangyur, where it is classed among the general sūtras, and it has been particularly influential in Tibetan Buddhist practice as a text whose very recitation is held to purify negative karma and plant the seeds of future awakening.",
+  "pdf": "files/toh102.pdf",
+  "txt": "files/toh102.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-17"
  },
  {
   "corpus": "kangyur",
@@ -1766,16 +1770,20 @@
   "corpus": "kangyur",
   "toh": 110,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of the dense array",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra Called 'The Dense Array of Ornaments'",
+  "sanskrit": "Ārya Ghanavyūha Nāma Mahāyāna Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Cosmology",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 110 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Ārya Ghanavyūha Nāma Mahāyāna Sūtra and in Tibetan as the Phakpa Gyen Tukpo Köpa (འཕགས་པ་རྒྱན་སྟུག་པོ་བཀོད་པ), rendered in English as \"The Noble Great Vehicle Sūtra Called The Dense Array of Ornaments.\" It belongs to the sūtra section of the Kangyur and presents a visionary scene in which the Buddha abides in a magnificent, densely adorned buddha-field together with an assembly of great bodhisattvas who are masters of the highest yoga. The text concerns the qualities and powers of the Buddha and the advanced bodhisattvas surrounding him, unfolding against a cosmological backdrop that encompasses the form realm, the formless realm, and beyond. As a Noble Mahāyāna Sūtra, it is addressed to practitioners of the Great Vehicle and reflects the elaborate visionary and doctrinal richness characteristic of that tradition.",
+  "pdf": "files/toh110.pdf",
+  "txt": "files/toh110.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-17"
  },
  {
   "corpus": "kangyur",
@@ -1821,6 +1829,24 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh113",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 114,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra Called the King Who Arrays the Qualities of All Phenomena",
+  "sanskrit": "Āryasarvadharmaguṇavyūharāja nāma Mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 114 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Ārya Sarvadharmaguṇavyūharāja and in Tibetan as the Chö tamché kyi yönten köpé gyalpo, rendered in English as the Noble Great Vehicle Sūtra Called the King Who Arrays the Qualities of All Phenomena. It belongs to the general class of Mahāyāna sūtras and is set in Rājagṛha, where the Buddha addresses a vast assembly of monks and bodhisattvas, each accomplished in dhāraṇī and devoted to the welfare of all beings. The text's title suggests a concern with the display and enumeration of the qualities inherent in all phenomena, a theme characteristic of sūtras that illuminate the nature of reality through the lens of Mahāyāna doctrine. As with many sūtras of its kind, it opens with the standard proclamation of the teaching's direct transmission through the words \"Thus did I hear,\" situating it firmly within the received scriptural tradition of the Buddha's discourses.",
+  "pdf": "files/toh114.pdf",
+  "txt": "files/toh114.txt",
+  "link84000": "",
+  "date": "2026-06-17"
  },
  {
   "corpus": "kangyur",
