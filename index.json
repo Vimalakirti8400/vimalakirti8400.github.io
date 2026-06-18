@@ -1882,16 +1882,19 @@
   "corpus": "kangyur",
   "toh": 117,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The basket of the three jewels",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Sūtra of the Great Vehicle Called 'The Jewel Casket'",
+  "sanskrit": "Ārya-ratnakaraṇḍa-nāma-mahāyāna-sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 117 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Ārya-ratnakaraṇḍa-nāma-mahāyāna-sūtra and in Tibetan as Pakpa Könchok gi Zamatok Chéjawa Tekpa Chenpo'i Do, rendered in English as \"The Noble Sūtra of the Great Vehicle Called The Jewel Casket.\" It belongs to the sūtra section of the Kangyur and takes the form of a discourse delivered by the Buddha to a vast assembly of monks and bodhisattvas at the Jeta Grove in Śrāvastī. The text features the bodhisattva Mañjuśrī as a prominent interlocutor, arriving alongside thousands of bodhisattvas and divine beings, and unfolds as a teaching on Mahāyāna principles framed within this richly described gathering. The title's image of a jewel casket suggests a treasury of precious Dharma, pointing to the text's character as a repository of important Buddhist teachings intended for those pursuing the bodhisattva path.",
+  "pdf": "files/toh117.pdf",
+  "txt": "files/toh117.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-18"
  },
  {
   "corpus": "kangyur",
@@ -1942,16 +1945,20 @@
   "corpus": "kangyur",
   "toh": 121,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of the great parinirvana",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Sūtra of the Great Complete Nirvāṇa",
+  "sanskrit": "Ārya Mahāparinirvāṇa Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Doctrinal",
+   "Praise of the Buddha"
+  ],
+  "explainer": "The Noble Sūtra of the Great Passing Beyond Sorrow, known in Sanskrit as the Ārya Mahāparinirvāṇa Sūtra and in Tibetan as 'Phags pa yongs su mya ngan las 'das pa chen po'i mdo, is a major Mahāyāna sūtra centered on the final days and passing into nirvāṇa of Śākyamuni Buddha, set dramatically in the grove of paired śāla trees near Kuśinagara as the Buddha addresses his disciple Ānanda. The text unfolds as a sweeping prophecy of the ages following the Buddha's parinirvāṇa, describing the successive conditions of the Dharma and its practitioners across the centuries to come. It belongs to the sūtra literature of the Mahāyāna, a genre concerned with the Buddha's final teachings and the enduring nature of buddhahood, and shares broad thematic territory with other recensions of the Mahāparinirvāṇa tradition while carrying its own distinctive emphases. This text is Toh 121 in the Kangyur, catalogued among the Mahāyāna sūtras of that great collection of translated Buddhist scriptures.",
+  "pdf": "files/toh121.pdf",
+  "txt": "files/toh121.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-18"
  },
  {
   "corpus": "kangyur",
@@ -2152,16 +2159,20 @@
   "corpus": "kangyur",
   "toh": 135,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The words of the dharma on the vajra samadhi",
+  "state": "translated",
+  "title": "The Text of the Dharma of Vajra Absorption",
   "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Meditation",
+   "Doctrinal",
+   "Philosophical"
+  ],
+  "explainer": "Toh 135 in the Kangyur is a sūtra known in Tibetan as Dorjé Ting ngé dzin gyi chö kyi yige, and in Sanskrit as the Vajrasamādhisūtra, commonly rendered in English as the Sūtra of Vajra Absorption or the Scripture of Diamond Concentration. It is a Mahāyāna discourse set on Vulture Peak Mountain, where the Buddha addresses a vast assembly of monks, arhats, bodhisattvas, and noble beings, expounding teachings centered on the nature of vajra-like meditative absorption and the profound principles of the Dharma. The text is structured in named chapters, opening with a formal introductory summary in the style of classical Indian sūtra literature, and its assembly scene — featuring celebrated disciples such as Śāriputra, Maudgalyāyana, and Subhūti alongside prominent bodhisattvas — places it firmly within the tradition of the great Mahāyāna sūtras. As Toh 135 in the Kangyur, it belongs to the general sūtra section of the Tibetan Buddhist canon and has historically attracted commentary across both East Asian and Tibetan Buddhist traditions.",
+  "pdf": "files/toh135.pdf",
+  "txt": "files/toh135.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-18"
  },
  {
   "corpus": "kangyur",
@@ -2182,16 +2193,20 @@
   "corpus": "kangyur",
   "toh": 137,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The supreme samadhi",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Supreme and Sublime Meditative Absorption",
+  "sanskrit": "Ārya-Samādhi-Agra-Uttama",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Meditation",
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 137 in the Kangyur is a Buddhist sūtra known in English as \"The Noble Supreme and Sublime Meditative Absorption,\" in Sanskrit as the Ārya-Samādhi-Agra-Uttama, and in Tibetan as the Phags pa ting nge 'dzin mchog dam pa. It belongs to the general class of Mahāyāna sūtras and centers on the theme of meditative absorption, presenting the Buddha entering into a profound samādhi known as the Samādhi of Light Rays before a vast assembly gathered at Rājagṛha, including thirty thousand monks, thousands of great bodhisattvas, and numerous classes of celestial and worldly beings. The text opens in the classic sūtra style, establishing the setting and retinue before turning to the teaching that unfolds from the Buddha's silent entry into meditation. It is preserved as a single fascicle within the Kangyur.",
+  "pdf": "files/toh137.pdf",
+  "txt": "files/toh137.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-18"
  },
  {
   "corpus": "kangyur",
@@ -2225,6 +2240,25 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 140,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called the Accomplisher of Boundless Gates",
+  "sanskrit": "Ārya Anantamukhasādhaka Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 140 in the Kangyur is a dhāraṇī sūtra known in Sanskrit as the Ārya Anantamukhasādhaka Nāma Dhāraṇī and in Tibetan as the Noble Dhāraṇī Called the Accomplisher of Boundless Gates. As a dhāraṇī text, it belongs to the broader class of sūtra literature and centers on a powerful dhāraṇī — a sacred formula of spiritual accomplishment — presented within a narrative setting in which the Buddha resides in Vaiśālī and, in the context of announcing his approaching final nirvāṇa, imparts this teaching to a great assembly of monks and bodhisattvas. The text thus weaves together themes of the Buddha's passing and the efficacy of dhāraṇī practice, situating the teaching at a moment of profound significance in the Buddha's life. It was translated into Tibetan by the Indian master Śīlendrabodhi together with the great editor-translator the monk Ye shes sde and their colleagues.",
+  "pdf": "files/toh140.pdf",
+  "txt": "files/toh140.txt",
+  "link84000": "",
+  "date": "2026-06-18"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 142,
   "suffix": "",
   "state": "at84000",
@@ -2237,6 +2271,25 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh142",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 143,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of Two Verses",
+  "sanskrit": "Gāthādvayadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Verse",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 143 in the Kangyur is a short dhāraṇī text known in Sanskrit as the Gāthādvayadhāraṇī and in Tibetan as the Dhāraṇī of Two Verses. It belongs to the dhāraṇī literature of the Kangyur and presents a brief verse teaching on the spiritual obstacles that impede beings — including disrespect toward the Buddha and Dharma, laziness, attachment, and doubt — followed by a dhāraṇī mantra offered as their antidote. The text was translated into Tibetan by the Indian scholars Jinamitra and Dānaśīla together with the renowned Tibetan editor-translator Kawa Paltsek, and despite its compact form it carries the characteristic structure of canonical dhāraṇī scriptures, combining doctrinal verse with a ritual mantra formula.",
+  "pdf": "files/toh143.pdf",
+  "txt": "files/toh143.txt",
+  "link84000": "",
+  "date": "2026-06-18"
  },
  {
   "corpus": "kangyur",
