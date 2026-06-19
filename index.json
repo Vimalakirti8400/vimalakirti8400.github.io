@@ -2308,6 +2308,25 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 145,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra Called the Dhāraṇī of the Jewel Meteor",
+  "sanskrit": "Ārya-ratnolkā-nāma-dhāraṇī-mahāyāna-sūtra",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Narrative",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Great Vehicle Sūtra Called the Dhāraṇī of the Jewel Meteor, known in Sanskrit as the Ārya-ratnolkā-nāma-dhāraṇī-mahāyāna-sūtra and in Tibetan as Phags pa dkon mchog ta la la'i gzungs zhes bya ba theg pa chen po'i mdo, is a Mahāyāna dhāraṇī sūtra centering on a powerful dhāraṇī — a sacred formula for protection and spiritual accomplishment — associated with the image of a radiant jewel meteor. The text opens in the classic sūtra style, with the Buddha dwelling on Vulture Peak at Rājagṛha in the company of a vast assembly of monks and bodhisattvas, establishing the authoritative setting from which the teaching flows. As a dhāraṇī sūtra, it belongs to that genre of Mahāyāna literature in which the recitation and preservation of sacred formulas is presented as a central vehicle for liberation and merit. It is catalogued as Toh 145 in the Kangyur, where it is classified among the general sūtra collections of the Mahāyāna.",
+  "pdf": "files/toh145.pdf",
+  "txt": "files/toh145.txt",
+  "link84000": "",
+  "date": "2026-06-19"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 146,
   "suffix": "",
   "state": "awaiting",
@@ -2535,16 +2554,19 @@
   "corpus": "kangyur",
   "toh": 161,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of the questions of devaputra suvikrantacinta",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra Called 'The Questions of the Son of the Gods, Suvikrāntacinta'",
+  "sanskrit": "Ārya-Suvikrāntacintādeva-putra-paripṛcchā-nāma-mahāyāna-sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 161 in the Kangyur is a Mahāyāna sūtra known in English as \"The Questions of the Son of the Gods, Suvikrāntacinta,\" in Sanskrit as the Ārya-Suvikrāntacintādeva-putra-paripṛcchā, and in Tibetan as the Lha'i bu rab rtsal sems kyis zhus pa. As a paripṛcchā, or \"questions\" sūtra, it belongs to a well-established genre in which a divine or noble interlocutor poses questions to the Buddha, prompting teachings of broad doctrinal scope. The text is set at Śrāvastī in the Jeta Grove, where the Buddha is surrounded by a vast assembly including monks, bodhisattvas drawn from many world-systems, gods of the desire and form realms, nāgas, and yakṣas, reflecting the cosmic grandeur typical of Mahāyāna scriptural settings. It is classified among the sūtras of the Kangyur and represents the tradition of canonical discourse addressed to an audience spanning both human and supramundane beings.",
+  "pdf": "files/toh161.pdf",
+  "txt": "files/toh161.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-19"
  },
  {
   "corpus": "kangyur",
@@ -2625,16 +2647,19 @@
   "corpus": "kangyur",
   "toh": 167,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of the questions of vikurvanaraja",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Questions of the Noble King of Magical Transformations",
+  "sanskrit": "Ārya-vikurvana-rāja-paripṛcchā-nāma-mahāyāna-sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "The Questions of the Noble King of Magical Transformations, known in Sanskrit as the Ārya-vikurvana-rāja-paripṛcchā and in Tibetan as Phags pa rnam par 'phrul pa'i rgyal pos zhus pa, is a Mahāyāna sūtra belonging to the genre of texts structured around questions posed to the Buddha by a distinguished interlocutor. The text opens in the familiar setting of Śrāvastī's Jeta Grove, where the Buddha is gathered with a large assembly of monks and an array of advanced bodhisattvas — including Maitreya, Avalokiteśvara, and Mahāsthāmaprāpta — all said to be beings bound by only a single further birth, signaling the exalted spiritual register of the discourse. As its title indicates, the sūtra centers on the inquiries of a royal figure associated with miraculous or magical transformation, a theme that likely unfolds through exchanges exploring the nature and powers of advanced bodhisattva practice. It is catalogued as Toh 167 in the Kangyur, where it stands among the general Mahāyāna sūtras.",
+  "pdf": "files/toh167.pdf",
+  "txt": "files/toh167.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-19"
  },
  {
   "corpus": "kangyur",
