@@ -2665,31 +2665,38 @@
   "corpus": "kangyur",
   "toh": 168,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The questions of vimalaprabha",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Questions of Vimalaprabha (Stainless Light)",
+  "sanskrit": "Vimalaprabhaparipṛcchā",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "The Questions of Vimalaprabha, known in Sanskrit as the Vimalaprabhaparipṛcchā and in Tibetan as Dri ma med pa'i 'od kyis zhus pa, is a sūtra in which the bodhisattva or deity Vimalaprabha — Stainless Light — poses questions to the Buddha in the context of a grand celestial assembly. The text opens with the Buddha teaching the Essence of the Moon sūtra on Vulture Peak, summoning gods and yakṣa kings including the Great King Vaiśravaṇa, situating the discourse within a cosmologically rich setting that suggests connections to lunar and calendrical themes found in related tantric literature. As a question-and-answer sūtra framed around divine interlocutors and protective deities, it belongs to the broader sūtra literature of the Kangyur. It is catalogued as Toh 168 in the Kangyur, where it appears among the general sūtra collections.",
+  "pdf": "files/toh168.pdf",
+  "txt": "files/toh168.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-20"
  },
  {
   "corpus": "kangyur",
   "toh": 169,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Instruction on the mahayana",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Sūtra of the Great Vehicle Called Instructions on the Great Vehicle",
+  "sanskrit": "Āryamahāyānopadeśanāma mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Doctrinal",
+   "Narrative"
+  ],
+  "explainer": "The Noble Sūtra of the Great Vehicle Called \"Instructions on the Great Vehicle,\" known in Sanskrit as the Āryamahāyānopadeśa and in Tibetan as Pakpa Tekpa Chenpo'i Men Ngak (འཕགས་པ་ཐེག་པ་ཆེན་པོའི་མན་ངག), is a Mahāyāna sūtra presenting the Buddha's teachings on the path and practices of the Great Vehicle. Set at Rājagṛha in a magnificent celestial assembly hall adorned with precious things and described as the domain of the Tathāgatas, the text opens with an elaborate evocation of a sacred space perfected through the merit and miraculous powers of the buddhas, suggesting a discourse of considerable scope directed toward bodhisattvas and great beings. It is Toh 169 in the Kangyur, catalogued among the Mahāyāna sūtras, and its organization into fascicles indicates it is a text of substantial length.",
+  "pdf": "files/toh169.pdf",
+  "txt": "files/toh169.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-20"
  },
  {
   "corpus": "kangyur",
@@ -2950,16 +2957,20 @@
   "corpus": "kangyur",
   "toh": 187,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The teaching on the inconceivable properties of the buddhas",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Teaching on the Inconceivable Qualities of the Dharma of the Buddhas",
+  "sanskrit": "Ārya-buddha-dharma-acintya-nirdeśa",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Doctrinal",
+   "Philosophical",
+   "Narrative"
+  ],
+  "explainer": "The Noble Teaching on the Inconceivable Qualities of the Dharma of the Buddhas, known in Sanskrit as the Ārya-buddha-dharma-acintya-nirdeśa and in Tibetan as Phags pa sangs rgyas kyi chos bsam gyis mi khyab pa bstan pa, is a Mahāyāna sūtra exploring the inconceivable and transcendent qualities of the buddhas and their dharma. The text unfolds as a teaching prompted by the reflections of a great assembly of bodhisattvas, each contemplating a different aspect of the buddhas' inexhaustible qualities — from their purified buddha-fields and aspirations to their lineage, arising, and bodies — suggesting a wide-ranging meditation on the nature of awakening that lies beyond ordinary conceptual grasp. It belongs to the genre of discourses in which the wonders of the buddhas serve as the occasion for doctrinal elaboration directed at the bodhisattva path. This text is Toh 187 in the Kangyur, where it is classified among the Mahāyāna sūtras.",
+  "pdf": "files/toh187.pdf",
+  "txt": "files/toh187.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-20"
  },
  {
   "corpus": "kangyur",
@@ -3035,6 +3046,25 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh192",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 193,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Prophecy of the Great Goddess Śrī",
+  "sanskrit": "Ārya-Śrī-Yamahādevī-vyākaraṇa",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Devotional",
+   "Prose"
+  ],
+  "explainer": "Toh 193 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Ārya-Śrī-Yamahādevī-vyākaraṇa and in Tibetan as the Pakpa Lhamo Chenmo Pal Lungtenpа, rendered in English as The Noble Prophecy of the Great Goddess Śrī. It belongs to the class of vyākaraṇa, or prophecy texts, in which a buddha foretells the future spiritual attainments or destiny of a particular being — in this case the great goddess Śrī, a prominent divine figure in both Hindu and Buddhist traditions. The sūtra is set in the realm of Bliss, the pure land of Amitābha, where the Blessed One addresses a vast assembly of celebrated bodhisattvas including Avalokiteśvara, Vajrapāṇi, Kṣitigarbha, and Samantabhadra, among others. As a canonical Mahāyāna sūtra, it sits within the Kangyur, the Tibetan Buddhist collection of texts regarded as the word of the Buddha.",
+  "pdf": "files/toh193.pdf",
+  "txt": "files/toh193.txt",
+  "link84000": "",
+  "date": "2026-06-20"
  },
  {
   "corpus": "kangyur",
