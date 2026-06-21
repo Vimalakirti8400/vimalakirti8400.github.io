@@ -3220,16 +3220,20 @@
   "corpus": "kangyur",
   "toh": 204,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra on offering lamps",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Sūtra of the Great Vehicle Called the Offering of Lamps",
+  "sanskrit": "Āryapradīpadānīya nāma mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "Toh 204 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Āryapradīpadānīya and in Tibetan as the Phags pa mar me 'bul ba, meaning in English \"The Noble Sūtra of the Great Vehicle called The Offering of Lamps.\" It belongs to the general sūtra section of the Kangyur and is presented as a discourse delivered by the Buddha to his disciple Śāriputra while residing at the Jeta Grove in Śrāvastī. The text concerns the spiritual merit and qualities arising from the offering of lamps, situating this devotional practice within a broader Mahāyāna framework that encompasses the four immeasurables, moral discipline, meditative absorption, wisdom, and liberation. As a relatively concise sūtra, it reflects the widespread Buddhist tradition of expounding the virtues of light-offering as a vehicle for accumulating merit and cultivating qualities conducive to awakening.",
+  "pdf": "files/toh204.pdf",
+  "txt": "files/toh204.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-21"
  },
  {
   "corpus": "kangyur",
@@ -3295,16 +3299,20 @@
   "corpus": "kangyur",
   "toh": 209,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra proclaiming the lions roar",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra Called 'The Proclamation of the Lion's Roar'",
+  "sanskrit": "Ārya Siṃhanādikā Nāma Mahāyāna Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Prose",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 209 in the Kangyur is a Mahāyāna sūtra known in English as \"The Proclamation of the Lion's Roar,\" in Sanskrit as the Ārya Siṃhanādikā Nāma Mahāyāna Sūtra, and in Tibetan as the Pakpa Sengé Dra Zhesya Pa Tekpa Chenpo Do. As a sūtra, it belongs to the class of canonical texts that record the teachings of the Buddha, here presented as a discourse delivered by the Blessed One in the celestial Palace of the Sun and Moon, the Abode of Complete Victory, before a vast assembly of monks and arhats. The text opens with the Buddha addressing the bodhisattva Heap of Complete Victory, pointing beyond innumerable world-systems, suggesting a teaching of cosmic scope characteristic of the Mahāyāna tradition. It was translated into Tibetan by a scholar named Dpal and subsequently revised and finalized by the Indian abbot Viryākarasiṃha together with the great translator monk Debtsan Dra.",
+  "pdf": "files/toh209.pdf",
+  "txt": "files/toh209.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-21"
  },
  {
   "corpus": "kangyur",
@@ -3335,6 +3343,24 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh211",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 212,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra Called 'Dependent Origination'",
+  "sanskrit": "Ārya Pratītyasamutpādanāma Mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Doctrinal",
+   "Prose"
+  ],
+  "explainer": "The Noble Great Vehicle Sūtra Called \"Dependent Origination,\" known in Sanskrit as the Ārya Pratītyasamutpādanāma Mahāyānasūtra and in Tibetan as 'Phags pa rten cing 'brel par 'byung ba zhes bya ba theg pa chen po'i mdo, is a Mahāyāna sūtra devoted to the teaching of dependent origination, one of the most fundamental doctrines in Buddhist thought. The text presents the Buddha discoursing on this principle — the chain of conditioned arising through which existence unfolds — along with a classification of its aspects, set against the backdrop of the Buddha dwelling among the gods of the Thirty-Three in the company of great śrāvakas, bodhisattvas such as Maitreya and Avalokiteśvara, and celestial figures including the great Brahmā. It is Toh 212 in the Kangyur, belonging to the general class of Mahāyāna sūtras, and its opening homage and framing narrative follow the conventions characteristic of that tradition.",
+  "pdf": "files/toh212.pdf",
+  "txt": "files/toh212.txt",
+  "link84000": "",
+  "date": "2026-06-21"
  },
  {
   "corpus": "kangyur",
@@ -3460,46 +3486,57 @@
   "corpus": "kangyur",
   "toh": 221,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of advice to the king",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Counsel to a King",
+  "sanskrit": "Ārya-rāja-avavādaka-nāma-mahāyāna-sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Ethics",
+   "Prose"
+  ],
+  "explainer": "Toh 221 in the Kangyur is a Mahāyāna sūtra known in English as \"Counsel to a King,\" in Sanskrit as the Ārya-rāja-avavādaka-nāma-mahāyāna-sūtra, and in Tibetan as the Phags pa rgyal po la gdams pa zhes bya ba theg pa chen po'i mdo. It belongs to the general class of Mahāyāna sūtras and presents teachings that the Buddha delivers in the context of a royal visit, with Prasenajit, King of Kosala, traveling to the Jeta Grove in Śrāvastī to pay homage, make offerings, and receive the Dharma. The setting — a great assembly of monks gathered around the Blessed One — frames what is evidently a discourse addressed to a monarch, exploring themes of guidance and instruction suited to one who holds worldly power. As its title suggests, the text is concerned with counsel given to a king, situating it within a broader tradition of Buddhist literature that reflects on the relationship between spiritual teaching and royal life.",
+  "pdf": "files/toh221.pdf",
+  "txt": "files/toh221.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-21"
  },
  {
   "corpus": "kangyur",
   "toh": 222,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of the chapter on tib the great drum skt the bearer of the great drum",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra Called 'The Chapter on Bearing the Great Drum'",
+  "sanskrit": "Ārya-Mahābherī-hāraka-parivarta-nāma-mahāyāna-sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "The Noble Great Vehicle Sūtra Called \"The Chapter on Bearing the Great Drum,\" known in Sanskrit as the Ārya-Mahābherī-hāraka-parivarta-nāma-mahāyāna-sūtra and in Tibetan as Pakpa Ngabo Chenpo Chenpö Leu Shyejawa Tekpa Chenpo Do, is a Mahāyāna sūtra set in the Jeta Grove at Śrāvastī, where the Buddha addresses a vast assembly of monastics, bodhisattvas, gods, nāgas, and laypeople. The text's evocative title centers on the image of a great drum, which in Buddhist literature often serves as a metaphor for the far-reaching and awakening power of the Dharma. It is Toh 222 in the Kangyur, belonging to the general category of Mahāyāna sūtras, and is preserved in both its Sanskrit title and Tibetan translation, attesting to its transmission through the classical Indian and Tibetan canonical traditions.",
+  "pdf": "files/toh222.pdf",
+  "txt": "files/toh222.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-21"
  },
  {
   "corpus": "kangyur",
   "toh": 223,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of the chapter on the thirtythree",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra Called 'The Chapter of the Thirty-Three'",
+  "sanskrit": "Ārya-Trayastriṃśat-parivarta-nāma-mahāyāna-sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Cosmology",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 223 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Ārya-Trayastriṃśat-parivarta-nāma-mahāyāna-sūtra and in Tibetan as the Phags pa sum cu rtsa gsum pa'i le'u zhes bya ba theg pa chen po'i mdo, rendered into English as \"The Noble Great Vehicle Sūtra Called 'The Chapter of the Thirty-Three.'\" The text takes its name from the Trāyastriṃśa heaven, the realm of the Thirty-Three gods, where the Buddha is depicted as dwelling beside the Pārijāta tree out of loving concern for the mother who gave birth to his form-body. It belongs to the sūtra division of the Kangyur and is set in the Mahāyāna literary tradition, opening with a vast assembly that includes eight thousand arhat monks and seventy-two thousand bodhisattvas. As with many sūtras of this class, it frames its teachings within a richly described celestial setting, connecting the Buddha's compassionate presence in the divine realm to the spiritual instruction that follows.",
+  "pdf": "files/toh223.pdf",
+  "txt": "files/toh223.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-21"
  },
  {
   "corpus": "kangyur",
@@ -3550,16 +3587,20 @@
   "corpus": "kangyur",
   "toh": 227,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra gathering all fragments",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Sūtra of the Great Vehicle Called the Compendium of All Knowledge",
+  "sanskrit": "Ārya Sarva Vidyā Saṃgraha Nāma Mahāyāna Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Doctrinal",
+   "Narrative"
+  ],
+  "explainer": "Toh 227 in the Kangyur is a Mahāyāna sūtra known in English as The Noble Sūtra of the Great Vehicle Called the Compendium of All Knowledge, in Sanskrit as the Ārya Sarva Vidyā Saṃgraha Nāma Mahāyāna Sūtra, and in Tibetan as Phags pa rnam par 'thag pa. It belongs to the sūtra division of the Kangyur and presents itself as a discourse delivered by the Buddha on Vulture Peak Mountain at Rājagṛha, set dramatically at the time of his approaching final nirvāṇa, in the presence of a vast assembly of monks, bodhisattvas, gods, and laypeople. As its title suggests, the text is concerned with the gathering or synthesis of knowledge, situating this theme within the solemn context of the Buddha's last rains retreat and his imminent passing.",
+  "pdf": "files/toh227.pdf",
+  "txt": "files/toh227.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-21"
  },
  {
   "corpus": "kangyur",
