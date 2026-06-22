@@ -3606,16 +3606,20 @@
   "corpus": "kangyur",
   "toh": 228,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra on the the buddhas deliberations",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Mahāyāna Sūtra: Gathering of Buddhas",
+  "sanskrit": "Ārya­buddha­saṃgīti­nāma­mahāyāna­sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Devotional",
+   "Praise of the Buddha"
+  ],
+  "explainer": "The Noble Discourse on the Harmonious Gathering of Buddhas, known in Sanskrit as the Ārya Buddhasaṅgīti Nāma Mahāyāna Sūtra and in Tibetan as Pakpa Sangyé Drowa Zhéjawa Tekpa Chenpo'i Do, is a Mahāyāna sūtra set during a time of five great worldly degenerations, in which the Buddha addresses a vast assembly of monks, bodhisattvas, and gods gathered at a mountain cave near a mango grove in the Middle Country. The text takes its name from the theme of a harmonious gathering or concert of buddhas, and its opening situates this teaching amid the challenges of a degenerate age, suggesting a concern with how beings may find guidance and refuge when the world has declined. It is Toh 228 in the Kangyur, classified among the Mahāyāna sūtras.",
+  "pdf": "files/toh228.pdf",
+  "txt": "files/toh228.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-22"
  },
  {
   "corpus": "kangyur",
@@ -3681,31 +3685,77 @@
   "corpus": "kangyur",
   "toh": 233,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The chapter from the great cloud sutra on the great playful festival of the oceanic gathering of the bodhisattvas of the ten directions",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Chapter Called 'The Great Festival in Which the Ocean of Bodhisattvas from the Ten Directions Gathers and Takes Delight,' from the Noble Sūtra of the Great Cloud",
+  "sanskrit": "Ārya-mahāmegha-sūtra-daśadig-bodhisattva-samudrasannipāti-mahotsava-vikrīḍita-nāma-parivarta",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Devotional",
+   "Cosmology"
+  ],
+  "explainer": "Toh 233 in the Kangyur is a chapter from the Noble Sūtra of the Great Cloud, known in Sanskrit as the Ārya-mahāmegha-sūtra and in Tibetan as Phags pa sprin chen po'i mdo, with this particular section bearing the title \"The Great Festival in Which the Ocean of Bodhisattvas from the Ten Directions Gathers and Takes Delight.\" It is a Mahāyāna sūtra set on Vulture Peak Mountain at Rājagṛha, where the Buddha is depicted addressing an enormous assembly of monks, nuns, bodhisattvas, and laypeople. The text belongs to the sūtra division of the Kangyur and is presented as a discrete named chapter, or parivarta, of the larger Great Cloud collection. As suggested by both its title and its vast assembly scene, the work is concerned with the gathering and rejoicing of bodhisattvas from across the ten directions, situating it within the tradition of grand Mahāyāna scriptures that celebrate the scope and splendor of the bodhisattva path.",
+  "pdf": "files/toh233.pdf",
+  "txt": "files/toh233.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-22"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 234,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra: The Chapter on the Maṇḍala of the Wind of the Great Cloud, the Heart-Essence of All Nāgas",
+  "sanskrit": "Ārya-Mahāmegha-vāyu-maṇḍala-parivarta-sarvanāgahṛdaya-nāma-mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Ritual",
+   "Cosmology"
+  ],
+  "explainer": "Toh 234 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Ārya-Mahāmegha-vāyu-maṇḍala-parivarta-sarvanāgahṛdaya and in Tibetan as Phags pa sprin chen po rlung gi dkyil 'khor gyi le'u klu thams cad kyi snying po, rendered in English as \"The Noble Great Vehicle Sūtra: The Chapter on the Maṇḍala of the Wind of the Great Cloud, the Heart-Essence of All Nāgas.\" The text belongs to the sūtra division of the Kangyur and centers on the world of the nāgas, serpentine beings associated with rain, water, and the natural elements, presenting the Buddha teaching in a jeweled ocean palace before a vast assembly of nāga kings possessed of great miraculous power. It is concerned with esoteric heart-essences or dhāraṇīs connected to nāgas and the wind-maṇḍala of the great cloud, themes that link it to both the sūtra and dhāraṇī literature of the Mahāyāna tradition. The text thus sits at the intersection of narrative sūtra and ritual-protective literature, reflecting a widespread Indian and Tibetan interest in harnessing the power of nāgas for rain, fertility, and spiritual protection.",
+  "pdf": "files/toh234.pdf",
+  "txt": "files/toh234.txt",
+  "link84000": "",
+  "date": "2026-06-22"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 235,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Cloud",
+  "sanskrit": "Ārya Mahāmegha",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Cosmology",
+   "Prose"
+  ],
+  "explainer": "Toh 235 in the Kangyur is known in English as The Noble Great Cloud, in Sanskrit as the Ārya Mahāmegha, and in Tibetan as the འཕགས་པ་སྤྲིན་ཆེན་པོ (Phakpa Trin Chenpo). It is a Mahāyāna sūtra centered on the teachings and blessings associated with rain-clouds, nāgas, and the power of the Buddha's compassion to bring spiritual and worldly benefit, much as great clouds bring life-giving rain to the earth. The text opens with the Buddha dwelling in a magnificent jeweled cloud palace alongside a vast assembly of monks, bodhisattvas, and an extensive gathering of nāga kings — beings traditionally associated with water, rainfall, and the fertility of the natural world — signaling that the sūtra addresses themes of cosmic abundance, protection, and the Buddha's sovereign influence over both human and non-human realms. As Toh 235, it belongs to the sūtra section of the Kangyur, the collection of canonical teachings attributed to the Buddha himself.",
+  "pdf": "files/toh235.pdf",
+  "txt": "files/toh235.txt",
+  "link84000": "",
+  "date": "2026-06-22"
  },
  {
   "corpus": "kangyur",
   "toh": 236,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The tenth chapter from amongst the ten thousand chapters of the sutra on the heroic way",
+  "state": "translated",
+  "title": "The Sūtra on Manifestly Attaining the Aim of Accomplishing the Great Uṣṇīṣa of the Blessed One, the Secret of the Tathāgata",
   "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 236 in the Kangyur is a sūtra known in English as \"The Sūtra of the Courageous Conduct of All Bodhisattvas,\" concerned with manifestly attaining the aim of accomplishing the great uṣṇīṣa — the cranial protuberance — of the Blessed One, described as the secret of the Tathāgata. The text presents itself as the tenth chapter of a larger ten-thousand-verse sūtra, opening with the Tathāgata addressing his retinue, including Ānanda, from a lion throne, and belongs to the broader class of Mahāyāna sūtra literature focused on bodhisattva practice. The Tibetan title begins with a phrase indicating it concerns the accomplishment of the tathāgata's great uṣṇīṣa, and while precise Sanskrit and Tibetan short-form titles are not fully determinable from the available material, the text is clearly situated within the sūtra division of the Kangyur. It was translated into Tibetan by the monk Yeshe De, who also revised and finalized it in accordance with the royal editing decree standardizing Tibetan Buddhist translations.",
+  "pdf": "files/toh236.pdf",
+  "txt": "files/toh236.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-22"
  },
  {
   "corpus": "kangyur",
