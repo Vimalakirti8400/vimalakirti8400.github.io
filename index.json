@@ -3851,16 +3851,20 @@
   "corpus": "kangyur",
   "toh": 243,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of the king of the true dharma",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Sūtra of the Great Vehicle, King of the True Dharma",
+  "sanskrit": "Saddharmarāja Mahāyāna Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Doctrinal",
+   "Prose"
+  ],
+  "explainer": "The Sūtra of the Great Vehicle, King of the True Dharma, known in Sanskrit as the Saddharmarāja Mahāyāna Sūtra and in Tibetan as Dampé Chökyi Gyalpo Tekpa Chenpo'i Do, is a Mahāyāna sūtra set at the most solemn of moments: the Buddha's imminent passing into final nirvāṇa beneath the two śāla trees. In it, the Buddha emits a great radiance that directly reveals all phenomena to an assembled multitude, and the bodhisattva Ākāśagarbha, the Treasury of Space, rises among the gathered beings to receive and engage with these final teachings. The text belongs to the class of Mahāyāna sūtras concerned with the Buddha's parinirvāṇa and the profound Dharma he imparts in those last moments. It is catalogued as Toh 243 in the Kangyur, preserved among the general Mahāyāna sūtras of that collection.",
+  "pdf": "files/toh243.pdf",
+  "txt": "files/toh243.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-23"
  },
  {
   "corpus": "kangyur",
@@ -4001,16 +4005,20 @@
   "corpus": "kangyur",
   "toh": 253,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra on the threefold teaching",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Sūtra Called 'The Three Dharmas'",
+  "sanskrit": "Tridharmanāma Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 253 in the Kangyur is a brief Mahāyāna sūtra known in Sanskrit as the Tri-dharma-nāma-sūtra and in Tibetan as Chos gsum pa zhes bya ba'i mdo, meaning \"The Sūtra Called 'The Three Dharmas.'\" It belongs to the general class of sūtra literature and records a teaching delivered by the Buddha at Śrāvastī in the Jeta Grove, addressed to an assembly of monks. The discourse identifies three qualities — attachment, miserliness, and heedlessness — that obstruct foolish persons from giving gifts, making merit, and maintaining moral discipline, and it contrasts these with the three corresponding virtues that enable practitioners to flourish in the Dharma. The text appears in the Kangyur as part of a sequence of short Mahāyāna sūtras and is notable for its concise, practical focus on the ethical foundations of Buddhist practice.",
+  "pdf": "files/toh253.pdf",
+  "txt": "files/toh253.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-23"
  },
  {
   "corpus": "kangyur",
@@ -4046,16 +4054,20 @@
   "corpus": "kangyur",
   "toh": 256,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The seal of the dharma",
+  "state": "translated",
+  "title": "The Great Ocean of Dharma: Ten Chapters on the Abiding of the Bodhisattva Mind as Taught by the Buddha Vairocana",
   "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Ethics",
+   "Doctrinal",
+   "Prose"
+  ],
+  "explainer": "Toh 256 in the Kangyur is a Mahayana scripture known in English as \"The Great Ocean of Dharma,\" spoken by the buddha Vairocana and organized into ten chapters on the abiding of the bodhisattva mind; its Tibetan title is Chos kyi rgya mo. The text opens with a solemn call to assembly in which all children of the buddha are urged to join their palms, confess any transgressions wholeheartedly, and listen as the great moral discipline of all buddhas is expounded. It addresses a broad audience — those of great virtue alongside laymen and laywomen — and its emphasis on confession, purification, and the cultivation of the bodhisattva mind marks it as a work concerned with both ethical conduct and the awakening aspiration central to the Mahayana. The text belongs to the general class of Mahayana sutras within the Kangyur.",
+  "pdf": "files/toh256.pdf",
+  "txt": "files/toh256.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-23"
  },
  {
   "corpus": "kangyur",
@@ -4076,16 +4088,20 @@
   "corpus": "kangyur",
   "toh": 258,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra on the tathagata essence",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra Called 'Buddha-Nature'",
+  "sanskrit": "Āryatathāgatagarbha-nāma-mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Doctrinal",
+   "Philosophical"
+  ],
+  "explainer": "Toh 258 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Āryatathāgatagarbha-nāma-mahāyānasūtra, in Tibetan as the Phags pa de bzhin gshegs pa'i snying po zhes bya ba theg pa chen po'i mdo, and in English as the Noble Great Vehicle Sūtra Called \"Buddha-Nature.\" It belongs to the class of tathāgatagarbha literature, which concerns the teaching that all sentient beings possess within them an innate buddha-nature — the seed or essence of awakening — and it is one of the earliest and most foundational texts to articulate this doctrine explicitly. The sūtra is set at Vulture Peak Mountain in Rājagṛha, where the Buddha, ten years after his enlightenment, addresses a vast assembly of monks and bodhisattvas and uses a series of vivid similes to illustrate how buddha-nature is present in all beings even while obscured by adventitious defilements. As Toh 258 in the Kangyur, it is classified among the general Mahāyāna sūtras and has exercised a profound and lasting influence on Buddhist thought across Tibet, China, and East Asia.",
+  "pdf": "files/toh258.pdf",
+  "txt": "files/toh258.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-23"
  },
  {
   "corpus": "kangyur",
@@ -4181,16 +4197,20 @@
   "corpus": "kangyur",
   "toh": 265,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The minor chapters on the rituals of homage and the clearing away of remorse in the noble sutra of the great realization",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "From the Sūtra Called 'The Noble Great Realization Fully Expansive': The Chapter on the Ritual of Homage",
+  "sanskrit": "Āryamahābodhi­paripūrṇa­sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Ritual",
+   "Devotional",
+   "Praise of the Buddha"
+  ],
+  "explainer": "Toh 265 in the Kangyur is a sūtra excerpt known in English as \"The Ritual of Homage from the Noble Great Realization Fully Expansive,\" drawn from the larger Tibetan canonical work sometimes identified in Sanskrit as the Mahābodhi-vistara-sūtra and in Tibetan as the Phags pa rtogs pa chen po yongs su rgyas pa'i mdo. It is a devotional and liturgical text that brings together several thematic chapters: a ritual of homage, the names and praises of the Tathāgatas of the three times, the twelve divisions of scripture, homage to bodhisattvas by name, and a chapter on confession. The text is addressed by bodhisattvas assembled from the ten directions to the Buddha and takes the form of reverent address, praise, and purification practice. As the opening makes clear, what survives here is a condensed and edited translation of select portions from that larger sūtra, rather than the complete work.",
+  "pdf": "files/toh265.pdf",
+  "txt": "files/toh265.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-23"
  },
  {
   "corpus": "kangyur",
@@ -4254,6 +4274,25 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 270,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Sūtra of the Great Vehicle Called 'The Seven Buddhas'",
+  "sanskrit": "Ārya-sapta-buddha-kanā-nāma-mahāyāna-sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Praise of the Buddha",
+   "Devotional"
+  ],
+  "explainer": "Toh 270 in the Kangyur is a Mahāyāna sūtra known in English as \"The Seven Buddhas,\" in Sanskrit as the Ārya-sapta-buddha-ka-nā-nāma-mahāyāna-sūtra, and in Tibetan as Pakpa Sangyé Dünpa Shéjawa Tekpa Chenpo'i Do. It belongs to the general class of sūtra literature and recounts a teaching delivered by the Buddha on the summit of Mount Kailāsa, in the company of a vast assembly of monks and advanced bodhisattvas including Maitreya, Ākāśagarbha, and Samantabhadra. As its title suggests, the text centers on the theme of the seven buddhas, situating this teaching within a rich cosmological and devotional context characteristic of Mahāyāna scripture.",
+  "pdf": "files/toh270.pdf",
+  "txt": "files/toh270.txt",
+  "link84000": "",
+  "date": "2026-06-23"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 271,
   "suffix": "",
   "state": "at84000",
@@ -4271,46 +4310,77 @@
   "corpus": "kangyur",
   "toh": 272,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of the ten buddhas",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Sūtra of the Ten Buddhas",
+  "sanskrit": "Daśabuddhaka nāma mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Narrative",
+   "Praise of the Buddha"
+  ],
+  "explainer": "The Ten Buddhas, known in Sanskrit as the Daśabuddhaka and in Tibetan as Sangyé Chupa, is a Mahāyāna sūtra concerned with the veneration and qualities of ten buddhas. It is Toh 272 in the Kangyur, belonging to the general category of Mahāyāna sūtras. The text opens with a familiar canonical setting — the Buddha dwelling on Vulture Peak near Rājagṛha — and is prompted by the bodhisattva Qualities-Precious-Blossoming-Flower, a young Licchavi from Vaiśālī, who rises to address the Blessed One before an assembly of monks and bodhisattvas. The sūtra thus unfolds as a teaching delivered in response to a question or entreaty from this bodhisattva, centering on the significance and invocation of ten buddhas.",
+  "pdf": "files/toh272.pdf",
+  "txt": "files/toh272.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-23"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 273,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Mahāyāna Sūtra Called 'The Twelve Buddhas'",
+  "sanskrit": "Ārya-dvādaśabuddhi-ka-nāma-mahāyāna-sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Praise of the Buddha",
+   "Devotional"
+  ],
+  "explainer": "Toh 273 in the Kangyur is a Mahāyāna sūtra known in English as \"The Twelve Buddhas,\" in Sanskrit as the Ārya-dvādaśabuddhika-nāma-mahāyāna-sūtra, and in Tibetan as Pakpa Sangye Chunyi Shyewa Zhejawa Tekpa Chenpo'i Do. It belongs to the general class of Mahāyāna sūtras and takes the form of a teaching delivered by the Buddha on Vulture Peak Mountain at Rājagṛha, addressed to the bodhisattva Maitreya, in which the Buddha describes buddha-fields and the buddhas presiding over them in the eastern direction and beyond. The text was translated into Tibetan by the great editor-translator, the monk Yeshé Dé, together with the Indian scholar Varma and others.",
+  "pdf": "files/toh273.pdf",
+  "txt": "files/toh273.txt",
+  "link84000": "",
+  "date": "2026-06-23"
  },
  {
   "corpus": "kangyur",
   "toh": 274,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of the crown ornament of the buddhas",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Crown of the Buddhas: A Great Mahāyāna Sūtra, a Great Dharma Teaching",
+  "sanskrit": "Ārya Buddhamakuṭa Nāma Mahāyāna Sūtra Mahādharmaparyāya",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Devotional",
+   "Praise of the Buddha"
+  ],
+  "explainer": "The Noble Crown of the Buddhas, known in Sanskrit as the Ārya Buddhamakuṭa Nāma Mahāyāna Sūtra and in Tibetan as Pakpa Sangyé Tsukgyen Zhéjawa Tekpa Chenpo'i Do, is a Mahāyāna sūtra belonging to the great class of Dharma teachings. The text opens in the classic sūtra style, with the Buddha residing on Vulture Peak Mountain at Rājagṛha in the company of a vast assembly of monks, bodhisattvas such as Maitreya and Mañjuśrī, and multitudes of gods, nāgas, yakṣas, and other beings. It is catalogued as Toh 274 in the Kangyur, the collection of canonical texts attributed to the Buddha himself. The translation was carried out by the Indian preceptors Jinamitra and Dānaśīla together with the great Tibetan editor-translator, the monk Ye shes sde, who also revised and finalized the text.",
+  "pdf": "files/toh274.pdf",
+  "txt": "files/toh274.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-23"
  },
  {
   "corpus": "kangyur",
   "toh": 275,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra on buddhahood",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Mahāyāna Sūtra Called 'The Ground of the Buddhas'",
+  "sanskrit": "Ārya-buddhabūmi-nāma-mahāyāna-sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 275 in the Kangyur is a Mahāyāna sūtra known in English as \"The Ground of the Buddhas,\" in Sanskrit as the Ārya-buddhabūmi-nāma-mahāyāna-sūtra, and in Tibetan as Phags pa sangs rgyas kyi sa zhes bya ba theg pa chen po'i mdo. It belongs to the general class of Mahāyāna sūtras and concerns the exalted domain or ground of a fully awakened buddha — the qualities, purified consciousness, and transcendent abode that characterize buddhahood itself. The text opens with the Buddha dwelling in a resplendent palace blazing with the seven precious substances, radiating light throughout immeasurable world-systems, and proceeds to describe the nature of that ground as utterly pure, sovereign awareness completely beyond the three realms. As one of the shorter but doctrinally significant sūtras in the Kangyur, it provided foundational material for later scholastic treatises on the attributes of buddhahood, most notably the Buddhabūmisūtra-śāstra tradition.",
+  "pdf": "files/toh275.pdf",
+  "txt": "files/toh275.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-23"
  },
  {
   "corpus": "kangyur",
@@ -4331,16 +4401,20 @@
   "corpus": "kangyur",
   "toh": 277,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of the eight mandalas",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Sūtra of the Great Vehicle Called the Eight Maṇḍalas",
+  "sanskrit": "Ārya-aṣṭa-maṇḍalakaṃ nāma mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Ritual",
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 277 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Ārya-aṣṭa-maṇḍalakaṃ nāma mahāyānasūtra and in Tibetan as Pakpa Kyil Khor Gyé pa Shyejawa Tekpa Chenpo'i Do, rendered in English as The Noble Sūtra of the Great Vehicle called The Eight Maṇḍalas. The text belongs to the sūtra class of canonical Buddhist scripture and opens in the customary manner, with the Buddha residing at Śrāvastī in the Jeta Grove, attended by a large assembly of monks and an extensive gathering of bodhisattvas. As its title suggests, the sūtra centers on the subject of maṇḍalas — sacred ritual or contemplative circles — treated within a Mahāyāna doctrinal framework. It was translated into Tibetan by Jñānasena and his collaborators, then edited and finalized in accordance with standard translation conventions of the period.",
+  "pdf": "files/toh277.pdf",
+  "txt": "files/toh277.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-23"
  },
  {
   "corpus": "kangyur",
@@ -4361,16 +4435,20 @@
   "corpus": "kangyur",
   "toh": 279,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Being mindful of the buddha",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Recollection of the Buddha",
+  "sanskrit": "Ārya-buddha-anusmṛti",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Devotional",
+   "Praise of the Buddha",
+   "Meditation"
+  ],
+  "explainer": "The Noble Recollection of the Buddha, known in Sanskrit as the Ārya-buddha-anusmṛti and in Tibetan as Pakpa Sangyé Drénpa, is a short devotional text belonging to the broader tradition of buddhānusmṛti, or mindful recollection of the Buddha's qualities. It enumerates the sublime attributes of the buddhas and serves as a support for contemplative practice centered on calling the Buddha to mind. The text is Toh 279 in the Kangyur, where it belongs to the general class of dhāraṇī and ritual texts, and it was translated from Sanskrit into Tibetan by the Indian preceptor Surendrabodhi together with the great editor-translator the monk Yeshé Dé.",
+  "pdf": "files/toh279.pdf",
+  "txt": "files/toh279.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-23"
  },
  {
   "corpus": "kangyur",
