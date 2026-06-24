@@ -4454,31 +4454,39 @@
   "corpus": "kangyur",
   "toh": 280,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Being mindful of the dharma",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Recollection of the Dharma",
+  "sanskrit": "Dharmānusmṛti",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Devotional",
+   "Praise of the Buddha",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 280 in the Kangyur is a short liturgical text known in Sanskrit as the Dharma-anusmṛti and in Tibetan as Chos rjes su dran pa, meaning \"Recollection of the Dharma\" in English. It belongs to the traditional series of recollection practices — anusmṛti — in which the practitioner meditates upon and praises the qualities of the Three Jewels, and this particular text is devoted to extolling the virtues of the Dharma as proclaimed by the buddhas. The text describes the sublime Dharma as well proclaimed, wholesome throughout, perfectly pure, and directly knowable by the wise, drawing on formulations found widely across Buddhist tradition. As the opening lines indicate, it follows immediately after the Recollection of the Buddhas in the canonical sequence, situating it within a broader collection of devotional recollection texts in the Kangyur.",
+  "pdf": "files/toh280.pdf",
+  "txt": "files/toh280.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-24"
  },
  {
   "corpus": "kangyur",
   "toh": 281,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Being mindful of the community",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Recollection of the Saṅgha",
+  "sanskrit": "Saṅghānusmṛti",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Devotional",
+   "Prose",
+   "Praise of the Buddha"
+  ],
+  "explainer": "Toh 281 in the Kangyur is a short liturgical text known in Sanskrit as the Saṅghānusmṛti and in Tibetan as Dge 'dun rjes su dran pa, meaning \"Recollection of the Saṅgha.\" It belongs to a traditional set of devotional recollections — which also include the recollection of the Buddha and the Dharma — and enumerates the noble qualities of the ārya saṅgha, praising the community of noble practitioners as having entered the path well, rightly, harmoniously, and straightforwardly, and as being supremely worthy of homage, reverence, and generosity. As a brief praise and recollection text, it functions both as a devotional practice and as a concise doctrinal statement of what makes the saṅgha a refuge and a field of merit. It is classified among the sūtra-related works of the Kangyur and would traditionally be recited alongside its companion recollection texts as part of foundational Buddhist practice.",
+  "pdf": "files/toh281.pdf",
+  "txt": "files/toh281.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-24"
  },
  {
   "corpus": "kangyur",
@@ -4514,16 +4522,20 @@
   "corpus": "kangyur",
   "toh": 284,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of the three heaps",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra Entitled 'The Three Aggregates'",
+  "sanskrit": "Āryatriskandhaka-nāma-mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Ethics",
+   "Devotional"
+  ],
+  "explainer": "Toh 284 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Āryatriskandhaka-nāma-mahāyānasūtra and in Tibetan as the Phung po gsum pa, meaning \"The Three Aggregates\" or, as an alternate rendering suggests, \"The Three Bodies.\" It is a relatively concise scripture in which the Buddha, dwelling at the Dharma-grove hermitage, sets forth a practice centered on paying homage to the buddhas of past, present, and future, confessing misdeeds, and rejoicing in virtue — the three \"aggregates\" or collections of meritorious action that give the text its name. The sūtra is notable for its devotional orientation and its vision of the buddhas as endowed with boundless wisdom, the dharmakāya, and the dharmadhātu. It belongs to the general sūtra section of the Kangyur and has been widely used in Tibetan Buddhism as a liturgical confession and purification text.",
+  "pdf": "files/toh284.pdf",
+  "txt": "files/toh284.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-24"
  },
  {
   "corpus": "kangyur",
@@ -4589,46 +4601,58 @@
   "corpus": "kangyur",
   "toh": 289,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The great sutra of bimbisaras going out to meet the buddha",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Great Sūtra Called the Reception by Bimbisāra of Solid Form",
+  "sanskrit": "Piṃpisāra Pratyungamanaṃ Nāma Mahāsūtram",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Prose",
+   "Biography"
+  ],
+  "explainer": "The Great Sūtra Called the Reception by Bimbisāra, known in Sanskrit as the Pimpisāra Pratyungamana Mahāsūtra and in Tibetan as Mdo chen po gzugs can snying pos bsu ba, is a canonical Buddhist sūtra recounting the famous meeting between the Buddha and King Bimbisāra of Magadha. The text opens with the Buddha travelling through Magadha accompanied by a great assembly of a thousand monks — all former matted-hair ascetics and accomplished arhats — as he makes his way toward the bamboo grove of Supratișṭhita, setting the scene for the royal reception that gives the sūtra its name. This narrative belongs to a well-known episode in early Buddhist literature in which the king, having previously pledged to welcome the Buddha upon his attainment of awakening, fulfills that vow. It is Toh 289 in the Kangyur, catalogued among the general sūtras of the canon.",
+  "pdf": "files/toh289.pdf",
+  "txt": "files/toh289.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-24"
  },
  {
   "corpus": "kangyur",
   "toh": 290,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The great sutra on emptiness",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Great Sūtra Called Emptiness",
+  "sanskrit": "Śūnyatā-nāma-mahāsūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Philosophical",
+   "Meditation",
+   "Prose"
+  ],
+  "explainer": "Toh 290 in the Kangyur is a sūtra known in English as The Great Sūtra Called Emptiness, in Sanskrit as the Śūnyatā-nāma-mahāsūtra, and in Tibetan as Mdo chen po stong pa nyid ces bya ba. It belongs to the general class of Mahāyāna sūtras and takes as its central concern the Buddha's direct teaching on emptiness, presented through a dialogue between the Buddha and his attendant Ānanda at the Eastern Park in Śrāvastī. The exchange is prompted by Ānanda's recollection of a statement the Buddha had once made among the Śākyas — that he dwells repeatedly in emptiness — and his wish to understand its deeper meaning. As a \"great sūtra\" dedicated entirely to this theme, the text offers a sustained and focused exposition of emptiness as a meditative reality and a fundamental characteristic of experience.",
+  "pdf": "files/toh290.pdf",
+  "txt": "files/toh290.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-24"
  },
  {
   "corpus": "kangyur",
   "toh": 291,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The great sutra on great emptiness",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Great Sūtra Called Great Emptiness",
+  "sanskrit": "Mahāśūnyatā-nāma-mahāsūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Doctrinal",
+   "Philosophical"
+  ],
+  "explainer": "Toh 291 in the Kangyur is a Buddhist sūtra known in Sanskrit as the Mahāśūnyatā-nāma-mahāsūtra and in Tibetan as the Mdo chen po stong pa nyid chen po zhes bya ba, rendered in English as \"The Great Sūtra Called Great Emptiness.\" As its title suggests, this is a Mahāyāna sūtra concerned with the theme of great emptiness, one of the profound philosophical pillars of Buddhist thought. The text opens with the Buddha residing at Kapilavāstu, the city associated with his own Śākyan clan, where he goes on an alms round before making his way to a Śākyan temple, setting the stage for the teachings that follow. It belongs to the sūtra division of the Kangyur, the collection of texts attributed to the word of the Buddha himself.",
+  "pdf": "files/toh291.pdf",
+  "txt": "files/toh291.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-24"
  },
  {
   "corpus": "kangyur",
@@ -4664,46 +4688,57 @@
   "corpus": "kangyur",
   "toh": 294,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The great sutra on the five and three views",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Great Sūtra Called The Five-and-Three",
+  "sanskrit": "Pañcatriyānāma Mahāsūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "The Great Sūtra Called The Five-and-Three, known in Sanskrit as the Pañcatriyanāma Mahāsūtra and in Tibetan as Mdo chen po lnga gsum pa zhes bya ba, is a Buddhist sūtra in which the Buddha addresses a gathering of monks at Śrāvastī, in the Jeta Grove. The text concerns the various metaphysical positions held by ascetics and brahmins regarding perception, non-perception, annihilation, and liberation, systematically examining the views through which such thinkers make declarations about existence and the self. Its title appears to reflect a structural arrangement of five and three categories that organize the discourse. It is Toh 294 in the Kangyur, belonging to the general class of sūtra literature.",
+  "pdf": "files/toh294.pdf",
+  "txt": "files/toh294.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-24"
  },
  {
   "corpus": "kangyur",
   "toh": 295,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of throwing stones",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Sūtra of the Hurled Stone",
+  "sanskrit": "Ārya-śilākṣipta-sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Prose"
+  ],
+  "explainer": "Toh 295 in the Kangyur is a sūtra known in Sanskrit as the Ārya-śilākṣipta-sūtra and in Tibetan as the Phags pa rdo 'phangs pa'i mdo, rendered into English as The Noble Sūtra of the Hurled Stone. It belongs to the general class of canonical sūtra literature and recounts an episode in which the Buddha, wandering through the territory of the Mallas and resting in a dense grove of sal trees, instructs the Venerable Ānanda to accompany him toward the city of Kuśa. The narrative unfolds against the backdrop of a large assembly of Malla warriors gathered in council, suggesting the text is concerned with teachings or events arising from this dramatic social and political setting. As a canonical sūtra attributed to the direct speech of the Buddha, it is preserved among the sūtra collections of the Kangyur.",
+  "pdf": "files/toh295.pdf",
+  "txt": "files/toh295.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-24"
  },
  {
   "corpus": "kangyur",
   "toh": 296,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra on examples of youth",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Sūtra of the Youth Similes",
+  "sanskrit": "Kumāradṛṣṭānta Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Prose",
+   "Doctrinal"
+  ],
+  "explainer": "The Sūtra of the Youth Similes, known in Sanskrit as the Kumāradṛṣṭānta Sūtra and in Tibetan as the Gzhon nu dpe'i mdo, is a discourse in which the Buddha responds to the skepticism of King Prasenajit of Kosala, who doubts that so young a teacher could have attained the highest awakening. The Buddha addresses this doubt through a series of similes illustrating that youth is no barrier to greatness or danger, gently but firmly establishing the authenticity of his enlightenment in dialogue with the king at Jeta Grove in Śrāvastī. It belongs to the sūtra literature of the Kangyur and is classified as Toh 296, placed among the individual discourses that make up the general collection of canonical teachings attributed directly to the Buddha.",
+  "pdf": "files/toh296.pdf",
+  "txt": "files/toh296.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-24"
  },
  {
   "corpus": "kangyur",
@@ -4814,16 +4849,20 @@
   "corpus": "kangyur",
   "toh": 304,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra examining the virtuous and nonvirtuous effects of the collection of five downfalls",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Sūtra Examining the Virtuous and Non-Virtuous Results of the Five Classes of Transgressions",
+  "sanskrit": "Pañcapātanikāyaśubhāśubhaphalapārīkṣāsūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Ethics",
+   "Doctrinal"
+  ],
+  "explainer": "The Sūtra Examining the Virtuous and Non-Virtuous Results of the Five Classes of Transgressions, known in Sanskrit as the Pañcapātanikāyaśubhāśubhaphalapārīkṣāsūtra and in Tibetan as the Ltung ba sde lnga'i dge ba dang mi dge ba'i 'bras bu brtag pa'i mdo, is a canonical Buddhist sūtra in which the Buddha, speaking to an assembly of monks at Śrāvastī, examines the karmic fruits — virtuous and non-virtuous — associated with the five classes of transgressions recognized in Buddhist ethical and vinaya thought. The text proceeds by elaborating the cosmological framework of divine realms and their lifespans, situating the consequences of moral conduct within a vast vision of cyclic existence. It is Toh 304 in the Kangyur, belonging to the general category of sūtra literature.",
+  "pdf": "files/toh304.pdf",
+  "txt": "files/toh304.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-24"
  },
  {
   "corpus": "kangyur",
@@ -4844,16 +4883,20 @@
   "corpus": "kangyur",
   "toh": 306,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Teaching the practice of austerities from the path of liberation",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Exposition of the Qualities Refined through the Path of Liberation",
+  "sanskrit": "Vimuktamārgadhutaguṇanirdeśa",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Meditation",
+   "Ethics",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 306 in the Kangyur is a sūtra known in Sanskrit as the Vimuktamārgadhutaguṇanirdeśa and in Tibetan as the Exposition of the Qualities Refined through the Path of Liberation. It is a discourse on the ascetic or \"dhūta\" qualities — a set of refined spiritual practices cultivated through disciplined renunciation — presented as essential virtues for yogic practitioners who aspire to liberation through perfectly pure moral conduct. The text enumerates qualities such as few desires, contentment, modest requisites, diligent effort, and the thorough cutting off of attachment, framing these as the foundation for guarding and deepening ethical practice. It belongs to the sūtra division of the Kangyur and opens with a homage to Mañjuśrī, suggesting a connection to that bodhisattva's association with wisdom and spiritual instruction.",
+  "pdf": "files/toh306.pdf",
+  "txt": "files/toh306.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-06-24"
  },
  {
   "corpus": "kangyur",
@@ -4929,6 +4972,24 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh311",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 312,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Great Sūtra of Entering the Noble City of Vaiśālī",
+  "sanskrit": "Ārya Vaiśālī Praveśa Mahāsūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Prose"
+  ],
+  "explainer": "Toh 312 in the Kangyur is a large sūtra known in English as The Great Sūtra of Entering the Noble City of Vaiśālī, in Sanskrit as the Ārya Vaiśālī Praveśa Mahāsūtra, and in Tibetan as Phags pa yangs pa'i grong khyer du 'jug pa'i mdo chen po. It belongs to the general class of Mahāyāna sūtras and recounts teachings given by the Buddha as he journeyed to and dwelt in the celebrated city of Vaiśālī, a place of great significance in early Buddhist history, arriving at the mango grove of Ambapālī in the company of his attendant Ānanda. The text opens with the Buddha setting out from a resting place among the reeds of a marsh, suggesting a narrative connected to the final period of his life and perhaps to events associated with his last testament. As part of the Kangyur, it preserves canonical teachings attributed directly to the Buddha and transmitted through the traditional formula of dependent witnessing.",
+  "pdf": "files/toh312.pdf",
+  "txt": "files/toh312.txt",
+  "link84000": "",
+  "date": "2026-06-24"
  },
  {
   "corpus": "kangyur",
