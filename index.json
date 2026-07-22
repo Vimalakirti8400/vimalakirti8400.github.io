@@ -8020,46 +8020,58 @@
   "corpus": "kangyur",
   "toh": 485,
   "suffix": "",
-  "state": "awaiting",
-  "title": "A portion of the practice of the sovereign tantra purifying evil destinies",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "A One-Sided Examination of the King of Radiance, the Tathāgata, Arhat, Perfectly Awakened Buddha Who Thoroughly Purifies All the Lower Realms",
+  "sanskrit": "Sarvadurgatipariśodhana Tejorājasya Tathāgatasyārhate Samyaksaṃbuddhasya Kalvikadeśanā",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Doctrinal",
+   "Mantra"
+  ],
+  "explainer": "\"A One-Sided Examination of the King of Radiance, the Tathāgata Who Thoroughly Purifies All the Lower Realms\" is a canonical Buddhist sūtra known in Sanskrit as the Sarvaduṛgatipariśodhana Tejorarāja and in Tibetan as Dེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ངན་སོང་ཐམས་ཅད་ཡོངས་སུ་སྦྱོང་བ་གཟི་བརྗིད་ཀྱི་རྒྱལ་པོའི་བརྟག་པ་ཕྱོགས་གཅིག་པ. The text belongs to the tradition of purification literature, centering on the luminous buddha figure known as the King of Radiance, whose enlightened qualities are celebrated for their power to cleanse beings of the sufferings associated with lower rebirths. Presented in the classical sūtra format — opening with the Buddha dwelling in a resplendent celestial grove filled with jeweled trees and many varieties of sacred flowers — the text unfolds as a discourse attributed directly to Śākyamuni Buddha. It is Toh 485 in the Kangyur, belonging to the general class of dhāraṇī-related or ritual purification sūtras within the Tibetan Buddhist canon.",
+  "pdf": "files/toh485.pdf",
+  "txt": "files/toh485.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-07-22"
  },
  {
   "corpus": "kangyur",
   "toh": 486,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The tantra summarizing consecration",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Tantra That is a Condensed Summary of the Rite of Consecration",
+  "sanskrit": "Supratiṣṭhātantrasaṃgraha",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Meditation",
+   "Root text"
+  ],
+  "explainer": "The Tantra That is a Condensed Summary of the Rite of Consecration, known in Sanskrit as the Supratiṣṭhātantrasaṃgraha and in Tibetan as Rab tu gnas pa mdor bsdus pa'i rgyud, is a tantric text concerned with the proper performance of consecration rites for sacred images, whether cast, painted, or sculpted in relief. It opens in the manner of a Buddha-word teaching, with the Blessed One entering a specific meditative absorption before expounding the requirements for both the officiant and the sacred object — covering the master's qualifications, the correct proportions and marks of images, and the associated mudrās, mantras, and ritual procedures. The text is presented in a mixture of prose and verse, giving it a character typical of condensed liturgical or ritual manuals within the tantric tradition. It is Toh 486 in the Kangyur, where it belongs among the tantric scriptures, and its homage to Vajrasattva situates it within the broader Vajrayāna ritual literature concerned with the empowerment and activation of devotional supports.",
+  "pdf": "files/toh486.pdf",
+  "txt": "files/toh486.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-07-22"
  },
  {
   "corpus": "kangyur",
   "toh": 487,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The supreme",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Glorious Primordial: The King of Conceptual Elaboration of the Great Vehicle",
+  "sanskrit": "Śrī Paramādi Nāma Mahāyāna Kalārāja",
+  "category": "Tantra",
+  "tags": [
+   "Doctrinal",
+   "Philosophical",
+   "Root text"
+  ],
+  "explainer": "Toh 487 in the Kangyur is a Mahāyāna tantric text known in Sanskrit as the Śrī Paramādi Nāma Mahāyāna Kalārāja and in Tibetan as Dpal Mchog Dang Po, rendered in English as The Glorious Primordial, with the fuller title The King of Conceptual Elaboration of the Great Vehicle. It belongs to the tantric division of the Kangyur and is associated with the Perfection of Wisdom, as indicated by its opening homage to the Blessed Lady Prajñāpāramitā. The text unfolds in the classic sūtra style of \"Thus did I hear,\" presenting the Buddha as a supremely empowered figure endowed with the vajra blessing of all the Tathāgatas, sovereign over the three realms, and master of all mudrās and wisdoms. As a tantra concerned with the gnosis, samayas, and yogic realization connected to Prajñāpāramitā, it represents a distinctive meeting point between the Perfection of Wisdom literature and Mahāyāna tantric practice.",
+  "pdf": "files/toh487.pdf",
+  "txt": "files/toh487.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-07-22"
  },
  {
   "corpus": "kangyur",
@@ -8090,6 +8102,25 @@
   "txt": "",
   "link84000": "",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 491,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Mahāyāna Sūtra Called 'The Twenty-Five Gates of the Perfection of Wisdom'",
+  "sanskrit": "Ārya-pañcaviṃśatika-prajñāpāramitā-mukha-nāma-mahāyāna-sūtra",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Prose",
+   "Doctrinal",
+   "Philosophical"
+  ],
+  "explainer": "\"The Twenty-Five Gates of the Perfection of Wisdom,\" known in Sanskrit as the Ārya-pañcaviṃśatika-prajñāpāramitā-mukha and in Tibetan as Shes rab kyi pha rol tu phyin pa'i sgo nyi shu rtsa lnga pa, is a Mahāyāna sūtra belonging to the Perfection of Wisdom family of texts. It presents the Buddha's teaching on prajñāpāramitā — the transcendent wisdom that lies at the heart of the bodhisattva path — organized around twenty-five distinctive \"gates\" or approaches to that wisdom. The text opens with the Buddha dwelling on the peak of Mount Meru amid an immense assembly of bodhisattvas and a vast array of divine and non-human beings, establishing a suitably cosmic setting for the discourse that follows. It is Toh 491 in the Kangyur, catalogued among the Perfection of Wisdom sūtras of that collection.",
+  "pdf": "files/toh491.pdf",
+  "txt": "files/toh491.txt",
+  "link84000": "",
+  "date": "2026-07-22"
  },
  {
   "corpus": "kangyur",
