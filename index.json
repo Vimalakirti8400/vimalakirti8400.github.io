@@ -8126,31 +8126,39 @@
   "corpus": "kangyur",
   "toh": 492,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The tantra of the array of secret ornaments",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Tantra King Called the Ornamental Array of Secrets of Body, Speech, and Mind of All the Tathāgatas",
+  "sanskrit": "Sarvatathāgatakāyavākcittaguhyālaṃkāravyūhatantrarājanāma",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 492 in the Kangyur is a tantric scripture known in English as The Tantra King Called the Ornamental Array of Secrets of Body, Speech, and Mind of All the Tathāgatas, and in Sanskrit as the Sarva-tathāgata-kāya-vāk-citta-guhyālaṃkāra-vyūha-tantra-rāja, with its Tibetan title rendered as De bzhin gshegs pa thams cad kyi sku dang gsung dang thugs kyi gsang ba rgyan gyi bkod pa zhes bya ba'i rgyud kyi rgyal po. It belongs to the class of tantra texts within the Kangyur and is concerned with the esoteric dimensions of the body, speech, and mind of all the buddhas, expounded through the rich symbolic language of vajra-wisdom, great mudrās, empowerments, and meditative absorptions. The text opens in the classic sūtra-style frame of \"thus did I hear,\" situating the teaching with the Blessed One at its center, surrounded by an elaborate assembly invoked through the intertwined themes of vajra-wisdom and the three secrets common to Vajrayāna discourse. Its translator's homage to both the guru and Mañjuśrī at the outset reflects the standard Tibetan transmission conventions for tantric works of this kind.",
+  "pdf": "files/toh492.pdf",
+  "txt": "files/toh492.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-07-23"
  },
  {
   "corpus": "kangyur",
   "toh": 493,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of the secret jewel ornament",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Sūtra Called the Secret Jewel-Dot",
+  "sanskrit": "Āryaguhyamaṇitilakā nāma sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 493 in the Kangyur is a sūtra known in Sanskrit as the Āryaguhyamaṇitilakā and in Tibetan as the Phags pa gsang ba nor bu thig le, rendered in English as the Noble Sūtra Called the Secret Jewel-Dot. It belongs to the tantric-inflected sūtra literature of the Kangyur, situated among texts with a strongly Vajrayāna character, and opens with an elaborate description of the Buddha Vairocana enthroned in his role as the Dharma King of the three realms, invested with the samaya-wisdom and mudrās of all Tathāgatas. The text's imagery of vajra consecration, crown empowerment, and the boundless compassion of the All-Illuminating one places it squarely within the esoteric doctrinal world shared by Mahāyāna and Vajrayāna traditions. As Toh 493 in the Kangyur, it is preserved as part of the canonical scriptural heritage transmitted into Tibetan Buddhism.",
+  "pdf": "files/toh493.pdf",
+  "txt": "files/toh493.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-07-23"
  },
  {
   "corpus": "kangyur",
@@ -8199,6 +8207,25 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 497,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of the Eight Noble Goddesses",
+  "sanskrit": "Ārya Aṣṭa Devī Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "The Dhāraṇī of the Eight Noble Goddesses, known in Sanskrit as the Ārya Aṣṭa Devī Dhāraṇī and in Tibetan as Phakpa Lhamo Gyé kyi Zung, is a short dhāraṇī text belonging to the broader category of dhāraṇī and mantra literature within the Kangyur. The text centers on a powerful dhāraṇī presented as the speech of Vajrapāṇi, who proclaims it as the supreme mantra of the Mother of the Tathāgatas — a figure praised for her capacity to purify misdeeds, pacify illness, destroy obstacles, and bestow all forms of excellence. The dhāraṇī itself takes the form of a ritual mantra invocation addressed to the eight noble goddesses associated with these protective and purifying functions. It is Toh 497 in the Kangyur, catalogued among the dhāraṇī collections of that canon.",
+  "pdf": "files/toh497.pdf",
+  "txt": "files/toh497.txt",
+  "link84000": "",
+  "date": "2026-07-23"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 498,
   "suffix": "",
   "state": "at84000",
@@ -8216,46 +8243,57 @@
   "corpus": "kangyur",
   "toh": 499,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The tantra of blueclad vajrapani vajrapatala",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Vajrapāṇi, Wearer of the Dark Blue Garment, Vajrapātāla Tantra",
+  "sanskrit": "Ārya-Vajrapāṇi-nīlāmbara-dhara-vajrapātāla-nāma-tantra",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 499 in the Kangyur is a Buddhist tantra known in Sanskrit as the Ārya-Vajrapāṇi-nīlāmbara-dhara-vajrapātāla-nāma-tantra and in Tibetan as \"The Tantra Called 'The Noble Vajrapāṇi, Wearer of the Dark Blue Garment, Vajrapātāla.'\" It is a Vajrayāna tantric text centered on the bodhisattva Vajrapāṇi, the powerful wielder of the thunderbolt who serves as a protector of the Buddhist teachings, and its narrative unfolds in the underground realm of the nāga kings, where the Buddha transmits esoteric instructions. The text belongs to the tantra section of the Kangyur and was translated into Tibetan by the Kashmiri paṇḍita Tselu together with the Tibetan translator known as the noble Śerab. The opening of the surviving Tibetan text begins at what is labeled the thirteenth chapter, suggesting this may be a partial or later portion of a larger tantric cycle.",
+  "pdf": "files/toh499.pdf",
+  "txt": "files/toh499.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-07-23"
  },
  {
   "corpus": "kangyur",
   "toh": 500,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Moving through the three vajra levels a sovereign practice",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The King of Ritual Manuals Called 'Traversing the Three by Vajra'",
+  "sanskrit": "Vajrabhūmitricaraṇarājakalpa nāma",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Root text"
+  ],
+  "explainer": "Toh 500 in the Kangyur is a tantric ritual text known in English as \"The King of Ritual Manuals Called 'Traversing the Three by Vajra,'\" corresponding to the Sanskrit Vajrabhūmitricaraṇarājakalpa and the Tibetan Rdo rjes gsum du rgyu ba zhes bya ba'i rtog pa'i rgyal po. It belongs to the class of kalpa or ritual manual literature associated with Vajrayāna practice, concerning the use of deity, mantra, and meditative practice as a path in which conceptuality is overcome through conceptuality itself, ultimately leading to the peace of the wrathful deity realization. The text is presented as a teaching proclaimed by the Lord of Secrets in connection with Śākyamuni of the wrathful family, and it includes detailed instructions on the formation of seed syllables and their embellishments, situating it firmly within the esoteric tantric corpus of the Kangyur.",
+  "pdf": "files/toh500.pdf",
+  "txt": "files/toh500.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-07-23"
  },
  {
   "corpus": "kangyur",
   "toh": 501,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Blueclad vajrapani a tantra to tame the three worlds",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Tantra Called 'Vajrapāṇi Wearing the Blue Garment: Taming the Three Worlds'",
+  "sanskrit": "Ārya-Vajrapāṇi-nīlāmbara-dhara-triloka-vinaya-nāma-tantra",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Noble Tantra Called \"Vajrapāṇi Wearing the Blue Garment: Taming the Three Worlds\" is a Buddhist tantric scripture known in Sanskrit as the Ārya-Vajrapāṇi-nīlāmbara-dhara-triloka-vinaya-nāma-tantra and in Tibetan as the Pakpa Chakna Dorje Gö Ngönpo Chen Zhéja Jigtén Sum Dulwé Gyü. It belongs to the class of tantric texts and concerns the bodhisattva Vajrapāṇi, the powerful wielder of the thunderbolt, who here appears in his blue-garmented form as a master capable of taming the three worlds of gods, humans, and other beings. The text opens with the Buddha dwelling in a celestial palace to the north of Mount Meru, where he enters a samādhi called \"Taming the Three Worlds\" and emanates rays of three-colored light from the maṇḍala at his heart, addressing an immeasurable assembly with words of reassurance. This text is Toh 501 in the Kangyur, catalogued among the tantric scriptures of the Tibetan Buddhist canon.",
+  "pdf": "files/toh501.pdf",
+  "txt": "files/toh501.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-07-23"
  },
  {
   "corpus": "kangyur",
@@ -8316,6 +8354,25 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh505",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 507,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Dhāraṇī Sūtra of the Casket of the Secret Relics, the Heart of the Blessing of All the Tathāgatas",
+  "sanskrit": "Ārya-sarva-tathāgata-adhiṣṭhāna-hṛdaya-guhya-dhātu-karaṇḍa-nāma-dhāraṇī-mahāyāna-sūtra",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 507 in the Kangyur is a Mahāyāna dhāraṇī sūtra known in English as \"The Great Vehicle Dhāraṇī Sūtra of the Noble Casket of the Secret Relics, the Heart of the Blessing of All the Tathāgatas,\" in Sanskrit as the Ārya-sarva-tathāgata-adhiṣṭhāna-hṛdaya-guhya-dhātu-karaṇḍa-nāma-dhāraṇī-mahāyāna-sūtra, and in Tibetan as Phags pa de bzhin gshegs pa thams cad kyi byin gyi rlabs kyi snying po gsang ba'i ring bsrel za ma tog ces bya ba theg pa chen po'i mdo. The text belongs to the dhāraṇī sūtra genre, presenting sacred syllables and ritual instructions centered on the power of the relics and blessings of all the tathāgatas — a subject with strong connections to stūpa veneration and the consecration of reliquary objects. The sūtra opens with the Buddha residing in Magadha, surrounded by a vast assembly of bodhisattvas, śrāvakas, and an array of divine and semi-divine beings, establishing the classic setting for the revelation of a teaching of far-reaching spiritual efficacy.",
+  "pdf": "files/toh507.pdf",
+  "txt": "files/toh507.txt",
+  "link84000": "",
+  "date": "2026-07-23"
  },
  {
   "corpus": "kangyur",
