@@ -8378,16 +8378,131 @@
   "corpus": "kangyur",
   "toh": 508,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Incantation of the hundred thousand ornaments of the essence of awakening",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called 'The Hundred Thousand Ornaments of the Seat of Awakening'",
+  "sanskrit": "Bodhimaṇḍasya Yakṣālāṅgāra Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 508 in the Kangyur is a dhāraṇī text known in Sanskrit as the Bodhimaṇḍasya Yakṣālāṅgāra Nāma Dhāraṇī and in Tibetan as the dhāraṇī called \"The Hundred Thousand Ornaments of the Seat of Awakening.\" As its title suggests, the text belongs to the dhāraṇī literature of the Kangyur, a genre devoted to sacred ritual formulas believed to confer protection and spiritual benefit, and its content centers on a dhāraṇī associated with the seat or place of enlightenment. The text is set in the familiar sūtra frame of the Buddha teaching at Vārāṇasī in the presence of a great assembly of monks and bodhisattvas, lending it the authority of a direct discourse of the Blessed One. It was translated into Tibetan by the translator Tsang Devendrarakṣita and is preserved among the dhāraṇī collections of the Kangyur.",
+  "pdf": "files/toh508.pdf",
+  "txt": "files/toh508.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-07-24"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 509,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of a Hundred Thousand Ornaments of the Essence of Enlightenment",
+  "sanskrit": "Bodhigarbhālaṃkāralakṣadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 509 in the Kangyur is a dhāraṇī text known in Sanskrit as the Bodhigarbhālaṃkāralakṣadhāraṇī and in Tibetan as the Byaṅ chub kyi snyiṅ po'i rgyan 'bum gyi gzuṅs, rendered in English as the Dhāraṇī of the Ornament of a Hundred Thousand Essences of Awakening. It belongs to the dhāraṇī section of the Kangyur and consists primarily of a ritual dhāraṇī formula — a string of sacred syllables and invocations addressed to the buddhas and bodhisattvas, including Śākyamuni — intended to concentrate and transmit the spiritual essence of awakening. According to a note preserved in the text itself, this collection appears to have been extracted from a larger source and was written out separately only because the earlier portions of that source were temporarily unavailable. As a dhāraṇī text, it exemplifies the class of canonical works that distill vast stores of merit and wisdom into consecrated verbal formulas for recitation and practice.",
+  "pdf": "files/toh509.pdf",
+  "txt": "files/toh509.txt",
+  "link84000": "",
+  "date": "2026-07-24"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 510,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'The Radiance of the Pure, Stainless Ray of Light'",
+  "sanskrit": "Ārya-raśmi-vimala-viśuddha-prabhā-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 510 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-raśmi-vimala-viśuddha-prabhā-nāma-dhāraṇī and in Tibetan as Pakpa Özer Drima Mepa Nampar Dakpé Ö, meaning \"The Noble Dhāraṇī Called 'The Radiance of the Pure, Stainless Ray of Light.'\" It belongs to the dhāraṇī section of the Kangyur and presents a sacred incantation concerned with the power of pure, radiant light, framed within a discourse delivered by the Buddha at the great city of Kapilavastu before an assembly of monks, bodhisattvas, and a host of divine and semi-divine beings. The text opens by noting that it was extracted from a larger work, the Bodhyagryābharaṇaśatasāhasra, suggesting it originally formed part of a much more extensive collection. The gathering of prominent bodhisattvas such as Avalokiteśvara, Mañjuśrī, Vajrapāṇi, and Maitreya points to the Mahāyāna character of the text, situating it within the broader tradition of dhāraṇī literature aimed at invoking protective and purifying spiritual power.",
+  "pdf": "files/toh510.pdf",
+  "txt": "files/toh510.txt",
+  "link84000": "",
+  "date": "2026-07-24"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 511,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Sūtra of the Great Vehicle Called 'The Twelve Buddhas'",
+  "sanskrit": "Ārya-dvādaśabuddha-nāma-mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Praise of the Buddha",
+   "Devotional"
+  ],
+  "explainer": "The Noble Sūtra of the Great Vehicle Called \"The Twelve Buddhas,\" known in Sanskrit as the Ārya-dvādaśabuddha-nāma-mahāyānasūtra and in Tibetan as Pakpa Sangye Chunyipa Zhejawa Tekpa Chenpo'i Do, is a Mahāyāna sūtra in which the Buddha, dwelling on Vulture Peak Mountain near Rājagṛha, addresses the bodhisattva Maitreya and reveals the existence of twelve buddhas presiding over distant buddha-fields in the eastern direction. The text belongs to the genre of buddhānusmṛti, or recollection of the buddhas, presenting the names and qualities of these awakened beings as objects of devotion and aspiration. It is Toh 511 in the Kangyur, catalogued among the general sūtra collections of the Mahāyāna section of the Tibetan Buddhist canon.",
+  "pdf": "files/toh511.pdf",
+  "txt": "files/toh511.txt",
+  "link84000": "",
+  "date": "2026-07-24"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 512,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Sūtra of the Great Vehicle called The Seven Buddhas",
+  "sanskrit": "Ārya Sapta Buddhaka nāma Mahāyāna Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Praise of the Buddha",
+   "Doctrinal"
+  ],
+  "explainer": "The Seven Buddhas, known in Sanskrit as the Ārya Sapta Buddhaka Nāma Mahāyāna Sūtra and in Tibetan as Phags pa sangs rgyas bdun pa zhes bya ba theg pa chen po'i mdo, is a Mahāyāna sūtra that recounts a teaching delivered by the Blessed One at the summit of Mount Tise, in the presence of a great assembly of monks and bodhisattvas including Maitreya, Ākāśagarbha, and Samantabhadra. As its title indicates, the text concerns the seven buddhas, a traditional grouping of awakened beings that spans the distant past to the historical Buddha Śākyamuni, and it belongs to the devotional and narrative dimension of Mahāyāna literature. It is Toh 512 in the Kangyur, catalogued among the general sūtra collections of that canon.",
+  "pdf": "files/toh512.pdf",
+  "txt": "files/toh512.txt",
+  "link84000": "",
+  "date": "2026-07-24"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 513,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'Endowed with the Limbs of All Buddhas'",
+  "sanskrit": "Ārya-sarvabuddhāṅgavatī-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 513 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-sarvabuddhāṅgavatī-nāma-dhāraṇī and in Tibetan as the Phakpa Sangye Tamché Kyi Yenlak Dangdenpa Zhejawa'i Zung, rendered in English as \"The Noble Dhāraṇī Called Endowed with the Limbs of All Buddhas.\" It belongs to the dhāraṇī section of the Kangyur, a class of texts centered on sacred ritual formulas believed to confer protection and spiritual benefit. The text opens with the Buddha addressing the four guardian kings on the banks of the Gaṅgā River, teaching that human beings face four great fears — old age, sickness, decline, and death — with the fear of death being the most fearsome and inescapable of all. Against these terrors, the dhāraṇī is presented as a powerful means of protection and liberation, embodying the qualities of all buddhas.",
+  "pdf": "files/toh513.pdf",
+  "txt": "files/toh513.txt",
+  "link84000": "",
+  "date": "2026-07-24"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 514,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dharma Categories of the Dhāraṇī Called 'The Noble Heart of the Buddha'",
+  "sanskrit": "Ārya-buddha-hṛdaya-nāma-dhāraṇī-dharma-viparyāya",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Doctrinal",
+   "Mantra"
+  ],
+  "explainer": "Toh 514 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-buddha-hṛdaya-nāma-dhāraṇī-dharma-viparyāya and in Tibetan as the Phakpa Sangyé kyi Nyingpo zhé byawé Zung kyi Chö kyi Namgrang, rendered into English as \"The Dharma Categories of the Dhāraṇī Called 'The Noble Heart of the Buddha.'\" As its title indicates, the text belongs to the dhāraṇī literature of the Kangyur, presenting a classification or enumeration of Dharma teachings organized around a sacred dhāraṇī associated with the heart or essence of the Buddha. The work opens in the familiar sūtra style, with the Buddha present in a wondrous assembly of vast numbers of bodhisattvas at an extraordinary sacred site, suggesting that the dhāraṇī and its accompanying doctrinal categories are revealed within a visionary and ceremonially elevated setting. Sitting among the dhāraṇī collections of the Kangyur, this text reflects the broader tradition of canonical works that combine liturgical or mantra-based practice with systematic Dharma exposition.",
+  "pdf": "files/toh514.pdf",
+  "txt": "files/toh514.txt",
+  "link84000": "",
+  "date": "2026-07-24"
  },
  {
   "corpus": "kangyur",
