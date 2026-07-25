@@ -8506,6 +8506,138 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 515,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Heart of the Buddha: A Named Dhāraṇī",
+  "sanskrit": "Ārya-buddha-hṛdaya-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "Toh 515 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-buddha-hṛdaya-nāma-dhāraṇī and in Tibetan as Pakpa Sangyé Kyi Nyingpo Shéja Wé Zung, meaning \"The Noble Heart of the Buddha.\" As its name suggests, it belongs to the dhāraṇī class of canonical literature, presenting a sacred formula and its associated teaching within a narrative frame in which the Buddha addresses an assembly of gods of the Pure Abodes. The text opens with the Buddha prophesying a future Tathāgata's teaching of the Dharma, situating the dhāraṇī within a broader vision of ongoing Buddhist transmission across time. It is preserved in the Kangyur in a version that was revised and definitively established through the correction of newly emerged terminology, indicating a careful editorial history in the Tibetan transmission.",
+  "pdf": "files/toh515.pdf",
+  "txt": "files/toh515.txt",
+  "link84000": "",
+  "date": "2026-07-25"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 516,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called 'The Noble Heap of Flowers'",
+  "sanskrit": "Āryapuṣpakūṭa nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "The dhāraṇī known in Sanskrit as the Āryapuṣpakūṭa nāma dhāraṇī and in Tibetan as \"The Noble Heap of Flowers\" is a dhāraṇī scripture belonging to the Kangyur, catalogued as Toh 516. As a dhāraṇī text, it presents a sacred formula of spiritual power set within a narrative frame in which the Buddha teaches at the great lake Anavatapta, in the palace of the nāga king Anavatapta, before a vast assembly of monks and highly advanced bodhisattvas. The text belongs to the dhāraṇī section of the Kangyur, a class of works that transmit mantra-based practices associated with protection, purification, and spiritual attainment. It was translated into Tibetan by the monk and great editor-translator Yeshé Dé in collaboration with the Indian scholar Dānaśīla, and was subsequently revised and finalized in accordance with the standardized Tibetan terminology established during the imperial period of translation.",
+  "pdf": "files/toh516.pdf",
+  "txt": "files/toh516.txt",
+  "link84000": "",
+  "date": "2026-07-25"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 517,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'The Stainless One'",
+  "sanskrit": "Ārya Vimala nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 517 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya Vimala nāma dhāraṇī and in Tibetan as \"The Stainless One\" (Phags pa dri ma med pa zhes bya ba'i gzungs), belonging to the broader collection of noble dhāraṇīs. The text records a teaching delivered by the Buddha at Vulture Peak Mountain near Rājagṛha, addressed to the bodhisattva Viśuddhamati, and concerns the complete purity of the Tathāgata as expressed through moral discipline, meditative absorption, patience, and related virtues. As a dhāraṇī sūtra, it combines doctrinal exposition on the qualities of buddhahood with the sacred formulaic character typical of this genre of canonical literature. It is preserved in the Kangyur alongside a preceding dhāraṇī text known as the \"Stack of Flowers,\" with which it shares a colophon, situating it within the dhāraṇī section of the collection.",
+  "pdf": "files/toh517.pdf",
+  "txt": "files/toh517.txt",
+  "link84000": "",
+  "date": "2026-07-25"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 518,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'Sandalwood Limb'",
+  "sanskrit": "Ārya-candanāṅgā-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 518 in the Kangyur is a dhāraṇī text known in English as \"The Noble Sandalwood Limb,\" in Sanskrit as the Ārya-candanāṅgā-nāma-dhāraṇī, and in Tibetan as Pakpa Tsendan Yangkyi Zhukpa Shyejawa'i Zungwa. It belongs to the dhāraṇī section of the Kangyur, a class of texts centered on the preservation and recitation of sacred ritual formulas believed to confer protection and spiritual benefit. The text opens with a standard sūtra framing, presenting the Buddha dwelling at Rājagṛha amid a vast assembly of monks, bodhisattvas, and gods, before addressing the bodhisattva Avalokiteśvara, suggesting the dhāraṇī is closely associated with this bodhisattva's compassionate activity. The text was translated into Tibetan by the monk Yeshé Dé and subsequently revised in accordance with the standardized imperial terminology established during Tibet's early translation period.",
+  "pdf": "files/toh518.pdf",
+  "txt": "files/toh518.txt",
+  "link84000": "",
+  "date": "2026-07-25"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 519,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī of the Rite of the Heart of Dependent Origination",
+  "sanskrit": "Āryapratītyasamutpādahṛdayavidhidhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 519 in the Kangyur is a dhāraṇī text known in Sanskrit as the Āryapratītyasamutpādahṛdayavidhidhāraṇī and in Tibetan as the Noble Dhāraṇī of the Rite of the Heart of Dependent Origination. It belongs to the dhāraṇī class of canonical literature and centers on a sacred formula rooted in the doctrine of dependent origination, accompanied by the ritual instructions for its recitation and application for the benefit of sentient beings. The text opens with the celebrated verse summarizing the Buddha's teaching on causally arisen phenomena, situating the dhāraṇī firmly within the framework of this foundational Buddhist teaching. It was translated from Sanskrit into Tibetan by the Indian preceptors Jinamitra and Dānaśīla together with the great editor-translator, the monk Ye shes sde, and was subsequently revised in accordance with the standardized new terminology of the imperial translation period.",
+  "pdf": "files/toh519.pdf",
+  "txt": "files/toh519.txt",
+  "link84000": "",
+  "date": "2026-07-25"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 520,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Sūtra of the Great Vehicle Called Dependent Origination",
+  "sanskrit": "Āryapratītyasamutpāda nāma mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Doctrinal",
+   "Philosophical"
+  ],
+  "explainer": "Toh 520 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Āryapratītyasamutpāda nāma mahāyānasūtra and in Tibetan as the Phags pa rten cing 'brel bar 'byung ba zhes bya ba theg pa chen po'i mdo, rendered in English as The Noble Sūtra of the Great Vehicle Called Dependent Origination. The text belongs to the sūtra section of the Kangyur and takes as its central subject the doctrine of dependent origination, one of the most foundational teachings in Buddhist thought, which describes how all phenomena arise in dependence upon causes and conditions. The sūtra opens with the Buddha dwelling in the realm of the Thirty-Three Gods in the company of a vast assembly of śrāvakas, bodhisattvas, and divine beings including Maitreya, Avalokiteśvara, Vajrapāṇi, Brahmā, and Śakra, suggesting a setting of great cosmic significance befitting its profound doctrinal content. As a Mahāyāna sūtra, it frames the teaching on dependent origination within the broader perspective of the bodhisattva path and the liberation of all beings.",
+  "pdf": "files/toh520.pdf",
+  "txt": "files/toh520.txt",
+  "link84000": "",
+  "date": "2026-07-25"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 521,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Heart of Noble Dependent Origination",
+  "sanskrit": "Ārya Pratītyasamutpāda Hṛdaya Nāma",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Verse",
+   "Doctrinal",
+   "Philosophical"
+  ],
+  "explainer": "The Heart of Noble Dependent Origination, known in Sanskrit as the Ārya Pratītyasamutpāda Hṛdaya and in Tibetan as Phags pa rten cing 'brel par 'byung ba'i snying po, is a brief Mahāyāna sūtra centered on the doctrine of dependent origination, one of the Buddha's most fundamental teachings. The text presents the celebrated verse — \"Those phenomena that arise from causes, their causes, and the cessation of those causes: thus has the Tathāgata declared\" — which encapsulates the entire teaching of conditioned arising and is traditionally considered a potent distillation of the Dharma. Alongside the verse in both translation and original Sanskrit, the text attributes great purificatory and protective power to its recitation, positioning it as a kind of dhāraṇī-like heart essence. It is Toh 521 in the Kangyur, classified among the Mahāyāna sūtras.",
+  "pdf": "files/toh521.pdf",
+  "txt": "files/toh521.txt",
+  "link84000": "",
+  "date": "2026-07-25"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 543,
   "suffix": "",
   "state": "at84000",
