@@ -8761,6 +8761,134 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 529,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Dhāraṇī",
+  "sanskrit": "Āryamahādhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "The Noble Great Dhāraṇī, known in Sanskrit as the Āryamahādhāraṇī and in Tibetan as Pakpa Zungchenpo, is a dhāraṇī text presenting a powerful ritual formula taught by the Buddha to his disciple Ānanda. Set in the Jeta Grove at Śrāvastī, the text opens with Ānanda visiting the Buddha after completing a rains retreat, establishing a narrative frame for the transmission of this sacred dhāraṇī. As a dhāraṇī scripture, it belongs to a class of texts concerned with the recitation and protective efficacy of condensed, mantra-like formulas regarded as embodiments of the Buddha's teaching. It is catalogued as Toh 529 in the Kangyur, the Tibetan canon of translated Buddhist scriptures.",
+  "pdf": "files/toh529.pdf",
+  "txt": "files/toh529.txt",
+  "link84000": "",
+  "date": "2026-07-27"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 530,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Perfection of Wisdom in Few Syllables",
+  "sanskrit": "Āryasvalpākṣaraprajñāpāramitā nāma mahāyānasūtra",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Doctrinal",
+   "Mantra"
+  ],
+  "explainer": "Toh 530 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Āryasvalpākṣaraprajñāpāramitā and in Tibetan as the Noble Perfection of Wisdom in Few Syllables. As its name suggests, it belongs to the Prajñāpāramitā, or Perfection of Wisdom, family of texts — scriptures concerned with the nature of emptiness and transcendent wisdom — and takes the compact form of a dhāraṇī, a condensed sacred formula embodying that wisdom. The text is set at Vulture Peak Mountain near Rājagṛha, where the Buddha addresses a vast assembly of monks, bodhisattvas, and gods, a classic framing shared with many sūtras of this genre. It was translated from Sanskrit into Tibetan by the Indian preceptors Jinamitra and Dānaśīla together with the renowned Tibetan editor-translator Yeshé Dé, and was subsequently revised in accordance with the standardized later translation conventions.",
+  "pdf": "files/toh530.pdf",
+  "txt": "files/toh530.txt",
+  "link84000": "",
+  "date": "2026-07-27"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 531,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Heart of the Blessed Lady, the Perfection of Wisdom",
+  "sanskrit": "Bhagavatīprajñāpāramitāhṛdaya",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Meditation",
+   "Mantra",
+   "Root text"
+  ],
+  "explainer": "Toh 531 in the Kangyur is the Heart Sūtra, known in Sanskrit as the Bhagavatī Prajñāpāramitā Hṛdaya and in Tibetan as the Bcom ldan 'das ma shes rab kyi pha rol tu phyin pa'i snying po, meaning \"The Heart of the Blessed Lady, the Perfection of Wisdom.\" It is one of the most celebrated and widely recited texts in the entire Buddhist canon, belonging to the Perfection of Wisdom class of sūtras, and it distills the vast Prajñāpāramitā literature into a concise teaching on emptiness and the nature of the five aggregates. Set on Vulture Peak Mountain at Rājagṛha, the text unfolds as an exchange involving the bodhisattva Avalokiteśvara and the monk Śāriputra, arising through the Buddha's meditative power, and culminates in the famous proclamation that form is emptiness and emptiness is form. As Toh 531 in the Kangyur, it is classed among the Perfection of Wisdom sūtras and represents one of the shortest yet most doctrinally concentrated expressions of Mahāyāna Buddhist insight.",
+  "pdf": "files/toh531.pdf",
+  "txt": "files/toh531.txt",
+  "link84000": "",
+  "date": "2026-07-27"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 532,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Together with Mantras of the One Hundred and Eight Names of the Buddha, the Blessed One",
+  "sanskrit": "Buddha Bhagavān Aṣṭaśatanāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Praise of the Buddha",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 532 in the Kangyur is a dhāraṇī text known in Sanskrit as the Buddha Bhagavān Aṣṭaśatanāma Dhāraṇī and in Tibetan as Sangs rgyas bcom ldan 'das kyi mtshan brgya rtsa brgyad pa gzungs sngags dang bcas pa, rendered in English as \"The Dhāraṇī Together with Mantras of the One Hundred and Eight Names of the Buddha, the Blessed One.\" As its title indicates, the text belongs to the dhāraṇī genre and is devoted to enumerating one hundred and eight names and epithets of the Buddha, each reflecting an aspect of his enlightened qualities — his compassion, his physical majesty, his freedom from wrongdoing, and his perfection of wisdom — embedded within a framework of dhāraṇī and mantra recitation. Such name-dhāraṇī texts were widely used in Indian and Tibetan Buddhist practice as a means of generating merit, invoking the Buddha's blessings, and internalizing his qualities through liturgical recitation. It is classified among the dhāraṇī and mantra collections of the Kangyur, the Tibetan canon of translated Buddhist scriptures.",
+  "pdf": "files/toh532.pdf",
+  "txt": "files/toh532.txt",
+  "link84000": "",
+  "date": "2026-07-27"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 533,
+  "suffix": "",
+  "state": "translated",
+  "title": "The One Hundred and Eight Names of the Blessed One, Together with the Dhāraṇī Mantra",
+  "sanskrit": "Bhagavannāmāṣṭottaraśataka",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Praise of the Buddha",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 533 in the Kangyur is a short dhāraṇī text known in English as \"The One Hundred and Eight Names of the Blessed One, Together with the Dhāraṇī Mantra,\" dedicated to the Buddha Śākyamuni, whose name in Sanskrit is Śākyamuni and in Tibetan is ཤཱཀྱ་ཐུབ་པ. The text belongs to the dhāraṇī class of canonical literature, presenting a collection of one hundred and eight epithets of the Buddha alongside a concluding mantra — the well-known formula \"muṇi muṇi mahāmunaye svāhā\" — together with assurances of the vast merit to be gained through its recitation. Texts of this type serve both devotional and ritual purposes, offering practitioners a structured means of venerating the Buddha through his names while invoking the protective and purifying power of the accompanying dhāraṇī. It sits within the Kangyur, the Tibetan canon of translated Buddha-word, as Toh 533, in the broader category of dhāraṇī and mantra literature.",
+  "pdf": "files/toh533.pdf",
+  "txt": "files/toh533.txt",
+  "link84000": "",
+  "date": "2026-07-27"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 534,
+  "suffix": "",
+  "state": "translated",
+  "title": "Toh 534 in the Kangyur is a short dhāraṇī text known in Tibetan as the Essence o",
+  "sanskrit": "",
+  "category": "Other",
+  "tags": [],
+  "explainer": "Toh 534 in the Kangyur is a short dhāraṇī text known in Tibetan as the Essence of the Noble Śākyamuni, corresponding to the Sanskrit designation Āryaśākyamunidhāraṇī, and it belongs to the broader category of dhāraṇī literature within the canon. The text presents a concentrated ritual formula invoking the purifying power of the Buddha Śākyamuni alongside homages to the Tathāgata Vairocana and the bodhisattva Ākāśagarbha, promising that recitation of its mantra will cleanse even grave accumulations of non-virtuous deeds. It further assures practitioners of protection from physical dangers — weapons, fire, water, and poison — as well as from human adversaries such as kings and thieves. As a dhāraṇī sūtra, it exemplifies the genre of compact, apotropaic scripture found throughout the Kangyur's collection of protective and purificatory texts.",
+  "pdf": "files/toh534.pdf",
+  "txt": "files/toh534.txt",
+  "link84000": "",
+  "date": "2026-07-27"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 535,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Essence of the Noble Vairocana",
+  "sanskrit": "Ārya-Vairocana-hṛdaya",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 535 in the Kangyur is a dhāraṇī text known in Tibetan as \"Zla ba'i 'od\" and in Sanskrit as something approximating the Candraprabha, meaning \"Moonlight\" in English. It belongs to the class of dhāraṇī literature, short ritual and protective scripture collections that form part of the broader dhāraṇī section of the Kangyur, and it concerns the recitation of a sacred mantra formula invoking the Tathāgata Moonlight alongside blessings of the Three Jewels. The text promises that those who recite this dhāraṇī — particularly sons and daughters of good family who do so at dawn or by moonlight — will be protected from epidemic diseases, harmful influences, and contagious illnesses, and will attain the meditative absorption known as Stainless Light. It appears immediately following the closely related Essence of the Noble Vairocana dhāraṇī, suggesting these short protective texts were transmitted and preserved together as a cluster within the canon.",
+  "pdf": "files/toh535.pdf",
+  "txt": "files/toh535.txt",
+  "link84000": "",
+  "date": "2026-07-27"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 543,
   "suffix": "",
   "state": "at84000",
