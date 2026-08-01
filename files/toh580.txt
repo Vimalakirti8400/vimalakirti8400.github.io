@@ -1,0 +1,43 @@
+Toh 580 in the Kangyur is a short dhāraṇī text known in Tibetan as something clo
+
+Toh 580 in the Kangyur is a short dhāraṇī text known in Tibetan as something close to "The Essences of the Perfections," presenting a series of sacred mantra formulas — one for each of the six perfections, including generosity, moral discipline, patience, diligence, and the rest — paired with the assurance that merely hearing each formula once will cause one to attain that quality. The text belongs to the dhāraṇī section of the Kangyur, a broad category that gathers spells, incantations, and condensed ritual formulas drawn from the broader Mahāyāna tradition. Its structure is liturgical and mnemonic rather than discursive, making it representative of the practical, practice-oriented scriptural material preserved alongside the major sūtras and tantras. No distinct Sanskrit title is recoverable with certainty from the available source lines, though the mantras embedded in the text are clearly transliterated from Sanskrit originals.
+
+It is complete.
+
+Homage to the Three Jewels.
+
+The essence of generosity: hearing this even once, one will attain generosity.
+
+Oṃ namas tai bhagavati dānādhipataye svāhā.
+
+The essence of moral discipline: hearing this even once, one will attain moral discipline.
+
+Namaḥ sarva tathāgatānāṃ mahākānadamakānāṃ namo bhagavatyai śīlaparipūrṇaśarīyai śīlaṃ me sādhaya sādhaya kiṃ tiṣṭha saṃbuddho bhagavan dharmasya samājñānapayati svāhā.
+
+The essence of patience: hearing this even once, one will attain patience.
+
+Namaḥ sarva tathāgatāya acintya gocarya namo kṣāntiye bahubbhiḥ tathāgata nabhuta koṭibhī varibhū varatitayai rakṣaṃ kuru turu turu samaya manusmara Śākyamuni sarva tathāgatānāṃ aparimitājñānagocarojñānāpayati svāhā.
+
+The essence of diligence: hearing this even once, one will attain diligence.
+
+Namaḥ sarva tathāgatānāṃ macintyaviśāyanāṃ namo stute bhagavate vīryapāramiṭā vīrya kuru vīrye vīrye mahāvīrya tathāgata sarva jñānāpayati svāhā.
+
+The essence of meditative concentration: hearing this even once, one will attain meditative concentration.
+
+Namaḥ sarva tathāgatānāṃ oṃ vimale nirmale dhyāne dhyāne dhyānapriye hūṃ phaṭ.
+
+The essence of wisdom: hearing this even once, one will attain wisdom.
+
+Namaḥ sarva tathāgatāya apari —
+
+This concludes the translation. The following are translator's notes.
+
+The passage is a series of dhāraṇī formulas corresponding to the six perfections, each introduced by a Tibetan rubric stating that hearing the respective "essence" dhāraṇī even once confers the corresponding perfection. The Sanskrit dhāraṇīs are reproduced as phonetic transcriptions from the Tibetan transliteration and are rendered here in standard Roman script approximating the intended Sanskrit; the Tibetan phonetic spellings are imprecise in places, and some syllables may represent corruptions of the original Sanskrit that cannot be fully reconstructed with certainty. The text breaks off mid-sentence at the beginning of the wisdom dhāraṇī, indicating that this is a fragment and the passage continues beyond the excerpt provided.
+
+The following is a note about this translation.
+
+This is an AI-generated translation from the AI Stupa project. It was produced by a careful, doctrine-aware process aiming at a high degree of accuracy, but it has not been reviewed by a human translator and may contain errors. It is offered as a provisional translation for those texts of the Tibetan Buddhist canon that have not yet received an authoritative human translation. Where a published translation exists — above all from 84000: Translating the Words of the Buddha (84000.co) — that translation is definitive and should be preferred; please consult it instead. These translations are released into the public domain (CC0) in the spirit of spreading the Dharma to all corners of the earth.
+
+Just as the Bodhi tree now standing at Bodh Gayā neither is nor is not the same tree beneath which the Buddha attained awakening, so too this stupa is intended as the next generation of stupa — dependently arising according to the conditions of its environment, and ceaselessly proclaiming the Dharma for the benefit of all sentient beings.
+
+May whoever encounters these words derive great benefit.

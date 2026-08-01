@@ -9604,6 +9604,72 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 577,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of the Noble Perfection of Wisdom in Twenty-Five Thousand Verses",
+  "sanskrit": "Āryaprajñāpāramitā­pañcaviṃśatisāhasrikā­dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 577 in the Kangyur is a dhāraṇī text known in English as the Dhāraṇī of the Perfection of Wisdom in Twenty-Five Thousand Verses, with its Tibetan title rendered as Shes rab kyi pha rol tu phyin pa stong phrag nyi shu lnga pa'i gzungs, and its Sanskrit as Pañcaviṃśatisāhasrikā Prajñāpāramitā Dhāraṇī. It belongs to the Perfection of Wisdom class of texts within the Kangyur and takes the form of a concentrated dhāraṇī — a sacred formulaic incantation — that distills and invokes the power of the vast Perfection of Wisdom scripture in twenty-five thousand verses. The text opens with homage to the Blessed Lady, the Mother, the Perfection of Wisdom, and presents a dhāraṇī in Sanskrit syllables calling upon her qualities of wisdom, illumination, and knowledge, promising spiritual attainment to those who hold it. As a dhāraṇī associated with one of the great Prajñāpāramitā sūtras, it sits at the intersection of the wisdom and tantric ritual traditions preserved within the Kangyur.",
+  "pdf": "files/toh577.pdf",
+  "txt": "files/toh577.txt",
+  "link84000": "",
+  "date": "2026-08-01"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 578,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of the Noble Eight Thousand Verse Perfection of Wisdom",
+  "sanskrit": "Āryāṣṭasāhasrikāprajñāpāramitādhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "Toh 578 in the Kangyur is a dhāraṇī text known in Tibetan as \"Phags pa shes rab kyi pha rol tu phyin pa brgyad stong pa'i gzungs,\" which can be rendered in English as the Dhāraṇī of the Noble Eight Thousand Verse Perfection of Wisdom, with a Sanskrit title reconstructable as something like Aṣṭasāhasrikāprajñāpāramitādhāraṇī. It belongs to the Perfection of Wisdom class of texts within the Kangyur and takes the form of a condensed dhāraṇī, or sacred incantation, associated with the celebrated Eight Thousand Verse Perfection of Wisdom sūtra. The text presents a short mantra formula whose recitation and memorization are said to confer the merit of holding the full Perfection of Wisdom scripture, while also purifying karmic obscurations and averting misfortune. As the opening lines make clear, this dhāraṇī follows directly upon a companion dhāraṇī linked to the Twenty-Five Thousand Verse Perfection of Wisdom, suggesting it belongs to a series of such condensed protective formulas associated with the major Prajñāpāramitā scriptures.",
+  "pdf": "files/toh578.pdf",
+  "txt": "files/toh578.txt",
+  "link84000": "",
+  "date": "2026-08-01"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 579,
+  "suffix": "",
+  "state": "translated",
+  "title": "Toh 579 in the Kangyur is a dhāraṇī text known in Tibetan as Pha rol tu phyin pa",
+  "sanskrit": "",
+  "category": "Other",
+  "tags": [],
+  "explainer": "Toh 579 in the Kangyur is a dhāraṇī text known in Tibetan as Pha rol tu phyin pa drug gi snying po'i gzungs, which may be rendered in English as the Dhāraṇī of the Essence of the Six Perfections, with a likely Sanskrit title along the lines of Ṣaṭpāramitāhṛdayadhāraṇī. It belongs to the broader Perfection of Wisdom class of canonical literature and follows directly upon a dhāraṇī associated with the Perfection of Wisdom in Eight Thousand Lines, distilling the essence of all six perfections — generosity, ethical discipline, patience, diligence, meditative concentration, and wisdom — into a compact ritual formula. The text instructs that holding and continuously reciting this dhāraṇī enables the practitioner to grasp the meaning of all six perfections, realize the emptiness of all phenomena, and purify grave misdeeds including the five actions of immediate karmic retribution. As a dhāraṇī sūtra situated within the Kangyur's Perfection of Wisdom section, it represents a concise, mantrically oriented expression of prajñāpāramitā teaching intended for devotional and purificatory practice.",
+  "pdf": "files/toh579.pdf",
+  "txt": "files/toh579.txt",
+  "link84000": "",
+  "date": "2026-08-01"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 580,
+  "suffix": "",
+  "state": "translated",
+  "title": "Toh 580 in the Kangyur is a short dhāraṇī text known in Tibetan as something clo",
+  "sanskrit": "",
+  "category": "Other",
+  "tags": [],
+  "explainer": "Toh 580 in the Kangyur is a short dhāraṇī text known in Tibetan as something close to \"The Essences of the Perfections,\" presenting a series of sacred mantra formulas — one for each of the six perfections, including generosity, moral discipline, patience, diligence, and the rest — paired with the assurance that merely hearing each formula once will cause one to attain that quality. The text belongs to the dhāraṇī section of the Kangyur, a broad category that gathers spells, incantations, and condensed ritual formulas drawn from the broader Mahāyāna tradition. Its structure is liturgical and mnemonic rather than discursive, making it representative of the practical, practice-oriented scriptural material preserved alongside the major sūtras and tantras. No distinct Sanskrit title is recoverable with certainty from the available source lines, though the mantras embedded in the text are clearly transliterated from Sanskrit originals.",
+  "pdf": "files/toh580.pdf",
+  "txt": "files/toh580.txt",
+  "link84000": "",
+  "date": "2026-08-01"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 591,
   "suffix": "",
   "state": "at84000",
