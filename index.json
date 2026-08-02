@@ -9670,6 +9670,77 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 581,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Essence of the Ten Perfections",
+  "sanskrit": "Daśapāramitāhṛdaya",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 581 in the Kangyur is a short dhāraṇī text known in Tibetan as \"Pha rol tu phyin pa bcu'i snying po,\" which may be rendered in English as \"The Essence of the Ten Perfections,\" with its Sanskrit title reconstructable as something close to Daśapāramitāhṛdaya. It belongs to the dhāraṇī section of the Kangyur, a class of texts preserving sacred mantra formulas and their associated spiritual benefits. The text concludes a preceding dhāraṇī said to bring about the taking up of the six perfections, then opens a brief teaching on the essence of the ten perfections, promising remarkable merit to anyone who hears it even once. As is characteristic of this genre, the content blends Sanskrit dhāraṇī syllables with short doctrinal framing, situating the power of the formula within the Mahāyāna framework of the perfections.",
+  "pdf": "files/toh581.pdf",
+  "txt": "files/toh581.txt",
+  "link84000": "",
+  "date": "2026-08-02"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 582,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī for Attaining the Ten Perfections",
+  "sanskrit": "Daśapāramitāprāptadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "Toh 582 in the Kangyur is a dhāraṇī text known in Sanskrit as the Daśapāramitāpāripūrakā, or \"Dhāraṇī for Attaining the Ten Perfections,\" with a corresponding Tibetan title that can be rendered as Pha rol tu phyin pa bcu thob par 'gyur ba'i gzungs. It belongs to the broad class of dhāraṇī and mantra literature found within the Kangyur, presenting a series of short sacred formulas, each to be recited once in order to attain a specific spiritual quality. The text moves systematically through virtues such as loving-kindness, compassion, and joy, linking each to an invocation of all the tathāgatas, reflecting the Mahāyāna ideal of the ten perfections that a bodhisattva cultivates on the path to awakening. Though brief, it exemplifies the practical and devotional character of dhāraṇī collections, in which the recitation of consecrated syllables is understood to produce direct spiritual benefits for the practitioner.",
+  "pdf": "files/toh582.pdf",
+  "txt": "files/toh582.txt",
+  "link84000": "",
+  "date": "2026-08-02"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 583,
+  "suffix": "",
+  "state": "translated",
+  "title": "Toh 583 in the Kangyur is a dhāraṇī text associated with the Perfection of Wisdo",
+  "sanskrit": "",
+  "category": "Other",
+  "tags": [],
+  "explainer": "Toh 583 in the Kangyur is a dhāraṇī text associated with the Perfection of Wisdom, known in Tibetan as the Bhagavatī Prajñāpāramitā tradition. It belongs to the class of dhāraṇī or mantra literature within the Kangyur, presenting a series of sacred syllables and formulaic phrases intended to confer specific spiritual attainments upon the practitioner. The text opens with dhāraṇī formulations oriented toward the cultivation of the four immeasurables — loving-kindness, compassion, empathetic joy, and equanimity — and proceeds with homage to the Blessed Lady, the noble Perfection of Wisdom, situating it within the broader Prajñāpāramitā scriptural tradition. While precise Sanskrit and Tibetan title lines are not fully determinable from the available material, the text's content and framing place it firmly within the esoteric or dhāraṇī-bearing dimensions of Prajñāpāramitā literature preserved in the Kangyur.",
+  "pdf": "files/toh583.pdf",
+  "txt": "files/toh583.txt",
+  "link84000": "",
+  "date": "2026-08-02"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 584,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī for Holding the Perfection of Wisdom in One Hundred Thousand Verses",
+  "sanskrit": "Prajñāpāramitāśatasāhasrikādhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "Toh 584 in the Kangyur is a collection of dhāraṇī texts — short, potent ritual formulas — each associated with a major canonical scripture, promising the practitioner that by holding or reciting the formula they gain the full merit and blessings of engaging with the root text itself. In Sanskrit the genre is known as dhāraṇī, and in Tibetan as gzungs. The collection includes formulas linked to celebrated works such as the Perfection of Wisdom in One Hundred Thousand Verses and the Avataṃsaka Sūtra, among others, making it a kind of condensed gateway to several foundational Mahāyāna scriptures. Sitting within the dhāraṇī section of the Kangyur, the text belongs to the broad class of canonical dhāraṇī literature that was gathered and preserved alongside the sūtras and tantras of the Tibetan Buddhist canon.",
+  "pdf": "files/toh584.pdf",
+  "txt": "files/toh584.txt",
+  "link84000": "",
+  "date": "2026-08-02"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 591,
   "suffix": "",
   "state": "at84000",
