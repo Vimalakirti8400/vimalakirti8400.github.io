@@ -9741,6 +9741,76 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 585,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of the Array of Stalks Sūtra",
+  "sanskrit": "Gaṇḍavyūhadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "Toh 585 in the Kangyur is a short dhāraṇī text associated with the Gaṇḍavyūha, known in Sanskrit as the Gaṇḍavyūhadhāraṇī and in Tibetan in connection with the sūtra called Sdong po bkod pa, meaning the Array of Stalks. It belongs to the dhāraṇī section of the Kangyur, a class of texts preserving sacred syllables and mantra formulas held to carry concentrated spiritual power. This particular text consists of a brief mantra invocation addressed to the buddhas whose teaching is unobstructed, and it carries the remarkable claim that reciting or holding this dhāraṇī is equivalent to having perfectly read the entirety of the vast and celebrated Gaṇḍavyūha Sūtra, one of the great Mahāyāna scriptures describing the spiritual journey of the youth Sudhana. Its inclusion in the Kangyur reflects the tradition of condensing the merit of extensive canonical works into a single potent dhāraṇī formula.",
+  "pdf": "files/toh585.pdf",
+  "txt": "files/toh585.txt",
+  "link84000": "",
+  "date": "2026-08-03"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 586,
+  "suffix": "",
+  "state": "translated",
+  "title": "Toh 586 in the Kangyur is a dhāraṇī text known in Tibetan as the heart essence o",
+  "sanskrit": "",
+  "category": "Other",
+  "tags": [],
+  "explainer": "Toh 586 in the Kangyur is a dhāraṇī text known in Tibetan as the heart essence of the Gaṇḍavyūha Sūtra, corresponding to the Sanskrit title Gaṇḍavyūhahṛdaya, meaning \"The Heart of the Gaṇḍavyūha.\" It belongs to the dhāraṇī section of the Kangyur and distills the spiritual power of the celebrated Gaṇḍavyūha Sūtra — the magnificent concluding chapter of the Avataṃsaka Sūtra describing the bodhisattva Sudhana's pilgrimage — into a concentrated series of mantric formulas and sacred pledges. The text promises that one who holds this dhāraṇī will thereby come to hold the essence of great sūtras such as the Sūtra of the King of Meditative Absorption, and will gain knowledge of the maṇḍalas, samaya, and mudrās of both worldly and transcendent realms. As a dhāraṇī belonging to the broader Vajrayāna liturgical tradition, it exemplifies the canonical tendency to crystallize vast sūtra teachings into brief, potent formulas intended for recitation and ritual practice.",
+  "pdf": "files/toh586.pdf",
+  "txt": "files/toh586.txt",
+  "link84000": "",
+  "date": "2026-08-03"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 587,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Essence of the Noble Great Peacock",
+  "sanskrit": "Āryamahāmayūrī-hṛdaya",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "Toh 587 in the Kangyur is a brief dhāraṇī text known in Tibetan as \"Phags pa rma bya chen mo'i snying po,\" which translates into English as \"The Essence of the Noble Great Peacock,\" corresponding to the Sanskrit Mahāmāyūrī-hṛdaya. It belongs to the dhāraṇī section of the Kangyur, a class of texts preserving short, potent ritual formulae held to confer protection and spiritual benefit on those who memorize or recite them. This particular text presents the seed-essence or heart dhāraṇī of the Great Peacock, a celebrated protective deity associated with the longer Mahāmāyūrī dhāraṇī cycle, and its transmission here is immediately followed by the opening of a related text devoted to the great queen of wisdom Mahāpratisarā. The text is thus a concise liturgical formula rather than a discursive scripture, and its placement in the canon reflects the Kangyur's extensive collection of dhāraṇī and mantra literature.",
+  "pdf": "files/toh587.pdf",
+  "txt": "files/toh587.txt",
+  "link84000": "",
+  "date": "2026-08-03"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 589,
+  "suffix": "",
+  "state": "translated",
+  "title": "Mantra Syllables of the Noble Laṅkāvatāra Sūtra",
+  "sanskrit": "Āryalaṅkāvatārasūtradhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "Toh 589 in the Kangyur is a short dhāraṇī text associated with the Laṅkāvatāra Sūtra, known in Tibetan as Phags pa lang kar gshegs pa'i gzungs, and belonging to the broader class of dhāraṇī and mantra literature within the canon. The text presents a series of mantra syllables addressed to the bodhisattva Mahāmati, the principal interlocutor of the Laṅkāvatāra Sūtra, and promises powerful protection to any man or woman of noble lineage who holds, recites, or masters these syllables. It asserts that no deity, nāga, yakṣa, asura, garuḍa, or any other supernatural being will be able to find an opening or occasion to harm such a practitioner. Functioning as a protective spell closely linked to one of the great Mahāyāna sūtras, this brief text illustrates the important role that dhāraṇī formulas played in extending the spiritual and apotropaic power of canonical scripture into daily religious life.",
+  "pdf": "files/toh589.pdf",
+  "txt": "files/toh589.txt",
+  "link84000": "",
+  "date": "2026-08-03"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 591,
   "suffix": "",
   "state": "at84000",
