@@ -9977,6 +9977,82 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 600,
+  "suffix": "",
+  "state": "translated",
+  "title": "Blazing Crown Protrusion",
+  "sanskrit": "Uṣṇīṣavirocana",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "Toh 600 in the Kangyur is a short dhāraṇī text known in English as the Blazing Crown Protrusion, corresponding to the Sanskrit Uṣṇīṣavirocana and the Tibetan Gtsug tor 'bar ba. It belongs to the broader category of dhāraṇī and mantra literature, presenting a powerful incantation attributed to the assembly of all buddhas whose teaching cannot be obstructed, and which is said to accomplish a vast range of karmic purifications, auspicious aims, and the pacification of ill-omened dreams. The text opens with a homage to the Blazing Crown Protrusion and proceeds in verse to enumerate the mantra's extraordinary efficacy across thousands of actions and circumstances. It is classified among the dhāraṇī collections of the Kangyur, representing the widespread Indian tradition of condensing buddhadharma into potent ritual formulas for protection and benefit.",
+  "pdf": "files/toh600.pdf",
+  "txt": "files/toh600.txt",
+  "link84000": "",
+  "date": "2026-08-05"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 601,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called 'The Stūpa Accomplished by the Perfection of All Wisdom'",
+  "sanskrit": "Sarva-prajñānta-pāramitā-siddha-caitya-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 601 in the Kangyur is a dhāraṇī text known in Sanskrit as the Sarva-prajñānta-pāramitā-siddha-caitya-nāma-dhāraṇī and in Tibetan as the Dhāraṇī Called \"The Stūpa Accomplished by the Perfection of All Wisdom.\" As its titles suggest, it is a ritual and devotional text centered on a sacred dhāraṇī formula associated with the perfection of wisdom and the consecration or empowerment of a stūpa, promising to dispel evil and ill omens through its recitation. The text opens with homages to Vajrapāṇi, the buddhas of the three times, and key bodhisattvas including Akṣobhya, Amitābha, and Avalokiteśvara, situating it within a rich Vajrayāna devotional context. It belongs to the dhāraṇī section of the Kangyur, a broad category of texts preserving powerful sacred formulas accompanied by their ritual and narrative frameworks.",
+  "pdf": "files/toh601.pdf",
+  "txt": "files/toh601.txt",
+  "link84000": "",
+  "date": "2026-08-05"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 602,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of the Vimalā Uṣṇīṣa",
+  "sanskrit": "Vimalā Uṣṇīṣa Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Dhāraṇī of the Vimalā Uṣṇīṣa, known in Sanskrit as the Vimalā Uṣṇīṣa Dhāraṇī and in Tibetan as Bimalā Uṣṇīṣa'i gzungs, is a dhāraṇī text belonging to the broader category of incantation literature focused on the ritual construction and consecration of stūpas. It presents sacred mantras and accompanying ritual procedures for the planting of stūpas, explaining how even a single stūpa, when properly consecrated through the recitation of these dhāraṇīs over materials such as clay, can accrue merit equivalent to the construction of tens of millions of stūpas. The text belongs to the tradition of uṣṇīṣa dhāraṇīs, a family of texts concerned with the purifying and spiritually potent qualities associated with the crown protrusion of a buddha, and it promises that practitioners who engage correctly with its rites will ultimately attain full awakening. It is Toh 602 in the Kangyur, catalogued among the dhāraṇī and tantra-related works of that collection.",
+  "pdf": "files/toh602.pdf",
+  "txt": "files/toh602.txt",
+  "link84000": "",
+  "date": "2026-08-05"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 603,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called Supreme Compassion",
+  "sanskrit": "Karuṇāgra-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 603 in the Kangyur is a dhāraṇī text known in English as \"The Dhāraṇī Called Supreme Compassion,\" in Sanskrit as the Karuṇāgra-nāma-dhāraṇī, and in Tibetan as Snying rje mchog ces bya ba'i gzungs. It belongs to the class of dhāraṇī literature, presenting a sacred mantra together with its accompanying liturgical framework and the spiritual and healing benefits conferred by its recitation and ritual use. The text is devoted to Avalokiteśvara, the bodhisattva of compassion described as the Lotus-Bearer who rouses beings mired in suffering, and it promises benefits ranging from the recollection of past births to the curing of leprosy in all its forms. As a dhāraṇī sūtra, it sits within the broader collection of esoteric and quasi-esoteric scriptures preserved in the Kangyur, and it opens by paying homage to the omniscient one before proceeding to reveal what it calls the supreme secret mantra of the Tathāgata.",
+  "pdf": "files/toh603.pdf",
+  "txt": "files/toh603.txt",
+  "link84000": "",
+  "date": "2026-08-05"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 604,
   "suffix": "",
   "state": "awaiting",
