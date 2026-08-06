@@ -10068,6 +10068,81 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 605,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī of Vajrabhairava",
+  "sanskrit": "Ārya-vajra-bhairava-dhāraṇī-nāma",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Verse",
+   "Devotional",
+   "Mantra"
+  ],
+  "explainer": "Toh 605 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-vajra-bhairava-dhāraṇī and in Tibetan as Pakpa Dorje Jikjé kyi Zung, meaning \"The Noble Dhāraṇī of Vajrabhairava.\" It belongs to the genre of dhāraṇī literature, presenting a sequence of sacred syllables and mantra phrases associated with Vajrabhairava, a wrathful tantric deity whose name means \"Vajra Terrifier\" and who is regarded as a fierce manifestation of wisdom. The text opens with a hymnic homage to the buddhas and bodhisattvas before delivering the dhāraṇī itself, accompanied by teachings on the merits and protective benefits gained through its recitation. As a dhāraṇī sūtra connected to the tantric tradition, it is classified among the tantra-related works of the Kangyur.",
+  "pdf": "files/toh605.pdf",
+  "txt": "files/toh605.txt",
+  "link84000": "",
+  "date": "2026-08-06"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 606,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Staff Dhāraṇī",
+  "sanskrit": "Āryamahādaṇḍanāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Narrative",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 606 in the Kangyur is a dhāraṇī text known in English as \"The Noble Great Staff,\" in Sanskrit as the Āryamahādaṇḍanāmadhāraṇī, and in Tibetan as Phags pa be con chen po zhes bya ba'i gzungs. As a dhāraṇī sūtra, it belongs to the broader class of protective and ritual literature within the Buddhist canon, presenting a sacred formula endowed with apotropaic power. The text opens with a scene set on Vulture Peak Mountain at Rājagṛha, where the Buddha resides with a great assembly of monks, while the Venerable Rāhula finds himself in a charnel ground called the Cool Grove, surrounded by a vast array of spirits and supernatural beings. This setting establishes the context for the dhāraṇī's protective function, suggesting it was transmitted to guard against the many threatening forces enumerated at the text's opening.",
+  "pdf": "files/toh606.pdf",
+  "txt": "files/toh606.txt",
+  "link84000": "",
+  "date": "2026-08-06"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 607,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Invincible Precious Garland",
+  "sanskrit": "Ārya-ratnamālā-nāma-aparājita",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Devotional",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 607 in the Kangyur, known in Sanskrit as the Ārya-ratnamālā-nāma-aparājita and in Tibetan as the Phags pa gzhan gyis mi thub pa rin po che'i phreng ba, or in English as \"The Noble Invincible Precious Garland,\" is a dhāraṇī-related text belonging to the broader category of such works collected in the Kangyur. The text opens with an extensive series of homages addressed to the Three Jewels, vast numbers of buddhas and their assemblies, bodhisattvas, various grades of noble practitioners from stream-enterers to arhats, and a wide range of divine and supernatural beings including gods, nāgas, yakṣas, and gandharvas, suggesting its character as a liturgically rich protective or merit-generating scripture. Texts of this type typically present powerful formulas alongside invocations intended to confer invincibility or spiritual protection on those who recite or honor them. Its placement in the Kangyur situates it among the canonical scriptures regarded as the word of the Buddha transmitted into the Tibetan tradition.",
+  "pdf": "files/toh607.pdf",
+  "txt": "files/toh607.txt",
+  "link84000": "",
+  "date": "2026-08-06"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 608,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called the Purification of All Obstacles",
+  "sanskrit": "Ārya Sarva Antarāyika Viśodhanī Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 608 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya Sarva Antarāyika Viśodhanī Nāma Dhāraṇī and in Tibetan as the Phags pa bar du gcod pa thams cad rnam par sbyong ba zhes bya ba'i gzungs, meaning in English the Noble Dhāraṇī Called the Purification of All Obstacles. It belongs to the dhāraṇī section of the Kangyur and presents a sacred incantation concerned with the removal of all obstacles, including those arising from the approach of death and the exhaustion of one's karmic formations. The text is framed as a discourse delivered by the Buddha at Rājagṛha, prompted by the god Śakra, lord of the devas, who in fear of his impending death and transmigration seeks protection and guidance from the Blessed One. As a noble dhāraṇī sūtra, it combines the narrative conventions of canonical scripture with the conferral of a powerful protective formula intended to purify hindrances for those who receive and uphold it.",
+  "pdf": "files/toh608.pdf",
+  "txt": "files/toh608.txt",
+  "link84000": "",
+  "date": "2026-08-06"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 632,
   "suffix": "",
   "state": "awaiting",
