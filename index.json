@@ -10143,6 +10143,82 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 609,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'Granting Fearlessness to All'",
+  "sanskrit": "Ārya Sarva Abhaya Pradāna Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Narrative",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 609 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya Sarva Abhaya Pradāna Nāma Dhāraṇī and in Tibetan as Pakpa Tamché La Mi Jikpa Rabtujinpa Shyejawé Zung, meaning \"The Noble Dhāraṇī Called Granting Fearlessness to All.\" It belongs to the dhāraṇī section of the Kangyur and presents a protective incantation taught by the Buddha during a stay at Indra's Rock cave near the Mango Grove in Magadha. The occasion for the teaching arises when Śakra, lord of the gods, approaches the Buddha to seek relief from the harm and enmity caused by the asuras, suggesting that the dhāraṇī confers protection and freedom from fear upon all who encounter it. As its title indicates, the text's central concern is the bestowal of fearlessness, placing it among the many canonical dhāraṇī texts preserved in the Kangyur that serve both devotional and apotropaic purposes.",
+  "pdf": "files/toh609.pdf",
+  "txt": "files/toh609.txt",
+  "link84000": "",
+  "date": "2026-08-07"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 610,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble King of Vidyā Mantras of the Flying One",
+  "sanskrit": "Ārya Drāmiḍa Vidyārāja",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Narrative",
+   "Ritual"
+  ],
+  "explainer": "Toh 610 in the Kangyur is known in English as The Noble King of Vidyā Mantras of the Flying One, in Sanskrit as Ārya Drāmiḍa Vidyārāja, and in Tibetan as Phakpa Drolding Wé Riksngak Kyi Gyelpo. It is a dhāraṇī text — a short canonical scripture concerned with protective mantra practice — specifically addressing the averting of lightning through the propitiation of directional lightning-spirits. The Buddha delivers the teaching at Śrāvastī, instructing Ānanda in a set of formulas said to have been taught by all past fully perfect buddhas, naming the presiding spirits of each cardinal direction and prescribing means for their individual appeasement. As Toh 610 in the Kangyur, it belongs to the broad class of dhāraṇī and vidyā scriptures that form a substantial portion of that collection's protective and ritual literature.",
+  "pdf": "files/toh610.pdf",
+  "txt": "files/toh610.txt",
+  "link84000": "",
+  "date": "2026-08-07"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 611,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of the Second Verse",
+  "sanskrit": "Gāthā Dvitīya Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Verse",
+   "Devotional",
+   "Mantra"
+  ],
+  "explainer": "The Dhāraṇī of the Second Verse, known in Sanskrit as the Gāthā Dvitīya Dhāraṇī and in Tibetan as Tshigs su bcad pa gnyis pa'i gzungs, is a short dhāraṇī text belonging to the class of dhāraṇī and mantra literature within the Buddhist canon. It takes the form of a verse that identifies seven obscurations afflicting sentient beings — including contempt for the Buddha and Dharma, laziness, attachment, and indecision — and declares the supreme vehicle to be their antidote, before presenting a dhāraṇī formula intended to remove the faults of those who obstruct spiritual attainment. The text opens with a homage to Mañjuśrī and closes with praise for the merits of engaging with the dhāraṇī through either its words or its meaning. It is Toh 611 in the Kangyur, catalogued among the dhāraṇī collections of that canon.",
+  "pdf": "files/toh611.pdf",
+  "txt": "files/toh611.txt",
+  "link84000": "",
+  "date": "2026-08-07"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 612,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'The Armlet of the Victory Banner's Peak'",
+  "sanskrit": "Ārya-dhvajāgraKeyūra-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 612 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-dhvajāgraKeyūra-nāma-dhāraṇī and in Tibetan as Phags pa rgyal mtshan gyi rtse mo'i dpung rgyan ces bya ba'i gzungs, meaning \"The Noble Dhāraṇī Called The Armlet of the Victory Banner's Peak.\" It belongs to the dhāraṇī section of the Kangyur and presents a protective incantation set within a narrative frame in which Śakra, lord of the gods, has been defeated in battle by the asura lord Vemacitrin and seeks refuge with the Buddha in the realm of the Thirty-Three Gods. The text unfolds as a discourse in which the Buddha responds to Śakra's appeal by imparting the dhāraṇī, conveying its power to protect and bring victory to those who invoke it. As a dhāraṇī sūtra, it combines the narrative conventions of a canonical discourse with the ritual function of a sacred formula intended for recitation and protection.",
+  "pdf": "files/toh612.pdf",
+  "txt": "files/toh612.txt",
+  "link84000": "",
+  "date": "2026-08-07"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 632,
   "suffix": "",
   "state": "awaiting",
