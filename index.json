@@ -37,16 +37,20 @@
   "corpus": "kangyur",
   "toh": 3,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Detailed explanations of discipline",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Detailed Exposition of the Vinaya",
+  "sanskrit": "Vinayavibhaṅga",
+  "category": "Vinaya (Monastic Discipline)",
+  "tags": [
+   "Verse",
+   "Root text",
+   "Ethics"
+  ],
+  "explainer": "Toh 3 in the Kangyur is the Vinaya Vibhaṅga, known in Tibetan as Dulwa Rnampar Jepa (འདུལ་བ་རྣམ་པར་འབྱེད་པ), meaning \"The Detailed Exposition of the Vinaya.\" It is a foundational Vinaya text — one of the great disciplinary scriptures of the Buddhist canon — that provides a systematic, rule-by-rule analysis and explanation of monastic conduct, elaborating on the precepts governing the behavior of ordained monks and nuns. As its opening verse suggests, the text reveres the Buddha as the supreme lord of the Vinaya and situates the monastic code as the very root and cause of all Buddhist practice. Belonging to the Vinaya section of the Kangyur, it represents one of the most extensive and authoritative texts on monastic discipline preserved in the Tibetan canonical tradition.",
+  "pdf": "files/toh3.pdf",
+  "txt": "files/toh3.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-08"
  },
  {
   "corpus": "kangyur",
@@ -10216,6 +10220,82 @@
   "txt": "files/toh612.txt",
   "link84000": "",
   "date": "2026-08-07"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 613,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called 'The Noble Goddess Cuṇḍā'",
+  "sanskrit": "Āryā Cuṇḍā Devī Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Devotional",
+   "Mantra"
+  ],
+  "explainer": "The Dhāraṇī Called \"The Noble Goddess Cuṇḍā,\" known in Sanskrit as the Āryā Cuṇḍā Devī Nāma Dhāraṇī and in Tibetan as Phakpa Lhamo Kulgyedma Zhejawa'i Zung, is a short dhāraṇī text devoted to the bodhisattva goddess Cuṇḍā, a multi-armed emanation associated with purification, protection, and the swift removal of obstacles. The text consists primarily of homages and invocations addressed to Cuṇḍā, who is praised as a powerful wrathful deity wielding weapons such as a sword, axe, iron hook, and lasso, and who is extolled by all Tathāgatas for her immeasurable might and miraculous ability. It is catalogued as Toh 613 in the Kangyur, where it belongs to the dhāraṇī section of the canon, a class of texts that preserve sacred ritual formulas regarded as embodiments of enlightened speech and sources of spiritual protection and blessing.",
+  "pdf": "files/toh613.pdf",
+  "txt": "files/toh613.txt",
+  "link84000": "",
+  "date": "2026-08-08"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 614,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'Excellent Gate'",
+  "sanskrit": "Ārya-Sumukha-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 614 in the Kangyur is a dhāraṇī text known in English as \"The Noble Excellent Gate,\" corresponding to the Sanskrit Ārya-Sumukha-nāma-dhāraṇī and the Tibetan Phakpa Go Zangpo Zhejawa'i Zung. As a dhāraṇī scripture, it belongs to the broader class of mantra and incantation literature within the Kangyur, presenting a sacred formula along with its narrative and ritual context. The text opens in the classical sūtra style, with the Buddha dwelling at the great stūpa at the site of awakening, surrounded by a vast assembly of monks, great śrāvakas such as Śāradvatīputra and Mahāmaudgalyāyana, and an array of bodhisattvas including Vajrapāṇi, Vajradhvaja, Vajragarbha, and Maitreya. This setting among the bodhisattvas of the Fortunate Aeon suggests the text's Mahāyāna orientation, combining the authority of a buddha-word teaching with the protective and liberative power characteristic of the dhāraṇī genre.",
+  "pdf": "files/toh614.pdf",
+  "txt": "files/toh614.txt",
+  "link84000": "",
+  "date": "2026-08-08"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 615,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'Refuge for Many Children'",
+  "sanskrit": "Ārya-bahu-putra-pratisaraṇā-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 615 in the Kangyur is a dhāraṇī text known in English as \"Refuge for Many Children,\" in Sanskrit as the Ārya-bahu-putra-pratisaraṇā-nāma-dhāraṇī, and in Tibetan as the Phags pa bu mang po rton pa zhes bya ba'i gzungs. It belongs to the dhāraṇī section of the Kangyur, a class of texts centered on sacred formulae believed to confer protection and spiritual benefit. The text is framed as a discourse delivered by the Buddha at Śrāvastī, prompted by the householder Anāthapiṇḍada, who approaches the Blessed One seeking guidance after finding himself in a legal dispute with King Prasenajit. In response, the Buddha imparts a dhāraṇī whose title suggests it serves as a refuge or protection particularly in contexts involving children or dependents. The translation into Tibetan is attributed to the translator Bandé Yeshé Dé, whose work was later revised in accordance with updated terminological conventions.",
+  "pdf": "files/toh615.pdf",
+  "txt": "files/toh615.txt",
+  "link84000": "",
+  "date": "2026-08-08"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 616,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'The Seven Great Corpses That Rise'",
+  "sanskrit": "Ārya-Saptavetāḍaka-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 616 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-Saptavetāḍaka-nāma-dhāraṇī and in Tibetan as the Noble Dhāraṇī Called \"The Seven Great Corpses That Rise.\" As its name suggests, the text centers on a powerful dhāraṇī spoken by the Buddha in response to a dramatic incident in which rival ascetics sent seven animated corpses to attack him; unable to harm the Blessed One, the corpses instead overwhelmed his attendant Ānanda, prompting the Buddha to reveal the protective formula. The narrative is set on Vulture Peak Mountain near Rājagṛha and follows the familiar sūtra opening of Ānanda's testimony, placing this work within the broad tradition of dhāraṇī scriptures that emphasize the protective and apotropaic power of sacred speech. It belongs to the dhāraṇī section of the Kangyur, reflecting the canonical status accorded to such texts as authoritative word of the Buddha.",
+  "pdf": "files/toh616.pdf",
+  "txt": "files/toh616.txt",
+  "link84000": "",
+  "date": "2026-08-08"
  },
  {
   "corpus": "kangyur",
