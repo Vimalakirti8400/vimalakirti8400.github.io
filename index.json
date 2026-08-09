@@ -10299,6 +10299,81 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 617,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Sūtra Called 'The Auspicious Night'",
+  "sanskrit": "Ārya Bhadrarātrī Nāma Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Prose",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 617 in the Kangyur is a Buddhist sūtra known in Sanskrit as the Ārya Bhadrarātrī Nāma Sūtra and in Tibetan as the Phakpa Tsenmо Zangpo Zhéjawé Do, meaning \"The Noble Sūtra Called the Auspicious Night.\" It is a relatively brief canonical discourse belonging to the sūtra class of texts, in which the Buddha's teaching on the Auspicious Night is framed by an encounter between a monk seated by the Tapodā river at Rājagṛha and a radiant deity who appears in the deep of the night to question him about the sūtra. The text thus centers on the importance of knowing, reciting, and understanding this particular teaching, using the dramatic nighttime dialogue as a vehicle for conveying the sūtra's content and merit. It was translated into Tibetan and definitively edited by the great translator Yeshé Dé.",
+  "pdf": "files/toh617.pdf",
+  "txt": "files/toh617.txt",
+  "link84000": "",
+  "date": "2026-08-09"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 618,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Sūtra Called 'The Seizure of Radiance Reversed'",
+  "sanskrit": "Ārya Ojahpratyaṅgiraṇī Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Narrative",
+   "Ritual"
+  ],
+  "explainer": "Toh 618 in the Kangyur is a short canonical sūtra known in Sanskrit as the Ārya Ojahpratyaṅgiraṇī Sūtra and in Tibetan as the Phags pa mdangs phyir 'phrog pa, meaning \"The Noble Sūtra Called The Seizure of Radiance Reversed.\" It belongs to the class of dhāraṇī or vidyā-mantra texts, presenting a protective formula spoken directly by the Buddha to his attendant Ānanda at Śrāvastī. The text's central concern is the preservation and restoration of personal radiance or vital luster, promising that whoever upholds, recites, or masters this vidyā mantra will be shielded from having their radiance seized, and will have it restored even if it has already been taken. As a brief sūtra of this protective and apotropaic character, it sits within the broader collection of dhāraṇī texts found in the Kangyur.",
+  "pdf": "files/toh618.pdf",
+  "txt": "files/toh618.txt",
+  "link84000": "",
+  "date": "2026-08-09"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 619,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Vidyā Mantra Called the Purification of the Eyes",
+  "sanskrit": "Ārya Cakṣur Viśodhani Nāma Vidyāmantra",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Narrative"
+  ],
+  "explainer": "Toh 619 in the Kangyur is a vidyā mantra text known in Sanskrit as the Ārya Cakṣur Viśodhani Nāma Vidyāmantra and in Tibetan as the Phakpa Mik Nampar Jongwa Shyejawé Rik Ngak, rendered into English as the Noble Vidyā Mantra Called the Purification of the Eyes. It belongs to the category of dhāraṇī and mantra literature within the Kangyur, a class of texts that combine narrative framing with sacred formulas believed to confer specific spiritual and practical benefits. This text concerns the purification and healing of the eyes, set against the backdrop of a devout layman named Śākya Deva who encounters the Buddha's teaching while residing among the Śākya community. Like many dhāraṇī texts in the Kangyur, it opens with a conventional sūtra formula establishing the presence of the Buddha and a faithful disciple, serving as the occasion for the transmission of a potent mantra.",
+  "pdf": "files/toh619.pdf",
+  "txt": "files/toh619.txt",
+  "link84000": "",
+  "date": "2026-08-09"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 620,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Sūtra That Thoroughly Pacifies Eye Disease",
+  "sanskrit": "Ārya-Akṣi-Roga-Praśamana-Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Ritual"
+  ],
+  "explainer": "Toh 620 in the Kangyur, known in Sanskrit as the Ārya-Akṣi-Roga-Praśamana-Sūtra and in Tibetan as the Pakpa Mig Né Rabtu Zhiwar Jedpé Do, is a short noble sūtra concerned with the healing of eye diseases. Set at Vulture Peak Mountain in Rājagṛha, it takes the form of a dialogue in which the yakṣa general Nāgara asks the Buddha how eye diseases arising in the city should be treated, and the Buddha responds by imparting a therapeutic mantra. Belonging to the sūtra division of the Kangyur, this text sits at the intersection of canonical scripture and ritual healing, preserving both a narrative frame and a sequence of dhāraṇī-style mantra syllables intended for practical medical and protective use.",
+  "pdf": "files/toh620.pdf",
+  "txt": "files/toh620.txt",
+  "link84000": "",
+  "date": "2026-08-09"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 632,
   "suffix": "",
   "state": "awaiting",
