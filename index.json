@@ -10374,6 +10374,79 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 621,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Sūtra That Thoroughly Pacifies Hemorrhoids",
+  "sanskrit": "Ārya Arśa Praśamanī Sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Narrative"
+  ],
+  "explainer": "Toh 621 in the Kangyur is a sūtra known in English as The Noble Sūtra That Thoroughly Pacifies Hemorrhoids, corresponding to the Sanskrit Ārya Arśa Praśamanī Sūtra and the Tibetan Phakpa Zhangdrum Rabtu Zhiwar Jepé Do. It belongs to the class of canonical Buddhist scriptures presented in the classic sūtra format, opening with the standard \"Thus did I hear\" prologue and set at Rājagṛha, where the Buddha addresses a great assembly of monks in the presence of his attendant Ānanda. The text is concerned with the relief and cure of hemorrhoids, representing a genre of practical or medicinal dhāraṇī-related sūtras in which the Buddha's teaching is directed toward alleviating a specific physical ailment through spiritual means. As part of the Kangyur, it sits among the collected word of the Buddha transmitted into Tibetan, preserving a tradition that understood the Buddha's compassionate activity as extending to the healing of bodily as well as spiritual suffering.",
+  "pdf": "files/toh621.pdf",
+  "txt": "files/toh621.txt",
+  "link84000": "",
+  "date": "2026-08-10"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 622,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'That Which Thoroughly Pacifies All Illness'",
+  "sanskrit": "Ārya-sarvarogapraśamanī nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 622 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-sarvarogapraśamanī dhāraṇī and in Tibetan as Pakpa Né Tamché Rabtu Zhiwar Jedpé Zung, meaning \"The Noble Dhāraṇī That Thoroughly Pacifies All Illness.\" It belongs to the dhāraṇī section of the Kangyur and presents a short but practical scripture in which the Buddha, while residing at Śrāvastī, instructs his monks to memorize and transmit a specific dhāraṇī formula endowed with healing power. The text applies this dhāraṇī to a range of physical ailments — including indigestion, bloating, imbalances of blood and bile, hemorrhoids, and disorders of digestion — reflecting the genre's characteristic concern with the protective and therapeutic efficacy of sacred speech. As is typical of dhāraṇī literature, it frames the recitation of the mantra within a brief narrative setting and directs its benefits toward the relief of suffering in a very concrete, bodily sense.",
+  "pdf": "files/toh622.pdf",
+  "txt": "files/toh622.txt",
+  "link84000": "",
+  "date": "2026-08-10"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 623,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble One Who Dispels All Sicknesses",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "Toh 623 in the Kangyur is a short dhāraṇī text known in Tibetan as Phags pa nad thams cad, belonging to the broader category of dhāraṇī and ritual literature within the canon. The text opens with homage to the Three Jewels and to the Vajra Guru, a buddhaform associated with healing and spiritual power, before presenting a Sanskrit mantra formula beginning with the invocation of vajra. As a dhāraṇī scripture, it is concerned with the pacification of illness, invoking the protective and curative force of the Vajra Guru through sacred syllables and ritual recitation. Its precise Sanskrit title is not fully recoverable from the opening lines, but the Tibetan incipit suggests it was understood as a noble scripture addressing the elimination of all diseases.",
+  "pdf": "files/toh623.pdf",
+  "txt": "files/toh623.txt",
+  "link84000": "",
+  "date": "2026-08-10"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 624,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of Complete Pacification",
+  "sanskrit": "Praśamakaradhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 624 in the Kangyur is a short dhāraṇī text known in English as the Dhāraṇī of Complete Pacification, with its Tibetan title rendered as Rabtu Zhiwar Jedpé Zung. It belongs to the class of dhāraṇī literature — compact ritual and protective spell texts — and this particular example is directed toward the pacification of fevers, invoking the noble Amitābha alongside the Three Jewels before presenting its mantra syllables. The text is among the dhāraṇī collections preserved in the Kangyur, and its brief, formulaic character is typical of such works, which were cherished for their practical application in healing and protection rather than for extended doctrinal exposition.",
+  "pdf": "files/toh624.pdf",
+  "txt": "files/toh624.txt",
+  "link84000": "",
+  "date": "2026-08-10"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 632,
   "suffix": "",
   "state": "awaiting",
