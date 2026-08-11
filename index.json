@@ -10447,6 +10447,78 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 625,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'That Which Thoroughly Pacifies Epidemic Illness'",
+  "sanskrit": "Ārya-jvara-praśamanī nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 625 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-jvara-praśamanī nāma dhāraṇī and in Tibetan as Pakpa Rimné Rabtu Zhiwar Jepai Zhejawai Gzungs, rendered in English as \"The Noble Dhāraṇī Called That Which Thoroughly Pacifies Epidemic Illness.\" It belongs to the dhāraṇī section of the Kangyur and is a relatively brief scriptural work in which the Buddha, dwelling at the charnel ground known as the Cool Grove near Rājagṛha, responds to a monk's concern about sentient beings afflicted by illness by imparting a sacred dhāraṇī for the pacification of epidemic disease. The text combines a short narrative frame with a protective formula and instructions for its ritual application, including the prescription that the written dhāraṇī, when worn around the neck, will ward off epidemic illness.",
+  "pdf": "files/toh625.pdf",
+  "txt": "files/toh625.txt",
+  "link84000": "",
+  "date": "2026-08-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 626,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'That Which Thoroughly Pacifies Epidemic Disease'",
+  "sanskrit": "Āryajvarapraśamana nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 626 in the Kangyur is a dhāraṇī text known in Tibetan as Phags pa rims nad rab tu zhi bar byed pa, and in English as \"The Noble Dhāraṇī That Thoroughly Pacifies Epidemic Disease.\" As its name suggests, it belongs to the dhāraṇī genre of canonical literature, presenting a sacred formula intended to bring about the complete pacification of contagious or epidemic illness. The text sits within the broader dhāraṇī section of the Kangyur, reflecting the tradition of protective and healing incantations that form a significant part of Buddhist canonical scripture. It was translated into Tibetan by the Indian masters Jinamitra and Dānaśīla in collaboration with the renowned Tibetan editor-translator Ye shes sde, a team responsible for a great number of canonical translations during the early period of Tibetan Buddhist scriptural transmission.",
+  "pdf": "files/toh626.pdf",
+  "txt": "files/toh626.txt",
+  "link84000": "",
+  "date": "2026-08-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 627,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī That Pacifies the Disease of Smallpox",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 627 in the Kangyur is a collection of dhāraṇī texts — short ritual incantation scriptures — dealing with protection, healing, and the warding off of various harms. The text opens with a dhāraṇī invoking Mañjuśrī Kumāra and all the tathāgatas for the pacification of smallpox, followed immediately by a second dhāraṇī known in Sanskrit as something close to \"That Which Does Not Steal Away Radiance\" and in Tibetan as མདངས་ཕྱིར་མི་འཕྲོག་པ, associated with lapis-lazuli light and accompanied by instructions for ritual preparation using costus root, white mustard, and fat. These texts belong to the broader category of dhāraṇī and ritual literature preserved in the Kangyur, reflecting the tradition of scriptures focused on practical protective and therapeutic applications of sacred speech. As a collection of such brief but distinct dhāraṇī, each with its own dedicatory homage and specific purpose, Toh 627 represents the kind of applied, mantra-centered Buddhist literature intended to be recited or performed for the benefit of beings suffering from illness and misfortune.",
+  "pdf": "files/toh627.pdf",
+  "txt": "files/toh627.txt",
+  "link84000": "",
+  "date": "2026-08-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 628,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Sūtra on Entering the City of Vaiśālī",
+  "sanskrit": "Ārya Vaiśālī Praveśa Mahāsūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Prose"
+  ],
+  "explainer": "The Noble Great Sūtra on Entering the City of Vaiśālī, known in Sanskrit as the Ārya Vaiśālī Praveśa Mahāsūtra and in Tibetan as Phags pa yangs pa'i grong khyer du 'jug pa'i mdo chen po, is a Mahāyāna sūtra that recounts events surrounding the Buddha's journey to the renowned city of Vaiśālī in the land of Vṛji. The text opens with the Buddha instructing his attendant Ānanda to travel with him to Vaiśālī, where he takes up residence in the Mango Grove of Ambapālī, a setting familiar from other canonical accounts associated with this city. As a sūtra framed in the classical \"thus did I hear\" narrative style, it belongs to the discourse literature of the Buddhist canon. It is catalogued as Toh 628 in the Kangyur, where it is counted among the general sūtra collections.",
+  "pdf": "files/toh628.pdf",
+  "txt": "files/toh628.txt",
+  "link84000": "",
+  "date": "2026-08-11"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 632,
   "suffix": "",
   "state": "awaiting",
