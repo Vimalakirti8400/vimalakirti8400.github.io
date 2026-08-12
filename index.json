@@ -10519,18 +10519,78 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 629,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called the Complete Vanquishing of Bandits",
+  "sanskrit": "Āryacauravid hvaṃsana nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 629 in the Kangyur is a dhāraṇī text known in Sanskrit as the Āryacauravid hvaṃsana nāma dhāraṇī and in Tibetan as Pakpa Migö Nampar Jompa Zhejawa'i Zung, rendered in English as the Noble Dhāraṇī Called the Complete Vanquishing of Bandits. It belongs to the dhāraṇī section of the Kangyur, a class of texts preserving sacred incantations and ritual formulas endowed with protective and transformative power. The text recounts an episode in which the Buddha's attendant Ānanda, traveling with the Blessed One toward Vulture Peak, is overcome with fear upon sighting a band of bandits, prompting the Buddha to teach a dhāraṇī capable of averting such dangers. Translated and established as a definitive text by the Yeshe De translation team, this compact scripture illustrates the practical, protective dimension of dhāraṇī literature within the broader Buddhist canonical tradition.",
+  "pdf": "files/toh629.pdf",
+  "txt": "files/toh629.txt",
+  "link84000": "",
+  "date": "2026-08-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 630,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Mantra That Clears Away All Interruptions",
+  "sanskrit": "Ārya-sarva-antarasaṃgrāsa-dhāraṇī-mantra",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "Toh 630 in the Kangyur is a dhāraṇī text known in English as The Noble Dhāraṇī Mantra That Clears Away All Interruptions, in Sanskrit as the Ārya-sarva-antarasaṃgrāsa-dhāraṇī-mantra, and in Tibetan as the Phags pa bar du gcod pa thams cad sel ba'i gzungs sngags. It belongs to the dhāraṇī section of the Kangyur, a class of texts centered on the transmission and protective power of sacred mantra formulas. The text takes the form of a teaching delivered by the Buddha to the bodhisattva Vajrapāṇi, in which the Buddha enumerates thirteen specific causes of untimely death — including poison, weapons, wild beasts, fire, drowning, epidemic disease, and sorcery — and declares that whoever holds, bears, and recites this dhāraṇī will be shielded from all of them. Its primary concern is thus with protection from harm and the removal of obstacles that might cut short a practitioner's life and spiritual path.",
+  "pdf": "files/toh630.pdf",
+  "txt": "files/toh630.txt",
+  "link84000": "",
+  "date": "2026-08-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 631,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called 'The Noble Immovable One'",
+  "sanskrit": "Ārya-Acalā-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 631 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-Acalā-nāma-dhāraṇī and in Tibetan as Pakpa Miyowa Zhejawa'i Zung, meaning \"The Noble Immovable One.\" It belongs to the dhāraṇī section of the Kangyur, a class of canonical works centered on sacred ritual formulas understood to carry protective and purifying power. The text opens in the heaven of the Thirty-Three Gods, where the Buddha is surrounded by an assembly of great bodhisattvas, including Maitreya, Mañjuśrī, Avalokiteśvara, and Vajrapāṇi, all of whom have attained the tenth bodhisattva ground. The bodhisattva Maitreya initiates a dialogue concerning the harms inflicted on human beings in Jambudvīpa by malevolent spirits, gods, and nāgas, providing the narrative occasion for the Buddha to impart the dhāraṇī and its associated benefits.",
+  "pdf": "files/toh631.pdf",
+  "txt": "files/toh631.txt",
+  "link84000": "",
+  "date": "2026-08-12"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 632,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The shorter tantra for the practice of the king of vajra wrath",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Abridged Ritual Tantra of the Wrathful Vajra King",
+  "sanskrit": "Ārya-vajra-krodha-rāja-kalpa-laghu-tantra-nāma",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 632 in the Kangyur is a tantric scripture known in Sanskrit as the Ārya-vajra-krodha-rāja-kalpa-laghu-tantra and in Tibetan as the Phakpa Dorje Khrowö Gyalpö Tokpa Düpé Gyud, rendered in English as \"The Noble Abridged Ritual Tantra of the Wrathful Vajra King.\" It belongs to the class of Buddhist tantric texts and concerns the wrathful vajra deity known as the Wrathful Vajra King, presenting an abridged or condensed ritual tantra associated with this powerful figure. The text opens in the traditional sūtra style, with the Buddha residing in a magnificent celestial palace in the Heaven of Mastery over Others' Emanations, situated upon a vajra essence maṇḍala, suggesting a revelatory setting appropriate to tantric scripture. As part of the Kangyur, it is counted among the translated word of the Buddha and is placed within the broader collection of tantric texts preserved in the Tibetan Buddhist canon.",
+  "pdf": "files/toh632.pdf",
+  "txt": "files/toh632.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-12"
  },
  {
   "corpus": "kangyur",
