@@ -75,16 +75,20 @@
   "corpus": "kangyur",
   "toh": 5,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Detailed explanations on nuns discipline",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Analysis of the Discipline of Nuns",
+  "sanskrit": "Bhikṣuṇī Vinaya Vibhaṅga",
+  "category": "Vinaya (Monastic Discipline)",
+  "tags": [
+   "Prose",
+   "Ethics",
+   "Root text"
+  ],
+  "explainer": "Toh 5 in the Kangyur is the Bhikṣuṇī Vinaya Vibhaṅga, known in Tibetan as the Dge slong ma'i 'dul ba rnam par 'byed pa, which may be rendered in English as The Analysis of the Discipline of Nuns. It is a Vinaya text — one of the foundational categories of Buddhist canonical literature concerned with monastic discipline and the rules governing the conduct of ordained practitioners — and this particular work focuses specifically on the code of individual liberation for fully ordained nuns, the bhikṣuṇīs, providing a detailed analysis of each rule along with its origins, scope, and application. As such, it is the counterpart to the monks' Vinaya Vibhaṅga and forms an essential part of the Vinaya division of the Kangyur, the collection of texts attributed to the Buddha himself. The text opens with verses of homage celebrating the Buddha as the lord of discipline and extolling the rarity and blessedness of encountering and practising the Vinaya, setting a devotional and exhortatory tone before proceeding to its systematic exposition.",
+  "pdf": "files/toh5.pdf",
+  "txt": "files/toh5.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-14"
  },
  {
   "corpus": "kangyur",
@@ -10667,6 +10671,82 @@
   "txt": "files/toh636.txt",
   "link84000": "",
   "date": "2026-08-13"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 637,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Samantabhadra's One Hundred and Eight Names, Together with Dhāraṇī and Mantra",
+  "sanskrit": "Ārya Samantabhadra Aṣṭottaraśataka Nāma Dhāraṇī Mantra Sahita",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Praise of the Buddha"
+  ],
+  "explainer": "Toh 637 in the Kangyur is a dhāraṇī text known in English as \"The Noble Samantabhadra's One Hundred and Eight Names, Together with Dhāraṇī and Mantra,\" in Sanskrit as the Ārya Samantabhadra Aṣṭottaraśataka Nāma Dhāraṇī Mantra Sahita, and in Tibetan as འཕགས་པ་ཀུན་ཏུ་བཟང་པོའི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ་གཟུངས་སྔགས་དང་བཅས་པ. It belongs to the dhāraṇī genre of canonical Buddhist literature, presenting one hundred and eight names of the great bodhisattva Samantabhadra — a figure associated with boundless compassion, the vast expanse of the Dharma, and the bodies of the three times — along with accompanying dhāraṇī and mantra for practice and recitation. Despite some discrepancy between the colophon's reference to Ākāśagarbha and the body of the text's focus on Samantabhadra, the text as translated concerns the veneration and invocation of Samantabhadra through his sacred names and protective formulas. It is found among the dhāraṇī collections of the Kangyur as Toh 637.",
+  "pdf": "files/toh637.pdf",
+  "txt": "files/toh637.txt",
+  "link84000": "",
+  "date": "2026-08-14"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 638,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble One Hundred and Eight Names of Vajrapāṇi, Together with Dhāraṇī and Mantra",
+  "sanskrit": "Ārya-Vajrapāṇi-aṣṭottaraśataka-nāma-dhāraṇī-mantra-sahita",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "The Noble One Hundred and Eight Names of Vajrapāṇi, Together with Dhāraṇī and Mantra, known in Sanskrit as the Ārya-Vajrapāṇi-aṣṭottaraśataka-nāma-dhāraṇī-mantra-sahita and in Tibetan as Pakpa Lakna Dorjé Tsen Gyatsa Gyepa, is a dhāraṇī text devoted to the bodhisattva Vajrapāṇi, the powerful wielder of the thunderbolt who serves as a protector of the Buddhist teaching. The text presents one hundred and eight names of Vajrapāṇi together with his heart-essence mantra and dhāraṇī, the recitation of which is described as causing the earth to tremble and striking fear into all obstructors and malevolent forces. It belongs to a series of such name-collections and is identified as the eighth in that root series. This work is Toh 638 in the Kangyur, where it falls within the category of dhāraṇī literature.",
+  "pdf": "files/toh638.pdf",
+  "txt": "files/toh638.txt",
+  "link84000": "",
+  "date": "2026-08-14"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 639,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Mañjuśrī in His Youthful Form — The One Hundred and Eight Names Together with Dhāraṇī and Mantra",
+  "sanskrit": "Āryamañjuśrīkumārabhūtāṣṭottaraśataka-nāma-dhāraṇī-mantra-sahita",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Praise of the Buddha"
+  ],
+  "explainer": "Toh 639 in the Kangyur is a dhāraṇī text known in English as \"The One Hundred and Eight Names of the Noble Mañjuśrī in His Youthful Form, Together with Dhāraṇī and Mantra,\" corresponding to the Sanskrit title Āryamañjuśrīkumārabhūtāṣṭottaraśataka-nāma-dhāraṇī-mantra-sahita and the Tibetan 'Phags pa 'Jam dpal gzhon nur gyur pa'i mtshan brgya rtsa brgyad pa gzungs sngags dang bcas pa. The text belongs to the dhāraṇī section of the Kangyur and combines a litany of one hundred and eight names of the bodhisattva Mañjuśrī — revered in his youthful, princely aspect — with accompanying dhāraṇī and mantra formulas. Mañjuśrī is one of the most celebrated bodhisattvas in the Mahāyāna tradition, embodying wisdom, and texts of this type were recited for the merit and blessings believed to arise from invoking and venerating his names and sacred syllables. The opening homages to the buddhas of the ten directions and to Mañjuśrī himself set a devotional tone characteristic of this genre of liturgical and ritual literature.",
+  "pdf": "files/toh639.pdf",
+  "txt": "files/toh639.txt",
+  "link84000": "",
+  "date": "2026-08-14"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 640,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble One Hundred and Eight Names of the Remover of All Obscurations, Together with Dhāraṇī and Mantra",
+  "sanskrit": "Ārya-sarva-nīvaraṇa-viṣkambhinī-nāmāṣṭottaraśataka-dhāraṇī-mantra-sahita",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "Toh 640 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-sarva-nīvaraṇa-viṣkambhinī-nāmāṣṭottaraśataka-dhāraṇī-mantra-sahita and in Tibetan as the Pakpa Dribpa Tamché Nampar Selwé Tsen Gyatsa Gyépa Zung Ngak Dang Chepa, rendered in English as \"The Noble One Hundred and Eight Names of the Remover of All Obscurations, Together with Dhāraṇī and Mantra.\" The text belongs to the dhāraṇī genre of canonical literature and centers on the bodhisattva Sarva-nīvaraṇa-viṣkambhin, the Remover of All Obscurations, presenting his one hundred and eight names along with accompanying dhāraṇī and mantra formulas held to generate great merit and virtue for sentient beings who hear them. It is set as a discourse in which the Tathāgata Vairocana commends and validates the dhāraṇī-mantra, framing its recitation as a source of immense spiritual benefit. As Toh 640 in the Kangyur, it is classified among the dhāraṇī texts that form part of the broader collection of Buddha-word preserved in the Tibetan Buddhist canon.",
+  "pdf": "files/toh640.pdf",
+  "txt": "files/toh640.txt",
+  "link84000": "",
+  "date": "2026-08-14"
  },
  {
   "corpus": "kangyur",
