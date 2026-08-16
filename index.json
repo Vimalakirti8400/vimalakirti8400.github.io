@@ -10824,16 +10824,58 @@
   "corpus": "kangyur",
   "toh": 645,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The incantation the production of ambrosia",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called 'The Arising of Nectar'",
+  "sanskrit": "Amṛtabhava nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "The Arising of Nectar, known in Sanskrit as the Amṛtabhava nāma dhāraṇī and in Tibetan as Bdud rtsi 'byung ba zhes bya ba'i gzungs, is a dhāraṇī text concerned with the consecration of food and provisions for the benefit of all sentient beings. Set at Rājagṛha, the text opens with the householder Zangkyong requesting that the Buddha bless offerings of incense, medicine, and food for his fourfold retinue and for beings throughout the six realms, whereupon the Buddha enters a meditative absorption bearing the same name as the text itself. It belongs to the dhāraṇī genre of Buddhist scripture, which employs sacred formulas and ritual consecration as a means of generating merit and benefit for living beings. This text is Toh 645 in the Kangyur, where it is classified among the dhāraṇī collections.",
+  "pdf": "files/toh645.pdf",
+  "txt": "files/toh645.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-16"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 646,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called 'Granting Refuge to Hungry Ghosts Whose Mouths Blaze with Fire'",
+  "sanskrit": "Mukhadarīmukhāgnipratiṣṭhā",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 646 in the Kangyur is a dhāraṇī text known in English as \"The Dhāraṇī Called Granting Refuge to Hungry Ghosts Whose Mouths Blaze with Fire,\" corresponding to the Sanskrit Mukhaṃ jvalantī nāma dhāraṇī and the Tibetan Yi dags kha nas me 'bar ba la skyabs mdzad pa zhes bya ba'i gzungs. It belongs to the dhāraṇī section of the Kangyur and concerns the ritual use of sacred syllables and practices to relieve the suffering of hungry ghosts, a class of beings tormented by insatiable hunger and thirst, whose mouths burn with unquenchable fire. The text is framed as a teaching given by the Buddha at Śrāvastī, prompted by an encounter between the venerable Ānanda and one such anguished hungry ghost who warns him of impending death, setting in motion a search for means of liberation and relief. As a dhāraṇī scripture it combines narrative, protective formula, and ritual instruction, representing a genre of Buddhist literature devoted to the power of consecrated speech to benefit beings across multiple realms of existence.",
+  "pdf": "files/toh646.pdf",
+  "txt": "files/toh646.txt",
+  "link84000": "",
+  "date": "2026-08-16"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 647,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Torma Ritual for the Relief of the Flaming-Mouthed Female Hungry Ghost",
+  "sanskrit": "",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Narrative",
+   "Devotional"
+  ],
+  "explainer": "Toh 647 in the Kangyur is a ritual text known in English as \"The Torma Ritual for the Relief of the Flaming-Mouthed Female Hungry Ghost,\" corresponding to the Tibetan title Yidakmo Khabarma Dbugs Dbyang Ba'i Gtor Ma'i Cho Ga. The text belongs to the dhāraṇī section of the Kangyur and takes the form of a ceremonial torma-offering rite designed to liberate hungry ghosts — beings tormented by insatiable craving — from their suffering, with particular focus on a preta known as Flaming Mouth whose agonized condition is revealed to the monk Ānanda. Set in the Nyagrodha Grove at Kapilavastu, the narrative frames the ritual instructions within a sūtra-style discourse in which the Buddha responds to Ānanda's encounter with this afflicted being. The text thus bridges doctrinal teaching on the preta realm with practical liturgical guidance for performing offerings on behalf of suffering spirits.",
+  "pdf": "files/toh647.pdf",
+  "txt": "files/toh647.txt",
+  "link84000": "",
+  "date": "2026-08-16"
  },
  {
   "corpus": "kangyur",
