@@ -10879,6 +10879,60 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 648,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called 'Obstructing Miserliness'",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Narrative",
+   "Ethics"
+  ],
+  "explainer": "Toh 648 in the Kangyur is a dhāraṇī text known in Tibetan as \"Jur Geg\" and in Sanskrit as the Dhāraṇī Called \"Obstructing Miserliness.\" It belongs to the dhāraṇī section of the Kangyur and is concerned with the karmic consequences of preventing or impeding the generosity of others, a transgression said to produce results even more severe than ordinary miserliness. The text unfolds through a narrative encounter in which the noble Śāriputra and Maudgalyāyana come upon a realm of hungry ghosts and witness the horrifying physical suffering of beings reborn in that state as a direct result of having obstructed others' giving. Through this vivid framing story, the text conveys both a moral teaching on the gravity of interfering with generosity and the protective or purifying power of the dhāraṇī itself.",
+  "pdf": "files/toh648.pdf",
+  "txt": "files/toh648.txt",
+  "link84000": "",
+  "date": "2026-08-17"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 649,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called 'Jur-geg'",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "Toh 649 in the Kangyur is a dhāraṇī text known in Tibetan as \"Jur-geg\" (འཇུར་འགེགས་), a short ritual scripture belonging to the dhāraṇī section of the canon. The text presents a consecrated mantra — the Heart of the Wisdom Star — together with precise instructions for its performance: the practitioner is directed to sit beside flowing water, recite the essence-mantra seven times over water held in the palm, and cast it into the stream, thereby liberating hungry ghosts from their suffering and granting them divine nourishment. Rooted in the compassionate concern for beings in the lower realms that characterizes much of the dhāraṇī literature, the text reflects a broader tradition of ritual water-offering practices aimed at relieving the torments of the deceased. It was translated into Tibetan and established in its authoritative form by the great translator Yeshe Dé, one of the most prolific and eminent translators of the early Tibetan canonical period.",
+  "pdf": "files/toh649.pdf",
+  "txt": "files/toh649.txt",
+  "link84000": "",
+  "date": "2026-08-17"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 650,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called 'That Which Increases Wisdom'",
+  "sanskrit": "Prajñāvardhanī nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "The dhāraṇī called \"That Which Increases Wisdom,\" known in Sanskrit as the Prajñāvardhanī nāma dhāraṇī and in Tibetan as Shes rab 'phel bar byed pa zhes bya ba'i gzungs, is a short ritual dhāraṇī text focused on the cultivation and enhancement of wisdom and mental retention. It belongs to the dhāraṇī genre of Buddhist literature, presenting a sacred mantra together with practical instructions for its use — in this case, reciting the mantra over barley gruel and drinking it daily for a month in order to purify misdeeds, remove obscurations, and increase one's capacity to retain teachings. The text opens with homage to the Three Jewels and to the bodhisattva Avalokiteśvara, situating it within the broader tradition of compassion-oriented Mahāyāna practice. It is Toh 650 in the Kangyur, belonging to the general class of dhāraṇī and mantra literature.",
+  "pdf": "files/toh650.pdf",
+  "txt": "files/toh650.txt",
+  "link84000": "",
+  "date": "2026-08-17"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 663,
   "suffix": "",
   "state": "awaiting",
