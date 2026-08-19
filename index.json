@@ -10982,6 +10982,61 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 654,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Known as the Ocean of Dharma",
+  "sanskrit": "Ārya-dharmasāgara-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Narrative",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 654 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-dharmasāgara-nāma-dhāraṇī and in Tibetan as Phags pa chos kyi rgya mtsho, meaning \"The Noble Ocean of Dharma.\" As a dhāraṇī sūtra, it belongs to the class of canonical texts that present sacred incantations within a narrative scriptural frame, here set at the Deer Park of Ṛṣipatana near Vārāṇasī, where the Buddha addresses an assembly of five hundred monks on the profound and subtle nature of the Dharma he has realized. The text was translated from Sanskrit into Tibetan by the Indian master Prajñāvarman together with the great editor-translator Ye shes sde and their colleagues, whose collaboration on canonical translation was especially influential during the early period of Buddhist transmission in Tibet. Sitting among the dhāraṇī texts of the Kangyur, it reflects the tradition of presenting meditative and protective incantations within the authoritative setting of a buddha's direct discourse.",
+  "pdf": "files/toh654.pdf",
+  "txt": "files/toh654.txt",
+  "link84000": "",
+  "date": "2026-08-19"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 655,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī That Clears Away Obstacles",
+  "sanskrit": "Āryavighnavināyakāradhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "The Noble Dhāraṇī That Clears Away Obstacles, known in Sanskrit as the Āryavighnavināyakāradhāraṇī and in Tibetan as Phags pa bgegs sel ba'i gzungs, is a short dhāraṇī text focused on the removal of obstacles and the accomplishment of rites, intentions, and secret mantras through the recitation of a sacred mantra formula. The text follows a classic sūtra framing, opening with the Buddha addressing his attendant Ānanda at the Jeta Grove in Śrāvastī before presenting the dhāraṇī and its benefits, including instructions for daily practice beginning at dawn. It belongs to the dhāraṇī genre of Buddhist canonical literature, in which concentrated sequences of sacred syllables are transmitted as powerful means of protection and spiritual attainment. This text is Toh 655 in the Kangyur, preserved among the dhāraṇī collections of the Tibetan Buddhist canon.",
+  "pdf": "files/toh655.pdf",
+  "txt": "files/toh655.txt",
+  "link84000": "",
+  "date": "2026-08-19"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 656,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Great Sūtra on What Accords with Wandering Everywhere and Not Wandering Everywhere",
+  "sanskrit": "Āṭānāṭīya-mahāsūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Ritual"
+  ],
+  "explainer": "The Āṭānāṭīya Mahāsūtra, known in Tibetan as the Great Sūtra on What Accords with Wandering Everywhere and Not Wandering Everywhere, is Toh 656 in the Kangyur, classified among the collection's sūtras. It belongs to a well-known Buddhist textual tradition associated with the protection dhāraṇī called the Āṭānāṭīya, which is recited for warding off malevolent spirits and safeguarding practitioners. The sūtra is set at Śrāvastī, where the Great King Vaiśravaṇa — one of the four guardian kings and lord of the yakṣas — visits the Buddha by night with a vast retinue of yakṣas, introducing what becomes a discourse on the powerful protective formula associated with his name and domain. This text is part of a broader canonical tradition found across various Buddhist schools, and its inclusion in the Kangyur reflects the importance placed on protective ritual literature within Tibetan Buddhist practice.",
+  "pdf": "files/toh656.pdf",
+  "txt": "files/toh656.txt",
+  "link84000": "",
+  "date": "2026-08-19"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 663,
   "suffix": "",
   "state": "awaiting",
