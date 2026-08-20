@@ -11037,6 +11037,63 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 657,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Cloud",
+  "sanskrit": "Ārya Mahāmegha",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Prose",
+   "Ritual"
+  ],
+  "explainer": "Toh 657 in the Kangyur is known in Sanskrit as the Ārya Mahāmegha and in Tibetan as the Phags pa sprin chen po, rendered in English as The Noble Great Cloud. It is a Mahāyāna sūtra set dramatically in the palace of the nāga king Nanda, where the Buddha addresses a vast assembly of monks, bodhisattvas, and nāga kings, suggesting that its concerns include the nāga world, the powers associated with rain and clouds, and the spiritual blessings that flow from these forces. The text belongs to the general class of sūtra literature within the Kangyur, the canonical collection of the Buddha's translated words, and its elaborate opening assembly scene — replete with named nāga lords and a jeweled cloud maṇḍala mansion — signals the rich cosmological and protective dimensions characteristic of this genre.",
+  "pdf": "files/toh657.pdf",
+  "txt": "files/toh657.txt",
+  "link84000": "",
+  "date": "2026-08-20"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 658,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Cloud: The Chapter on the Maṇḍala of Wind, the Heart of All Nāgas — a Mahāyāna Sūtra",
+  "sanskrit": "Ārya-Mahāmegha-vāta-maṇḍala-sarva-nāga-hṛdaya nāma mahāyāna-sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 658 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Ārya-Mahāmegha-vāta-maṇḍala-sarva-nāga-hṛdaya, in Tibetan as the Phags pa sprin chen po rlung gi dkyil 'khor gyi le'u klu thams cad kyi snying po, and in English as the Noble Great Cloud, the Chapter of the Maṇḍala of Wind, the Heart of All Nāgas. It belongs to the broader family of Great Cloud (Mahāmegha) sūtras, texts concerned with rain, nāgas, and the ritual invocation of serpent deities for the benefit of the world. The sūtra is set in a great ocean palace where the Buddha addresses an assembly of a thousand powerful nāga kings, each endowed with great miraculous power and presiding over vast maṇḍalas, situating the teaching firmly within the Mahāyāna literature devoted to nāga lore, weather, and the protection of beings through the intercession of these powerful serpentine forces.",
+  "pdf": "files/toh658.pdf",
+  "txt": "files/toh658.txt",
+  "link84000": "",
+  "date": "2026-08-20"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 659,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Inquiry of Anavatapta, King of the Nāgas: A Dhāraṇī",
+  "sanskrit": "Āryatapasvī Nāgarāja Paripṛcchā Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 659 in the Kangyur is a dhāraṇī sūtra known in Sanskrit as the Āryatapasvī Nāgarāja Paripṛcchā Nāma Dhāraṇī and in Tibetan as the dhāraṇī called \"The Noble Inquiry of Anavatapta, King of the Nāgas.\" It belongs to the general class of Mahāyāna sūtras and takes the form of a teaching given by the Buddha at Gṛdhrakūṭa Mountain in Magadha, prompted by a visit from Anavatapta, the luminous nāga king, who comes to question the Blessed One. The text thus combines the sūtra and dhāraṇī genres, presenting both a narrative framing dialogue and a sacred spell or formula associated with the nāga king's inquiry. It was translated into Tibetan by the Indian preceptors Jinamitra and Surendrabodhi together with the great revising translator, the monk Yeshé Dé, and established in its final form through their collaborative editorial process.",
+  "pdf": "files/toh659.pdf",
+  "txt": "files/toh659.txt",
+  "link84000": "",
+  "date": "2026-08-20"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 663,
   "suffix": "",
   "state": "awaiting",
