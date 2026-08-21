@@ -11094,6 +11094,63 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 660,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'Mother of the Planetary Spirits'",
+  "sanskrit": "Āryā Graha Mātṛkā Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "The Noble Dhāraṇī Called \"Mother of the Planetary Spirits,\" known in Sanskrit as the Āryā Graha Mātṛkā Nāma Dhāraṇī and in Tibetan as Pakma Zasam Kyi Yum Zhesbyawa'i Zung, is a dhāraṇī text centered on a powerful female deity who is venerated as the mother or sovereign of planetary spirits and celestial bodies. The text opens in the classic sūtra style, with the Buddha surrounded by an extensive assembly of gods, nāgas, yakṣas, and a full retinue of planetary and astral beings — including the Sun, Moon, and the named planets — reflecting the text's deep concern with cosmic and astrological forces and their relationship to Buddhist protective practice. As a dhāraṇī scripture, it belongs to the broader tradition of tantric or quasi-tantric ritual literature in which sacred formulae are presented as conferring protection and blessings through the power of enlightened beings. It is Toh 660 in the Kangyur, catalogued among the dhāraṇī collections of that canon.",
+  "pdf": "files/toh660.pdf",
+  "txt": "files/toh660.txt",
+  "link84000": "",
+  "date": "2026-08-21"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 661,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī Called Mother of the Planetary Spirits",
+  "sanskrit": "Graha Mātṛkā Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 661 in the Kangyur is a dhāraṇī text known in Sanskrit as the Graha Mātṛkā Nāma Dhāraṇī and in Tibetan as the Gza' rnams kyi yum zhes bya ba'i gzungs, meaning \"The Dhāraṇī Called 'Mother of the Planetary Spirits.'\" It belongs to the dhāraṇī and mantra literature of the Kangyur, a broad category of texts preserving sacred formulas and their associated ritual and protective teachings. The text opens with the Blessed One seated upon a vajra throne in a great pastoral city, surrounded by an vast assembly of bodhisattvas, divine beings, planetary spirits, and celestial bodies — including the sun, moon, and the named planets and lunar mansions of Indian cosmology — suggesting that the dhāraṇī it contains is concerned with the pacification or propitiation of planetary and astral forces. As its title implies, this dhāraṇī is presented as a kind of sovereign or \"mother\" over these planetary spirits, pointing to its likely use in protective or astrological ritual contexts within the broader tradition of Buddhist tantra and dhāraṇī practice.",
+  "pdf": "files/toh661.pdf",
+  "txt": "files/toh661.txt",
+  "link84000": "",
+  "date": "2026-08-21"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 662,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called Stream of Wealth",
+  "sanskrit": "Ārya-vasudhārā-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Narrative",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 662 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-Vasudhārā-nāma-dhāraṇī and in Tibetan as the Phags pa nor gyi rgyun zhes bya ba'i gzungs, meaning \"The Noble Dhāraṇī Called Stream of Wealth.\" It belongs to the dhāraṇī section of the Kangyur and takes the form of a sūtra-style discourse in which the Buddha, dwelling in the city of Kauśāmbī amid a great assembly of monks and bodhisattvas, is approached by a faithful householder named Excellent Moon. The text centers on the dhāraṇī of Vasudhārā, a deity associated with abundance and prosperity, and presents the sacred formula along with the merits and blessings conferred upon those who uphold it.",
+  "pdf": "files/toh662.pdf",
+  "txt": "files/toh662.txt",
+  "link84000": "",
+  "date": "2026-08-21"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 663,
   "suffix": "",
   "state": "awaiting",
