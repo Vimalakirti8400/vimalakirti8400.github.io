@@ -11153,31 +11153,57 @@
   "corpus": "kangyur",
   "toh": 663,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The practice of vasudhara",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'Stream of Wealth'",
+  "sanskrit": "Āryadhanadhārā nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 663 in the Kangyur is a dhāraṇī text known in Tibetan as \"Nor gyi rgyun\" and in Sanskrit as the \"Dhāraṇī of the Stream of Wealth,\" belonging to the broader category of dhāraṇī and ritual literature within the Kangyur. The text presents both the dhāraṇī itself — a sacred formula invoking the Blessed Lady associated with wealth and abundance — and detailed ritual instructions for its practice, including specific timing, bodily purification through immersion in water, fasting, and the creation and veneration of a painted image of the deity. It belongs to the dhāraṇī section of the Kangyur, a class of texts that preserves potent formulas and their associated ceremonial procedures transmitted as authentic Buddha-word. The opening lines note the joyful approval of the world and its gandharvas at the Blessed One's declaration, framing what follows as a direct teaching on the ritual application of this powerful stream-of-wealth dhāraṇī.",
+  "pdf": "files/toh663.pdf",
+  "txt": "files/toh663.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-22"
  },
  {
   "corpus": "kangyur",
   "toh": 664,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The practice of the incantation of vasudhara",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Homage to Vasudhārā",
+  "sanskrit": "Vasudhārādhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "Toh 664 in the Kangyur is a short tantric dhāraṇī text dedicated to Vasudhārā, known in Sanskrit as Vasudhārā and in Tibetan as Nor rgyun ma, a bodhisattva goddess associated with wealth, abundance, and spiritual merit. The text belongs to the genre of dhāraṇī and ritual mantra literature and presents a series of sacred syllable formulas — including heart dhāraṇīs and near-heart dhāraṇīs — along with instructions for hand gestures, or mudrās, used in her practice. According to its colophon, the text was spoken by Sudāna for the householder Candrabhadra and constitutes what is described as the conceptual elaboration of the Blessed Lady Vasudhārā in her nirmāṇakāya aspect. It is classified among the dhāraṇī collections of the Kangyur and represents the kind of compact liturgical and ritual material that supported devotional and protective practices centered on this beloved deity throughout the Buddhist world.",
+  "pdf": "files/toh664.pdf",
+  "txt": "files/toh664.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-22"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 665,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Heart of the Lord of Hosts",
+  "sanskrit": "Ārya-Gaṇapati-hṛdaya",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "The Noble Heart of the Lord of Hosts, known in Sanskrit as the Ārya-Gaṇapati-hṛdaya and in Tibetan as Pakpa Tsokyi Dakpö Nyingpo, is a short dhāraṇī text centered on the figure of Gaṇapati, the Lord of Hosts, and the efficacy of holding his heart-mantra for the accomplishment of all aims and the activation of secret mantra attainments. Cast in sūtra form, it opens with the Buddha teaching on Vulture Peak Mountain at Rājagṛha before delivering the mantra directly to Ānanda, promising that all endeavors will be fulfilled through its recitation. It is Toh 665 in the Kangyur, belonging to the dhāraṇī class of canonical texts.",
+  "pdf": "files/toh665.pdf",
+  "txt": "files/toh665.txt",
+  "link84000": "",
+  "date": "2026-08-22"
  },
  {
   "corpus": "kangyur",
