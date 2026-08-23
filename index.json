@@ -11237,6 +11237,63 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 668,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called the Glorious Dark Protector",
+  "sanskrit": "Śrī Mahākāla Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "The Dhāraṇī Called the Glorious Dark Protector, known in Sanskrit as the Śrī Mahākāla Nāma Dhāraṇī and in Tibetan as Dpal Mgon Po Nag Po Zhes Bya Ba'i Gzungs, is a dhāraṇī text centered on Mahākāla, the great wrathful protector deity who serves as lord of the desire realm and commander of the divine hosts. The text presents Mahākāla approaching the newly awakened Buddha at Bodh Gayā and offering a vidyā mantra for the benefit of beings, situating this powerful protective dhāraṇī within the narrative frame common to canonical sūtra literature. It is Toh 668 in the Kangyur, belonging to the dhāraṇī section of the canon, and was translated into Tibetan by the translator Phurbu Öd.",
+  "pdf": "files/toh668.pdf",
+  "txt": "files/toh668.txt",
+  "link84000": "",
+  "date": "2026-08-23"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 669,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī of the Great Black One that Liberates from All Epidemic Diseases",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 669 in the Kangyur is a dhāraṇī text known in Tibetan as \"Phags pa nag po chen po'i gzungs rims nad thams cad las thar bar byed pa,\" translated into English as \"The Noble Dhāraṇī of the Great Black One that Liberates from All Epidemic Diseases,\" with the deity at its center known in Sanskrit as Mahākāla. This short ritual text belongs to the dhāraṇī genre of the Kangyur and centers on the wrathful protective deity Mahākāla, described as dark and yellow with sharp fangs, invoked specifically for protection against epidemic illness. The text consists primarily of a dhāraṇī formula to be recited while directing one's gaze in various directions, commanding the release of disease from every part of the body through a series of imperative mantric phrases addressed to the afflicting forces. It sits within the broader collection of dhāraṇī and mantra literature preserved in the Kangyur, reflecting the tradition of employing the power of wrathful bodhisattva-protectors for healing and apotropaic purposes.",
+  "pdf": "files/toh669.pdf",
+  "txt": "files/toh669.txt",
+  "link84000": "",
+  "date": "2026-08-23"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 670,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of the Great Black Goddess",
+  "sanskrit": "Devī Mahākālī Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "The Dhāraṇī of the Great Black Goddess, known in Sanskrit as the Devī Mahākālī Nāma Dhāraṇī and in Tibetan as Lhamo Nagmo Chenmo'i Gzungs, is a short dhāraṇī text centered on the fierce goddess Mahākālī, a powerful female deity associated with the desire realm who is described as the Mother of Māra and Sister of Yama. The text takes the form of a canonical sūtra opening, with the goddess approaching the newly awakened Buddha beneath the Bodhi tree and offering him her vidyā, a sacred spell or mantra, which he in turn accepts and proclaims to the assembly. It belongs to the dhāraṇī literature of the Buddhist canon, a genre dedicated to the preservation and transmission of protective and efficacious ritual formulas. This text is Toh 670 in the Kangyur, found among the collections of dhāraṇīs that form a distinct and widely represented class within that scriptural treasury.",
+  "pdf": "files/toh670.pdf",
+  "txt": "files/toh670.txt",
+  "link84000": "",
+  "date": "2026-08-23"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 671,
   "suffix": "",
   "state": "at84000",
