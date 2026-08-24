@@ -11309,6 +11309,25 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 672,
+  "suffix": "",
+  "state": "translated",
+  "title": "The One Hundred and Eight Names of the Glorious Black Goddess",
+  "sanskrit": "Śrī Devī Kālinā Nāma Aṣṭaśataka",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Devotional",
+   "Ritual",
+   "Praise of the Buddha"
+  ],
+  "explainer": "Toh 672 in the Kangyur is a tantric text known in Sanskrit as the Śrī Devī Kālinā Nāma Aṣṭaśataka and in Tibetan as the One Hundred and Eight Names of the Glorious Black Goddess. As its title indicates, the text is a collection of one hundred and eight names or epithets of the Glorious Black Goddess, a powerful wrathful female deity, presented in the form of a discourse delivered by the Buddha on Vulture Peak Mountain before an assembly of bodhisattvas. The setting follows a classical tantric sūtra structure, in which a bodhisattva interlocutor prompts the Buddha to reveal the names of this goddess together with their significance in terms of cause and result. The opening lines also indicate that this text concludes a larger cycle called the Tantra of the King of Praises, suggesting it forms part of a broader collection of devotional and tantric literature within the Kangyur.",
+  "pdf": "files/toh672.pdf",
+  "txt": "files/toh672.txt",
+  "link84000": "",
+  "date": "2026-08-24"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 673,
   "suffix": "a",
   "state": "at84000",
@@ -11324,6 +11343,25 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 674,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra Called Immeasurable Life and Wisdom",
+  "sanskrit": "Ārya-aparimita-āyurjñāna-nāma-mahāyāna-sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Devotional",
+   "Mantra"
+  ],
+  "explainer": "Toh 674 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Ārya-aparimita-āyurjñāna-nāma-mahāyāna-sūtra and in Tibetan as the Phags pa tshe dang ye shes dpag tu med pa zhes bya ba theg pa chen po'i mdo, rendered in English as \"The Noble Great Vehicle Sūtra Called Immeasurable Life and Wisdom.\" The text belongs to the sūtra class of the Kangyur and concerns the immeasurable life and wisdom of a transcendent buddha named King of Resplendent Glory, who dwells in a distant world-realm called Immeasurable Qualities, as revealed by Śākyamuni Buddha in discourse to the bodhisattva Mañjuśrī at Śrāvastī. Its teachings are closely associated with the practice and veneration of Amitāyus, the buddha of boundless life, and the text has long been important in traditions focused on longevity and the cultivation of merit. The opening mantra and homage formula situate it within a devotional and ritual context characteristic of Mahāyāna sūtras dedicated to overcoming the obstacles of untimely death and ignorance.",
+  "pdf": "files/toh674.pdf",
+  "txt": "files/toh674.txt",
+  "link84000": "",
+  "date": "2026-08-24"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 675,
   "suffix": "",
   "state": "at84000",
@@ -11336,6 +11374,25 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh675",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 676,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Heart of the Noble Immeasurable Life and Wisdom Dhāraṇī",
+  "sanskrit": "Ārya Aparimitāyurjñānahṛdaya nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 676 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya Aparimitāyurjñānahṛdaya nāma dhāraṇī and in Tibetan as the dhāraṇī called \"The Heart of the Noble Immeasurable Life and Wisdom.\" It belongs to the dhāraṇī section of the Kangyur and is concerned with the theme of immeasurable life and wisdom, centered on the buddha Amitāyus and the western pure realm of Bliss. The text is framed as a discourse delivered by the Buddha to an assembly of monks and bodhisattvas beside the Gaṅgā, and it incorporates both verse and prose to convey its sacred teachings and protective formulae. As a dhāraṇī sūtra, it combines canonical narrative framing with the presentation of a potent ritual formula, placing it among the scriptural collections dedicated to the recitation and preservation of enlightened qualities.",
+  "pdf": "files/toh676.pdf",
+  "txt": "files/toh676.txt",
+  "link84000": "",
+  "date": "2026-08-24"
  },
  {
   "corpus": "kangyur",
