@@ -11453,18 +11453,60 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 680,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called Immeasurable Praise of Qualities",
+  "sanskrit": "Āryaguṇāprameyastotradhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Devotional",
+   "Praise of the Buddha",
+   "Mantra"
+  ],
+  "explainer": "Toh 680 in the Kangyur is a dhāraṇī text known in Tibetan as འཕགས་པ་ཡོན་ཏན་བསྔགས་པ་དཔག་ཏུ་མེད་པ་ (Phags pa yon tan bsngags pa dpag tu med pa), rendered in English as \"The Noble Dhāraṇī of Immeasurable Praise of Qualities.\" It belongs to the dhāraṇī section of the Kangyur and centers on a sacred vidyā mantra associated with Avalokiteśvara and the buddha Amitābha, the Tathāgata of the Blissful realm (Sukhāvatī). The text presents the recitation formula along with an account of its benefits, chief among them the promise that one who recites it three hundred thousand times will behold Amitābha, and that any who read or hold the vidyā will recall their past lives across countless lifetimes and be reborn in the Pure Land. Though brief, it exemplifies the genre of practical dhāraṇī literature focused on purification, rebirth in Sukhāvatī, and devotion to bodhisattvas of compassion.",
+  "pdf": "files/toh680.pdf",
+  "txt": "files/toh680.txt",
+  "link84000": "",
+  "date": "2026-08-26"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 681,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The web of lotuses the root tantra of avalokitesvara",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Root Tantra King of Avalokiteśvara Called the Lotus Net",
+  "sanskrit": "Āryāvalokiteśvarapadmajālamūlatantrarājanāma",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Devotional",
+   "Mantra"
+  ],
+  "explainer": "Toh 681 in the Kangyur is a tantric scripture known in English as \"The Noble Root Tantra King of Avalokiteśvara Called the Lotus Net,\" corresponding to the Sanskrit Āryāvalokiteśvara-padmajāla-mūlatantra-rāja and the Tibetan འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་རྩ་བའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་པདྨ་དྲ་བ. It is a root tantra centering on the bodhisattva Avalokiteśvara, the lord of compassion, and takes the form of a teaching delivered by the Buddha to a vast maṇḍala assembly of monks and bodhisattvas gathered in a Himalayan forest grove. The text belongs to the tantra section of the Kangyur and is devoted to the practices, visualizations, and devotional frameworks associated with Avalokiteśvara, whose compassionate qualities are praised at the outset through a reverential homage. As a \"root tantra,\" it would have served as a foundational scriptural source for related ritual and contemplative traditions centered on this beloved bodhisattva.",
+  "pdf": "files/toh681.pdf",
+  "txt": "files/toh681.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-26"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 682,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Mahāyāna Sūtra Called 'The Heart of the Noble Unerring Lasso'",
+  "sanskrit": "Āryāmogha­pāśa­hṛdaya­nāma­mahāyāna­sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "Toh 682 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Āryāmogha­pāśa­hṛdaya and in Tibetan as the Phags pa don yod zhags pa'i snying po, rendered in English as \"The Heart of the Noble Unerring Lasso.\" The text belongs to the broader Amoghapāśa cycle, a corpus of scriptures centered on the bodhisattva Avalokiteśvara and the powerful noose-wielding form of this deity whose compassionate activity is said to be unerring in liberating beings from suffering. The sūtra opens with the Buddha residing on Potala Mountain, the celestial abode of Avalokiteśvara, surrounded by an immense assembly of monks, bodhisattvas, and divine beings, setting the stage for teachings concerned with devotion, compassion, and the salvific power associated with Amoghapāśa. As a Mahāyāna sūtra, it is classed among the works of the Kangyur's sūtra section and reflects a rich tradition of tantric-adjacent devotional literature that blends narrative splendor with the aspiration to universal liberation.",
+  "pdf": "files/toh682.pdf",
+  "txt": "files/toh682.txt",
+  "link84000": "",
+  "date": "2026-08-26"
  },
  {
   "corpus": "kangyur",
