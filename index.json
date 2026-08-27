@@ -94,16 +94,20 @@
   "corpus": "kangyur",
   "toh": 6,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Finer points of discipline",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Basis of Minor Vinaya Matters",
+  "sanskrit": "Vinayakṣudraka-vastu",
+  "category": "Vinaya (Monastic Discipline)",
+  "tags": [
+   "Prose",
+   "Verse",
+   "Ethics"
+  ],
+  "explainer": "Toh 6 in the Kangyur is the Vinayakṣudraka-vastu, known in Tibetan as the Dul wa trantsek kyi zhi (འདུལ་བ་ཕྲན་ཚེགས་ཀྱི་གཞི།), rendered in English as The Basis of Minor Vinaya Matters. It is a canonical Vinaya text belonging to the Mūlasarvāstivāda monastic code and deals with a wide range of minor rules and practical regulations governing the daily life of Buddhist monastics, covering topics as varied as tooth-scrapers, robes, bowls, water-strainers, and personal adornments. As the title suggests, it collects miscellaneous disciplinary matters that do not fit neatly into the major categories of the Vinaya but are nonetheless considered authoritative guidance for monastic conduct. This text forms part of the Vinaya section of the Kangyur, the collection of canonical scriptures attributed to the Buddha himself, and opens with the scene of the Buddha residing at Vaiśālī, establishing the narrative frame from which the individual rules and their origins are expounded.",
+  "pdf": "files/toh6.pdf",
+  "txt": "files/toh6.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-27"
  },
  {
   "corpus": "kangyur",
@@ -11512,31 +11516,39 @@
   "corpus": "kangyur",
   "toh": 683,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The incantation the essence of amoghapasa",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Heart of the Noble Infallible Lasso, of the Great Vehicle",
+  "sanskrit": "Ārya-Amogha-pāśa-hṛdaya-mahāyāna-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 683 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-Amogha-pāśa-hṛdaya-mahāyāna-dhāraṇī and in Tibetan as the Phakpa Dönyö Shakpé Nyingpo, meaning \"The Heart of the Noble Infallible Lasso of the Great Vehicle.\" It belongs to the dhāraṇī section of the Kangyur and centers on the bodhisattva Avalokiteśvara, whose emblematic attribute — the infallible lasso — symbolizes his power to rescue beings from suffering without fail. The text opens with a series of reverential homages to buddhas and bodhisattvas of the three times, to key figures such as Amitābha and Maitreya, and above all to Avalokiteśvara himself as the embodiment of great compassion, establishing a devotional frame for the dhāraṇī that follows. As a \"heart\" dhāraṇī, it distills the essence of a longer associated cycle and would have been used in ritual and contemplative practice within the Mahāyāna tradition.",
+  "pdf": "files/toh683.pdf",
+  "txt": "files/toh683.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-27"
  },
  {
   "corpus": "kangyur",
   "toh": 684,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The incantation the questions of narayana",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called the Noble Great Illusion, Bestower of Total Victory, Requested by the Son of Craving-Free",
+  "sanskrit": "Nārāyaṇapaipṛcchvā Āryamahāmāyāvijayavāhinī nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 684 in the Kangyur is a dhāraṇī text known in Sanskrit as the Nārāyaṇapaipṛcchvā Āryamahāmāyāvijayavāhinī and in Tibetan as the Srid med kyi bus zhus pa 'phags pa sgyu ma chen mo rnam par rgyal ba thob par byed pa, rendered into English as the Noble Great Illusion, Bestower of Total Victory, Requested by the Son of Craving-Free. It belongs to the dhāraṇī category of Buddhist canonical literature, which gathers sacred formulas believed to carry protective and transformative power. The text is framed as a discourse given by the Buddha at the summit of a mountain called Golden Horn, in the mansion of the deity Vaiśravaṇa, and centers on a son of an asura king who, having been defeated in battle and stripped of his glory, seeks the Buddha's aid — providing the occasion for the revelation of this powerful dhāraṇī. As Toh 684 in the Kangyur, it belongs to the broader collection of translated Indian Buddhist scriptures preserved in the Tibetan Buddhist canon.",
+  "pdf": "files/toh684.pdf",
+  "txt": "files/toh684.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-27"
  },
  {
   "corpus": "kangyur",
@@ -11567,6 +11579,43 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh686",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 687,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'That Which Perfectly Completes the Six Perfections of the Infallible Noose'",
+  "sanskrit": "Āryāmogha-pāśa-pāramitā-ṣaṭpāripūraka-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 687 in the Kangyur is a dhāraṇī text known in Sanskrit as the Āryāmogha-pāśa-pāramitā-ṣaṭpāripūraka-dhāraṇī and in Tibetan as the Phakpa Donyö Shakpé Parol Tu Chinpa Druk Yongsu Dzokpar Jepé Zung, meaning \"The Noble Dhāraṇī Called That Which Perfectly Completes the Six Perfections of the Infallible Noose.\" It belongs to the dhāraṇī class of Buddhist canonical literature, presenting a sacred mantra-formula connected with the bodhisattva Avalokiteśvara and his emblem of the infallible noose, and it frames this dhāraṇī as the very heart of the Perfection of Generosity, promising that even modest acts of giving, when combined with mindful recitation, yield great merit. The text opens with homages to all buddhas, bodhisattvas, and tathāgatas of the three times, situating its practice within the broader Mahāyāna framework of the six perfections. As Toh 687 in the Kangyur, it is preserved among the collections of dhāraṇī texts that form a significant portion of that great Tibetan Buddhist canon of translated Indian scriptures.",
+  "pdf": "files/toh687.pdf",
+  "txt": "files/toh687.txt",
+  "link84000": "",
+  "date": "2026-08-27"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 688,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of the Ten Grounds",
+  "sanskrit": "Daśabhūmidhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Dhāraṇī of the Ten Grounds, known in Sanskrit as the Daśabhūmidhāraṇī and in Tibetan as Sa Bcupa'i Gzungs, is a dhāraṇī text presenting a series of sacred mantra syllables and their associated benefits for practitioners of secret mantra. The text teaches that by reciting specific mantras a prescribed number of times — drawing on the power of figures such as Amoghapāśa — a practitioner can progressively attain each of the ten bodhisattva grounds, purify misdeeds, liberate beings from hell, and obtain various spiritual accomplishments. It belongs to the genre of dhāraṇī literature, which combines mantra practice with the doctrinal framework of the bodhisattva path as set out in Mahāyāna Buddhism. This text is Toh 688 in the Kangyur, where it is classified among the dhāraṇī collections.",
+  "pdf": "files/toh688.pdf",
+  "txt": "files/toh688.txt",
+  "link84000": "",
+  "date": "2026-08-27"
  },
  {
   "corpus": "kangyur",
