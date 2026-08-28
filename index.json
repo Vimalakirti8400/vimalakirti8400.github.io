@@ -11621,31 +11621,58 @@
   "corpus": "kangyur",
   "toh": 689,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Procedures for the king of practices of amoghapasa",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Ritual of the King of Rites of Amoghapāśa",
+  "sanskrit": "Ārya-Amoghapāśa-kalparāja-vidhi-nāma",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 689 in the Kangyur is a ritual text known in Sanskrit as the Ārya-Amoghapāśa-kalparāja-vidhi and in Tibetan as \"The Noble Ritual of the King of Rites of Amoghapāśa,\" which may be rendered into English as the Noble Ritual of the King of Rites of the Lasso of Unfailing Benefit. It belongs to the tantric section of the Kangyur and sets out detailed liturgical and recitation procedures centered on the bodhisattva Avalokiteśvara and his celebrated Amoghapāśa dhāraṇī, a powerful mantra associated with liberating beings from suffering and securing the fruits of awakening. The text is framed as a discourse in which the noble Avalokiteśvara addresses the Buddha and undertakes to reveal this elaborate ritual for the universal benefit and happiness of all beings, with the rite itself described as having been honored and praised by all buddhas. It appears to function as a companion or appendix to a larger Amoghapāśa cycle, since its opening lines indicate that it concludes the benefit and ritual section of the dhāraṇī of the Tenth Ground.",
+  "pdf": "files/toh689.pdf",
+  "txt": "files/toh689.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-28"
  },
  {
   "corpus": "kangyur",
   "toh": 690,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Detailed procedures for the thousandarmed thousandeyed avalokitesvara",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Detailed Ritual of the Noble Bodhisattva Avalokiteśvara, Lord with a Thousand Hands and a Thousand Eyes",
+  "sanskrit": "Āryāvalokiteśvara-sahasrabhujanayanavistaravidhi",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 690 in the Kangyur is a ritual text known in English as \"The Detailed Ritual of the Noble Bodhisattva Avalokiteśvara, Lord with a Thousand Hands and a Thousand Eyes,\" corresponding to the Sanskrit name associated with the celebrated Thousand-Armed Avalokiteśvara and known in Tibetan as Byang chub sems dpa' 'phags pa Spyan ras gzigs dbang phyug lag pa stong dang mig stong. The text belongs to the tantric or dhāraṇī literature of the Kangyur and centers on the great bodhisattva Avalokiteśvara in his thousand-armed, thousand-eyed form, presenting a detailed ritual framework that includes dhāraṇī teachings revealed by the Buddha Śākyamuni. Set in the jewel-adorned dwelling of Avalokiteśvara himself, the scripture unfolds as a canonical discourse in which the Blessed One reflects on the necessity of transmitting these powerful dhāraṇī instructions. It was translated into Tibetan by the monk-translator Lodén Sherab and subsequently edited and established as a definitive text.",
+  "pdf": "files/toh690.pdf",
+  "txt": "files/toh690.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-28"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 691,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called the Vast and Perfect Fulfillment of the Great Compassionate Mind of the Noble Bodhisattva Avalokiteśvara, Lord of the World, Possessor of a Thousand Hands and a Thousand Eyes, Free from All Obstruction",
+  "sanskrit": "Āryāvalokiteśvarasya sahasrabhujalocanamahakaruṇācittavistaraparipūrṇanāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Devotional",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 691 in the Kangyur is a dhāraṇī text known in English as \"The Vast and Perfect Fulfillment of the Great Compassionate Mind of the Noble Bodhisattva Avalokiteśvara, Possessor of a Thousand Hands and a Thousand Eyes, Free from All Obstruction,\" corresponding to the Sanskrit name that can be reconstructed around Avalokiteśvara's celebrated \"Great Compassion\" (Mahākaruṇā) dhāraṇī, and in Tibetan as Phags pa Chenrezig Wangchuk Chakstong Gyenstong dangldenpa. It belongs to the broader category of dhāraṇī and tantra-related scriptures within the Kangyur, presenting an extensive ritual and liturgical text centered on the bodhisattva Avalokiteśvara in his thousand-handed, thousand-eyed form. The text opens with the Buddha Śākyamuni teaching on Mount Potalā, the sacred abode of Avalokiteśvara, surrounded by a vast assembly of bodhisattvas, and proceeds to reveal the powerful dhāraṇī-mantra known as Grasping the Totality, along with its associated practices and merits. As one of the fuller, more elaborate versions of the Great Compassion dhāraṇī literature preserved in Tibetan translation, it holds an important place among the canonical texts dedicated to Avalokiteśvara's compassionate activity.",
+  "pdf": "files/toh691.pdf",
+  "txt": "files/toh691.txt",
+  "link84000": "",
+  "date": "2026-08-28"
  },
  {
   "corpus": "kangyur",
