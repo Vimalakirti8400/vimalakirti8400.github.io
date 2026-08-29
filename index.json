@@ -113,16 +113,20 @@
   "corpus": "kangyur",
   "toh": 7,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Preeminent account of discipline",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Supreme Text of the Vinaya",
+  "sanskrit": "Vinayottaragrantha",
+  "category": "Vinaya (Monastic Discipline)",
+  "tags": [
+   "Prose",
+   "Root text",
+   "Ethics"
+  ],
+  "explainer": "Toh 7 in the Kangyur is the Vinayottaragrantha — known in Sanskrit as the Vinayottaragrantha, in Tibetan as Dulwa Zhung Lama (འདུལ་བ་གཞུང་བླ་མ་), and rendered into English as The Supreme Text of the Vinaya. It is a Vinaya text, belonging to the broad class of monastic disciplinary literature that governs the rules and conduct of the Buddhist community of ordained practitioners. The text takes the form of a dialogue between the Buddha and the venerable Upāli, one of the Buddha's chief disciples and the foremost authority on monastic discipline, addressing detailed questions about the proper interpretation and application of the rules of training. As Toh 7 in the Kangyur, it belongs to the Vinaya section of the Tibetan Buddhist canon, which preserves the foundational codes of monastic law transmitted within the Mūlasarvāstivāda tradition.",
+  "pdf": "files/toh7.pdf",
+  "txt": "files/toh7.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-29"
  },
  {
   "corpus": "kangyur",
@@ -11676,18 +11680,79 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 692,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Heart of the Wish-Fulfilling Wheel of the Secret Treasury of the Noble Avalokiteśvara, the Unobstructed",
+  "sanskrit": "Āryāvalokiteśvarasya guhyakoṣāpratihatasya cintāmaṇicakrasya hṛdaya",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 692 in the Kangyur is a dhāraṇī text known in English as \"The Heart of the Wish-Fulfilling Wheel of the Secret Treasury of the Noble Avalokiteśvara, the Unobstructed,\" with the Tibetan title Pakpa Chenrezik Wangchuk gi Sangwé Dzö Thokpa Mepé Yizhin Kyi Khorlo Nyingpo. It belongs to the dhāraṇī genre of canonical literature, presenting a sacred formula and its surrounding narrative as spoken by the bodhisattva Avalokiteśvara, the great being of compassion, before the Buddha on the Sage's Peak. The text concerns the transmission of a powerful wish-fulfilling dhāraṇī — described as the \"Sandalwood Heart of the Great Many-Petalled Lotus Wheel\" — capable of fulfilling every aspiration of those who practice it. As a dhāraṇī sūtra attributed to Avalokiteśvara, it falls within the broader class of incantation texts found throughout the Kangyur, sitting alongside other works dedicated to this beloved bodhisattva and his compassionate activity.",
+  "pdf": "files/toh692.pdf",
+  "txt": "files/toh692.txt",
+  "link84000": "",
+  "date": "2026-08-29"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 693,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of the Noble Avalokiteśvara of Eleven Faces",
+  "sanskrit": "Ārya-Avalokiteśvara-ekādaśamukha-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 693 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-Avalokiteśvara-ekādaśamukha-nāma-dhāraṇī and in Tibetan as Phakpa Chenrezik Wangchuk Zhel Chungjikpa Zhejawé Zung, meaning \"The Noble Avalokiteśvara of Eleven Faces.\" It belongs to the dhāraṇī section of the Kangyur and presents a sacred mantra formula associated with Avalokiteśvara, the bodhisattva of compassion, in his eleven-faced form. The text is framed as a discourse in which Avalokiteśvara approaches the Buddha and proclaims this dhāraṇī — said to have been taught by an immeasurable number of buddhas — as a remedy capable of curing diseases, warding off evil and inauspiciousness, and dispelling bad dreams for the benefit of all sentient beings. As a dhāraṇī text, it belongs to a broad canonical genre concerned with the protective and liberating power of sacred verbal formulas, and it reflects the centrality of Avalokiteśvara's compassionate activity within the Mahāyāna tradition.",
+  "pdf": "files/toh693.pdf",
+  "txt": "files/toh693.txt",
+  "link84000": "",
+  "date": "2026-08-29"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 694,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The incantation the essence of the spell of elevenfaced avalokitesvara",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Heart of the Vidyā Mantra of the Noble Eleven-Faced One",
+  "sanskrit": "Āryamukhadaśaikāvidyāmantra-hṛdaya-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "Toh 694 in the Kangyur is a dhāraṇī text known in Sanskrit as the Āryamukhadaśaikāvidyāmantraḥṛdaya-nāma-dhāraṇī and in Tibetan as \"The Heart of the Vidyā Mantra of the Noble Eleven-Faced One,\" belonging to the broader category of dhāraṇī and mantra literature associated with Avalokiteśvara in his eleven-faced form. The text presents itself in the sūtra style, opening with the standard narrative frame of the Buddha dwelling at Śrāvastī surrounded by a great assembly of monastics, bodhisattvas, and non-human beings, before introducing its central dhāraṇī teaching. As its title suggests, it focuses on the heart-essence of the vidyā mantra connected to this multifaced emanation of Avalokiteśvara, a form widely venerated for his compassionate activity. The text was translated into Tibetan by the great editor-translator Yeshé Dé, one of the most prolific and important figures of the early Tibetan translation period.",
+  "pdf": "files/toh694.pdf",
+  "txt": "files/toh694.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-29"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 695,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of the Noble Avalokiteśvara",
+  "sanskrit": "Āryāvalokiteśvaradhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "Toh 695 in the Kangyur is a short dhāraṇī text known in Tibetan as Phags pa Spyan ras gzigs kyi dbang po'i rig pa, and in Sanskrit is associated with a vidyā of the noble Avalokiteśvara. The text belongs to the dhāraṇī section of the Kangyur and centers on a powerful mantra or vidyā devoted to Avalokiteśvara, the bodhisattva of compassion, whose name appears in both the opening homage and the body of the text. It opens with salutations to the Three Jewels and to Avalokiteśvara himself before presenting the vidyā in full, along with a description of its benefits — most notably the power to recall past lives across hundreds and thousands of rebirths. As is typical of dhāraṇī literature, the text is brief and liturgically oriented, intended for recitation and the practical attainment of spiritual and meritorious results.",
+  "pdf": "files/toh695.pdf",
+  "txt": "files/toh695.txt",
+  "link84000": "",
+  "date": "2026-08-29"
  },
  {
   "corpus": "kangyur",
