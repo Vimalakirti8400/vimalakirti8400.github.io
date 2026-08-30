@@ -11756,6 +11756,82 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 696,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called Noble Avalokiteśvara",
+  "sanskrit": "Ārya-Avalokiteśvara-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Devotional",
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "Toh 696 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-Avalokiteśvara-nāma-dhāraṇī and in Tibetan as Pakpa Chenrezik Shyingkyong gi Nyingpo, meaning \"The Dhāraṇī Called Noble Avalokiteśvara, Lord of the World.\" It belongs to the dhāraṇī section of the Kangyur and is devoted to the bodhisattva Avalokiteśvara, the great embodiment of compassion, presenting a visualization of his white, four-armed form seated upon a lotus, sun, and moon seat and holding a crystal rosary and white lotus. The text opens by describing how Avalokiteśvara, moved by loving-kindness and compassion, gave rise to the awakening mind and manifests in this iconic form for the benefit of beings. As a dhāraṇī scripture, it combines devotional invocation, iconographic description, and the recitation of sacred syllables, with the promise that practitioners who engage with it will be reborn in the pure land of Sukhāvatī.",
+  "pdf": "files/toh696.pdf",
+  "txt": "files/toh696.txt",
+  "link84000": "",
+  "date": "2026-08-30"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 697,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called the Noble Nīlakaṇṭha",
+  "sanskrit": "Ārya-Nīlakaṇṭha-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "The Noble Nīlakaṇṭha Dhāraṇī, known in Sanskrit as the Ārya-Nīlakaṇṭha-nāma-dhāraṇī and in Tibetan as the Phags pa Nī la kaṇ ṭha zhes bya ba'i gzungs, is a dhāraṇī text centered on the bodhisattva Avalokiteśvara in his form as Nīlakaṇṭha, the \"blue-throated one,\" a name evoking both his connection to Tantric iconography and his boundless compassion for sentient beings. The text opens with a series of reverent homages — to the Three Jewels, to the buddha Amitābha, and above all to Avalokiteśvara as Lord of the World — framing the dhāraṇī within a devotional context oriented toward the cultivation of wisdom, compassion, and skillful means. As a dhāraṇī scripture, it belongs to the broader genre of ritual and mantra literature preserved in the Kangyur, where such texts are prized for their protective and spiritually transformative power. It is catalogued as Toh 697 in the Kangyur, situated among the dhāraṇī collections of that canon.",
+  "pdf": "files/toh697.pdf",
+  "txt": "files/toh697.txt",
+  "link84000": "",
+  "date": "2026-08-30"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 698,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'Unstained by Compassion'",
+  "sanskrit": "Ārya-kāruṇā-anavilā-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Devotional",
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "Toh 698 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-kāruṇā-anavilā-dhāraṇī and in Tibetan as \"Phags pa snying rjes mi bshol ba zhes bya ba'i gzungs,\" rendered in English as something like \"The Noble Dhāraṇī Undefiled by Compassion.\" It belongs to the dhāraṇī section of the Kangyur and presents a sacred incantation associated with the bodhisattva Avalokiteśvara, the embodiment of compassion, whose recitation is said to liberate beings from harm, illness, malevolent spirits, and the eight states of unfortunate rebirth. The text opens with homages to the Three Jewels, to vast numbers of fully awakened buddhas, and to Avalokiteśvara himself before introducing the dhāraṇī as spoken by that noble bodhisattva and intended for the protection and welfare of all beings.",
+  "pdf": "files/toh698.pdf",
+  "txt": "files/toh698.txt",
+  "link84000": "",
+  "date": "2026-08-30"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 699,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called Samantabhadra",
+  "sanskrit": "Ārya-Samantabhadra-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 699 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-Samantabhadra-nāma-dhāraṇī and in Tibetan as Phags pa kun tu bzang po zhes bya ba'i gzungs, meaning in English \"The Noble Dhāraṇī Called Samantabhadra.\" It belongs to the dhāraṇī section of the Kangyur, a class of texts centered on sacred formulas understood to carry powerful protective and spiritual efficacy. The text takes the form of a sūtra, opening with the Buddha residing on Vulture Peak Mountain before the great bodhisattva Avalokiteśvara rises to address him, providing the narrative occasion for the dhāraṇī's revelation. As a dhāraṇī bearing the name of Samantabhadra, one of the foremost bodhisattvas associated with virtuous aspiration and enlightened activity, the text reflects the Mahāyāna tradition's integration of devotional practice and sacred speech within a vast assembly of monks, bodhisattvas, and divine beings.",
+  "pdf": "files/toh699.pdf",
+  "txt": "files/toh699.txt",
+  "link84000": "",
+  "date": "2026-08-30"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 700,
   "suffix": "",
   "state": "awaiting",
