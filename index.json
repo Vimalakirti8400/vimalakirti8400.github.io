@@ -11834,31 +11834,38 @@
   "corpus": "kangyur",
   "toh": 700,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The practice of lokesvara",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Thought of the Lord of the World",
+  "sanskrit": "Lokeśvarakalpa",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Devotional",
+   "Mantra"
+  ],
+  "explainer": "Toh 700 in the Kangyur, known in Sanskrit as the Lokeśvara-kalpa and in Tibetan as the Jikten Wangchuk gi Tokpa, meaning The Thought of the Lord of the World, is a ritual tantra centered on Avalokiteśvara, the bodhisattva of compassion venerated as the Lord of the World. The text describes itself as a great tantra of all the buddhas, promising the fulfillment of every wish, and its opening instructions — on purifying a meditation seat, forming the lotus mudrā, and contemplating emptiness — are characteristic of the liturgical and sādhana literature of the tantric canon. It was translated into Tibetan by the monk Yeshe De and revised in accordance with the standardized terminology established during the great translation reforms. Sitting among the tantric works of the Kangyur, this text belongs to the broad category of Buddhist tantra concerned with deity yoga and mantra practice focused on a principal bodhisattva figure.",
+  "pdf": "files/toh700.pdf",
+  "txt": "files/toh700.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-31"
  },
  {
   "corpus": "kangyur",
   "toh": 701,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The lotus diadem tantra",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Tantra Called the Lotus Crown",
+  "sanskrit": "Padmamukuṭatantra nāma",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "The Tantra Called the Lotus Crown, known in Sanskrit as the Padmamukuṭantra and in Tibetan as Padma Cod pan zhes bya ba'i rgyud, is a tantric scripture belonging to the Kangyur, where it is catalogued as Toh 701. It is a tantric text set in a celestial palace where the Buddha, manifest in the enjoyment body, enters into a state of meditative absorption radiating great compassion, with light touching the vast realm of Vairocana and making offerings to thousands of buddhas of the Good Aeon. The text thus situates itself within a richly cosmological and devotional framework characteristic of Buddhist tantric literature, with its homage directed to Mañjuśrī. It was translated into Tibetan by the monk-translator Parisgyur.",
+  "pdf": "files/toh701.pdf",
+  "txt": "files/toh701.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-08-31"
  },
  {
   "corpus": "kangyur",
@@ -11889,6 +11896,25 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh703",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 704,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of Avalokiteśvara",
+  "sanskrit": "Avalokiteśvaradhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 704 in the Kangyur is a short dhāraṇī text devoted to the bodhisattva Avalokiteśvara, known in Tibetan as Phags pa spyan ras gzigs dbang phyug, and belonging to the broader Sanskrit dhāraṇī literature associated with this deity. The text centers on a ritual dhāraṇī formula invoking Avalokiteśvara's great compassion, accompanied by practical instructions for its application: the arrangement of maṇḍalas, the recitation of the mantra a prescribed number of times, and the anointing of a sick person, all directed toward the healing and pacification of illness. It specifies conditions and time frames for the rite's efficacy, including the caveat that those who have committed the five acts of immediate retribution may not achieve the desired result. The text was translated into Tibetan by the translation-scholar Śerab Jungne, and it belongs to the dhāraṇī section of the Kangyur, representing the canonical genre of short ritual and mantra texts associated with great bodhisattvas.",
+  "pdf": "files/toh704.pdf",
+  "txt": "files/toh704.txt",
+  "link84000": "",
+  "date": "2026-08-31"
  },
  {
   "corpus": "kangyur",
