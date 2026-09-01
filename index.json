@@ -11918,6 +11918,25 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 705,
+  "suffix": "",
+  "state": "translated",
+  "title": "The One Hundred and Eight Names of the Noble Avalokiteśvara",
+  "sanskrit": "Āryāvalokiteśvarasya nāma aṣṭaśatakaṃ",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Devotional",
+   "Praise of the Buddha",
+   "Narrative"
+  ],
+  "explainer": "The One Hundred and Eight Names of the Noble Avalokiteśvara, known in Sanskrit as the Āryāvalokiteśvarasya nāma aṣṭaśatakaṃ and in Tibetan as Phakpa Chenrezik Wangchuk gi Tsen Gyatsa Gyepa, is a devotional sūtra enumerating one hundred and eight names of the great bodhisattva Avalokiteśvara, the Sovereign Lord of Vision. Set at the celestial palace atop Potala Mountain — the mythic abode of Avalokiteśvara himself — the text opens with a vast assembly of gods, nāgas, and other beings gathered in reverence before the Blessed One, establishing the occasion for the recitation of these sacred names. As a collection of epithets honoring one of the most beloved figures in the Mahāyāna tradition, it belongs to the category of nāmasaṃgīti or name-praise literature. This text is Toh 705 in the Kangyur, and was translated into Tibetan by the scholar Ngok Loden Sherab together with a Kashmirian paṇḍita.",
+  "pdf": "files/toh705.pdf",
+  "txt": "files/toh705.txt",
+  "link84000": "",
+  "date": "2026-09-01"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 706,
   "suffix": "",
   "state": "at84000",
@@ -11930,6 +11949,59 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh706",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 707,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'Beautiful of Bodily Form'",
+  "sanskrit": "Ārya-rucirāṅgayaṣṭi-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "Toh 707 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-rucirāṅgayaṣṭi-nāma-dhāraṇī and in Tibetan as \"The Noble Dhāraṇī Called Beautiful of Bodily Form.\" It belongs to the dhāraṇī section of the Kangyur, a class of texts centered on sacred formulas believed to confer protection, purification, and spiritual benefit upon those who recite or uphold them. This particular dhāraṇī is addressed to a luminous, jewel-crowned, lotus-bearing bodhisattva figure and invokes powers of dispelling darkness and negative rebirths, pacifying afflictions such as desire, hatred, and delusion, and bringing relief and fulfillment to all sentient beings. The text's opening syllables and extended mantra strings are characteristic of the genre, combining praise of the bodhisattva's radiant form with supplication for the liberation and consolation of all beings.",
+  "pdf": "files/toh707.pdf",
+  "txt": "files/toh707.txt",
+  "link84000": "",
+  "date": "2026-09-01"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 708,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble, Invincible Bestower of Fearlessness",
+  "sanskrit": "Ārya-abhayapradāna-nāmāparājita",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 708 in the Kangyur is a canonical Buddhist scripture known in English as \"The Noble, Invincible Bestower of Fearlessness,\" in Sanskrit as the Ārya-abhayapradāna-nāmāparājita, and in Tibetan as Phakpa zhengyi mitubpa mijikpa jin. It is a dhāraṇī-related or ritual text centered on the bodhisattva Avalokiteśvara, the embodiment of great compassion, and is concerned with the bestowal of fearlessness and the liberation of sentient beings from suffering and bondage. The text opens with an extended series of homages to the Three Jewels and to Avalokiteśvara that establish its devotional and soteriological character. It was translated from Sanskrit into Tibetan by the Indian master Prajñāvarman together with the great editor-translator Bandé Yeshé Dé, and it belongs to the broader class of Mahāyāna scriptures associated with compassion and protective practice found within the Kangyur.",
+  "pdf": "files/toh708.pdf",
+  "txt": "files/toh708.txt",
+  "link84000": "",
+  "date": "2026-09-01"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 709,
+  "suffix": "",
+  "state": "translated",
+  "title": "Toh 709 in the Kangyur is a ritual or devotional text in verse, known in Tibetan",
+  "sanskrit": "",
+  "category": "Other",
+  "tags": [],
+  "explainer": "Toh 709 in the Kangyur is a ritual or devotional text in verse, known in Tibetan as beginning with homage to the seven fully and perfectly awakened buddhas, and its contents invoke those seven buddhas along with their śrāvaka Saṅghas, praising their qualities and seeking protection and well-being. The text names several of the seven buddhas of antiquity — including Kanakamuni, Kāśyapa, and Śākyamuni — celebrating their distinctive virtues such as vast vision, miraculous power, and diligence, and incorporates Sanskrit dhāraṇī-like phrases suggestive of a protective or apotropaic character. It belongs to the broader category of dhāraṇī or ritual literature within the Kangyur, a class of texts prized for their powers of blessing, protection, and liberation.",
+  "pdf": "files/toh709.pdf",
+  "txt": "files/toh709.txt",
+  "link84000": "",
+  "date": "2026-09-01"
  },
  {
   "corpus": "kangyur",
