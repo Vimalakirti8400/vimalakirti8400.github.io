@@ -12091,6 +12091,100 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 715,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of the Thousand Ślokas",
+  "sanskrit": "Śālokaśahasrāvabodhā dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "Toh 715 in the Kangyur is a short dhāraṇī text in Tibetan, associated in Sanskrit with the tradition of Avalokiteśvara and known in English as the Dhāraṇī for Mastering a Thousand Ślokas. It belongs to the broad category of dhāraṇī literature, presenting a brief mantra and accompanying ritual instructions focused on enhancing memory and learning, specifically enabling the practitioner to master a thousand verses in a single day. The text opens with homages to the Three Jewels and to the bodhisattva Avalokiteśvara, invoking his compassionate power as the ritual's presiding figure, and prescribes a seven-day practice of reciting the mantra over water, drinking it, and observing a simple dietary discipline. As a dhāraṇī belonging to the Kangyur, it sits within the canonical collection of Buddha-word and closely associated texts preserved in the Tibetan Buddhist tradition.",
+  "pdf": "files/toh715.pdf",
+  "txt": "files/toh715.txt",
+  "link84000": "",
+  "date": "2026-09-10"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 716,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of the Noble Avalokiteśvara",
+  "sanskrit": "Āryāvalokiteśvaradhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "Toh 716 in the Kangyur is a short dhāraṇī text known in Tibetan as the dhāraṇī for memorizing, addressed to the noble Avalokiteśvara — the great bodhisattva of compassion known in Sanskrit as Avalokiteśvara and in Tibetan as Spyan ras gzigs dbang phyug. It belongs to the dhāraṇī genre of canonical literature, presenting a brief mantra ritual in which a practitioner forms a maṇḍala before Avalokiteśvara, recites the mantra one hundred and eight times over a thumb-sized portion of butter, and consumes it to gain extraordinary powers of memorization, progressively retaining thousands of verses over the course of seven days. The text is placed among the dhāraṇī collections of the Kangyur and is representative of the practical, ritual-oriented scriptures within that corpus that invoke the power of bodhisattvas to confer specific worldly and spiritual benefits.",
+  "pdf": "files/toh716.pdf",
+  "txt": "files/toh716.txt",
+  "link84000": "",
+  "date": "2026-09-10"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 717,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of the Noble Avalokiteśvara",
+  "sanskrit": "Āryāvalokiteśvaradhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "Toh 717 in the Kangyur is a short dhāraṇī text associated with the bodhisattva Avalokiteśvara, known in Sanskrit as Avalokiteśvara and in Tibetan as Spyan ras gzigs dbang phyug. The text consists primarily of a mantra formula invoking qualities of memory, radiance, and purification, opening with homage to the Three Jewels and to Avalokiteśvara as the great bodhisattva and Lord of Vision. As is characteristic of dhāraṇī literature, its contents are largely encoded in a string of sacred syllables intended for recitation and ritual use rather than doctrinal exposition. It belongs to the dhāraṇī section of the Kangyur, a broad canonical collection of such protective and efficacious formulae connected to major bodhisattvas and buddhas of the Mahāyāna tradition.",
+  "pdf": "files/toh717.pdf",
+  "txt": "files/toh717.txt",
+  "link84000": "",
+  "date": "2026-09-10"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 718,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī Called Cultivating Wisdom",
+  "sanskrit": "Prajñāvardhanī Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "Toh 718 in the Kangyur is a dhāraṇī text known in Sanskrit as the Prajñāvardhanī Nāma Dhāraṇī and in Tibetan as the Shes rab sgong ba zhes bya ba'i gzungs, meaning \"The Dhāraṇī Called Cultivating Wisdom.\" It belongs to the general class of dhāraṇī literature, presenting a sacred formula intended to sharpen the memory and deepen the wisdom of practitioners whose understanding is dull or unsteady, with the text specifying that reciting the mantra over food and consuming it will ensure that whatever one has heard is retained without forgetting. The text is set on the slope of Mount Meru, where the bodhisattva Matimān teaches the Dharma to an assembly of divine sons, and a great bodhisattva of youthful form then requests the teaching on behalf of beings with weak and wandering minds. As a relatively brief dhāraṇī sūtra, it sits within the broader collection of dhāraṇī and mantra scriptures preserved in the Kangyur.",
+  "pdf": "files/toh718.pdf",
+  "txt": "files/toh718.txt",
+  "link84000": "",
+  "date": "2026-09-10"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 719,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called That Which Cultivates Wisdom",
+  "sanskrit": "Prajñāvardhanī nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 719 in the Kangyur is a short dhāraṇī text known in English as \"That Which Cultivates Wisdom,\" in Sanskrit as the Prajñāvardhanī nāma dhāraṇī, and in Tibetan as the Shes rab skyed pa zhes bya ba'i gzungs. It belongs to the dhāraṇī class of canonical literature, presenting a brief but potent mantra accompanied by a simple ritual instruction: the mantra is to be recited three times over warm water, which is then drunk, with the promise that within seven days the practitioner will gain the ability to retain whatever they have heard. The text is closely associated with the bodhisattva Avalokiteśvara, to whom homage is paid at the outset, and its single mantra — Galate galate manite svāhā — forms the heart of the entire work. It was translated into Tibetan by the Indian master Jñānagarbha together with the Tibetan monk-translator Nāgadbang.",
+  "pdf": "files/toh719.pdf",
+  "txt": "files/toh719.txt",
+  "link84000": "",
+  "date": "2026-09-10"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 723,
   "suffix": "",
   "state": "awaiting",
