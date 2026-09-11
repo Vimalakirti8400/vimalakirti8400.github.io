@@ -12185,18 +12185,78 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 720,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī Following the Bodhimaṇḍa, Showing the Tathāgata's Wisdom",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "Toh 720 in the Kangyur is a short dhāraṇī text concerned with the cultivation of wisdom and the power of retention, commonly known in English as the Dhāraṇī for Retaining What One Has Heard. It belongs to the dhāraṇī class of canonical literature, presenting a sacred mantra formula attributed to the Buddha Śākyamuni together with brief ritual instructions on how its recitation — including a practice involving medicine held in the palm — sharpens the intellect and enables the practitioner to remember whatever has been heard. The text was translated into Tibetan from Sanskrit by the Indian master Vidyākarasiṃha in collaboration with the great translator-monk Devacandra, who requested and finalized the rendering, though a Sanskrit title is not explicitly preserved in the available source lines.",
+  "pdf": "files/toh720.pdf",
+  "txt": "files/toh720.txt",
+  "link84000": "",
+  "date": "2026-09-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 721,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra called 'Showing All the Arrayed Buddha-fields by the Blessing of All the Tathāgatas, Beholding Sentient Beings'",
+  "sanskrit": "Ārya-sarvatathāgatādhiṣṭhānasattvavalokenabbuddhakṣetranirdeśanāvyūha-nāma-mahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Cosmology",
+   "Devotional"
+  ],
+  "explainer": "Toh 721 in the Kangyur is a Mahāyāna sūtra known in Sanskrit as the Ārya-sarvatathāgatādhiṣṭhānasattvavalokenbuddha­kṣetranirdeśanāvyūha and in Tibetan as Pakpa Deshин Shekpa Thamché Kyi Jingyilab Semchen La Sikching Sangyé Kyi Shing Gi Köpa Küntu, rendered in English as \"The Noble Great Vehicle Sūtra called Showing All the Arrayed Buddha-fields by the Blessing of All the Tathāgatas, Beholding Sentient Beings.\" The text belongs to the sūtra section of the Kangyur and opens in the classic manner of a buddha-word discourse, with the Buddha residing on Mount Gṛdhrakūṭa at the abode of the bodhisattva Avalokiteśvara, surrounded by a great assembly of arhats and bodhisattvas. Its central concern is the revelation of the arrayed pure buddha-fields made visible through the collective blessing and compassionate gaze of all the tathāgatas toward sentient beings. As a Mahāyāna sūtra, it thus celebrates the visionary splendor of the buddha-fields while emphasizing the saving power that flows from the unified grace of all awakened ones.",
+  "pdf": "files/toh721.pdf",
+  "txt": "files/toh721.txt",
+  "link84000": "",
+  "date": "2026-09-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 722,
+  "suffix": "",
+  "state": "translated",
+  "title": "Aspirations Arising from the Tantra of the Wish-Fulfilling Jewel of the Noble Avalokiteśvara",
+  "sanskrit": "",
+  "category": "Tantra",
+  "tags": [
+   "Devotional",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 722 in the Kangyur is a devotional prayer text known in English as \"Aspirations Arising from the Tantra of the Wish-Fulfilling Jewel of the Noble Avalokiteśvara,\" corresponding to the Sanskrit name associated with Avalokiteśvara's cintāmaṇi (wish-fulfilling jewel) cycle of teachings, and preserved in Tibetan as the text whose title begins \"Phags pa spyan ras gzigs dbang phyug yid bzhin gyi nor bu'i rtog pa las smon lam 'byung ba.\" It is a supplicatory aspiration text, or prayer, drawn from or connected to a tantra centered on the bodhisattva Avalokiteśvara in his wish-fulfilling jewel form, and its contents focus on invoking Avalokiteśvara by name so that the suffering, fears, harms, and adversaries of the practitioner and all sentient beings may be pacified. The text opens with reverential salutations to the buddha Amitābha, the Three Jewels, and Avalokiteśvara himself, reflecting its roots in the Pure Land and compassion-oriented devotional traditions. Situated within the Kangyur, the collection of Buddha's word in Tibetan translation, it belongs broadly to the category of tantric or dhāraṇī-related literature associated with Avalokiteśvara's vast cycle of compassionate practice.",
+  "pdf": "files/toh722.pdf",
+  "txt": "files/toh722.txt",
+  "link84000": "",
+  "date": "2026-09-11"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 723,
   "suffix": "",
-  "state": "awaiting",
-  "title": "A summary of the benefits of the incantation of avalokitsvara",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Avalokiteśvara, Lord of Great Compassion — A Concise Summary of the Benefits of the Dhāraṇī",
+  "sanskrit": "Mahākaruṇikā nāma ārya Avalokiteśvara dhāraṇī anuśaṃsa sahita sūtrāt saṃgrahīha",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Devotional",
+   "Praise of the Buddha",
+   "Ritual"
+  ],
+  "explainer": "Toh 723 in the Kangyur is a dhāraṇī sūtra known in Sanskrit as the Mahākaruṇikā nāma ārya Avalokiteśvara dhāraṇī anuśaṃsa sahita sūtrāt saṃgrahīha, and in Tibetan as the Noble Avalokiteśvara, Lord of Great Compassion — A Concise Summary of the Benefits of the Dhāraṇī. The text belongs to the dhāraṇī section of the Kangyur and presents itself as a discourse delivered in the presence of the Buddha at Mount Potala, the sacred abode of Avalokiteśvara. In it, the bodhisattva Avalokiteśvara himself rises to speak, describing a dhāraṇī of Great Compassion and expounding its spiritual benefits. The work thus combines the sūtra genre with dhāraṇī literature, centering on the compassionate activity of Avalokiteśvara and the power of his quintessential mantra to bring about protection and liberation for beings.",
+  "pdf": "files/toh723.pdf",
+  "txt": "files/toh723.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-09-11"
  },
  {
   "corpus": "kangyur",
@@ -12227,6 +12287,25 @@
   "txt": "",
   "link84000": "",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 725,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called 'The Mother of Noble Avalokiteśvara'",
+  "sanskrit": "Ārya-Avalokiteśvara-mātā-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Narrative",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 725 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-Avalokiteśvara-mātā-nāma-dhāraṇī and in Tibetan as the Phagpa Chenrezik Wangchuk gi Yum zhes bya ba'i Zung, meaning \"The Dhāraṇī Called The Mother of Noble Avalokiteśvara.\" As a dhāraṇī scripture, it belongs to the broad category of tantric or ritual literature focused on sacred mantra formulas, and its title links it to Avalokiteśvara, the great bodhisattva of compassion, framing the dhāraṇī as a kind of feminine or generative source associated with him. The text opens in the manner of a sūtra, with the Buddha residing in Vaiśālī amid a vast assembly of monks and bodhisattvas, and it is the bodhisattva Samantabhadra who rises to prompt the teaching. It is preserved in the Dhāraṇī section of the Kangyur as Toh 725.",
+  "pdf": "files/toh725.pdf",
+  "txt": "files/toh725.txt",
+  "link84000": "",
+  "date": "2026-09-11"
  },
  {
   "corpus": "kangyur",
