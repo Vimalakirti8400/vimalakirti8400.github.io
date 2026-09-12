@@ -12324,6 +12324,25 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 727,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Lady Tārā's One Hundred and Eight Names",
+  "sanskrit": "Ārya Tārā Bhaṭṭārikā Nāma Aṣṭaśatakaṃ",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Devotional",
+   "Praise of the Buddha"
+  ],
+  "explainer": "Toh 727 in the Kangyur is a hymn known in Sanskrit as the Ārya Tārā Bhaṭṭārikā Nāma Aṣṭaśatakaṃ and in Tibetan as the Rje btsun ma 'phags ma sgrol ma'i mtshan brgya rtsa brgyad, meaning \"The Noble Lady Tārā's One Hundred and Eight Names.\" As its title indicates, it belongs to the genre of nāmastotra, or praise through enumeration of names, a form of devotional literature in which a deity's qualities and powers are celebrated through a sequence of epithets. The text is dedicated to Tārā, one of the most beloved bodhisattvas in the Mahāyāna and Vajrayāna traditions, revered as a swift protector and embodiment of compassionate activity. It was translated into Tibetan by the Indian master Dharmashrimitra and the Tibetan monk-translator Chökyi Zangpo, and it is preserved among the dhāraṇī and praise literature of the Kangyur.",
+  "pdf": "files/toh727.pdf",
+  "txt": "files/toh727.txt",
+  "link84000": "",
+  "date": "2026-09-12"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 728,
   "suffix": "",
   "state": "at84000",
@@ -12339,6 +12358,44 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 729,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of Ārya Tārā Subduing All Evil",
+  "sanskrit": "Tāre tuttare ture sarvaduṣṭapraduṣṭadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 729 in the Kangyur is a short dhāraṇī text associated with the bodhisattva Tārā, known in Sanskrit as a Tārā dhāraṇī and preserved in Tibetan within the collection of tantric and dhāraṇī works. The text opens with homage to the Three Jewels and to Āryāvalokiteśvara, reflecting the close relationship in Buddhist tradition between Tārā and Avalokiteśvara, and proceeds immediately into a mantra formula invoking Tārā with the well-known syllables oṃ tāre tuttare ture, accompanied by commands to subdue, paralyze, bewilder, and bind all malevolent forces. As a dhāraṇī, it belongs to the broader class of ritual and protective texts within the Kangyur, functioning as a concentrated formula believed to carry the power and blessings of the deity. Its brevity and structure are characteristic of the many standalone dhāraṇī texts preserved in the Kangyur, intended for recitation in devotional and ritual contexts.",
+  "pdf": "files/toh729.pdf",
+  "txt": "files/toh729.txt",
+  "link84000": "",
+  "date": "2026-09-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 730,
+  "suffix": "",
+  "state": "translated",
+  "title": "Noble Tārā's Own Pledge Dhāraṇī",
+  "sanskrit": "Ārya-Tārā-sva-pratijñā-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 730 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-Tārā-sva-pratijñā-nāma-dhāraṇī and in Tibetan as \"Noble Tārā's Own Pledge,\" which may be rendered into English as \"The Dhāraṇī Called Noble Tārā's Own Pledge.\" It belongs to the dhāraṇī section of the Kangyur and consists of a short but potent series of mantra syllables presented as a sacred commitment or vow of the bodhisattva Tārā herself. The text centers on the protective and liberating power of Tārā, promising that even the mere mental recollection of this dhāraṇī mantra is sufficient to dispel fears and bring about spiritual attainments. As is characteristic of dhāraṇī literature, the work is devotional and practical in orientation, invoking Tārā's vow to aid beings and situating her within the broader Mahāyāna framework of compassionate bodhisattva activity.",
+  "pdf": "files/toh730.pdf",
+  "txt": "files/toh730.txt",
+  "link84000": "",
+  "date": "2026-09-12"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 731,
   "suffix": "",
   "state": "at84000",
@@ -12351,6 +12408,44 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh731",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 732,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of the Noble Lady of Renown",
+  "sanskrit": "Āryayaśovatīdhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "Toh 732 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-yaśovatī-dhāraṇī and in Tibetan as the Dhāraṇī of the Noble Lady of Renown. It belongs to the broader class of dhāraṇī literature and consists of a collection of protective mantras and ritual instructions, several of which are attributed to or invoked through the bodhisattva Avalokiteśvara, offering remedies for epidemic disease, spirit-possession, and other afflictions. The text appears immediately following the Sūtra of the Noble Lady Tārā Protecting from the Eight Fears, with which it shares its manuscript context, suggesting it circulated alongside related protective and devotional materials. As a dhāraṇī scripture, it is characteristic of the Kangyur's extensive corpus of short ritual texts presenting mantra formulas together with practical instructions for their application.",
+  "pdf": "files/toh732.pdf",
+  "txt": "files/toh732.txt",
+  "link84000": "",
+  "date": "2026-09-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 733,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of the Noble Avalokiteśvara-Hayagrīva",
+  "sanskrit": "Āryāvalokiteśvara-Hayagrīva-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 733 in the Kangyur is a dhāraṇī text known in Sanskrit as the Āryāvalokiteśvara-Hayagrīva-dhāraṇī and in Tibetan as the dhāraṇī of the noble Avalokiteśvara-Hayagrīva. It is a short ritual and devotional text centered on the bodhisattva Avalokiteśvara in his fierce horse-headed form as Hayagrīva, opening with an extended homage that praises him as a being of great compassion who protects sentient beings from fear, severs bonds, pacifies suffering, and holds mastery over all vidyā-kings. The text belongs to the dhāraṇī genre of the Kangyur, a class of works preserving sacred verbal formulas believed to concentrate and transmit the spiritual power of enlightened beings. It sits within the broader collection of dhāraṇī and mantra texts that form a significant portion of the Kangyur's ritual literature.",
+  "pdf": "files/toh733.pdf",
+  "txt": "files/toh733.txt",
+  "link84000": "",
+  "date": "2026-09-12"
  },
  {
   "corpus": "kangyur",
