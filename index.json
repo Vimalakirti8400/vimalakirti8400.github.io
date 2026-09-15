@@ -132,16 +132,20 @@
   "corpus": "kangyur",
   "toh": 7,
   "suffix": "a",
-  "state": "awaiting",
-  "title": "Preeminent account of discipline",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Supreme Text of Monastic Discipline",
+  "sanskrit": "Vinaya Uttaragrantha",
+  "category": "Vinaya (Monastic Discipline)",
+  "tags": [
+   "Verse",
+   "Root text",
+   "Ethics"
+  ],
+  "explainer": "The Supreme Text of Monastic Discipline, known in Sanskrit as the Vinaya Uttaragrantha and in Tibetan as Dulwa Zhung Dampa, is a canonical Vinaya text belonging to the Mūlasarvāstivāda monastic code. It forms part of the extensive Vinaya collection within the Kangyur and is catalogued as Toh 7. The text takes the form of a detailed legal and disciplinary analysis, structured around questions posed by the Elder Upāli to the Buddha, and concerns itself with fine points of monastic law — particularly the rules governing the root offense of unchaste conduct, exploring edge cases and hypothetical scenarios with considerable technical precision. As a supplementary or \"upper\" treatise to the core Vinaya, it extends and refines the foundational rules of the Mūlasarvāstivāda tradition, occupying an important place in the broader body of texts regulating the conduct and communal life of Buddhist monastics.",
+  "pdf": "files/toh7a.pdf",
+  "txt": "files/toh7a.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-09-15"
  },
  {
   "corpus": "kangyur",
@@ -12639,16 +12643,20 @@
   "corpus": "kangyur",
   "toh": 744,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The tantra of vajrapatala",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble King of Tantras Called Vajra Underground",
+  "sanskrit": "Ārya-Vajrapātāla-nāma-tantra-rāja",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 744 in the Kangyur is a tantric scripture known in English as The Noble King of Tantras Called Vajra-Pātāla, the Vajra Underground, in Sanskrit as the Ārya-Vajrapātāla-nāma-tantra-rāja, and in Tibetan as Pakpa Dorje Sa-ok gi Gyü kyi Gyalpo. It belongs to the class of tantra texts and concerns teachings delivered by the Buddha while dwelling at the Jeta Grove in Śrāvastī, before a vast assembly of monks, gods, and bodhisattvas including Mañjuśrī, Ākāśagarbha, and Samantabhadra. The text's title evokes the imagery of a subterranean vajra realm, suggesting esoteric content related to tantric cosmology and ritual. As a king of tantras, it represents one of the more elevated and comprehensive categories of Buddhist esoteric scripture preserved within the Kangyur.",
+  "pdf": "files/toh744.pdf",
+  "txt": "files/toh744.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-09-15"
  },
  {
   "corpus": "kangyur",
@@ -12679,6 +12687,82 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh747",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 748,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of the Ritual of the Noble Vajrapāṇi Who Wears the Blue Garment",
+  "sanskrit": "Ārya-Nīlāmbaradhara-Vajrapāṇi-Kalpa-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 748 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-Nīlāmbaradhara-Vajrapāṇi-Kalpa-nāma-dhāraṇī and in Tibetan as the Phakpa Lakna Dorjé Gö Ngönpochen Gyi Choga Shyepa'i Zung, rendered in English as \"The Dhāraṇī Called 'The Ritual of the Noble Vajrapāṇi Who Wears the Blue Garment.'\" It belongs to the dhāraṇī section of the Kangyur and centers on a fearsome, wrathful form of Vajrapāṇi — the great chieftain of the yakṣas — who is adorned with serpents, whose eyes blaze like fire, and who is endowed with the nāga lord's jewels, making him a powerful protector invoked through sacred mantra and ritual. The text opens with a vivid homage that vividly evokes this deity's terrifying splendor and his authorization by countless buddhas, establishing the devotional and ritual context for the dhāraṇī that follows.",
+  "pdf": "files/toh748.pdf",
+  "txt": "files/toh748.txt",
+  "link84000": "",
+  "date": "2026-09-15"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 749,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Vajrapāṇi's Eight Names Together with the Secret Mantra",
+  "sanskrit": "Āryavajrapāṇyaṣṭanāma Saguhyamantra",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "Toh 749 in the Kangyur is a short tantric text known in English as \"The Noble Vajrapāṇi's Eight Names Together with the Secret Mantra,\" corresponding to the Tibetan \"Phags pa lag na rdo rje'i mtshan brgyad pa gsang sngags dang bcas pa.\" It belongs to the class of mantra or dhāraṇī literature and centers on the eight names of Vajrapāṇi, the bodhisattva who serves as Lord of Secrets, along with the secret mantra and ritual instructions associated with his veneration. The text takes the form of a teaching in which Vajrapāṇi himself, rising from an assembly before the Buddha, requests permission to reveal an elaborate vidyā rite for the benefit of sentient beings. It was translated into Tibetan at the gateway of the great monastery of Nālandā by the Tibetan translator Gyabrtson Senge, and sits within the broader collection of tantric and dhāraṇī works preserved in the Kangyur.",
+  "pdf": "files/toh749.pdf",
+  "txt": "files/toh749.txt",
+  "link84000": "",
+  "date": "2026-09-15"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 750,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called 'The Vajra That Utterly Destroys'",
+  "sanskrit": "Vajravidāraṇā-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Dhāraṇī Called \"The Vajra That Utterly Destroys,\" known in Sanskrit as the Vajravidāraṇā-nāma-dhāraṇī and in Tibetan as Dorje Nampar Jompa Zhejawa Zung, is a dhāraṇī text centered on the fierce and protective power of Vajrapāṇi, the bodhisattva who wields the vajra. The text presents a sacred mantra and its associated teaching, arising from Vajrapāṇi's entry into a wrathful vajra samādhi at Vajrāsana through the blessing of the buddhas and bodhisattvas, with the dhāraṇī itself described as an unconquerable force. It belongs to the dhāraṇī genre of canonical literature, which preserves potent ritual formulas alongside narrative framing that explains their origin and efficacy. This text is Toh 750 in the Kangyur, where it is classified among the dhāraṇī collections.",
+  "pdf": "files/toh750.pdf",
+  "txt": "files/toh750.txt",
+  "link84000": "",
+  "date": "2026-09-15"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 752,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called 'The Vajra Unconquered, Bewildering Like Fire'",
+  "sanskrit": "Ārya-vajra-ajita-anala-pramohānī-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 752 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-vajra-ajita-anala-pramohānī-nāma-dhāraṇī and in Tibetan as the Pakpa Dorjé Miphamba Métar Rabtu Mongjeché Zhyabé Zung, rendered in English as \"The Noble Dhāraṇī Called The Vajra Unconquered, Bewildering Like Fire.\" It belongs to the dhāraṇī section of the Kangyur, a category of texts that preserve sacred spell-formulas regarded as embodiments of enlightened power and protection. The text opens in the classical sūtra style, with the Buddha residing on a magnificent jeweled mountain peak surrounded by a vast assembly, situating the dhāraṇī within a narrative frame that lends it canonical authority. As its evocative title suggests, the text concerns a powerful dhāraṇī associated with the unconquerable, fire-like force of the vajra, invoking imagery of brilliance and overwhelming spiritual potency.",
+  "pdf": "files/toh752.pdf",
+  "txt": "files/toh752.txt",
+  "link84000": "",
+  "date": "2026-09-15"
  },
  {
   "corpus": "kangyur",
