@@ -12861,16 +12861,57 @@
   "corpus": "kangyur",
   "toh": 758,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The practice of the tantra of vajrasrnkhala",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Tantra-Ritual of the Noble Vajra Chain",
+  "sanskrit": "Ārya-vajra-śṛṅkhalā-tantra-kalpa",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Verse",
+   "Devotional"
+  ],
+  "explainer": "Toh 758 in the Kangyur is a tantric text known in Sanskrit as the Ārya-vajra-śṛṅkhalā-tantra-kalpa and in Tibetan as the Tantra-Ritual of the Noble Vajra Chain Tantra. It belongs to the class of tantric ritual literature and concerns the practice of the Noble Vajra Chain, a deity associated with liberation from bondage, the dispelling of suffering, and the cultivation of qualities such as faith, compassion, and disciplined wisdom. The text takes the form of instructional verse, guiding practitioners through ritual observance and the recitation of secret mantra, emphasizing the indispensability of the teacher and the proper orientation of mind. It was translated into Tibetan by the great translator Bandhe Yeshe De and his colleagues, and subsequently revised and finalized in the careful editorial tradition of the early translation period.",
+  "pdf": "files/toh758.pdf",
+  "txt": "files/toh758.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-09-17"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 759,
+  "suffix": "",
+  "state": "translated",
+  "title": "Vajra Beak: The Vow of the Nāgas",
+  "sanskrit": "Vajratuṇḍa nāma nāgasamaya",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Narrative"
+  ],
+  "explainer": "Toh 759 in the Kangyur is a sūtra-related ritual or dhāraṇī text known in Sanskrit as the Vajratuṇḍa nāma nāgasamaya and in Tibetan as Dorje Chu zhes bya ba Klu'i damtsig, meaning \"Vajra Beak: the Vow of the Nāgas.\" The text concerns the nāgas — the great serpent beings of Buddhist cosmology — and their relationship to vows and protective powers, set within a teaching the Buddha delivers in the city of Campā before a vast assembly of nāgas, gods, and humans. It belongs to the broad category of texts concerned with nāga rituals and protective observances, blending narrative framing with practical and ritual content aimed at the benefit of sentient beings. The text was translated into Tibetan by Chökyi Wangchuk Drakpa, and it is preserved as Toh 759 in the Kangyur, among the collections of dhāraṇī and related protective texts.",
+  "pdf": "files/toh759.pdf",
+  "txt": "files/toh759.txt",
+  "link84000": "",
+  "date": "2026-09-17"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 760,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called Vajra Iron-Beak",
+  "sanskrit": "Vajralohatuṇḍanāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 760 in the Kangyur is a dhāraṇī text known in English as \"The Dhāraṇī Called Vajra Iron-Beak,\" corresponding to the Sanskrit Vajra-loha-tuṇḍa-nāma-dhāraṇī and the Tibetan Rdo rje gnam lcags mchu zhes bya ba'i gzungs. As a dhāraṇī, it belongs to the broader class of esoteric or tantric-adjacent literature concerned with the power of sacred formulae, and its particular focus is the recitation of a potent spell capable of subduing hostile nāgas, warding off destructive storms of wind and hail, and ensuring the flourishing of crops and harvests. The text is framed as a discourse in which Brahmā, Viṣṇu, Śiva, and the Four Great Kings gather before the Buddha and request his blessing upon this dhāraṇī for the benefit of all sentient beings, situating it within a canonical narrative setting that draws together both brahmanical and Buddhist divine figures. It is preserved in the Kangyur as Toh 760, within the dhāraṇī section of that collection.",
+  "pdf": "files/toh760.pdf",
+  "txt": "files/toh760.txt",
+  "link84000": "",
+  "date": "2026-09-17"
  },
  {
   "corpus": "kangyur",
@@ -12901,6 +12942,44 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh762",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 763,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Black-Lipped One",
+  "sanskrit": "Ārya Kṛṣṇāyoṣṭha",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Narrative",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 763 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya Kṛṣṇāyoṣṭha and in Tibetan as the Noble Black-Lipped One, which may be rendered into English as the Noble Dhāraṇī of the Black-Lipped One. It belongs to the class of dhāraṇī or incantation literature and takes the form of a discourse delivered by the Buddha to the Venerable Ānanda and a assembly of nāga kings, set in a resting place among jambū trees, with the nāga kings addressed out of the Buddha's compassion for the sentient beings of Jambudvīpa. The text is relatively brief and is concerned with the transmission of a protective dhāraṇī, situating its teaching within a narrative frame that invokes the authority of the Buddha's direct speech.",
+  "pdf": "files/toh763.pdf",
+  "txt": "files/toh763.txt",
+  "link84000": "",
+  "date": "2026-09-17"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 764,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called Auspicious Jewel",
+  "sanskrit": "Ārya-Maṇibhadra-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Narrative",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "Toh 764 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya-Maṇibhadra-nāma-dhāraṇī and in Tibetan as Pakpa Norbu Zangpö Zung, meaning \"The Noble Dhāraṇī of Auspicious Jewel.\" It belongs to the dhāraṇī section of the Kangyur and presents a short scripture in which the son of Maṇibhadra, a great yakṣa general, approaches the Buddha at Śrāvastī and pledges his protection to any monk, nun, or layperson who recites the accompanying essence-mantra three times daily. The text follows the classic sūtra opening convention and frames the dhāraṇī within a narrative of devotion and vow, emphasizing the protective power of the mantra and the guardian's commitment to serve its practitioners.",
+  "pdf": "files/toh764.pdf",
+  "txt": "files/toh764.txt",
+  "link84000": "",
+  "date": "2026-09-17"
  },
  {
   "corpus": "kangyur",
