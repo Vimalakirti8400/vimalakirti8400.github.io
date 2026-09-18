@@ -12985,46 +12985,96 @@
   "corpus": "kangyur",
   "toh": 765,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The practice of the yaksa manibhadra",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Ritual of Maṇibhadra the Yakṣa General",
+  "sanskrit": "Maṇibhadrāya Yakṣasena Kalpa",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 765 in the Kangyur is a ritual text known in Sanskrit as the Maṇibhadrāya Yakṣasena Kalpa and in Tibetan as \"The Ritual of Maṇibhadra the Yakṣa of the Auspicious Jewel,\" with an English rendering of approximately \"The Ritual of Maṇibhadra, General of the Yakṣas.\" It belongs to the dhāraṇī section of the Kangyur and centers on the yakṣa deity Maṇibhadra, a powerful protective figure associated with wealth and auspiciousness, presenting mantric invocations, dhāraṇīs, and practical ritual instructions for his propitiation. The text prescribes the fashioning of an image from specified woods and the performance of rites without the usual restrictions of auspicious days or fasting observances, reflecting a tantric or ritual-manual character. It was translated from Sanskrit into Tibetan by the Indian master Vidyākara Siṃha and the Tibetan translator monk Lhui Wangpo.",
+  "pdf": "files/toh765.pdf",
+  "txt": "files/toh765.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-09-18"
  },
  {
   "corpus": "kangyur",
   "toh": 766,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Practice of the sublime dancer chief of the army of yaksas",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Ritual of the Great Commander of Yakṣas, the Supreme Dancer",
+  "sanskrit": "Mahāyakṣasenāpatinarakuparka­kalpa",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Verse"
+  ],
+  "explainer": "Toh 766 in the Kangyur is a tantric ritual text known in Sanskrit as the Mahāyakṣasenapatinarakuparka­kalpa and in Tibetan as the Gnod sbyin gyi sde dpon chen po gar mkhan mchog gi brtag pa, meaning \"The Ritual of the Great Commander of Yakṣas, the Supreme Dancer.\" The text belongs to the class of kalpa, or ritual procedure texts, and centers on Vajrapāṇi in his wrathful form as the great lord of yakṣas — powerful spirit beings of the Buddhist cosmos — celebrating his qualities and prescribing rites for his propitiation. Opening with homages to the Three Jewels and to the glorious Vajrapāṇi, it unfolds as a discourse delivered by the Buddha while residing in the celestial palace of Vaiśravaṇa's son, in the company of a vast assembly of gods, nāgas, yakṣas, and other non-human beings. As a tantra found within the Kangyur, it sits among the ritual and esoteric scriptures of the Tibetan Buddhist canon.",
+  "pdf": "files/toh766.pdf",
+  "txt": "files/toh766.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-09-18"
  },
  {
   "corpus": "kangyur",
   "toh": 767,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Tantra of the supreme dancer of the yaksas",
+  "state": "translated",
+  "title": "Homage to Vajrapāṇi, Lord of Secrets",
   "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Narrative",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "Toh 767 in the Kangyur is a short canonical scripture known in Tibetan as Gsang ba'i bdag po rdo rje bsnams pa, addressed to Vajrapāṇi, the Lord of Secrets, and concerned with the various epithets and synonyms of Vaiśravaṇa, the great king of gods and guardian of the northern region. The text takes the form of a teaching prompted by the yakṣa general Samyakjñāna, who poses a series of questions about why Vaiśravaṇa bears names such as Son of Vaiśravaṇa, Restful, Guardian of the Region, and Ugly Body, with the Buddha directing Vajrapāṇi himself to provide the explanations before the assembled host of yakṣas. As the opening homage and framing suggest, it belongs to the broader class of tantric or tantra-adjacent texts associated with Vajrapāṇi and the yakṣa retinue. The text was translated at the great monastery of Tholing by Rabzhi, a direct disciple of the Indian master Dhānagupta.",
+  "pdf": "files/toh767.pdf",
+  "txt": "files/toh767.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-09-18"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 768,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called 'The Noble Glorious Yakṣa-Holder'",
+  "sanskrit": "Ārya Jambhala Śrī Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "Toh 768 in the Kangyur is a dhāraṇī text known in Sanskrit as the Ārya Jambhala Śrī Nāma Dhāraṇī and in Tibetan as the Dhāraṇī Called \"The Noble Glorious Yakṣa-Holder.\" It belongs to the class of dhāraṇī literature and concerns Jambhala, the yakṣa king of wealth, who at the urging of Vajrapāṇi reveals his mantra and life-essence for the benefit of beings afflicted by poverty and suffering. The text is framed as a canonical discourse in which the Buddha is present at the Grove of Palms, lending it the form of a sūtra-style scripture, though its primary purpose is the transmission of a protective and efficacious dhāraṇī. As part of the Kangyur's collection of dhāraṇī texts, it reflects the tradition of invoking powerful non-human figures within a Buddhist framework to alleviate worldly hardship.",
+  "pdf": "files/toh768.pdf",
+  "txt": "files/toh768.txt",
+  "link84000": "",
+  "date": "2026-09-18"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 769,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī Called Bestower of Well-being of the Noble Jambhala, Lord of Waters, the Compassionate One",
+  "sanskrit": "Kāruṇikasya āryajambhala jalendrasu śaṃkaranāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "Toh 769 in the Kangyur is a dhāraṇī text known in Sanskrit as the Kāruṇikasya Āryajambhala Jalendrasu Śaṃkaranāma Dhāraṇī and in Tibetan as the \"Bestower of Well-being of the Noble Jambhala, Lord of Waters, the Compassionate One.\" It belongs to the dhāraṇī section of the Kangyur, a category of texts centered on protective and efficacious ritual formulas. The text concerns the bodhisattva and wealth deity Jambhala in his aspect as a compassionate lord of waters, and it unfolds as a discourse in which the yakṣa chieftain Maṇibhadra's son speaks before the Buddha, promising protection and the fulfillment of wishes to any person — monastic or lay — who recites his essence mantra regularly. As is typical of dhāraṇī literature, the text combines narrative framing with the transmission of a sacred formula believed to confer worldly and spiritual benefits on its practitioners.",
+  "pdf": "files/toh769.pdf",
+  "txt": "files/toh769.txt",
+  "link84000": "",
+  "date": "2026-09-18"
  },
  {
   "corpus": "kangyur",
