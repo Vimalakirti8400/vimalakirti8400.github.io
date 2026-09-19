@@ -14871,16 +14871,16 @@
   "corpus": "tengyur",
   "toh": 1179,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Bla ma dam pa la bstod pa",
+  "state": "translated",
+  "title": "Toh 1179 in the Tengyur is a hymn of praise in verse, known in Tibetan as a work",
   "sanskrit": "",
-  "category": "",
+  "category": "Other",
   "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "explainer": "Toh 1179 in the Tengyur is a hymn of praise in verse, known in Tibetan as a work attributed to the figure whose name renders roughly as \"Glorious Zangpo, Renowned for Excellence in Dharma.\" No Sanskrit title is determinable from the available sources. The text belongs to the genre of devotional eulogy, offering homage to a great spiritual master — described as the son of a fully awakened Buddha, bearing the body of a Sugata, and serving as the sole lamp of the three worlds — whose boundless compassion, gnosis, and recollection of past and future lives are celebrated in flowing stanzas. The composition praises this master's supreme qualities, including his radiant loving affection, his tireless performance of enlightened activity, and his singular dedication to liberating even the most difficult to liberate. As Toh 1179, it is classed among the hymns and works of Indian authors preserved in the Tengyur, the collection of canonical treatises and commentaries that complement the Kangyur.",
+  "pdf": "files/toh1179.pdf",
+  "txt": "files/toh1179.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-09-18"
  },
  {
   "corpus": "tengyur",
@@ -45471,16 +45471,20 @@
   "corpus": "tengyur",
   "toh": 3207,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Dhanadatarasadhana",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Sādhana of Tārā, the Bestower of Wealth",
+  "sanskrit": "Dhanadhātṛ Sādhana",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Meditation",
+   "Devotional"
+  ],
+  "explainer": "Toh 3207 in the Tengyur is a sādhana text known in Sanskrit as the Dhanadhātṛ Sādhana and in Tibetan as the Sgrол ma nor sbyin ma'i sgrub thabs, meaning \"The Sādhana of Tārā, the Bestower of Wealth.\" It is a ritual manual belonging to the class of tantric sādhana literature, prescribing a sequential meditation practice focused on Green Tārā in her wealth-bestowing aspect, together with the twelve goddesses of the speech maṇḍala associated with her. The text guides a yogin through the generation-stage visualization, beginning with the arousal of bodhicitta at dawn, the purification of body and speech, and the contemplation of the seed syllable TĀṂ at the heart center. As a sādhana, it belongs to the broader body of tantric practical instruction preserved in the Tengyur, the collection of Indian commentarial and related works translated into Tibetan.",
+  "pdf": "files/toh3207.pdf",
+  "txt": "files/toh3207.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-09-18"
  },
  {
   "corpus": "tengyur",
@@ -45966,16 +45970,20 @@
   "corpus": "tengyur",
   "toh": 3240,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Vasudharadharanyupadeca",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Practical Instructions on the Dhāraṇī of Vasudhārā",
+  "sanskrit": "Vasudhāraṇī Upadeśa",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Doctrinal"
+  ],
+  "explainer": "Toh 3240 in the Tengyur is a practical instructional text known in Sanskrit as the Vasudhāraṇī Upadeśa and in Tibetan as Norgyünmé Zungki Mennag, meaning \"The Practical Instructions on the Dhāraṇī of Vasudhārā.\" The text concerns the ritual application of the dhāraṇī of Vasudhārā, a Buddhist goddess associated with wealth and abundance, providing step-by-step guidance on how to perform her invocation before a thangka or image, construct a sandalwood maṇḍala, make offerings, and recite her dhāraṇī with the proper mental cultivation and intention. It belongs to the category of tantric or ritual instructional literature — upadeśa — offering practical guidance for practitioners seeking to accomplish specific aims through devotion to Vasudhārā. As part of the Tengyur, it represents a translated Indian treatise transmitted into Tibetan, rendered by the monk Tsültrim Gyeltsen.",
+  "pdf": "files/toh3240.pdf",
+  "txt": "files/toh3240.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-09-18"
  },
  {
   "corpus": "tengyur",
