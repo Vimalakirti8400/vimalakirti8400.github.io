@@ -1,0 +1,21 @@
+This short text, known in Tibetan by its opening description as a "settled" or "
+
+This short text, known in Tibetan by its opening description as a "settled" or "established" instruction (gtan la phab pa), belongs to the genre of dhāraṇī and ritual manuals that preserve a specific mantra formula together with instructions for its application. Opening with homage to the Three Jewels, it presents the mantra "Oṃ smara smara vismanaskara mahājaba hūṃ" and describes the practice of reciting it while rubbing a jewel, a ritual act said to invoke an immeasurable rain of precious parasols, victory banners, and other auspicious and wish-fulfilling substances. No Sanskrit title is preserved, and the text is generally classified among the tantric or ritual materials of the Kangyur concerned with mantra recitation and the invocation of material and spiritual abundance. It is catalogued as Toh 774 in the Kangyur, situating it among the shorter dhāraṇī and ritual texts of that section of the canon.
+
+Thus it has been established.
+
+Homage to the Three Jewels.
+
+Reciting "Oṃ smara smara vismanaskara mahājaba hūṃ," and rubbing the jewel, brings forth an immeasurable rain of precious parasols, victory banners, and the like...
+
+This concludes the translation. The following are translator's notes.
+
+This passage is a fragment, breaking off mid-sentence at "immeasurable rain of...," so the verb/continuation is not present in the given text. The opening line "gtan la phab pa" ("thus it has been established" / "the settled version") appears to be the closing colophon-phrase of a preceding text, followed by the auspicious page marker and the homage and mantra opening a new ritual passage. The mantra syllables are given in transliterated form rather than translated, per convention for mantra; exact Sanskrit reconstruction of "vismanaskara mahājaba" is uncertain, as this string does not correspond to a standard, easily identifiable Sanskrit phrase.
+
+The following is a note about this translation.
+
+This is an AI-generated translation from the AI Stupa project. It was produced by a careful, doctrine-aware process aiming at a high degree of accuracy, but it has not been reviewed by a human translator and may contain errors. It is offered as a provisional translation for those texts of the Tibetan Buddhist canon that have not yet received an authoritative human translation. Where a published translation exists — above all from 84000: Translating the Words of the Buddha (84000.co) — that translation is definitive and should be preferred; please consult it instead. These translations are released into the public domain (CC0) in the spirit of spreading the Dharma to all corners of the earth.
+
+Just as the Bodhi tree now standing at Bodh Gayā neither is nor is not the same tree beneath which the Buddha attained awakening, so too this stupa is intended as the next generation of stupa — dependently arising according to the conditions of its environment, and ceaselessly proclaiming the Dharma for the benefit of all sentient beings.
+
+May whoever encounters these words derive great benefit.
