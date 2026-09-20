@@ -13161,6 +13161,96 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 775,
+  "suffix": "",
+  "state": "translated",
+  "title": "This short work is a dhāraṇī text, likely known in Sanskrit as something like th",
+  "sanskrit": "",
+  "category": "Other",
+  "tags": [],
+  "explainer": "This short work is a dhāraṇī text, likely known in Sanskrit as something like the Ratnaketu-nāma-dhāraṇī and in Tibetan as connected to the Rin chen rgyal mtshan (Ratnaketu) tradition, and it belongs to the Kangyur's collection of dhāraṇī and ritual formulas. It opens by concluding a prior rite—the \"Dhāraṇī of Polishing the Jewel,\" in which offerings are visualized as filling the whole of space—before turning to homage and a mantra addressed to the Tathāgata Ratnaketu, the \"Jewel Banner\" Buddha. It then introduces a further short spell, the \"Dhāraṇī of Circumambulation,\" which promises that reciting it while making even a single circumambulation is equivalent in merit to countless circumambulations. As Toh 775 in the Kangyur, the text exemplifies the genre of brief liturgical dhāraṇīs used in devotional and ritual practice, combining invocation, mantra recitation, and the accumulation of merit through symbolic acts of offering and circumambulation.",
+  "pdf": "files/toh775.pdf",
+  "txt": "files/toh775.txt",
+  "link84000": "",
+  "date": "2026-09-20"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 776,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called Circumambulating the Support of the Three Jewels",
+  "sanskrit": "Āryapradakṣiṇatrātrāyāyanāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Noble Dhāraṇī Called Circumambulating the Support of the Three Jewels (Sanskrit: Ārya-pradakṣiṇa-trātrāyāya-nāma-dhāraṇī; Tibetan: འཕགས་པ་དཀོན་མཆོག་གི་རྟེན་ལ་བསྐོར་བ་བྱ་བའི་གཟུངས་) is a short dhāraṇī text belonging to the tantric or spell literature of the Kangyur, transmitted as Toh 776. Opening with homage to the Buddha Śākyamuni, it presents a brief mantra formula whose recitation is said to be equivalent to circumambulating and paying homage to the Three Jewels throughout the ten directions and three times, thereby purifying negativities accumulated since beginningless time. The text further promises that through this simple practice one swiftly attains buddhahood and overcomes enemies and obstructing forces, exemplifying the genre of protective and merit-generating dhāraṇīs found throughout the canon. As such, it represents a concise ritual formula intended for everyday devotional and purificatory use rather than an extended doctrinal exposition.",
+  "pdf": "files/toh776.pdf",
+  "txt": "files/toh776.txt",
+  "link84000": "",
+  "date": "2026-09-20"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 777,
+  "suffix": "",
+  "state": "translated",
+  "title": "Purification of Offerings",
+  "sanskrit": "Dakṣiṇāpariśodhanī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "This text, Toh 777 in the Kangyur, is a dhāraṇī scripture whose title—rendered from the Sanskrit as Dakṣiṇīpariśodhanī and in Tibetan as Yon yongs su sbyong ba, meaning something like \"Purification of Offerings\"—identifies it as a short protective and purificatory work. It belongs to the broad class of dhāraṇī and mantra literature found throughout the Kangyur, texts recited or employed ritually to safeguard practitioners and to cleanse offerings or merit made to the Buddhist community. The closing lines preceding its colophon indicate that reciting or applying its formula protects one from being harmed by malevolent forces and frees one from all manner of illness and possession by spirits, reflecting the apotropaic and purifying aims typical of such incantations. As is common for these concise ritual texts, it likely circulated as part of a larger collection of dhāraṇīs invoked for protection, healing, and the purification of religious observances.",
+  "pdf": "files/toh777.pdf",
+  "txt": "files/toh777.txt",
+  "link84000": "",
+  "date": "2026-09-20"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 778,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī for Thoroughly Purifying Offerings",
+  "sanskrit": "Dakṣiṇāviśodhanadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Praise of the Buddha"
+  ],
+  "explainer": "This short text, known as the Dhāraṇī for Thoroughly Purifying Offerings (Skt. *Dāna-viśodhana-dhāraṇī*; Tib. ཡོན་ཡོངས་སུ་སྦྱོང་བའི་གཟུངས), belongs to the dhāraṇī genre of Buddhist scripture, consisting of a brief invocation and mantra attributed to the Tathāgata Sumerukalparāja. It teaches that the recitation of this formula—centered on the mantra \"oṃ kalpe kalpe mahākalpe kalpapariśodhani svāhā\"—purifies offerings made to the Three Jewels, rendering them as vast and meritorious as Mount Meru itself, and recommends its repetition some five or six times to ensure this purification. As Toh 778 in the Kangyur, it is part of a broader collection of short dhāraṇī texts used in ritual practice to consecrate and enhance the efficacy of offerings.",
+  "pdf": "files/toh778.pdf",
+  "txt": "files/toh778.txt",
+  "link84000": "",
+  "date": "2026-09-20"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 779,
+  "suffix": "",
+  "state": "translated",
+  "title": "This short text, found as Toh 779 in the Kangyur, belongs to the tantric ritual ",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "This short text, found as Toh 779 in the Kangyur, belongs to the tantric ritual literature associated with dhāraṇī and mantra practice, though no distinct Sanskrit or Tibetan title is given beyond its opening homage to the Three Jewels. It presents a mantra to be recited before a representation of the Three Jewels, accompanied by prostrations, and explains the extraordinary merit generated by this practice—equating repeated recitation and prostration with the accumulated benefit of hearing, contemplating, and meditating upon the entire tripiṭaka. The text further promises that sustained practice, performed three times daily, can lead within a single lifetime to attainment of the meditative absorption associated with the path of seeing, while also offering protection from harm by humans, non-humans, and elemental spirits until that realization is achieved. As a practical ritual manual combining mantra, devotional gesture, and doctrinal assurance, it exemplifies the genre of merit-generating liturgical texts preserved in the Kangyur for lay and monastic use alike.",
+  "pdf": "files/toh779.pdf",
+  "txt": "files/toh779.txt",
+  "link84000": "",
+  "date": "2026-09-20"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 805,
   "suffix": "",
   "state": "at84000",
