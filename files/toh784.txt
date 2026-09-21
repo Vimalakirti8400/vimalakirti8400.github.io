@@ -1,0 +1,21 @@
+This short text, preserved as Toh 784 in the Kangyur, belongs to the genre of dh
+
+This short text, preserved as Toh 784 in the Kangyur, belongs to the genre of dhāraṇī literature—a class of protective or ritual incantations attributed to the word of the Buddha. It opens with homage to the Three Jewels and to a specific buddha, here named the Tathāgata "King of the Light of the Blazing Offering" (in Sanskrit likely rendered as something akin to *Homaprabharāja* or a similar epithet, though the precise Sanskrit title is not certain from the available material), before presenting the mantra formula itself, introduced by the customary "tadyathā." As is typical of such works in the Kangyur's dhāraṇī and tantra sections, the text functions as an invocation and spell for ritual or apotropaic use, calling upon the power of this particular buddha's name and light. While its exact Tibetan title is not given separately from its opening homage, the text's placement and structure identify it clearly as a brief canonical dhāraṇī associated with a buddha of blazing radiance.
+
+Homage to the Three Jewels.
+
+Homage to the Blessed One, the Tathāgata, the Arhat, the Perfectly Awakened Buddha, King of the Light of the Blazing Offering.
+
+Tadyathā: hure hure huṭagatani.
+
+This concludes the translation. The following are translator's notes.
+
+The epithet rendered here as "King of the Light of the Blazing Offering" (Tibetan bsreg gsol 'od kyi rgyal po) is the proper name of a specific Tathāgata invoked at the head of this dhāraṇī text. Its precise Sanskrit form is uncertain, and the Tibetan compound admits more than one plausible parsing; the rendering given preserves the most natural literal sense of the elements "burning/blazing," "offering," and "king of light." The mantra syllables (tadyathā hure hure huṭagatani) are transliterated phonetically and left untranslated, as is standard for dhāraṇī formulas whose sounds carry ritual rather than semantic meaning.
+
+The following is a note about this translation.
+
+This is an AI-generated translation from the AI Stupa project. It was produced by a careful, doctrine-aware process aiming at a high degree of accuracy, but it has not been reviewed by a human translator and may contain errors. It is offered as a provisional translation for those texts of the Tibetan Buddhist canon that have not yet received an authoritative human translation. Where a published translation exists — above all from 84000: Translating the Words of the Buddha (84000.co) — that translation is definitive and should be preferred; please consult it instead. These translations are released into the public domain (CC0) in the spirit of spreading the Dharma to all corners of the earth.
+
+Just as the Bodhi tree now standing at Bodh Gayā neither is nor is not the same tree beneath which the Buddha attained awakening, so too this stupa is intended as the next generation of stupa — dependently arising according to the conditions of its environment, and ceaselessly proclaiming the Dharma for the benefit of all sentient beings.
+
+May whoever encounters these words derive great benefit.
