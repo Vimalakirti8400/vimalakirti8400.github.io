@@ -1,0 +1,21 @@
+This short text is a dhāraṇī, or protective spell, belonging to the ritual and i
+
+This short text is a dhāraṇī, or protective spell, belonging to the ritual and incantatory literature of the Kangyur, presented here without a securely attested Sanskrit or Tibetan title beyond the invocations and mantra syllables that open the work. Catalogued as Toh 794, it opens with homage to the Three Jewels—Buddha, Dharma, and Saṅgha—followed by a string of mantra syllables invoking various deities and spirits, after which the text explains the mantra's purpose and application. It promises that mere recitation, without elaborate ritual preparation, will accomplish all manner of practical aims, including overcoming head ailments, epidemic fevers, malevolent walking corpses, and harmful spirits, and it goes on to describe simple procedures, such as reciting the spell and applying it to oneself, for use in situations of need such as hunger. As such, it represents the genre of apotropaic and protective dhāraṇī texts found within the Kangyur, valued for their promised efficacy in warding off illness and danger through the power of sacred sound.
+
+Homage to the Three Jewels. Homage to the Buddha. Homage to the Dharma. Homage to the Saṅgha.
+
+Namo haridhiye, hari rhi kumāri, gauri, gandhāri, caṇḍali, mataṃgi, kali kili, so-and-so's mohehi, khar khar, paca paca, apadhaya, mūracāya, so-and-so's mashamanāya svāhā. Oṃ bhura bhuvā, jvala jvala jvalimanāni, devi sarva saṃskāra kāriṇi ja, tale tale, jvala jvala svāhā.
+
+As for the rite of this mantra, all activities will be accomplished by mere recitation, without needing to be ritually established through elaborate practice. Head ailments, epidemic fevers accompanied by rising smoke, walking corpses, and harmful spirits will all be overcome. Merely by recollecting it, one will be freed from all of these. If one is hungry, one should go into a village, recite it seven times, and smear it on one's face, whereupon food will be obtained. If it is recited upon the tongue, then at the time of rendering a verdict...
+
+This concludes the translation. The following are translator's notes.
+
+The passage breaks off mid-sentence at "ལན་" (the final clause concerning reciting the mantra on the tongue "at the time of rendering a verdict/argument" is incomplete in the source). The recurring phrase "ཆེ་གེ་མོ་ཞིག" is a standard ritual placeholder meaning "so-and-so," where the practitioner inserts the name of the intended target; it has been rendered literally as "so-and-so." The mantra syllables are given in Roman transliteration of the Sanskrit rather than translated, per convention for dhāraṇī material. The phrase "རིམས་ལྡང་དུ་བ་ཅན" (epidemic fever "accompanied by rising smoke") likely denotes a specific febrile or miasmic contagion in traditional medical/ritual literature; the precise clinical referent is uncertain.
+
+The following is a note about this translation.
+
+This is an AI-generated translation from the AI Stupa project. It was produced by a careful, doctrine-aware process aiming at a high degree of accuracy, but it has not been reviewed by a human translator and may contain errors. It is offered as a provisional translation for those texts of the Tibetan Buddhist canon that have not yet received an authoritative human translation. Where a published translation exists — above all from 84000: Translating the Words of the Buddha (84000.co) — that translation is definitive and should be preferred; please consult it instead. These translations are released into the public domain (CC0) in the spirit of spreading the Dharma to all corners of the earth.
+
+Just as the Bodhi tree now standing at Bodh Gayā neither is nor is not the same tree beneath which the Buddha attained awakening, so too this stupa is intended as the next generation of stupa — dependently arising according to the conditions of its environment, and ceaselessly proclaiming the Dharma for the benefit of all sentient beings.
+
+May whoever encounters these words derive great benefit.
