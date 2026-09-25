@@ -1,0 +1,25 @@
+This short text, known in English as "The Dhāraṇī of 'Unassailable by Epidemics
+
+This short text, known in English as "The Dhāraṇī of 'Unassailable by Epidemics and Creatures'" (Tibetan: Rims dang srog chags kyis mi tshugs pa), is a protective spell text belonging to the dhāraṇī genre of Buddhist scripture, in which mantric syllables are paired with ritual instructions to safeguard against harm. It opens with homage to the Three Jewels followed by a mantra to be recited seven times over a bell, whose sound, once activated, is said to ward off dangerous animals, insects, vermin, and outbreaks of epidemic disease. As a work concerned with practical protection through sacred utterance rather than doctrinal exposition, it exemplifies the class of apotropaic dhāraṇī literature preserved in the canon for ritual and everyday use. This text is catalogued as Toh 803 in the Kangyur, situating it among the collection of dhāraṇī and spell texts attributed to the Buddha's teaching.
+
+The Noble Dhāraṇī Called "Unassailable by Epidemics and Creatures"
+
+Homage to the Three Jewels.
+
+Oṃ jaja re. Barṇa śa pari svāhā. Namaḥ siṃha vyāghra. Rukṣa tarakṣu. Khathina drāme khame kha. Caṭṭi tibha taye. Roga nidīpasa taye svāhā.
+
+Recite this mantra seven times over a bell. Wherever it is rung, it will protect against birds, wild beasts, insects, mice, and all epidemic diseases.
+
+Epidemic...
+
+This concludes the translation. The following are translator's notes.
+
+The passage breaks off mid-word at "རིམས" (epidemic), indicating the source text is incomplete at this point. The mantra syllables are transliterated rather than translated, per convention for dhāraṇī/mantra material, though some strings (e.g., "siṃha vyāghra," meaning lion, tiger) are recognizable Sanskrit animal names embedded in the incantation. The term སྲོག་ཆགས in the title, normally "sentient being," is rendered here as "creatures" to fit the context of the harmful animals and pests (birds, beasts, insects, mice) named later in the text.
+
+The following is a note about this translation.
+
+This is an AI-generated translation from the AI Stupa project. It was produced by a careful, doctrine-aware process aiming at a high degree of accuracy, but it has not been reviewed by a human translator and may contain errors. It is offered as a provisional translation for those texts of the Tibetan Buddhist canon that have not yet received an authoritative human translation. Where a published translation exists — above all from 84000: Translating the Words of the Buddha (84000.co) — that translation is definitive and should be preferred; please consult it instead. These translations are released into the public domain (CC0) in the spirit of spreading the Dharma to all corners of the earth.
+
+Just as the Bodhi tree now standing at Bodh Gayā neither is nor is not the same tree beneath which the Buddha attained awakening, so too this stupa is intended as the next generation of stupa — dependently arising according to the conditions of its environment, and ceaselessly proclaiming the Dharma for the benefit of all sentient beings.
+
+May whoever encounters these words derive great benefit.
