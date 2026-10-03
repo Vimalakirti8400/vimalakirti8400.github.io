@@ -768,16 +768,16 @@
   "corpus": "kangyur",
   "toh": 43,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of great fortune",
+  "state": "translated",
+  "title": "Toh 43 is a sutra of the Kangyur belonging to the early scriptural narrative cla",
   "sanskrit": "",
-  "category": "",
+  "category": "Other",
   "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "explainer": "Toh 43 is a sutra of the Kangyur belonging to the early scriptural narrative class, here concluding with the account of the sun and moon deities and the demon Rahu—known in Tibetan as the \"Sutra of the Moon\" (Zla ba'i mdo), corresponding to a Sanskrit title such as Candra Sūtra. The passage preserved here depicts Rahu, the seizer who grasps the heavenly bodies, declaring that upon hearing the Buddha's verses he dare not withhold the moon, for fear that his head would split into seven pieces and he would find no ease in his existence. This brief but vivid episode illustrates the Buddha's power to command even cosmic and demonic forces through the simple utterance of verses of truth, a theme recurring in several short sutras of this type preserved in the Kangyur. As Toh 43, it stands among the discourses attributed directly to the Buddha, valued both for its doctrinal content on the protective power of the Dharma and for its place within the broader cycle of texts concerning celestial bodies and their guardian deities.",
+  "pdf": "files/toh43.pdf",
+  "txt": "files/toh43.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-03"
  },
  {
   "corpus": "kangyur",
@@ -14364,6 +14364,78 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh846",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 847,
+  "suffix": "",
+  "state": "translated",
+  "title": "This text, known in Sanskrit as the Āryaratnolkā-nāma-dhāraṇī-mahāyāna-sūtra and",
+  "sanskrit": "",
+  "category": "Other",
+  "tags": [],
+  "explainer": "This text, known in Sanskrit as the Āryaratnolkā-nāma-dhāraṇī-mahāyāna-sūtra and in Tibetan as the ’Phags pa dkon mchog ta la la’i gzungs zhes bya ba theg pa chen po’i mdo, bears the English title \"The Noble Dhāraṇī Called 'The Jewel Torch.'\" It is a Mahāyāna sūtra centered on a dhāraṇī, opening with a dialogue in which the Blessed One directs Mañjuśrī to request the teaching from the bodhisattva Samantabhadra, who is praised as one abiding in the perfection of wisdom and possessed of countless absorptions; the text thus unfolds as an exchange exploring the boundless and inconceivable nature of bodhisattva teachings and the power of this particular dhāraṇī. As a dhāraṇī-sūtra, it belongs to the broader class of Mahāyāna scriptures that combine narrative teaching with protective or mnemonic incantations. This work is catalogued as Toh 847 in the Kangyur, and the colophon fragment preceding its title indicates it formed part of a larger cycle of tantric or sūtric material, here marking the completion of a third continuity (rgyud) before the sūtra's own title is given.",
+  "pdf": "files/toh847.pdf",
+  "txt": "files/toh847.txt",
+  "link84000": "",
+  "date": "2026-10-03"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 848,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called \"Light of Wisdom\" That Thoroughly Purifies All Destinies",
+  "sanskrit": "Āryajñānālokā Nāma Dhāraṇī Sarvagatipariśodhanī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Praise of the Buddha"
+  ],
+  "explainer": "This text is the *Dhāraṇī of Jñānolka*, known in Sanskrit as the *Āryajñānolkānāma­dhāraṇī­sarvagati­pariśodhanī* and in Tibetan as *'phags pa ye shes ta la la zhes bya ba'i gzungs 'gro ba thams cad yongs su sbyong ba*, which may be rendered in English as \"The Noble Dhāraṇī of the Torch of Wisdom, Which Purifies All Rebirth Destinies.\" It belongs to the genre of dhāraṇī literature, consisting of sacred formulas invoking the power of buddhas and bodhisattvas, here specifically aimed at purifying beings across all realms of rebirth and dispelling obstacles that bind them to suffering. The text opens with an homage to the Buddha as the all-knowing one, setting a devotional tone that frames the dhāraṇī's subsequent recitation as an act of veneration and spiritual protection. As Toh 848, this work is found in the Kangyur, the section of the Tibetan Buddhist canon containing the translated words of the Buddha, within the broader category of tantric and dhāraṇī texts that serve ritual, protective, and soteriological functions for practitioners.",
+  "pdf": "files/toh848.pdf",
+  "txt": "files/toh848.txt",
+  "link84000": "",
+  "date": "2026-10-03"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 849,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Mahāyāna Sūtra of Limitless Life and Wisdom",
+  "sanskrit": "Āryāparimitāyurjñānanāmamahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Doctrinal",
+   "Ritual"
+  ],
+  "explainer": "This text is the Noble Mahāyāna Sūtra on Limitless Life and Wisdom (Sanskrit: Āryāparimitāyurjñāna-nāma-mahāyānasūtra; Tibetan: 'phags pa tshe dang ye shes dpag tu med pa zhes bya ba theg pa chen po'i mdo), catalogued as Toh 849 in the Kangyur. It belongs to the Mahāyāna sūtra class of Buddhist scripture, and opens, as is customary, with homage paid to all buddhas and bodhisattvas. The sūtra centers on the themes of boundless life and boundless wisdom, extolling the extraordinary qualities and liberating power associated with these attributes as embodied by particular buddha figures connected with longevity and transcendent knowledge. As a devotional and doctrinal text, it likely sets forth the benefits of invoking, venerating, or meditating upon limitless life and wisdom, reflecting a widespread current in Mahāyāna literature concerned with longevity practices and the aspiration toward enlightened awareness. Its placement among the Kangyur's sūtra collection marks it as a canonical scripture attributed to the word of the Buddha, valued particularly within traditions emphasizing longevity rites and the cultivation of wisdom.",
+  "pdf": "files/toh849.pdf",
+  "txt": "files/toh849.txt",
+  "link84000": "",
+  "date": "2026-10-03"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 850,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called the Heart of Immeasurable Life and Wisdom",
+  "sanskrit": "Āryāparimitāyurjñānahṛdaya nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "This text is the *Āryāparimitāyurjñāna-hṛdaya-nāma-dhāraṇī*, known in English as \"The Heart of the Noble Dhāraṇī of Boundless Life and Wisdom\" and in Tibetan as *'Phags pa tshe dang ye shes dpag tu med pa'i snying po zhes bya ba'i gzungs*. It is a short dhāraṇī text belonging to the tantric literature of the Kangyur, closely related to the longer Aparimitāyus sūtra that precedes it in the source material, and it transmits a condensed mantra formula said to confer the blessings of limitless life and wisdom associated with the Buddha Amitāyus. The passage given marks the close of the preceding Mahāyāna sūtra on limitless life, whose teaching is met with rejoicing and praise by its audience, followed immediately by the title of this dhāraṇī in Sanskrit and Tibetan. As Toh 850 in the Kangyur, it exemplifies the genre of concise ritual dhāraṇīs that distill the essence of longer sūtras into recitable formulas for practical and devotional use.",
+  "pdf": "files/toh850.pdf",
+  "txt": "files/toh850.txt",
+  "link84000": "",
+  "date": "2026-10-03"
  },
  {
   "corpus": "kangyur",
