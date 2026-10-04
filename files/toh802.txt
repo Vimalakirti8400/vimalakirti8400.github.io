@@ -1,24 +1,22 @@
-This text, found as Toh 802 in the Kangyur, belongs to a class of short dhāraṇī
+The Dhāraṇī for Curing Phlegm Disorders
 
-This text, found as Toh 802 in the Kangyur, belongs to a class of short dhāraṇī and mantra texts devoted to healing specific physical ailments through ritual recitation. Following a preceding dhāraṇī for eliminating phlegm disorders, this section opens with homage to the Three Jewels and presents a mantra—"Namo hetu heke svāhā"—specifically intended for curing kṣaya, or the wasting disease of consumption. The text prescribes a simple ritual: water is sprinkled with a cooling fan while the mantra is recited sixty-one times, after which the fan is used to direct the empowered air onto the afflicted person's body to effect a cure. As with many texts of this genre, no Sanskrit or Tibetan title is separately provided beyond the descriptive designation "the dhāraṇī for eliminating the disease of consumption," reflecting its practical, formulaic character within the broader collection of medicinal dhāraṇīs preserved in the Kangyur.
+This very brief text, whose Tibetan title can be rendered as the dhāraṇī for curing phlegm disorders and relieving the vomiting of blood and piercing pain they cause, is a short healing dhāraṇī, a type of protective incantation used for curing illness. After a homage to the Three Jewels, it presents a mantra for curing consumption (kṣaya), "Namo hetu heke svāhā," and gives simple ritual instructions: water that is cooling is sprinkled over the afflicted person, the mantra is recited sixty-one times, and the person's body is then swept, after which the illness is said to disappear. A Sanskrit title is not given in the lines supplied here, so it is best left undetermined. The text is Toh 802 in the Kangyur, where it belongs to the Tantra section, among the collection of short dhāraṇīs and ritual formulas aimed at practical benefits such as healing.
 
-It thoroughly eliminates the vomiting of blood and the piercing pain of phlegm disorders.
-
-The dhāraṇī for eliminating phlegm disorders is complete.
+It thoroughly relieves the vomiting of blood and the piercing pain caused by phlegm disorders. Thus ends the dhāraṇī for curing phlegm disorders.
 
 Homage to the Three Jewels.
 
-The mantra for eliminating the disease of consumption (kṣaya):
+The mantra for curing the illness of consumption (kṣaya):
 
 Namo hetu heke svāhā.
 
-If a disease has arisen in the body, if one has been struck by the wasting illness, sprinkle water with a cooling fan, recite the mantra sixty-one times, and then fan it onto that person's body — the disease will be cured.
+When illness has arisen in the body, take a cooling water, and having sprinkled it over the afflicted person, recite the mantra sixty-one times, and then sweep it over that person's body. In this way the illness will be gone.
 
-The dhāraṇī for eliminating the disease of consumption is complete.
+Thus ends the dhāraṇī for curing the illness of consumption.
 
 This concludes the translation. The following are translator's notes.
 
-The term "kṣaya" (Skt. for "wasting" or "consumption") is kept in transliterated form as in the source text, glossed on first use. The mantra syllables are left transliterated rather than translated, per convention for mantra. The phrase "nad khong skems" (rendered "wasting illness") refers to an internal wasting or consumptive condition, likely corresponding to what is elsewhere called kṣaya-roga; the exact clinical referent is uncertain but the general sense of a debilitating, drying internal disease is clear from context.
+The opening line is the tail of a preceding text and, as is usual in such manuscript collections, the colophon follows it; I have translated it as it stands. The phrase "ནད་ཁོང་སྐེམས་ཀྱིས་བཏབ་ན" is awkward and likely corrupt in transmission. I have rendered it as "when illness has arisen in the body," taking it as describing someone struck by a wasting illness, but the exact reading is uncertain. "བསིལ་ཡབ་ཆུ" I take as "cooling water," meaning water used for sprinkling in ritual cure; the intended procedure is probably to consecrate water by reciting the mantra over it and then use it on the patient. The mantra syllables are given in the Tibetan transliteration of Sanskrit and are left as they are. Kṣaya, rendered as consumption, refers to wasting diseases such as tuberculosis.
 
 The following is a note about this translation.
 

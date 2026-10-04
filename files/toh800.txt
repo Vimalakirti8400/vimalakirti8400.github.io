@@ -1,21 +1,20 @@
-This section of the Kangyur preserves a pair of short dhāraṇī texts belonging to
+The Mantra That Dispels Illnesses of Bile
 
-This section of the Kangyur preserves a pair of short dhāraṇī texts belonging to the genre of protective and healing spells (Sanskrit dhāraṇī, Tibetan gzungs), grouped together as Toh 800. The first, concluding here, teaches a formula for pacifying the searing pain of burns, to be recited eleven times while applying saliva to the wound. The second, titled "The Mantra for Dispelling Bile Disorders" (likely corresponding to a Sanskrit title such as Pittaroganāśana or similar, though the exact Sanskrit is uncertain), opens with homage to the Three Jewels and a short mantra, "Namo hetu hege svāhā," which is to be recited while fanning the body, so as to cure bile disorders, jaundice, and skin ailments. Such texts exemplify the practical, ritual application of Buddhist mantra for physical healing, and they belong to the broad class of dhāraṇī literature found within the Kangyur, the section of the Tibetan Buddhist canon containing the words attributed to the Buddha.
+The Mantra That Dispels Illnesses of Bile is a very short text, and the Tibetan title line names it as "the mantra that dispels illnesses of bile" (mkhris pa'i nad sel ba'i sngags); the Sanskrit title is not evident from the material at hand. It is a protective incantation of the dhāraṇī type, offering a brief spoken remedy for ailments traditionally attributed to bile, such as yellowing of the eyes, nausea, and vomiting. After a homage to the Three Jewels and the mantra itself, the text prescribes reciting it while fanning the body with a cooling fan, and it closes with a note on a companion dhāraṇī for pacifying the stinging pain of burns from fire. It is Toh 800 in the Kangyur, belonging to the class of dhāraṇī texts within the Tantra division, where short spells for healing and protection are gathered.
 
-Recite it eleven times, and if one applies saliva mixed with it, the searing pain of burns is pacified. This completes the dhāraṇī for thoroughly pacifying the searing pain of burns.
+Recite it eleven times and anoint the spittle upon the affected place, and the stinging pain of a burn caused by fire is pacified. Here ends the dhāraṇī that thoroughly pacifies the stinging pain of fire.
 
-The mantra for dispelling bile disorders.
+The mantra that dispels illnesses of bile.
 
 Homage to the Three Jewels.
+
 Namo hetu hege svāhā.
 
-If one fans the body with a cooling fan while reciting this, it dispels bile disorders, jaundice, and skin ailments.
-
-This completes the dhāraṇī for dispelling bile disorders.
+If one fans the body with a cooling fan while reciting it, it dispels illnesses of bile, yellow eyes, and the sickness of nausea and vomiting. Here ends the dhāraṇī that dispels illnesses of bile.
 
 This concludes the translation. The following are translator's notes.
 
-The mantra syllables ("Namo hetu hege svāhā") are transliterated as found, since their precise Sanskrit reconstruction is uncertain. "གཡའ་བའི་ནད" (skin ailment/scurvy-like condition) is rendered generically as "skin ailments" given some ambiguity in the term's precise medical referent.
+The opening lines are the ending of the preceding dhāraṇī, which is why the instruction begins mid-rite. The mantra syllables are transliterated as given and are likely corrupt, so I have not tried to reconstruct them. The term for the illness following "yellow eyes" is uncertain; I have taken it as a disorder of nausea or retching, but it could instead refer to a related bilious disorder. The rite appears to be a brief ritual-medical formula, and the instruction to fan the body while reciting is likely a standard accompanying gesture.
 
 The following is a note about this translation.
 

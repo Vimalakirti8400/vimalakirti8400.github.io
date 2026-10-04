@@ -1,8 +1,22 @@
-Purification of Offerings (Dakṣiṇāpariśodhanī)
+The Purification of Offerings (Dakṣiṇī Pariśodhanī Nāma)
 
-This text, Toh 777 in the Kangyur, is a dhāraṇī scripture whose title—rendered from the Sanskrit as Dakṣiṇīpariśodhanī and in Tibetan as Yon yongs su sbyong ba, meaning something like "Purification of Offerings"—identifies it as a short protective and purificatory work. It belongs to the broad class of dhāraṇī and mantra literature found throughout the Kangyur, texts recited or employed ritually to safeguard practitioners and to cleanse offerings or merit made to the Buddhist community. The closing lines preceding its colophon indicate that reciting or applying its formula protects one from being harmed by malevolent forces and frees one from all manner of illness and possession by spirits, reflecting the apotropaic and purifying aims typical of such incantations. As is common for these concise ritual texts, it likely circulated as part of a larger collection of dhāraṇīs invoked for protection, healing, and the purification of religious observances.
+The Purification of Offerings (Sanskrit Dakṣiṇī Pariśodhanī Nāma, Tibetan Yon yongs su sbyong ba, though the Tibetan title line is only partly legible in the source) is a short dhāraṇī text concerned with purifying the gifts and offerings made to the saṅgha and other recipients, so that the giver's merit is made complete and unobstructed. It opens with homage to all buddhas and bodhisattvas, to the Tathāgata King of Light Shining Everywhere, and to Mañjuśrī in his form as a youthful prince, and then presents the mantra itself, whose invocation addresses the one who is free of all support and appearance, victorious and wise. The text promises that whoever recites it will be freed from all illnesses and harmful spirits and will not give an opening to hostile forces, benefits typical of the protective dhāraṇī genre. It is Toh 777 in the Kangyur, where it belongs to the Tantra section, among the many brief dhāraṇīs and ritual protection texts preserved there.
 
+...will not find an opening. One will be freed from all illnesses and harmful spirits. The dhāraṇī of circumambulation is complete.
 
+In the Indian language: Dakṣiṇī Pariśodhanī Nāma. In the Tibetan language: The Purification of Offerings.
+
+Homage to all buddhas and bodhisattvas. Homage to the Tathāgata, the arhat, the perfectly complete buddha, the King of Light Shining Everywhere. Homage to the bodhisattva, the great being, endowed with great compassion and endowed with intelligence, Mañjuśrī who has become a youthful prince.
+
+Namaḥ Samanta Prabha Rājāya, Tathāgatāya, Arhate Bhyaḥ, Samyaksaṃbuddhāya. Namo Mañjuśriye, Kumārabhūtāya, Bodhisattvāya, Mahāsattvāya, Mahākāruṇikāya. Tadyathā: Oṃ Nirālambe, Nirābhāse, Jaye Jayalabdhe, Mahāmate Dakṣe Dikṣaṇī Pariśodhāya Svāhā.
+
+By reciting this just once, all negative deeds are purified. Even offerings that have been misused or squandered are purified. The benefactor's offerings will increase, and all accumulations will be completed. By reciting this, no obstacles of any kind will arise.
+
+This is drawn from the Sūtra of the Detailed Determination of the Vinaya Scripture, the offering...
+
+This concludes the translation. The following are translator's notes.
+
+The passage begins mid-text, with the end of the preceding dhāraṇī, and breaks off mid-title at the end, so the final sentence is incomplete. The Sanskrit title is transmitted as Dakṣiṇī Pariśodhanī, while the mantra spells the word Dikṣaṇī, a corruption typical of transliterated Tibetan mantra texts. I rendered the mantra in conventional Sanskrit transliteration without translating it. The Tibetan ཡོན (yon) means gifts or offerings made to the Saṅgha or a benefactor, the Sanskrit dakṣiṇā. The phrase "offerings that have been misused or squandered" renders "offerings that were put to many uses," which refers to the misuse of such gifts. The source title at the end is the Vinaya-viniścaya-sūtra, which I rendered as "Detailed Determination of the Vinaya Scripture."
 
 The following is a note about this translation.
 

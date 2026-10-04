@@ -1,22 +1,20 @@
-The Dhāraṇī for Curing the Sickness of Indigestion
+The Dhāraṇī for Curing the Illness of Indigestion
 
-This short text, whose Tibetan title is not separately given but which follows immediately after the "Dhāraṇī for Curing the Sickness of Indigestion" in the collection, is a dhāraṇī text belonging to the genre of protective and healing incantations found in the Kangyur. It opens with homage to the Three Jewels and to a buddha called the All-Seeing One, followed by a mantra to be recited seven times, and it appears to invoke Mañjuśrī in connection with its ritual application. Such texts typically combine a brief homage, a dhāraṇī or mantra formula, and instructions for its ritual use—here linked to curing illness—reflecting the practical, apotropaic dimension of Buddhist scripture. As Toh 785 in the Kangyur, it belongs to the broad class of dhāraṇī literature, short spells and ritual formulas transmitted alongside the canon's sutras for use in healing and protection.
+The Dhāraṇī for Curing the Illness of Indigestion is a very short ritual text, and in the Tibetan its title appears at the close of the work as a dhāraṇī for removing the sickness of undigested food. It concerns a simple healing practice: a short spell, invoked with homage to the Three Jewels and to the Tathāgata Samantadarśin, the All-Seeing One, is recited over the hand, which is then rubbed on the belly to relieve indigestion. Its brief account also involves the noble Mañjuśrī reciting the spell seven times. The Sanskrit title is not given in the lines supplied here, so it is best left undetermined. Toh 785 in the Kangyur, it belongs to the class of dhāraṇī texts, which preserve protective or practical formulas whose recitation is held to bring about specific benefits.
 
-Svāhā. As for the ritual procedure, having recited this mantra over the hand and then rubbed the belly, indigestion sickness will be cured.
-
-This concludes the dhāraṇī for curing the sickness of indigestion.
+Svāhā. Having recited the rite over the hand, and having rubbed the belly with it, the illness of indigestion will be cured. This completes the dhāraṇī for curing the illness of indigestion.
 
 Homage to the Three Jewels.
 
-Homage to the Blessed One, the Tathāgata, the arhat, the perfectly complete buddha, All-Seeing One.
+Homage to the Blessed One, the Tathāgata, the arhat, the perfectly complete buddha, Samantadarśin, the All-Seeing One.
 
-Tadyathā. dīri tiṣṭha. taskara baddho si. macala macala svāhā.
+Tadyathā: dīri tiṣṭa, taskara baddho 'si, macala macala svāhā.
 
-Recite this seven times. Noble Mañjuśrī...
+Having recited this seven times, the noble Mañju
 
 This concludes the translation. The following are translator's notes.
 
-The passage breaks off mid-sentence at "Noble Mañjuśrī" (འཕགས་པ་འཇམ་), as the source text is incomplete. The mantra syllables are transliterated as found, preserving the Sanskrit phonetics rather than attempting reconstruction, since the exact intended Sanskrit is uncertain in places (e.g., "taskara baddho si" may relate to binding a thief/obstacle).
+The passage breaks off mid-word at the end, in the middle of the name of the noble Mañjuśrī (or of an invocation to him), so the final sentence is left incomplete. The opening lines are a closing colophon-style instruction followed by the colophon of a preceding short text; the narration follows the order given. The mantra syllables are transliterated from the Tibetan and are not translatable. Their Sanskrit form is uncertain, since the transmitted syllables may be corrupt. The text appears to concern a rite for the illness of indigestion, and the sense of the verb in the opening instruction, "rubbed the belly," follows the Tibetan reading as given. The epithet Kuntu-zigs is rendered Samantadarśin on the standard reconstruction.
 
 The following is a note about this translation.
 

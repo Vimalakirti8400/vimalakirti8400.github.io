@@ -1,28 +1,29 @@
-The Auspiciousness of the Three Families (Tibetan: Rigs gsum gyi bkra shis; Sans
+Auspiciousness of the Three Families (Trikulamaṅgala)
 
-The Auspiciousness of the Three Families (Tibetan: Rigs gsum gyi bkra shis; Sanskrit likely *Trikulamaṅgala* or similar) is a short liturgical verse text preserved as Toh 825 in the Kangyur, belonging to the genre of auspiciousness prayers (bkra shis, maṅgala-gāthā) recited for blessing and well-being. After paying homage to the Three Jewels, it invokes in turn the three bodhisattva protectors—Mañjuśrī, Avalokiteśvara, and Vajrapāṇi—describing their symbolic colors, implements, and qualities as embodiments of wisdom, compassion, and the union of method and wisdom respectively. Each verse culminates in a request that the auspiciousness of that noble being bring goodness and well-being to the present day, giving the text a structured, incantatory form typical of ritual dedication prayers. As part of the Kangyur, it represents the class of canonical materials used in everyday liturgical and devotional practice rather than doctrinal exposition.
+The Auspiciousness of the Three Families (in Tibetan, Rigs gsum gyi bkra shis) is a short verse text of blessing, found as Toh 825 in the Kangyur. After paying homage to the Three Jewels, it invokes the auspiciousness of the three bodhisattvas who embody the principal buddha families: Mañjuśrī, bearing sword and book as signs of wisdom; Avalokiteśvara, radiant as the moon and holding a lotus as a sign of compassion; and Vajrapāṇi, deep blue-black and holding a vajra as a sign of the unchanging nature of reality. Each stanza describes the deity's appearance and the meaning of his emblems, then asks that the deity's sacred auspiciousness bring well-being and goodness to the present occasion. Texts of this kind are auspicious verses, recited to bless a gathering or undertaking, and this one belongs among the miscellaneous tantra-related and ritual works of the Kangyur, where short invocations of this sort are gathered.
 
-The Auspiciousness of the Three Families.
-Homage to the Three Jewels.
+It is complete. Auspiciousness of the Three Families.
 
-As a sign of vast qualities, his body's hue is like gold;
-as a sign of wisdom, he holds in hand a sword and a volume of scripture.
-Whatever is the auspiciousness of the noble Mañjuśrī, the youthful,
-by that sacred auspiciousness, may there be goodness and well-being here today.
+I pay homage to the Three Jewels.
 
-As a sign of compassion, his body's hue is imbued with moonlight;
-unstained by any fault, he holds in hand the emblem of a lotus.
-Whatever is the auspiciousness of the noble Avalokiteśvara,
-by that sacred auspiciousness, may there be goodness and well-being here today.
+As a sign of his perfected qualities, his body is the color of gold.
+As a sign of wisdom, he holds in his hands a sword and a book.
+Whatever auspiciousness belongs to the noble Mañjuśrī, the youthful one,
+By that sacred auspiciousness, may there be well-being and goodness here today.
 
-As a sign of the unchanging nature of reality, his body's hue is deep blue-black;
-as the nonduality of method and wisdom, he holds a vajra in hand.
-Whatever is the auspiciousness of the noble Vajrapāṇi,
-by that sacred auspiciousness—
+As a sign of compassion, his body shines with the radiance of the moon.
+Unstained by any fault, he holds in his hand a lotus as his emblem.
+Whatever auspiciousness belongs to the noble Avalokiteśvara,
+By that sacred auspiciousness, may there be well-being and goodness here today.
+
+As a sign of the unchanging nature of reality, his body is a deep blue-black.
+Holding in his hand a vajra, the inseparable union of skillful means and wisdom,
+Whatever auspiciousness belongs to the noble Vajrapāṇi,
+By that
 
 This concludes the translation. The following are translator's notes.
 
-The source text opens with "rdzogs so" ("[it is] complete"), a colophon marker evidently belonging to a preceding work, not to this text itself; it has been omitted from the translation as extraneous to the present passage. The passage itself breaks off mid-sentence at the end (after "bkra shis..."), so the final line dedicated to Vajrapāṇi's auspiciousness is left incomplete, matching the manuscript.
+The passage breaks off in the middle of the third verse, so the translation ends where the Tibetan ends. The opening word, which closes a previous text, is rendered as a colophon-style marker; the title that follows is the beginning of this text. The phrase describing Vajrapāṇi's vajra is read as the union of skillful means and wisdom, a standard doctrinal association, with "inseparable" rendering the sense of non-duality.
 
 The following is a note about this translation.
 

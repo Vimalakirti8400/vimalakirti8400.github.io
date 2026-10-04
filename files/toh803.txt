@@ -1,20 +1,18 @@
-This short text, known in English as "The Dhāraṇī of 'Unassailable by Epidemics
+The Noble Dhāraṇī Called "Not Overcome by Epidemics and Living Creatures"
 
-This short text, known in English as "The Dhāraṇī of 'Unassailable by Epidemics and Creatures'" (Tibetan: Rims dang srog chags kyis mi tshugs pa), is a protective spell text belonging to the dhāraṇī genre of Buddhist scripture, in which mantric syllables are paired with ritual instructions to safeguard against harm. It opens with homage to the Three Jewels followed by a mantra to be recited seven times over a bell, whose sound, once activated, is said to ward off dangerous animals, insects, vermin, and outbreaks of epidemic disease. As a work concerned with practical protection through sacred utterance rather than doctrinal exposition, it exemplifies the class of apotropaic dhāraṇī literature preserved in the canon for ritual and everyday use. This text is catalogued as Toh 803 in the Kangyur, situating it among the collection of dhāraṇī and spell texts attributed to the Buddha's teaching.
+The Noble Dhāraṇī "Not Overcome by Epidemics and Living Creatures" (Tibetan: ʼphags pa rims dang srog chags kyis mi tshugs pa zhes bya ba'i gzungs) is a very short protective dhāraṇī, or mantra-text, whose Sanskrit title is not given in the source lines and so cannot be confidently supplied. It opens with homage to the Three Jewels, presents a brief mantra, and instructs the practitioner to recite it seven times over a bell, so that wherever the bell's sound carries, birds, wild beasts, worms, rats, and epidemic diseases are warded off. The text is thus concerned with practical protection against disease and harmful creatures through ritual sound. It is Toh 803 in the Kangyur, where it belongs to the Tantra section and, more specifically, to the class of dhāraṇī texts.
 
-The Noble Dhāraṇī Called "Unassailable by Epidemics and Creatures"
+The noble dhāraṇī called "Not Overcome by Epidemics and Living Creatures."
 
 Homage to the Three Jewels.
 
-Oṃ jaja re. Barṇa śa pari svāhā. Namaḥ siṃha vyāghra. Rukṣa tarakṣu. Khathina drāme khame kha. Caṭṭi tibha taye. Roga nidīpasa taye svāhā.
+Oṃ vajra vajre. Varṇa śapari svāhā. Namaḥ siṃha vyāghra. Rukṣa tara kṣu. Khathina drāme kha me kha. Caṭṭi ti va ta ye. Roga nī dīpa sa ta ye svāhā.
 
-Recite this mantra seven times over a bell. Wherever it is rung, it will protect against birds, wild beasts, insects, mice, and all epidemic diseases.
-
-Epidemic...
+Recite this mantra seven times over a bell. Wherever its sound is rung out in the surrounding regions, all birds, wild beasts, worms, rats, and epidemic diseases will be warded off. Epidemic
 
 This concludes the translation. The following are translator's notes.
 
-The passage breaks off mid-word at "རིམས" (epidemic), indicating the source text is incomplete at this point. The mantra syllables are transliterated rather than translated, per convention for dhāraṇī/mantra material, though some strings (e.g., "siṃha vyāghra," meaning lion, tiger) are recognizable Sanskrit animal names embedded in the incantation. The term སྲོག་ཆགས in the title, normally "sentient being," is rendered here as "creatures" to fit the context of the harmful animals and pests (birds, beasts, insects, mice) named later in the text.
+The passage breaks off mid-sentence at "Epidemic," and I have rendered it as it stands. The mantra is transliterated Sanskrit with several corrupt or irregular syllables, such as "varṇa śapari," "caṭṭi ti va ta ye," and "dīpa sa ta ye." These are given as best reconstructed and are not translated, as mantras are conventionally left untranslated. The opening Tibetan title uses "mi tshugs ba" (not overcome, not able to settle or take hold), and the form given in the text reads "mi tshugs bā," which I take as a variant spelling. In the instruction, "dkrol ba" literally means to be sounded or rung, and I took the sentence to describe the bell's sound spreading across the land. "Srin bu" is rendered "worms," though it can also mean insects or vermin generally.
 
 The following is a note about this translation.
 

@@ -1,18 +1,20 @@
-This short text, known as the Dhāraṇī for a Melodious Voice (in Sanskrit likely
+The Dhāraṇī of Retention and Memory
 
-This short text, known as the Dhāraṇī for a Melodious Voice (in Sanskrit likely *Svaravāhinī* or a similarly titled dhāraṇī, and in Tibetan associated with the term *sgra snyan*), is a concise ritual and mantra manual centered on the bodhisattva Avalokiteśvara. It opens with homage to the Three Jewels and the mantra formula "Oṃ bhagavati śruti smṛti bala bala parama siddhe svāhā," followed by instructions for a seven-day practice in which the mantra is recited over water that is then drunk, promising enhanced memory and, with sustained practice, a voice as melodious as that of a kinnara. As a dhāraṇī text, it belongs to the tantric or ritual-spell genre of Buddhist literature, offering practical means for cultivating mental and vocal excellence through mantric empowerment. This work is catalogued as Toh 792 in the Kangyur, situating it among the collection's dhāraṇī and ritual texts associated with esoteric practice.
+This brief text is a dhāraṇī, a short mantra-based ritual formula, whose title is rendered in the translation's closing line as the dhāraṇī for a melodious voice; the Tibetan title appears to be a name of the goddess of memory and learning, though no Sanskrit title is given in the material at hand. It opens with homage to the Three Jewels and a mantra addressed to a goddess associated with hearing and remembering, then sets out a simple practice: over seven days, in front of the noble Avalokiteśvara, one empowers a vessel of water seven times with the mantra and drinks it. The stated benefits are a remarkable memory, with three hundred ślokas' worth of text learned in a single day, and, after a month of practice, a voice as sweet as that of a kinnara. It is Toh 792 in the Kangyur, where it belongs to the Tantra section as one of the many short dhāraṇīs and ritual procedures preserved in the canon for practical, worldly aims such as learning and eloquence.
 
 Homage to the Three Jewels.
 
-Oṃ bhagavati śruti smṛti bala bala parama siddhe svāhā.
+Oṃ bhagavati śruti smṛti, bala bala paramasiddhe svāhā.
 
-As for the ritual: for seven days, each morning, before the noble Avalokiteśvara, one should cast the mantra seven times over a handful of water and then drink it. Even after a single day, one will be able to memorize three hundred ślokas' worth of letters. If this is done for a month, one's voice will become as melodious as that of a kinnara (a mythical being renowned for its sweet voice). One should have no doubt about this.
+The procedure is as follows. For a period of seven days, make the preparation, and in the presence of the noble Avalokiteśvara, the Sovereign Lord, take a vessel of water, empower it seven times with the mantra, and drink it. Then in a single day one will be able to memorize three hundred ślokas' worth of text.
 
-The Dhāraṇī for a Melodious Voice is complete.
+If one practices for a period of one month, one's voice will become as melodious as that of a kinnara, and one should have no doubt about this.
+
+Thus ends the dhāraṇī for a melodious voice.
 
 This concludes the translation. The following are translator's notes.
 
-The phrase "ནང་རེ་ཞིང" (rendered here as "each morning") is somewhat unusual in construction; it could alternatively mean "repeatedly, day by day," though the practical sense—performing the rite daily throughout the seven days—remains the same regardless.
+The mantra is transmitted in corrupt Tibetan transcription, so the Sanskrit above is a tentative reconstruction. "Bhagavati" is likely, while "śruti smṛti" (hearing, memory) fits the dhāraṇī's purpose. The syllables "bala bala parama siddhe" are rendered as they stand. The phrase "make the preparation" renders a line whose exact sense is uncertain in the Tibetan, possibly meaning to purify oneself or make offerings beforehand. The "kinnara" is my rendering of a Tibetan term that literally reads "human or what," the traditional Tibetan gloss of the Sanskrit kiṃnara, a celestial musician, so the sense of a sweet singing voice is secure. The phrase "memorize three hundred ślokas' worth of text" interprets a somewhat compressed line about the number of letters or verses retained in a day.
 
 The following is a note about this translation.
 

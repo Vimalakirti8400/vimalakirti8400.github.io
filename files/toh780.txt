@@ -1,26 +1,24 @@
-This short text belongs to the dhāraṇī literature of the Kangyur, presenting a s
+The Dhāraṇī of Paying Homage
 
-This short text belongs to the dhāraṇī literature of the Kangyur, presenting a series of protective and beneficial incantations invoked through homage to the Three Jewels, to Mañjuśrī, and to the wrathful yakṣa general Vajrapāṇi. Rather than a single unified discourse, it comprises a collection of brief spells—such as one for warding off the harm of epidemic disease and another for securing abundance in cloth, wealth, or livestock through ritual recitation—each concluding with its own formula and stated purpose. No distinct Sanskrit or Tibetan title is preserved for the work as a whole beyond these embedded dhāraṇī names, reflecting its character as a practical compendium of protective and prosperity-generating formulas rather than a doctrinal or narrative sutra. This text is catalogued as Toh 780 in the Kangyur, situated among the dhāraṇī (gzungs) texts that make up a significant portion of that collection.
+This short text is a collection of dhāraṇīs, which the Tibetan colophon-style lines suggest was transmitted under a title along the lines of the dhāraṇī of paying homage and the dhāraṇī for obtaining a hundred cloths, though the full original title is not preserved in the lines given and a Sanskrit or Tibetan title cannot be stated with confidence. It consists of brief protective and prosperity-bringing formulas: a homage to Mañjuśrī, said to ward off the harm of epidemic disease, followed by a dhāraṇī addressed to the Three Jewels and to Vajrapāṇi, the fierce great commander of the yakṣas. The second dhāraṇī is accompanied by simple ritual instructions, to be recited a thousand times over a bundle of cloth, which is then gifted to a suitable person, with the promise that a hundred bundles will be obtained within half a month, and with the same result said to follow when wealth, food, or means of travel are used instead. It is Toh 780 in the Kangyur, belonging to the class of dhāraṇī texts, in the Tantra division of the collection, where short spells of this kind address worldly needs such as health and material well-being.
 
-Harm from epidemic disease will not occur.
+...and the harm of epidemic disease will not arise.
 
-Oṃ namo mañjuśriye, namaḥ suśriye, nama uttamaśriye svāhā.
+Oṃ namo mañjuśriye. Namaḥ suśriye. Namo uttamaśriye svāhā.
 
-This completes the dhāraṇī for paying homage.
+Here ends the dhāraṇī of paying homage.
 
-Homage to the Three Jewels.
+Homage to the Three Jewels. Homage to the great commander of the yakṣas, Vajrapāṇi, the Fierce One.
 
-Homage to the great yakṣa general, Wrathful Vajrapāṇi.
+Iri miri, dhadaṃ me, bahu phalaṃ bhavatu svāhā.
 
-Iri miri, dhadaṃme, bahu phalaṃ bhavatu svāhā.
+Recite this one thousand times over a single bundle of cloth, and then give it to a person of noble family, or to a teacher, or to anyone else who is suitable. Within half a month, one will obtain a hundred bundles of cloth. In the same way, if this is done with wealth or food, or with any suitable means of travel, the result is the same.
 
-Having recited this a thousand times over a single scrap of cloth, if one then gives it to a person of noble family, or to a teacher, or to any other single person, within half a month one will obtain a hundred scraps of cloth. Likewise, whether it be wealth, food, or livestock of any kind, the same result will follow.
-
-This completes the dhāraṇī for obtaining a hundred garments.
+Here ends the dhāraṇī for obtaining a hundred cloths.
 
 This concludes the translation. The following are translator's notes.
 
-The mantra syllables are transliterated Sanskrit and left untranslated per convention, as their meaning is ritual/phonetic rather than semantic. "རྐང་འགྲོས" (literally "those that go on legs") is rendered as "livestock," referring to domestic animals.
+The opening line is the tail of the preceding text, so it is rendered as a fragment. The mantra syllables are given in the Sanskrit reconstruction of the Tibetan transliteration; "dhadaṃ me" and "iri miri" are not clearly intelligible Sanskrit and are given as they stand. The word rendered "person of noble family" (མི་ཡ་རབས) is uncertain; it may mean a person of good lineage or a gentleman. The word rendered "means of travel" (རྐང་འགྲོས) is literally "something that goes on foot," probably meaning livestock or other conveyance, and its sense here is not certain.
 
 The following is a note about this translation.
 

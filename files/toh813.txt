@@ -1,8 +1,50 @@
-Homage to the Three Jewels
+The Secret Essence (Vajraṇi hūṃ)
 
-Toh 813 in the Kangyur is a short tantric text belonging to the Secret Mantra collection, centering on a mantra core—here rendered as "vajre ni hum"—identified as a secret essence (guhyagarbha) associated with the arising of four essential mantras, accompanied by an aspirational prayer and verses. Written in Tibetan, the work opens with homage to the Three Jewels before addressing concerns relevant to beings in this world, reflecting the ritual and protective character typical of such mantra compilations. As a Kangyur text, it represents the words attributed to the Buddha or closely allied tantric sources, and it belongs to the broader genre of dharani or mantra texts used for recitation, protection, and spiritual accomplishment. The precise Sanskrit title is not clearly determinable from the available material, though the Tibetan indicates its function as a concise ritual and incantatory work rather than a lengthy philosophical treatise.
+The Secret Essence (Guhyahṛdaya in Sanskrit, Gsang ba'i snying po in Tibetan) is a short protective text of mantras, verses, and aspiration prayers, and it is catalogued as Toh 813 in the Kangyur. Its opening invokes the mantra syllables "Vajraṇi hūṃ" and presents the work as a collection of four essence mantras, followed by verses and prayers for well-being. After a homage to the Three Jewels, it recites verses in praise of the Buddha, the Dharma, and the Saṅgha as the supreme jewels, each ending with an affirmation of truth, "By this truth, may there be well-being here," an invocation of the kind found in the early Buddhist Ratana Sutta tradition. A short ritual and devotional text of this kind belongs to the class of dhāraṇī and mantra works in the Kangyur, which are chanted for protection, blessing, and the pacification of harm. Details of its exact Sanskrit title and its translation history are best checked against the standard catalog entry.
 
+Vajraṇi hūṃ. This is the Secret Essence. Here ends the section containing the four essence mantras, together with the aspiration prayers, the verses, and the mantras.
 
+Homage to the Three Jewels.
+
+Whatever precious jewel exists in this world, or in those beyond, or in the heavens above, there is none that equals the Tathāgata, who has become the God of gods, the supreme among humans. Therefore this is declared to be the supreme jewel. By this truth, may there be well-being here.
+
+The exhausted, the free of attachment, the immortal, the unconditioned: this the Śākya Sage realized with knowledge and clearly set forth. The deathless, peaceful, not compounded: nothing at all is equal to this Dharma. Therefore this is declared to be the supreme jewel. By this truth, may there be well-being here.
+
+The supreme goal, which the Teacher properly taught, the unsurpassed yoga of the Teacher, constantly accomplished, the concentration that sees the path with two eyes like vajras: nothing exists that equals that absorption. Therefore this is declared to be the supreme jewel. By this truth, may there be well-being here.
+
+The eight great persons, who are highly praised and spoken of as four pairs of individuals, the great sages, persons without equal: the Sugata declared them to be fields worthy of offerings. A gift given to them becomes a great fruit, like sowing seed in a well-prepared field. These are declared to be the Saṅgha, the supreme jewel. By this truth, may there be well-being here.
+
+Those who, with steadfast mind, strive diligently and enter the teaching of Gautama attain the deathless, having reached their goal. Having dispelled the darkness, they attain nirvāṇa. Therefore the Saṅgha is declared to be the supreme jewel. By this truth, may there be well-being here.
+
+At the very moment of joining this view, three afflictive fetters are abandoned all at once: the view of a real self in the aggregates, clinging to moral rules and observances, and doubt. They see the truths of the noble ones. Therefore the Saṅgha is declared to be the supreme jewel. By this truth, may there be well-being here.
+
+Whether by body, speech, or mind, they never commit the three kinds of harmful deeds, and if they do so inadvertently, they do not conceal it; and so, being such, they do not cling to their views. Therefore the Saṅgha is declared to be the supreme jewel. By this truth, may there be well-being here.
+
+Just as a pillar of Indra planted in the earth is not shaken by the winds of the four directions, so too are the noble Saṅgha, those who behold the sublime path of the noble ones. Therefore the Saṅgha is declared to be the supreme jewel. By this truth, may there be well-being here.
+
+Those who meditate on the noble truths, taught so well through profound wisdom, who are intent even on giving their bodies, do not meet the eight fears. Therefore the Saṅgha is declared to be the supreme jewel. By this truth, may there be well-being here.
+
+As fire, with the wind, scatters the fence and cannot be counted when taken in the hand, so the sons of the Buddha, having abandoned all binding attachments, pass beyond all that can be pointed out. Therefore the Saṅgha is declared to be the supreme jewel. By this truth, may there be well-being here.
+
+May all beings, whether moving or still, be happy here. Homage to the Buddha, supreme Teacher, worthy of offerings from gods and humans. Today, may there be well-being here.
+
+May all beings, whether moving or still, be happy here. Homage to the Dharma, peaceful, free of attachment, worthy of offerings from gods and humans. Today, may there be well-being here.
+
+May all beings, whether moving or still, be happy here. Homage to the Saṅgha, the sublime assembly, worthy of offerings from gods and humans. Today, may there be well-being here.
+
+May all beings, whether moving or still,
+
+May all of them be happy here today. Whatever beings have gathered in this place, whether dwelling on the earth or in the sky, may they always have loving-kindness toward all creatures, and may they practice the Dharma by day and by night.
+
+By whatever truth the Victor, the conqueror of foes, spoke what was utterly true and without falsehood, by that truth may there be well-being here. May all of them be freed from great peril.
+
+By the splendor of all the buddhas, and the splendor of the solitary buddhas; by the powers of the arhats, and of all the holders of secret mantra; by the wisdom of Śāriputra, and the miraculous power of Maudgalyāyana; by the unobstructed vision of Aniruddha, and the ascetic virtues of Kāśyapa; by the first realization of Kauṇḍinya, and the learning of Ānanda; by the loving-kindness of Brahmā, and the sovereign powers of Indra; by the realms of the guardians of the world, and the strength of the Great Lord; by the might of the generals, and the splendor and miraculous power of the Snatcher (Hārītī); by the power and radiance of all these, may my poison become free of poison.
+
+May the one who utterly vanquishes the great thousand
+
+This concludes the translation. The following are translator's notes.
+
+This is the Tibetan version of the Ratana Sutta (Jewel Discourse), here with a colophon-like opening on a mantra collection. Several lines are corrupt or obscure in the Tibetan, and I rendered them as the verse most plausibly intends. The line on "joining this view" refers to attaining the path of seeing, where the three fetters fall away together. The phrase "the eight fears" is as in the text. The fire simile and the line "pass beyond all that can be pointed out" are difficult and follow the sense of the parallel Pāli verse on the extinguished lamp. The final line breaks off, matching the Tibetan, which ends mid-stanza.  The passage is a protective verse composition. Several names are rendered by identification and are somewhat uncertain. "The Great Lord" (དབང་ཕྱུག་ཆེན་པོ) is Maheśvara, usually Śiva, here taken as the powerful deity. "The conqueror of foes" renders the epithet of the Victor, with the Tibetan "dgra rgyal" read as an honorific. "The Snatcher" is read as Hārītī, the child-snatching yakṣiṇī, though the Tibetan "'phrog ma" is only a descriptive epithet. The generals (sde dpon) are likely the yakṣa commanders. The mantra-holders may refer to vidyādharas. "May my poison become free of poison" follows the Tibetan literally. The closing phrase begins an epithet of a protective figure whose sentence continues in the next passage.
 
 The following is a note about this translation.
 

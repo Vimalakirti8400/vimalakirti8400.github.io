@@ -1,8 +1,1180 @@
-The Tantra of the Ḍākinī's Blazing Fire-Tongue (Ḍākinyagnijihvājvālātantra)
+The Tantra of the Blazing Tongues of Flame of the Ḍākinī (Ḍākinī-agnijihva-jvālā-tantra)
 
-"The Tantra of the Ḍākinī’s Blazing Fire-Tongue" (Sanskrit: *Ḍākinī-agni-jihvā-jvāla-tantra*; Tibetan: *mKha' 'gro ma me lce 'bar ba'i rgyud*) is a short tantric scripture belonging to the tantra section of the Kangyur, catalogued as Toh 842. Associated with the fierce deity known as the Terrifier of the Three Worlds, the text centers on a ḍākinī whose blazing, fire-like tongue embodies wrathful, purifying power, and it concludes with potent mantric syllables such as hūṃ and phaṭ meant for ritual recitation. As is typical of texts in this class, it combines invocation, mantra, and brief ritual instruction rather than extended doctrinal exposition, reflecting the esoteric and apotropaic concerns of tantric Buddhist practice. Its placement among the Kangyur's tantra collection situates it within the broader corpus of translated Indian tantric literature transmitted to Tibet.
+The Tantra of the Blazing Tongues of Flame of the Ḍākinī, known in Sanskrit as the Ḍākinī Agnijihva Jvālā Tantra and in Tibetan as Mkha' 'gro ma me lce 'bar ba'i rgyud, is a short scripture of the tantric tradition devoted to a fierce ḍākinī and the ritual practices connected with her. It opens with homage and praise to the great Vajrapāṇi, the wrathful vajra-bodied lord who terrifies the three realms of existence and triumphs over the māras. The narrative then begins in the customary way, with "Thus did I hear at one time," and sets its scene on the summit of Mount Meru in the palace of the Blazing Lord of Death, a landscape peopled with charnel grounds and the haunts of yakṣas, rākṣasas, and māras, which is the typical setting for wrathful tantric teachings. The text closes with the repetition of mantric syllables, which indicates that its purpose is ritual and practical as well as doctrinal. It is Toh 842 in the Kangyur, where it is classed among the tantras.
 
+...they recite it, and it is complete. This is the end.
 
+In the language of India: Ḍākinī Agnijihva Jvālā Tantra. In the language of Tibet: The Tantra of the Blazing Tongues of Flame of the Ḍākinī.
+
+Homage and praise to Vajrapāṇi the Great, whose body is the wrathful, fierce vajra, who strikes terror into the three realms of existence, who is compassionate and becomes the glory of himself and others, who is victorious over the māras and possesses the five wisdoms.
+
+Thus did I hear at one time. On the summit of Mount Meru, in the palace of the Blazing Lord of Death, there was a charnel ground dwelling in the face of the yakṣa Utpala. There was the walking ground of the rākṣasa Mātaṅga Rudraka. There was the dwelling of the black-crowned māra. There was the great grove of rough and turbulent growth, the place where gods and asuras wage war. Here the benevolent spirit was born in the black khaṭvāṅga tree, the tiśaka, and the ogress Kaṅkālā had wings of copper blazing like fire. It was a realm with many corpses, fresh and old. From the sky tridents, wheels, and tongues of flame fell like rain. From the ground swords, knives, and five-pointed spears sprang up. All the mountains appeared as skeletons, and all the rivers flowed with pus and blood. All the regions of the earth were filled with the dark blue odor of corpses and blue utpala lilies. Nearby there were roars and cries of lament, fierce and terrifying. In that place, utterly terrifying and making one shudder, dwelt the Blessed One, the glorious king of the Terrifying, the lord of the vidyā-mantras and the secret mantras, sovereign of skillful means and wisdom, whose nature is body and wisdom: the great fierce glorious Vajrapāṇi, of great compassion, wrathful and enraged, his body blazing like the great fire at the end of the age. He is utterly victorious over the three realms of existence, the four māras, the eighty thousand afflictions, and the two kinds of obscuration. He is accomplished from the perfect wisdom of the minds of the one thousand and eight buddhas. Gods, asuras, and the eight classes of spirits make offerings and prostrations to him. He has the radiance of a thousand suns. His hair stands upward in tufts. His glaring eyes blaze like fire. From the cavity of his nostrils the winds of the end of the age arise. His fangs gleam like crescent vajras. His head is adorned with the precious emerald. The Victor of the five families, Akṣobhya, is seated upon him. He wears a crown of dry and fresh skulls and a necklace of them, adorned with the hides of a bull and an elephant. In his hand he holds the five-pointed vajra of wisdom. The powerful nāga king is bound around his head, the nāga Takṣaka is his belt, and all the nāgas serve as his parasol, with living snakes as his seat. He sits in the full attire of a great wrathful one.
+
+His retinue consists of Brahmā, Viṣṇu, Indra, Mahākālī, the sage Agnivyāsa, the dweller on the plain, the black Yama with his club, the rākṣasa Rāvaṇa, the water god, the wind god, the great yakṣa Kubera, the spirit Īśvara, the sun, the moon, and the stars, Sa-bdag Lag-chen, the black mātṛkā with a single braid, Lto-phye Rab-brtan, the kumbhāṇḍas, gandharvas, kiṃnaras, the sons of Vaiśravaṇa, asuras, garuḍas, male and female spirits, and the host of beasts of prey: lions, tigers, crows, wolves, bears, crocodiles, leopards, panthers, lynxes, she-wolves, wild dogs, leaping beasts, and martens. There is also the host of birds: vultures, water birds, charnel-ground birds, the kaṅka, herons, garuḍas, ravens, magpies, owls, mottled birds, jays, ogre-birds, and owlets, and also the neco. In addition there are elephants, bees, venomous snakes, turtles, wild asses, and rhinoceroses...
+
+...and the wild boars, the bamenpa beasts, the jackals, the deer, and the hosts of gla-ba were gathered around, seated in attendance.
+
+At that time, from among that assembled retinue, there was the great elephant Rab-tu-brtan-pa, whose crown was adorned with a net of gold. Upon its thirty-three heads, in the midst of thirty-two attendant lords, there sat the king of the gods, called Śakra (Indra), blazing with a wish-fulfilling jewel on the crown of his head, his body adorned with gold and beryl. Having taken on the guise of a wheel-turning king, he rose from the elephant's seat, circled the glorious Vajrapāṇi three times, and made an offering of the kingdom with the seven precious things. Then Śakra made this request:
+
+Holder of the vajra, lord of secrets,
+you are like a wish-fulfilling jewel,
+and you have gained mastery over the hosts of siddhis.
+Since you are a lord of compassion,
+for the sake of fortunate beings of the future,
+I wish to ask you about the Tantra of the Blazing Tongue of Flame of the Black Goddess,
+the supreme state of the vajra ḍākinī.
+Today, may the Teacher grant an opening for this.
+
+When he had made this request, the glorious and mighty Hūṃ-maker rose from his blazing seat and entered the meditative absorption called Vajra Fully Extended. Gazing upon Śakra with the gaze of a lion, he took three strides in the manner of an elephant's proud gait. Reciting the mantra Hūṃ Hūṃ Hūṃ, he brandished the vajra three times in the sky with the hand of wisdom, and this world system shook in six ways. Then the glorious Vajrapāṇi spoke these words:
+
+Śakra, listen with a compassionate mind.
+For the fortunate beings of the final age,
+I have taught the unfading banner of the Dharma
+and the Tantra of the Flame-Tongued Vajra Ḍākinī,
+which is fearless for the sake of oneself and others.
+Hold it in your mind.
+
+When he had spoken thus, the retinue led by Śakra became extremely joyful and delighted. Some made outer offerings: mandārava flowers, white lotuses, lotuses, blue lotuses, campaka flowers, molasses, incense, lamps, perfumed ointments, food, parasols, banners, fans, canopies, pennants, and flags. Others made inner offerings, such as the five nectars and iron hooks. Others took on the guise of goddesses and yakṣiṇīs and presented secret offerings.
+
+Then Śakra, the lord of the gods, made this request to the glorious Vajrapāṇi:
+
+Blazing like the fire at the end of time, wrathful one,
+fierce Hūṃ-maker, holder of the vajra,
+in this present desire realm
+there is a goddess called the Black One,
+fierce and wrathful, whose very body inspires dread,
+possessed of power to terrify the three realms of existence.
+This, which has become the ground of supreme accomplishment:
+first, the tantra of the introduction and its occasion;
+the tantra of the cause;
+the tantra of which teacher and which disciple;
+the tantra of the ultimate and the conventional view;
+the tantra of the three sacred maṇḍalas;
+the tantra of scroll paintings, supports of the deity, and sacred images;
+the tantra of the lord and the servant, the sacred substances;
+the tantra of the meditative absorptions of generation and completion;
+the tantra of the mantras of master and servant;
+the tantra of the twelve mudrās, the gestures;
+the tantra of offerings, torma, giving, and burnt offering;
+the tantra of the sacred commitments that are hard to transgress;
+the tantra of the signs of the heat of accomplishment;
+the tantra of the application of pressure points and vital points;
+the tantra of the inseparable companion, the dhāraṇī;
+the tantra of the pra divination and the descent of signs;
+the tantra of conferring empowerment and permission;
+the tantra of the distinctions of individual activities;
+the tantra of lamps and of nectar;
+the tantra of the pith instructions on the bindu and wisdom;
+the tantra of praising the eight classes of gods and spirits;
+the tantra of entrusting it to the retinue;
+and the tantra of the final prophecy.
+
+"What are the twenty-two reasons and connections? Teacher, we beg you to declare them, and we shall listen."
+
+When they had made this request, the glorious Vajrapāṇi declared: "Śakra (Indra) and all the rest of you, it is excellent, excellent that you have asked for this great tantra, the Origin of the Accomplishments of the Vajra Ḍākinī. Now listen well and keep it in mind, for I shall teach it in its full distinctions.
+
+"Long ago, in this very desire realm, at the northeastern edge of Mount Meru, there was a tree called Gathering of All, Bursting Forth. On its summit dwelt the garuḍa. Its leaves spontaneously produced the five objects of desire, and its fruit ripened like grain into the seven kinds of precious substance. Between the tips of its branches and the turquoise shoots, it was adorned with gods and goddesses, with planets and stars, and with hosts of suns and moons. At its base were seven bathing pools, and at each pool a chariot. In each chariot sat seven maidens, each maiden had seven attendants, and each attendant had seven peacocks. In the land around that chariot grew many kinds of medicinal plants and forty thousand kinds of grain, all spontaneously arisen, together with sandalwood, camphor, gośīrṣa sandalwood, and the essence of serpents, all encircled by five hundred pools. Such was that tree, and it arose through the shared merit of gods and asuras alike.
+
+"At that time, while the gods held sway over that wish-fulfilling tree, there lived at the foot of Meru, in the place called Without Light, the asura kings Triple-Tiered, Copper-Weaver, Heranakeśuna, Vairocana-maker, Rabsim, Rāhu, and others, some ten million strong. They made themselves into extremely hideous shapes, raised terrifying and arrogant cries, took up fearsome weapons, and came to the slope of Meru called Good Dharma.
+
+"Then, on the slope of Meru, the asuras addressed the gods, Suradeva, Mahādeva, Indra himself, and the ten million gods, saying:
+
+'Gods who dwell on Meru's summit, thirty-three,
+the gods and asuras share this tree in common.
+Now, since you who desire it hold the gods' dominion,
+we asuras will take it from the gods, as Māra's due.'
+
+"So they spoke, and the gods answered in turn:
+
+'Though the wish-fulfilling tree gives boundless pleasures,
+by the force of merit it is fully the gods' own.
+If another had it, it would wither into dry wood.
+Therefore we shall not give the tree to you.'
+
+"And the asuras replied again to the gods:
+
+'The tree of bliss, born of what we hold in common,
+if the gods rule it and will not give it to us,
+we shall rain down weapons that burn the world,
+and the gods and asuras will wage a great war.'
+
+"So they spoke, and going away, the asuras gathered their army. On the thirty-two heads of the elephant Earth-Protector they mounted thirty-two yakṣas. On the central head rode their lord Copper-Weaver, and on the elephant's trunk they bound the black Kamala. Encircled by ten million asura soldiers, they used their magical power to make a great rain of weapons, like blazing tongues of fire, fall from the sky, and so they led their army forth.
+
+"Then the gods assembled at the seat called Good Dharma and began to fight. At first the gods, unable to withstand the fury, were in the house called Rough Transformation, where the wrathful Laṅka the Black drank, from the swirling of the seven pools of wrath-water, the saliva of his rage. At this the gods too were seized by hatred and grew extremely angry. The god of craftsmen, Viśvakarman, forged in a single night ninety million sets of golden armor. The god Mahākrodha, in a single night, made swords, wheels, skull-cups, iron hooks, and axes."
+
+Three-pronged spears, nine hundred and ninety thousand ten millions, they forged on their own. At that time the gods took up their armor and weapons. Thirty-two lesser lords rode upon the thirty-two heads of the great elephant, Utterly Steadfast, and upon the central head rode Indra, lord of the gods, the Hundred-Giver. Supported on every side by an army of the gods numbering in the millions and billions, with swords tied to the elephant's trunk, the gods and the asuras spread out for battle.
+
+At that time, wherever a weapon of the gods struck and drew blood, the army of the māras multiplied into some tens of thousands of men. But when the asuras struck with a weapon, the blood did not multiply into soldiers, and the wounded simply died. Thus the gods were utterly defeated, and at the time when the asuras were most victorious, Vajrapāṇi himself, in order that the gods might triumph, emanated from the center of the Śrīvatsa a single blazing, dark-blue Hūṃ. It became an iron boil in the space of the forehead of the god Viṣṇu, the king. From within the boil, once it burst, there emerged a dark-blue woman, her hair falling in tresses of beryl, her eyes like the petals of the blue lotus, endowed with the major and minor marks.
+
+The gods gave her a name: they named her the goddess Umā Devī. Since the gods wished to have this daughter of the gods as the wife of them all, Vajrapāṇi proclaimed in the sky this verse of my emanation:
+
+That the kingdom of the gods may be lofty and firm,
+That the beings of the six classes may be set upon virtue,
+And that the great battle of the asuras and māras may be turned back,
+Give Umā as wife to the Lord God.
+
+So he proclaimed. At that time, in the northwest of Jambudvīpa, in the charnel ground called Blazing Kamala of the yakṣas, the god Hvā Deva, in the guise of a monk, was practicing a fierce ascetic discipline of stillness. Umā Devī was brought to his side, and for seven weeks of seven days she was warmed in his heat, and they engaged in the sexual union of desire. By the power of that union, planets and stars appeared in the sky. There the goddess Umā Devī bore two children, a brother and a sister. The brother became known as Yama, Mahākāla. The sister became known as the red goddess Cāmuṇḍī. The two, the lord of death and his sister, were led to the assembly of the gods at Good Dharma.
+
+Then Vajrapāṇi himself conferred on the two the empowerment of Mahāyakṣa, the Victor over the Māras, and as before the gods and the asuras joined in great battle. Then Yama Mahākāla, with a single shining club the size of Mount Meru in his hand, rolled it across the asuras' battlefield and turned the battle back. Cāmuṇḍī, with the sword called Garland of Flames, cut off the head of the asura Hiraṇyakaśipu. Then the many armies of the gods rained down showers of weapons upon the asuras. Their blood seemed to be turning into soldiers, but the goddess Cāmuṇḍī, with the skull of Hiraṇyakaśipu, drank the blood and, delighting in it, kept it from multiplying, while she sent down showers of weapons, and the millions and billions of gods made a fortress of Cāmuṇḍī's center and fought from it. The white army of the gods was made victorious and became lord of the wish-fulfilling tree, and the Palace of Complete Victory also stood there, self-arisen. The asuras were defeated. Listen, Indra!
+
+Then that daughter of the gods, Cāmuṇḍī, in the great wilderness called Delight in Radiance, clothed herself in leaves called those of the mountain-forest tree, and for seven years recited the dhāraṇī of the noble Aparājitā, the Unconquerable, and so became the goddess Parṇaśabarī, the Leaf-Clad Mountain-Dweller. Then, when the bodhisattva called the Conch-Boiled Nāga was being harmed by the garuḍa called Karuṇa, that goddess Parṇaśabarī subdued the garuḍa and protected the nāga, and so became the white goddess called Protector of the Conch. That goddess Protector of the Conch is the root of the Palace of Complete Victory on the summit of Mount Meru.
+
+In the northeast corner, beneath the tree of awakening, in a seven-storied jeweled palace, upon a jeweled throne, she sits proudly upright, adorned with crowns of gold, silver, and beryl and with necklaces. Many sons and daughters of the gods also make offerings to her, beyond imagining, of enjoyments, songs and melodies, and music. Listen, Indra.
+
+Now, in the land of Laṅkāpurī there were seven hundred thousand cities of the rākṣasas. The gods found fault with them and brought them down, and of the rākṣasas only the rākṣasa Daśagrīva and his sister Nalatse survived. Then the rākṣasa Daśagrīva, wishing to subdue gods and humans, offered his sister to the god Mahādeva, the Great God (Śiva), as his consort. From the union of the god Maheśvara and the sister Nalatse, the father made the aspiration for a son and the mother made the aspiration for a daughter. Because the mother's aspiration was the stronger, a marvelous girl was born. The father, enraged, threw her into the ashes. The mother took her back, warmed her with the heat of her own body, and revived her by drawing in her life-force with the syllables Ā U Bhrūṃ. The father named her Ash-Colored Hidden One. The mother named her Unconquerable Wrathful Fury, the Risen Corpse. When the yakṣa Vajrapāṇi swore an oath over her and gave her a name, she was to be known at all times as Black Remati, and he named her thus, saying, "May she be endowed with the power to protect the Buddha's teaching." Then all the goddesses of the sky and the eight classes of rākṣasas also recited, "May it be so." From then on, in every birth, she was known as Black Remati.
+
+The goddess Śaṅkhapālā, the Protector of the Conch, gave her own name: she called the rākṣasī Red-Winged Phurpa-God, the Golden One.
+
+At that time the rākṣasa Daśagrīva said: "I am known in the world by the sound 'Crush! Crush!' Sister, and you, Nalatse, without crushing me, ask of me whatever you wish." Daśagrīva then said, "I desire the goddess Śaṅkhapālā." The sister said, "Let this daughter of mine, the Phurpa-God, be offered as a servant to the goddess Śaṅkhapālā, and then we shall deceive her." So Nalatse led the girl and presented her as an attendant to the white goddess Śaṅkhapālā.
+
+Then Remati addressed the white goddess Śaṅkhapālā in these words:
+
+Hail, great and mighty one, mother of the lineage,
+Great self, Gagarma,
+With fair head, a topknot of jewels,
+Blue beryl shimmering in radiant light,
+Upon your lovely face, a lotus maṇḍala,
+Adorned with sun and moon together,
+Beautiful teeth like conch, tongue like flame,
+Your like exists in no world-realm.
+I shall be your subject;
+Deign to hold me in your compassion,
+And I shall draw close to your heart.
+
+So she spoke. Then, serving as the goddess's maid, she drew close to her heart and did whatever the goddess wished and needed. The goddess, pleased with that servant, cherished her.
+
+At that time, in the land of Laṅkāpurī, a monkey and a fierce-throated beast were fighting, and all the gods went to watch the spectacle. The goddess Umā said to the girl Śaṅkhapālā: "Today whoever comes to you will come to deceive you. Do not look at him." But as soon as this was pointed out to her, the servant at that moment signaled to Daśagrīva.
+
+Then the rākṣasa Daśagrīva mounted a red-gold rākṣasa donkey and came to the gate of the goddess's palace. He transformed himself into an exceedingly handsome and beautiful human form, and transformed the donkey into a purple wild ass. Going before the goddess Śaṅkhapālā, he beguiled her with the sweet chiming of music and with songs and melodies of many kinds. The goddess, delighted by the music, let slip a smile. Then the rākṣasa found his opening.
+
+He undid a blue iron anklet and, holding it up, sang this song:
+
+Ah, in the supreme abode of the gathering tree,
+from the palace of beautiful jewels,
+in the blissful hall of magical display,
+who is it that dances there with graceful poise?
+Are you not Īśvara's daughter?
+Are you not the conch-guardian, the one who gives delight?
+You sport with a great company of goddesses.
+The ornaments of your head, the glittering rings,
+are adorned all over with the beauty of jewels.
+Your eyes are like utpala petals.
+Your nose is like the bilva fruit.
+From your face comes the fragrance of utpala.
+Your body is supple and slender, like a young creeper.
+Your voice has the sweet and supreme tone of Brahmā.
+Your breasts, rising full, stand upright above your slender waist.
+A form like yours is rare anywhere else.
+Though the goddess is not hurried by the beauty of divine enjoyments,
+accept this iron anklet as an ornament for your feet.
+Whatever you do, whatever you say, is lovely and pleasing to hear.
+In all the three realms one like you is exceedingly rare.
+All beings are never sated with gazing upon you.
+Please be kind enough to accept this offering of mine.
+
+When he had offered it so, the goddess took the iron anklet. Then she wound it round her own right foot as an ornament.
+
+Then the servant woman addressed the lady, the conch-guardian: "Lady, supreme bliss, conch-guardian, if I may make one request, will you grant it?" The lady said, "You are close to my heart. Whatever you ask, I will grant it." Now a god is bound by the vow of truthful speech, and so must do just as he has said.
+
+Then the servant woman pleaded: "O lady, you who have become my mistress for all time, conch-guardian, there is none like you in any other world. In companionship you are like a single peerless star risen in the sky. Since the one who offered you the anklet is here today, I beg you to make him your constant companion. And I too will always be your handmaid." When she had said this, the goddess, having already given her promise, had no power to refuse. She said, "Where is that man who gave me the anklet? Who is he?" The servant woman replied, "He is my uncle, the rākṣasa Daśagrīva. He lives in the land of Laṅkāpura." And so, powerless, the conch-guardian went to become the rākṣasa's wife.
+
+Then the goddess Umā cast a curse upon her daughter, the conch-guardian: "I held my daughter exceedingly dear. Though you were not troubled by the beauty of divine enjoyments, you hid it from me and went to be a rākṣasa's wife. From now on, my daughter, may you too keep company with rākṣasas. May you wear the skin of man-eaters, take life, and carry a bowl made of a human skull filled with blood. May you ride a donkey and lose the color of a goddess. May you become frightful, with the dark color of a rākṣasa. And as for her servant woman Rematī, you too tricked my daughter and gave her to a rākṣasa. May you also take on an ugly and terrifying face, and in all your lives never meet a husband." Thus she cast twelve curses.
+
+Then, struck by her mother's curse, the daughter lost the white color of a goddess and became dark blue. She ate human flesh and drank human blood. Wearing human skin and riding a donkey, she went about naked. She bore the rākṣasa children Siṃhacandra, Puṣpacūḍa, Himavān, Saptadaṃṣṭra, and others, five hundred in all, and when they had only just been born, her husband, the rākṣasa Daśagrīva, died.
+
+Then the conch-guardian too took on the guise of a mendicant and cut off her hair, leaving a single forelock and a single lock behind. The servant goddess Phurpā, struck likewise by the curse, was tending the rākṣasas' pigs when a swineherd named Dunbu, a rākṣasa, took her against her will and lay with her. Then the goddess Phurpā became pregnant with a child. Then the two attendants stole the rākṣasa's donkey and rode it, and in the right hand one held the wicked sword of Daśagrīva, which they had stolen.
+
+They stole the rākṣasa's precious jewel, hid it in a pouch made of mongoose skin, and fled, holding it in the left hand. Afterward, fearing that the rākṣasa army would kill them, they urged the donkey on, turning its face backward, and rode on while the rākṣasas behind them raised a clamor. At last they came to a charnel ground, where they met the corpse of a man killed in battle. They wished to roast and eat the flesh but had no fire-sticks. Then, by the sea, they saw a flaming fire where rain had fallen on a hill of flint and coal. They took fire from the flint-stone, roasted the flesh, and ate it. Afterward a white dog followed them, and they killed it and ate it too, and they made a banner of its hide.
+
+Then the servant woman Rematī gave birth to a child, a boy. The two of them also ate the flesh of that newborn child. Then the lady rode the donkey, with the servant woman leading it by the face, and they went to the shore of the sea. There they meditated for seven days on Yama with the wheel of wind, and a black wind, a black whirlwind, came to be present before them.
+
+Then the goddess and her attendant, the two of them, called upon the mighty gods and spirits of the world of appearances and existence, and made this aspiration: "As soon as I pass from this life, may I attain the siddhi of secret mantra and see the face of the Victor. May I become the sovereign of the desire realm. May this servant of mine, the goddess Phurpā, be my subject at all times. May I enjoy wealth in the form of human heads. May the donkey be my mount, and may the sword be my weapon."
+
+Circling the sea, they called out to the black whirlwind, "Bāyabe, bāyabe!" and no sooner had they called than the whirlwind came and hurled the two, mistress and servant, into the sea.
+
+Then the goddess, the conch-guardian, through the power of having eaten human flesh and through the force of her own aspiration, was born by the shore of the sea, in the great charnel ground called the Grove of Corpses, as the daughter of a mighty god of Yama. She became a great yakṣiṇī, dark blue-black in color, utterly terrifying, with blood-red eyes, fine tusks, and matted hair coiled upon her head like a basin. She united with Yamarājñī Marutse, and there was born a son named the Black Māra Trampler.
+
+The donkey too was born, as a red-maned creature with turquoise ears, wings of wind, and eyes streaked with red at the corners, and he distributes the shares of wealth.
+
+Then, as to what birth the servant woman Rematī, the one who rose as a corpse, took: she was born in the sea as a woman with half a body, with the head of a sea monster. She was named the half-bodied nāga woman, sea-monster-headed, Rematī. After ninety days she passed away and took birth in the land of the gandharvas, in the city called the Golden Pleasure Grove. At the root of a black poison tree, immutable, Ritigongnyag, a māra, and Dranpa Wangjed joined together, and after sixty-one days a girl was born. Her father named her Stealer of the Minds of the Three Existences; her mother named her Winged One of Wondrous Magic. The two māras, male and female, adorned their daughter, strand by strand of her hair, with gold and with hanging tassels of beryl, with a crown ornament of jewels, with a skull-diadem of sun and moon, with a skull-necklace, and with a girdle of snakes. Because she was a child born of their union, the māra built in the midst of a house of the five kinds of precious substances a skull palace; within the skull a pavilion of magical skulls took form; and within that, in a sevenfold chamber of seven stories, upon a throne of a hundred thousand human corpses, they hid the girl so that no one saw her and no one perceived her. They sealed it with the talkative doorkeeper Long-Arm and with Namdru Armor-Bearer. The queen of the māra's army, the queen of the four continents, and the queen of the lords of the earth all guarded that house closely and sat there.
+
+Śakra (Indra), listen!
+
+At that time, the goddess Dungkyongma summoned her former servant, Rematī Rolangma, who had been born as the māra's daughter, because she wished to take her as a servant. Vajrapāṇi recited my secret mantra one hundred and eighty million times, and through the blessing of that secret mantra a dākinī, perfected in meditative absorption, spontaneously appeared holding a lotus and a heruka in her hand. When the blessing of this spread over all the māra's lands and palaces, the king of the māras, his ministers, and his retinue fell into a stupor, bereft of all awareness.
+
+The māra's daughter Rematī remembered her former mistress, the goddess Dungkyongma. Her mind turned toward her, and a fierce longing arose to go before Dungkyongma. She stole the black Dramba, the weapon of the māra Riti Gongnyak, and held it in her right hand. She stole the deep red dagger, the weapon of the mother, and held it in her left hand. Fleeing half by night and half by day, she came to the mistress Dungkyongma. There she was sitting naked, and she met a lowborn herdswoman named Jahamu, the herdswoman of the householder Rabjin Sal, who was wearing a black rag. Rematī killed the lowborn woman and ate her flesh, and wrapped the skin around her waist. Then she stripped off the woman's rag and, the māra woman herself putting it on, went on.
+
+On the road she came to a pond of disease, the blood and pus of the dead ogress Pūrṇa. Thirsty, the māra woman Rematī drank a single sip, and her breath turned into sickness. Wherever her breath fell, epidemics broke out. Feeling shame, she untied the intestines of the lowborn woman she had killed from her waist, filled them with the sickness of the pond, bound the mouth with a snake, hid the bundle in her armpit, and went on, thinking to harm sentient beings.
+
+Then she met the haughty one, Vajra Moon, who said, "Great māra woman, you must make love, and I will give you a gift as well." Seizing her, he made love, and a single drop of his seed, falling upon Jambudvīpa, became the white leprosy. Vajra Moon held seven white and black sling-stones in his hand, which destroy whatever they are thrown at. These he gave her as the gift. She took them in her left hand and went on. When she reached a city called Drangden, she begged alms from the king Senge Tsal. He filled her bowl with honey, and as she took the honey into her hand, his steward gulped some down and then gave the rest to her. As soon as she received it, the gods of the sky said, "A māra woman is drinking the leftovers and spittle of the king's servant! Her greatness is lost!" At this, the māra woman Rematī, enraged and agitated, sent an epidemic upon the royal family there. The king offered nine copper nets from his treasury, and the epidemic was halted.
+
+After that, the black woman Rematī came before her former mistress, the goddess Dungkyongma, in the great charnel ground, the grove of corpses by the shore of the ocean. Then the mistress and her servant joined together at the very time they were exhausting and emptying the sentient beings of the three realms. Dungkyongma's mount, a red-brown donkey of the ogres, and an ogress's wild female donkey with ears like a spindle-top and copper teeth, mated, and from them was born a blue mule with wings of wind. Binding a copper saddle on its back with a belt of intestines, the goddess Dungkyongma gave the mule to her servant Rematī as a mount.
+
+So the mistress rode the red-brown donkey, and the servant rode the blue mule. The mistress wore a human skin and held a skull cup and a sword in her hands. The servant wore the black rag and held the Dramba and the sling-stones in her hands. Then, with tremendous magical power, they devoured the beings of the four kinds of birth until they were utterly emptied out. The worldly dākinīs, the white assembly, the blue and the red, the yellow assembly, and the goddesses...
+
+Many female māras, many rākṣasīs, and countless others besides came as her subjects and servants, saying, "We are the subjects of the goddess, the lady." Indra, listen. At that time the goddess and her servant, having taken on the nature of women, joined with nine husbands for the sake of constant carnal indulgence. The mistress had five husbands and the servant had four. The mistress's five husbands were the planet Rāhula, the rākṣasa Sgra-ldan, the Lord of Death Māruce, the māra Black Rain-Maker, and the nāga Kunla. The servant's four husbands were the spirit Dge-ba, the obstructor Vināyaka, the yakṣa Kapāla, and the wind-spirit Vāyabe. In this way the nine husbands of the mistress and her servant were kept hidden by day, tucked under the left armpit, and by night were guarded in the charnel ground, where they joined in union.
+
+Indra, listen. Then, by the force of her former karma and of her earlier virtuous conduct, the young goddess went before the Blessed One, who was seated beneath the Tree of Awakening. There the goddess generated the supreme awakening mind, bowed at the feet of the Blessed One, and offered him her heart-essence mantra:
+
+Tadyathā, Oṃ ruru beti stabadosi, ruru roru besti stabadosi, capala ashugme hūṃ bhyo jaḥ.
+
+This she offered. The servant offered her own heart-essence mantra:
+
+Tadyathā, Oṃ ruru bero ru hūṃ ti ṅato si, ragmo citta kha ragma dun bhyo, mama trag kṣa kha muntra batra rakṣa citta kha ragma duṃ hūṃ bhyo, rulu samaya phra mama mahā sti phra bhyo.
+
+This she offered.
+
+Then, having generated the supreme awakening mind, the goddess and her servant went to the cave of the asuras. There they met the brahmin Chok-sé, who was engaged in accomplishment practice. The goddess asked, "What are you doing here?" The brahmin Chok-sé replied: "Long ago, in this very realm, the monk Tenpé-dé and the nun Darri-dé, the two of them, broke their discipline and were put to death by the king's punishment. Having transmigrated, they became the māra Lam-nga-geu-ri and the rākṣasa Kha-dar, and they devoured every human being in the land until none remained. Then the turn came for them to devour me. To subdue these māras, I am practicing the accomplishment of the Mother Ekajaṭī, the One-Braided One."
+
+Dungkyongma then said, "In that case, if we, mistress and servant, were also to practice the accomplishment, would we have such qualities?" The brahmin asked, "What accomplishment do the two of you desire?" The goddess said, "The two of us wish to become great sovereign ladies of the desire realm and to attain the power to protect the Buddha's teaching." The brahmin said, "Then you shall accomplish it." So the brahmin and the goddess with her servant practiced the accomplishment, and having seen the face of Mother Ekajaṭī, they attained siddhi.
+
+Mother Ekajaṭī gave the goddess Dungkyongma the name Glorious Goddess, the Black Lady, Mahākālī. The servant she named Yakṣa Remati. She empowered them as great sovereign ladies who subdue the desire realm. Mahākālī also vowed to guard the Dharma and protect the teaching. She offered her heart-essence mantra:
+
+Oṃ ruru beti stabadosi, ruru roru beti stabadosi, capala ashugme bhyo jaḥ.
+
+Remati too offered hers:
+
+Oṃ ruru roru beti stabadosi, ragmo citta kha ragma hūṃ bhyo, mama trag rakṣa kha muntra batra trag rakṣa, citta kha ragme, Remati samaya phrama ya phrama mahā te phra dun bhyo, jaḥ jaḥ rulu bhyo.
+
+This she offered. They then destroyed the māra Lam-nga-geu-ri and the rākṣasa Kha-dar.
+
+After that, the earth goddess Tenma and the eight nāga brothers were also offered as subjects. When an army was led into the land of the rākṣasas, the rākṣasa Yagśa-kore was slain.
+
+Indra, listen.
+
+Then the noble Avalokiteśvara performed the accomplishment practice of the glorious Hayagrīva, in which he manifested as Hayagrīva. He beheld the face of Hayagrīva and gave the secret dhāraṇī. The mistress he named Glorious Black Goddess, and the maidservant he named Vajra Lightning Rākṣasī. To her he gave the empowerment of the Great Seal, and he blessed her as a deity of activity. At that time the Glorious Black Goddess offered her essence mantra to the glorious Hayagrīva and promised to protect the teaching.
+
+Then the former Umā Devī and Nala Tse, those two, fled from the two girls of former times when milk was poured over the tip of the rākṣasī's hand. Calling out with the flowing hair of a she-bear and with a waving motion, the moment they came into the presence of the two girls, they were empowered and the sacred pledge was proclaimed. They were given the authority to protect the teaching.
+
+The wheel-turning king too made an offering of his own flesh, blood, and seminal fluid, and offered the sovereignty of gods and humans. To the mistress he gave, as her share of wealth, a precious peacock with wings, bearing a wish-fulfilling jewel on its crown. To the maidservant he gave, as her share of wealth, a dark female bird, likewise bearing a precious jewel on its crown. Thus the goddess, mistress and maidservant, took the peacock and the dark bird given by the wheel-turning king as their lasting share of wealth.
+
+Then the glorious goddess, in the secret place, the charnel ground, in the midst of the black house of corpses, at the doorway of the Māru Tse, while the glorious Vajrapāṇi was practicing the accomplishment of Heruka, the accomplishment of the glorious Vajrapāṇi was attained. Then the glorious Vajrapāṇi conferred on the goddess and her servant these empowerments: on the crown of the head, the secret empowerment of the glorious Hayagrīva; on body, speech, and mind, the empowerment of the blood-drinking Heruka; on the heart, the empowerment of the glorious śrīvatsa and the five buddha families; as ornaments of the upper body, the empowerment of the sixteen Phramenmas; on the red and white of the tongue, the secret empowerment of the iron hook; at the six great vital junctions, the secret empowerment of the tuft; on the secret lotus, the empowerment of the arising of the wisdom drop; to the sixty-four vajra messengers as her retinue, the empowerment; and to the lord of the lotus dance, the empowerment of emanation and further emanation. At that moment this world-realm shook in six ways.
+
+Then the glorious Vajrapāṇi named the mistress Glorious Mahākālī. The maidservant he named the yakṣa butcher woman, the Black One, Remati. He entrusted them with protecting the Buddha's teaching. Then the glorious goddess offered her own essence mantra to Vajrapāṇi himself and promised to protect the Buddha's teaching at all times.
+
+After that, the glorious goddess became inconceivable in power and miraculous ability. When she became sovereign of the desire realm, the god Brahmā offered the ornament of the sun. Viṣṇu offered the ornament of the moon. The son of Vaiśravaṇa offered lion's ear ornaments. The servants of the sky gods offered ornaments of golden bells. The rākṣasas and flesh-eaters offered a garland of skulls and drops of blood and fat. The nāga Nanda offered a serpent's hood. Thus the goddess became without equal or rival in the three realms of existence.
+
+Then Indra asked: O Blessed One, Lord of Secrets, this sovereign of the desire realm was first a daughter of the gods, then became the wife of a rākṣasa, and now has become the sovereign of the desire realm. From what former cause did this come about?
+
+The Lord of Secrets replied: Indra, listen.
+
+Now, this dark goddess, in the distant past, in the teaching of the Buddha who was the Destroyer of the Cycle of Existence, became the goddess Radiant Light, and she practiced the ten virtues exceedingly well. Then, in the teaching of the Buddha Golden Sage, she became the goddess called Steadfast Hero, and she practiced aversion in her own way. Then, in the teaching of the Buddha Kāśyapa, she became the goddess called Mañjū. At that time Śākyamuni was known as the monk Heroic Sovereign. The goddess Mañjū made offerings to that monk and made a single aspiration.
+
+Indra, listen. Now it is the case that the ripening of three buddhas' worth of deeds, over a long span of time, ripens for this goddess all at once in the teaching of Śākyamuni. That this goddess was first born as the daughter of the Great God (Śiva) was through the power of her first practicing virtue. That in between she became the wife of a rākṣasa and was dejected was because she practiced aversion. That finally she has now become the sovereign of the desire realm is because, empowered by all the buddhas, she guards the teaching of Śākyamuni; in the past she confessed her sins to Śākyamuni and made her aspiration. The servant Rematī was accomplished through the merit of mantra.
+
+This is the first chapter, the chapter of the introduction, from the Tantra of the Blazing Flame of the Ḍākinī.
+
+Then Indra, lord of the gods, made this request to Vajrapāṇi, Lord of Secrets:
+
+O Blessed One, Protector, Lord of Secrets, for the sake of beings of the future, I wish to hear the tantra on the signs of the master and the disciple who properly accomplish the ḍākinī yoga.
+
+When he had asked this, the Lord of Secrets declared:
+
+The glorious goddess, the vajra ḍākinī, is not common, and is not to be practiced by everyone. Therefore I shall explain the characteristics of the master. The master bows deeply to the Dharma, is endowed with the four immeasurables, and is compassionate. Having received the outer, inner, and secret empowerments, he holds his pledges as dearly as his life. He has realized the two truths and holds the view. He does not abandon mantra and mudrā, and always abides in the great seal. He possesses the oral instructions for working for the benefit of beings. These are the characteristics of the master.
+
+The disciple is tame and faithful. He bows deeply at the feet of the lama. He has faith, generosity, courage, and compassion. He keeps the discipline, the vows, and the pledges. He always keeps close to the deity and the master. To one who is a worthy vessel for holding the secret mantra, I declare that he may be made a disciple.
+
+This is the second chapter, the chapter teaching the characteristics of the master and the disciple, from the Tantra of the Glorious Blazing Flame of the Ḍākinī.
+
+Then Indra, lord of the gods, made this request to the glorious Vajrapāṇi:
+
+Vajrasattva, great hero, in order to protect the yogis of the final age, I wish to hear the supreme view of the secret vajra ḍākinī.
+
+When he had asked this, the glorious Vajrapāṇi declared:
+
+I and the vajra ḍākinī are unborn from the beginning, free of the objects of grasper and grasped. The conceptions of self, of clinging to a self, and of signs are destroyed. The ultimate and the conventional are the ground without birth. In the nondual dharmadhātu they are inseparable. Emptiness, the dharmakāya, space, and the five wisdoms appear as emanated mudrās, in the form of gods and goddesses. Like a rainbow in the sky, where could any intrinsic nature be found? When one acts for the benefit of beings through the power of compassion, in short, she is an emanation of the buddhas. The servant is an emanation of a bodhisattva. Do not regard her as a demoness or a māra in the guise of a woman.
+
+This is the third chapter, the chapter teaching the view, from the Tantra of the Blazing Flame of the Ḍākinī.
+
+Then Indra, lord of the gods, made this request:
+
+Lord of Secrets, compassionate from the beginning, in order to accomplish the siddhi of the vajra ḍākinī, I wish to hear the tantra of the three kinds of maṇḍala.
+
+When he had asked this, Vajrapāṇi declared:
+
+Indra and all the assembly, listen well. The sign-seal of the three kinds of maṇḍala is this. The natural maṇḍala is the northeast peak of Mount Meru. The maṇḍala of absorption is the domain of the yogin's mind. The maṇḍala of reflected image is to be made on ground of the four qualities. Prepare the colored powders with human bone, ashes of the cremation ground, and a mixture of these. In the center of a dark blue square are three triangles. In the center is the chief, Vajrapāṇi. To his right is the goddess, the Dark Lady. To his left is the Mother, she who accomplishes absorption. Before the chief is the servant Rematī. Around her, in an outer ring, are the Mothers of Existence, surrounded by tigers, leopards, vultures, lions, and garudas. In the outer rings paint a garland of skulls, a mountain of fire, and skeletons. Paint the cakra, or else the syllables and the hand-emblems.
+
+This is the fourth chapter, the chapter teaching the maṇḍala, from the Tantra of the Blazing Flame of the Ḍākinī.
+
+Then Indra, lord of the gods, made this request to the glorious Vajrapāṇi:
+
+Ah, great and supreme wrathful one, chief of those who tame all beings, tell me, Lord of Secrets, what are the substances for accomplishing the siddhi of the vajra ḍākinī, the holy Dark Lady?
+
+When he had asked this, Vajrapāṇi declared:
+
+A person who desires the siddhi of the vajra ḍākinī will not attain siddhi without the substances. Such a person is as foolish as one who rubs a seed on a grinding stone. If all are complete, siddhi gives its signs.
+
+For the ḍākinī there are seven kinds of substance: the substance for summoning, the substance for attending the Mothers, the substance for offering, the substance for mingling the samaya, the substance for urging, the substance for bringing down the sign, and lastly the substance for striking at the vital point and for reversal. When these seven are complete, the signs of accomplishment appear.
+
+The samaya substances of the chief, Vajrapāṇi, are these. For summoning the chief, the substance is gorocanā. The support of the chief is a ritual dagger made of lion-tree wood and human bone. Offer to the chief with the five clear substances and with nectar. With the ten samaya substances, make offering to the vajra ground. Anoint with black guggul, black mustard, and sesame. Bring down the sign with incense, a human tongue, and human fat. The substance for striking the chief at the vital point is amṛta.
+
+The summoning substances for the glorious Dark Lady are these. Summon by waving a banner, with a hasta, human fat, and brass filings, burning these with the five incenses. The support of the goddess is a pure girl, together with two skulls of women who died at sea. Build them up into a fortress and join them in the center of the maṇḍala. Place in the center of the maṇḍala an unpainted human-killing sword of eight finger-widths, with a handle. Make the fortune-base with a peacock, a lion, and a black pair of fabric.
+
+The samaya substances of the Mistress, the Dark Lady, are these. The flesh of a monk, a corpse, a lion's heart, the flesh of a vulture, the five sense faculties, the heart of a black rudra, the five nectars, the blood of a medicinal woman, various kinds of flesh and blood, and the five powders. Offering these, grind saffron. Smear with lotus blood and make a constant torma offering. The substance for mingling the samaya with this Dark Lady is this. The mantra is ruhi vajra padma mide. The substance for urging is human fat and burnt guggul. The one who brings down the sign is a pure girl. For striking at the vital point and for reversal, the foot of a bear.
+
+The summoning substances for the servant Rematī are these. Wave the hair of a female bear and show the rākṣasa gesture. Summon with guggul, human fat, and incense. As the support of Rematī use a black sheep, or the skull of a black woman. The offering substances for the servant Rematī are a vessel filled with blood and amṛta, the flesh of a turquoise-colored beast, human flesh, and the first portion of beer. The substance for mingling the samaya and for constant offering is made auspicious by ruhi vajra padma. The substances for urging are black guggul and a spice. The one who brings down the sign is a pure girl. For striking at the vital point and for reversal, the foot of a calf.
+
+If these are pure and unimpaired and the gathering becomes complete, then the assemblies of the vajra ḍākinī...
+
+Like a bee that has seen an udumbara flower, joy arises and it grants siddhis to people. Therefore, bring forth earnest effort and be diligent.
+
+This is the fifth chapter, teaching the samaya substances of the servant, from the Tantra of the Blazing Flame of the Ḍākinī.
+
+Then Indra, the lord of the gods (Śakra), made this request to the glorious Vajrapāṇi: O Lord of Secrets, Vajrapāṇi, chief of those who tame, you who are the vajra ḍākinī body, the support for accomplishment, I wish to ask about the painting of the thangka, and about its earnest practice.
+
+When he had asked this, the Lord of Secrets declared:
+
+The form that is the support of the ḍākinī must go to the charnel ground, unsullied by any human touch. First, recite the approach practice of Vajrapāṇi and the Goddess a hundred thousand times each. Then offer to this the burnt offering and the torma. Empower the painter with initiation. One should bestow the samayas completely.
+
+Then take the cloths of a woman's foot-garment and of those who wrap corpses, and use wood from the cremation of a corpse. There are five kinds of pigments for painting. From the radiating and gathering of the five seed-syllables of the heroes, bless the Victors as the five families. In the center paint Vajrapāṇi. In front, paint the black goddess riding a donkey and holding a sword. On the left, paint the servant Rematī, riding a mule and holding a ḍamaru. On the right, paint the supreme brahmin Sreda, his throat white like a peacock's neck and long, holding a rosary of coral on a seat of black antelope hide, and holding a peacock's feather and a mongoose. To his left, paint oneself, holding a rosary of coral on a seat of black antelope hide, and holding a peacock's feather and a mongoose.
+
+Then, with your own demonic blood, open the eyes of the figures. In front, offer the torma and the burnt offering. Bow at their feet and make homage, and make the request for whatever siddhi you desire. Request them to be seated in the center of the maṇḍala. At the heart of the deity's body, draw a moon disk with the blood of a demon's hand. In the center of it draw the essence-syllable. In the center of that, hang the great triple-coiled sinew. Recite while holding its tip as your own. Or do this with those whose lineage is pure. If done this way, the siddhis will arise.
+
+This is the sixth chapter, teaching the forms, from the Tantra of the Blazing Flame of the Ḍākinī.
+
+Then Indra, the lord of the gods, made this request to the Lord of Secrets, the glorious Vajrapāṇi: O Lord of Secrets, wrathful one, great maker of Hūṃ, tell me the method of meditating on the samādhi of the glorious vajra ḍākinī.
+
+When he had asked this, Vajrapāṇi declared: Indra, lord of the gods, listen. The magical emanation arising from the state of non-arising is this: from Hūṃ comes a five-pointed vajra, and from that, I myself am Vajrapāṇi. Green-blue in color, in the garb of a wrathful one, with a body that stands in a proud, fierce posture. The hair of his head is tied upward in a topknot, with a crown of the five families. In his hand he holds a blazing five-pointed vajra of wisdom. His body is adorned with an elephant hide, a lower garment of choice fabric, a tiger-skin skirt, a garland of skulls, and a necklace of snakes. His eyes are red, his fangs bared, blazing like the fire at the end of an eon.
+
+In front of him, generate the glorious black goddess. Mahākālī vāyaveśpharaṇa: this is the generation of the maṇḍala of the dark, stirring wind. Mahākālī jvala raṃ: this is the generation of the maṇḍala of fire. In its center, bhrūṃ viśva viśuddhe kapāla hūṃ: this is the skull palace, the divine mansion. Garbha pa hūṃ: this is a red donkey with the eyes' corners wide, with wings of wind. Tiraṃ: the donkey's back, cross-legged seat. Ma sūrya maṇḍala a: this is the seat of sun and moon. From the radiating and gathering of the black bhyo, the goddess's samādhi: Oṃ devī śrī mahākālī hūṃ. This is on one's own awakening mind.
+
+The goddess, the black one, is of a black complexion. Her hair is matted and thick, standing out in a wide mass. The corners of her eyes are red, her mouth gaping, her fangs bared. Her body is adorned with snakes and skulls. In her hands she holds a sword and a mongoose. She is marked by ash, blood, and fat. Her earrings are bells and lions, and her body is adorned with the sun and the moon. Her lower body is adorned with an elephant hide, and her feet are adorned with iron chains.
+
+Before that goddess, generate the servant Remati. Yaṃ vāyave: this is the stirring of the wind. Bhrūṃ vihāraṇa hūṃ: this is the jeweled divine mansion. Within it, from kapāla bhrūṃ comes the skull palace of the divine mansion. Within it, from tiraṃ hrīḥ sti bruṃ comes the magical pavilion. Within that, generate seven chambers. Within that, generate a mule with wings of wind. Upon it is a seat of rhinoceros hide. Upon that, from the radiating and gathering of the black ma, from rakṣa remati hūṃ, there arises Remati, the daughter of Māra: a black one, her hair rough and tangled, adorned with sparks of fire and with jewels. Her eyes are red and her fangs bared. She wears a black cloak and a human skin. In her hands she holds a skull-cup and a drum, a snake lasso, a crown of skulls with the sun and moon, and she has a breath of disease. She is accompanied by a tiger-skin skirt, a net of copper, and a flock of weapons. These are generated. From uttering bhyo bhyo bhyo bhyo, a retinue of one hundred thousand black ones is generated.
+
+This is the seventh chapter, the exposition of samādhi, from the Tantra of the Glorious Blazing Flame.
+
+Then Indra, the lord of the gods, made this request to the glorious Vajrapāṇi:
+
+Secret deity, proud in the vajra body of sameness, steadfast hero who destroys all signs, fierce in power, we ask you to explain the mantras that accomplish the life-essence and heart of the vajra ḍākinī of the garland of flames.
+
+When he had asked, the glorious Vajrapāṇi said:
+
+What is called mantra is the life-force of the ḍākinī. Its syllables are many, and not a single fragment may be broken. If the bending, the generating, and the fierce utterances are not mistaken, the black goddess is summoned forth.
+
+Then the glorious Vajrapāṇi entered a samādhi like the vajra and drew forth from his own heart this essence mantra:
+
+Oṃ vajra caṇḍa mahāroṣaṇa hūṃ.
+
+First, for the principal one, Vajrapāṇi, perform this approach-practice, reciting seven times one hundred thousand. Honor him with torma and with burnt offerings. Through this one attains the accomplishment of Vajrapāṇi and becomes able to summon the goddess and bring her under one's power. Only then should one enter into the goddess's mantras.
+
+The mantras are these: the heart of the mistress and the life of the servant; the life-essence mantra of manifest summoning; the mantra inviting the principal one and summoning the servant; the mantra of the unmoving, steadfast vajra seat; the mantra offering torma to please her; the mantra of empowerment and binding by oath; the mantra of appointing and sending her to benefit or harm; the mantra bringing the disobedient and powerless to the critical point; the mantra for receiving the accomplishments of body, speech, and mind; the mantra empowering the disciple who bows at the feet; the mantra testing the practice regarding gods and obstructors; the secret vajra mantra of signs and offerings; and the mantra averting obstacles and evil omens. These twelve vajra secret mantras will be taught.
+
+For the life-essence and heart of the glorious black goddess:
+
+Oṃ ruru veti stavadosi, ruru roru veti ṣṭha vadosi, pacala aśugme hūṃ bhyo jaḥ.
+
+For the life-essence and heart of the servant Remati:
+
+Oṃ ruru roru, hu tiṣṭha vato si, ragmo citta kha ragmo hūṃ bhyo, mama trag rakṣa, kha muntra vatra vatra rakṣa citta kha ragma, remati samaya, pra ma mahāste pradun bhyo rulu rulu bhyo jā jā.
+
+This is the mantra that draws out from the life-force.
+
+Recite it once, and the mother goddesses appear before you. Recite it ten million times, and they will show you the mudrās. Recite it a hundred thousand times, and they grant the signs of accomplishment. As for the servant's heart-mantra, it comes the very moment it is recited.
+
+Samaya dulinga rakṣasi, he rakṣa, bhyo rakṣa, duṃ rakṣa, māra rakṣasi, mā mā mā mā, ruru ruru, ruru ruru, bhyo bhyo bhyo bhyo, ruru ruru.
+
+This is the general heart-mantra of the retinue of a hundred thousand mother goddesses.
+
+Oṃ mahākālī maṇḍala matre, āgacchaya, āgacchaya, praveśaya, praveśaya, tiṣṭha tiṣṭha, avaloka, avalokaye, hūṃ jaḥ.
+
+This is the mantra of invitation.
+
+Oṃ mahākālī mama samaya, śiti tiṣṭha tvaṃ, mahākālī āveśaya, remati samaya veśa.
+
+This is the mantra for spreading the seat.
+
+A maṇḍa vi mahākālī remati baliṃ khakha khāhi khāhi, mahāpūja hoḥ, amṛta khakhale le.
+
+This is the mantra for offering the sacrificial cake.
+
+Mama samaya mahākālī samaya, mahākālī kāya samaya, mahākālī vāga samaya, mahākālī citta samaya, mahāmutra kapāla hūṃ.
+
+This is the mantra for displaying the sacred pledge.
+
+Oṃ vajra yoginī tivi mahākālī samaya, vajra krodha karma rakṣa hūṃ.
+
+This is the mantra for urging into action.
+
+Oṃ ruru ruru ca hūṃ, aśugme vatri rutra khaśala nagmo hūṃ, rakṣa citta mahāsamādhi, maru kha citta nan, ragmo tiki maja, mama titi hūṃ bhyo.
+
+This is the mantra that urges the servant at the vital point.
+
+Oṃ vajraḍākinī deva mahākāla remati, kāla vāka ciddhi samaya phala āveśaya a.
+
+This is the mantra for obtaining accomplishment.
+
+Oṃ mahākālīye hūṃ phaṭ, ruru capala aśugme hūṃ mahākālī abhiṣiñca, kabala trini, mahājñāna, kāya vāka citta siddhi hūṃ.
+
+This is the mantra for conferring empowerment.
+
+Hriṃ hriṃ ca miṇḍi gurtse hūṃ.
+
+This is the mantra for testing one's practice.
+
+Hūṃ phaṭ, mahādevi kālī duṣṭāntaka, dahana daha paca hulu nan, daha paca māraya hūṃ phaṭ.
+
+This is the mantra for averting evil omens.
+
+Hūṃ hūṃ hūṃ hūṃ hūṃ hūṃ hūṃ hūṃ. Hriṃ hriṃ hriṃ hriṃ hriṃ hriṃ hriṃ hriṃ. Taki taki taki taki taki taki taki taki. Bruṃ gem bruṃ gem bruṃ gem bruṃ gem bruṃ gem bruṃ gem bruṃ gem. Hūṃ duṃ hūṃ duṃ hūṃ duṃ hūṃ duṃ hūṃ duṃ hūṃ duṃ hūṃ duṃ. Phaṭ taka phaṭ taka phaṭ ka phaṭ ka phaṭ ka phaṭ ka phaṭ ka.
+
+This is the drum-sound of the great vajra ḍākinī.
+
+This is the eighth chapter, the chapter teaching the mantras, from the Tantra of the Blazing Tongue of Flame of the Ḍākinī.
+
+Then Indra, king of the gods, who is called the Hundred-Giver, made this request to the glorious Vajrapāṇi:
+
+Blessed One, Protector, deputy of the Victors, deity of action,
+I wish that you would teach me
+the secret mudrās of the vajra ḍākinī yoginī.
+
+When he had asked this, Vajrapāṇi declared:
+
+The supreme secret mudrās of the yogī
+are not to be abandoned but always to be kept.
+First, the chief one abides in the vajra posture.
+The sovereign lady who rides a donkey kindles fire with wind.
+Seizing with the iron hook, she overpowers with her wings.
+With the donkey, spread the seat; with the skull, confer empowerment.
+With the fresh skull, firm in the pledge, without duality, receive accomplishment.
+Always avert evil omens with the mudrā.
+
+First, the five-pronged vajra of the chief is this:
+hold both hands with the fingers interlocked behind,
+and raise the thumbs, middle fingers, and little fingers pressed together.
+This five-pointed vajra is the seal of Vajrapāṇi.
+
+First, the mudrā of the Black Wind, the Stirrer, is this:
+join the palms and raise the middle fingers;
+cross the little fingers and ring fingers at the joints and spread them;
+extend them, and set the thumbs against the middle fingers, raising both index fingers like a fortress;
+bending the tips is the wind mudrā.
+
+The mudrā of the dark purple mountain of blazing fire is this:
+
+The mudrā of the hook: bend both index fingers at the joints, draw in the thumbs and set them against them, then raise the middle fingers and little fingers and let them flutter.
+
+The mudrā of the Dark Goddess's sword is this: with the right hand, bend the little finger and press it down with the thumb; then bring the middle, index, and ring fingers together and raise them.
+
+The mudrā of the servant Remati is this: bend the right hand and press it with the thumb, and extend the remaining three fingers. This is the mudrā of the trampling cudgel.
+
+The mudrā of the mother goddesses, the summoning iron hook, is this: place both hands back to back and raise the little fingers; bend both index fingers, and gather the middle fingers, ring fingers, and thumbs together. Extend and separate them, and hold the two iron hooks at the heart.
+
+The mudrā of the garuḍa wing, subduing, is this: join the two thumbs and extend the fingers like wings.
+
+The mudrā of the supreme seat, the donkeys, is this: cross the little fingers, press down the ring fingers, then spread the ring fingers and press them with the thumbs. In the same way, turn both middle fingers inward.
+
+The mudrā of blessing and empowerment, the skull-garland, is this: hold the right and left hands as fists, and link the thumbs and index fingers of all four like an iron chain.
+
+The mudrā of the vow of the fresh skull is this: bend the thumb and index finger of both hands into a circle, and bend and insert both ring fingers, like the pupil of an eye. The middle and little fingers form the mouth of the skull.
+
+The mudrā of the vase of nectar, for receiving accomplishments, is this: bring the tips of the ten fingers of both hands together and curve them into a round shape.
+
+The mudrā of the trident, averting ill omens, is this: with the right hand, bend the thumb, index, and ring fingers into the palm, and raise the middle and little fingers, fluttering.
+
+This is the ninth chapter, the chapter showing the mudrās, from the Tantra of the Blazing Flame of the Ḍākinī.
+
+Then Indra, the lord of the gods, a hundred-fold giver, spoke to glorious Vajrapāṇi in these words:
+
+O mighty and renowned yakṣa,
+master of the hosts of awareness mantras and secret mantras,
+in order to please the vajra ḍākinīs,
+please explain to me the stages of offering.
+
+Thus he requested, and the Lord of Secrets replied:
+
+To bring about quickly the accomplishments of the vajra ḍākinīs,
+please them and make offerings continually.
+First, offer the torma, the substance of offering.
+Second, present the burnt offering.
+Third, in the same way, present the secret offering.
+
+First, the torma: the five meats and five nectars,
+the offering substances, together with jagada and rakta,
+fill a skull-vessel made beautiful like a lotus.
+By wind, kindle fire, and with the syllable A boil the skull.
+Stir it well with the vajra of the syllable Hūṃ,
+and with a blazing white A, destroy the poison of the food.
+With the five heroic seed syllables, bless it as nectar.
+With the first, offer to the chief, Vajrapāṇi;
+with the second, imagine the goddess drinking;
+with the last, meditate that Remati sips it.
+
+Oṃ vajrapāṇi hūṃ. ḍākinī mahākālī. yakṣa remati. mama śatruṃ amuka. maca meta vasamsa. ruti jivaṃ. prīya vegṣini. idaṃ baliṃ gṛhṇa gṛhṇa. kha kha kha kha. khāhi khāhi.
+
+With this secret mantra, always offer the torma.
+
+Next, one should perform the offering of the burnt oblation. Before the image, set up a hearth ringed round; build the fire with wood from milk-bearing and thorny trees. Take fire from a brahmin's house and kindle it. For the burnt substances use human flesh, black butter, honey, and liquor, mixed with blood, and offer ten thousand times.
+
+In the meditation method, the fire itself arises as the fire god, riding a mount, with four hands: in the right, a staff and an offering ladle; in the left, a gundhe and a rosary, firmly held. In his heart, clearly visualize Vajrapāṇi, the goddess herself, and the servant Remati, and make the burnt offering.
+
+With the second, offer to the chief, Vajrapāṇi; with the third, offer to the Dark Goddess; and likewise with the last, make offering to Remati.
+
+Each one's heart mantra is to be recited and offered. Oṃ vajra caṇḍa mahāroṣaṇa hūṃ. Mahādevī Kālī hūṃ. Yakṣa Rematī hūṃ. Agnaye havya kavya. Mahā tivati tivati tivya. Sarva duṣṭān bhakṣa nikharaṃ khāhi svāhā. Then the ashes are to be carried to the charnel ground.
+
+Then, with the secret offering, explain it fully. In the actual rite, in the absorption where the ḍākinī is clearly present, the secret wisdom is the two syllables hūṃ and aṃ. When these are thoroughly stirred together by the vajra and the lotus, the ḍākinī becomes greatly pleased through the moon. From the drop of her heart, my splendor is conferred. This is the heart's accomplishment, the sacred oral instruction.
+
+Mahākālī samaya bodhicitta. Mahāpūja guhya stvaṃ — this is the emanating. Mahākālī samaya. Mahāraktaguhya stvaṃ. Āveśa a — this is the gathering in.
+
+This is the tenth chapter, on offering, from the Tantra of the Blazing Flames of the Ḍākinī.
+
+Then Śakra (Indra), lord of the gods, made this request to the glorious Vajrapāṇi:
+
+You who possess the five wisdoms, steadfast and compassionate hero, glorious Akṣobhya, Vajrasattva, I wish to hear the pledges for the accomplishment of the vajra ḍākinī, pledges as dear as life itself.
+
+When he had so asked, the glorious Vajrapāṇi declared:
+
+The pledges of the ḍākinī, the secret mudrās, are difficult to transgress. The Indestructible King conferred the empowerment, which is the cause for destroying the characteristics of conceptual signs. I shall explain those very pledges. If they are transgressed, there is the vajra hell. If they are not transgressed, they are the cause of the sublime accomplishment.
+
+The pledges of body, speech, and mind relate to the chief, Vajrapāṇi, to the Dark Goddess, and to the servant.
+
+The pledges of the chief's body are these: do not abandon the mudrā of the body; please the deity and the teacher; and feel deep concern for your vajra brothers and sisters.
+
+The pledges of the chief's speech are these: do not interrupt the recitation of the heart mantra; hold the secret mantra without distraction and without falsehood.
+
+The pledges of the chief's mind are these: do not spread the secret to others; and make use of the five fruits as a seat.
+
+Now the pledges of the principal goddess are explained. The pledges of the goddess's body: show kindness to donkeys, do not crush them with burdens, and do not strike them with sticks. Always keep a peacock's feather. When you see a circle of fire, be as joyful as at a flower blooming. So that you never transgress the pledge of your chosen deity, show two mudrās every day.
+
+The pledges of the goddess's speech: recite constantly; when you see a mongoose, praise it; show the mudrā and be glad. Make a vessel of tilled-field hides and substances. If you encounter shaman-like women, do not cut them at the waist and do not turn your back on them. On auspicious dates and at midnight, make the mudrā and offer praise.
+
+The pledges of the goddess's mind: in whatever world you may be, toward women wherever they dwell, show kindness and practice affection. Always rely on pure young women. At the time of the goddess's lunar days of wandering, mingle the pledge with the secret offering.
+
+Now the pledges of the goddess's servant, Rematī. The pledges of her body: to little children, orphans and the destitute, give clothing and food as to guests, and always show them kindness. Cut a tree leaf at four finger-widths at the waist. On one half draw the form of the Mothers, and on the other half draw a request for accomplishment, and always keep it with you.
+
+The pledges of the servant's speech: until she has come, do not scatter the life-heart torma on any evening, and do not mix in idle chatter. Guard against touching the rosary as well. If I have cast a spell against an enemy, it is not taught that it can be undone afterward. How can one go back on what one has promised? Do not break it, even in part. Do not throw a stone from the hearth into water.
+
+The pledges of the servant's mind: toward a pregnant woman who has a child, scatter flowers and show kindness. Give her food, and do not reckon up her shortcomings. Take the nosebleed on lunar days. Whether or not you hold other pledges, hold these.
+
+For a yogi who is not the master of the practice, one must not reveal one's own deity, the heart-mantra, the substances, or the mudrā. The sign is anointed with melted charcoal. Always keep the black bird and the black sheep. It is not permitted to eat what is doubtful.
+
+The common pledges of lord and servant: the people of Ruhi, Vajra, and Padma. Keep them always, show them to others, and make offerings to them. It is not permitted to be separated from them.
+
+So that yogis may attain accomplishment, the pledges of body, speech, and mind are taught.
+
+Śakra (Indra) asked:
+What is the fault of breaking the pledges? What is the virtue of keeping them? May the chief of the elemental spirits explain.
+
+Vajrapāṇi declared:
+Śakra, listen, and I will explain it well.
+
+When the pledge of the body of the chief, Vajrapāṇi, is broken, the path leading to the state of the higher realms is cut off. When the pledge of speech is broken, even if one practices, accomplishment is not gained, and the mantra has no power. When the pledge of mind is broken, one is gravely punished by the ḍākinīs and is certain to be born in the vajra hell. There is no accomplishment, and obstacles arise.
+
+When the pledge of the body of the glorious Black Goddess is broken, one is cut off by the punishment of kings, by venomous snakes, by fire, and by water. When the pledge of speech is broken, one is distracted in practice and has no power, and whenever one begins a practice, obstacles come. When the pledge of mind is broken, sickness comes upon one's practice, and epidemic disease arrives.
+
+When the pledge of the body of the servant-goddess, the demoness Remati, is broken, epidemic disease and madness come upon one's retinue, while enemies increase their lives and merit. When the pledge of speech is broken, sons and wives die, the heart finds no joy, the mouth becomes hollow, and wealth and possessions are exhausted. When the pledge of mind is broken, obstacles come to one's own life, and one suffers leprosy, piercing pains, and madness.
+
+When the common pledges are broken, even if one practices constantly, there is never a time of success, and one is never parted from enemies.
+
+Again, lord of the gods, Śakra, listen to the virtue of keeping the pledges.
+
+When the pledge of the body of the chief, Vajrapāṇi, is not broken, one attains the unsurpassed state of awakening. When the pledge of speech is not broken, one sees the face of Vajrapāṇi and gains mastery over vajra speech. When the pledge of mind is not broken, the four activities are accomplished in full, the ḍākinīs manifestly serve one, and power and miraculous feats are accomplished merely by thinking of them.
+
+When the pledge of the body of the glorious Black Goddess is not broken, gods and demons, male and female, pay homage, and one gains sovereignty over the desire realm. When the pledge of speech is not broken, the ḍākinī appears in person as one recites the mantra and grants accomplishment without obstacle. When the pledge of mind is not broken, demons and enemies cannot withstand one, epidemic disease never arises, enemies die without doubt, gods and humans all honor one, and one gains long life and wealth.
+
+Then, when the pledge of the body of the Black One, Remati, is not broken, the retinue flourishes in auspiciousness and prosperity, and enemies and obstructers are overthrown. When the pledge of speech is not broken, sons and wives flourish, wealth and possessions increase, and one accomplishes keen sight, swift feet, and the raising of corpses. When the pledge of mind is not broken, one gains long life and renown, the body is untouched by punishment, the mind is free of suffering, and one gains great power and skill.
+
+When the common pledges are not broken, the chief Vajrapāṇi, the Black Goddess, and all the lords and servants are never parted from oneself. Whatever one wishes is accomplished, and whatever task one commands is done.
+
+This is the eleventh chapter, on the pledges, from the Tantra of the Blazing Tongue of Flame of the Ḍākinī.
+
+Then Śakra, lord of the gods, spoke to glorious Vajrapāṇi as follows:
+
+Hūṃ, Great Vajra, king of the hūṃ-makers, declare the signs of the heat of the vajra ḍākinī.
+
+Thus he asked, and...
+
+Glorious Vajrapāṇi declared:
+
+When a person of intelligence, skilled in the oral instructions, becomes fully endowed with secret mantra, meditative absorption, and the mudrā, the signs of accomplishment of the vajra ḍākinī arise in this way. The signs of accomplishment are taught as three: outer, inner, and secret.
+
+The inner signs of accomplishment arise in the eyes, the ears, the nose, the tongue, the body, and the heart.
+
+If with the eyes one sees the three worlds, it is the sign of the chief, Vajrapāṇi. If with the eyes one sees the goddess, it is the goddess herself. If the eyes tremble and move, it is Remati.
+
+If with the ears one hears the three worlds, it is the Vajra-holder. If one hears the ḍākinīs speaking, the goddess is giving instruction. If a woman's voice sounds like thunder, it is Remati.
+
+If the nose smells camphor, it is the Vajra-holder. The scent of the water lily is the goddess herself. If one smells incense or saffron, it is Remati.
+
+If the tongue expounds the sacred Dharma, it is the Vajra-holder. If the tongue recites secret mantra, it is the goddess. If it speaks of omens, good and bad, it is Remati.
+
+If the body is radiant, it is Vajrapāṇi. Light arising from the body is the sign of the goddess. If the body trembles, or the hairs stand on end, or the muscles and sinews twitch, it is the sign of Remati.
+
+If one is sick with nausea, vomits, and weeps, the goddess and her lords, servants, and yoginīs have arrived.
+
+If in the heart one remembers one's births, it is the sign of Vajrapāṇi's accomplishment. If the heart burns with delight, it is the mistress. If the heart burns with sorrow, it is the maidservant.
+
+Now the secret signs of accomplishment shall be taught. When the power of mantra and meditative absorption has just been awakened, and in the space of the central channel of the vajra the joy and bliss of awakening mind arise, it is said that the ḍākinī dawns within oneself.
+
+Now the outer signs of accomplishment shall be taught. The outer signs are of three kinds: superior, middling, and lesser.
+
+The superior is to see the very body of the goddess, and to see Vajrapāṇi in the midst of the sky. When a white woman appears, laughing, she bestows the accomplishment of secret wisdom. When a black woman with matted hair appears, she gives me the power and accomplishment of gathering the desire realm. When a red woman with hair like a rhinoceros's appears, she gives the accomplishment of bringing the world under one's power. When a yellow woman adorned with a garland of skulls appears, she gives the accomplishment of increasing life and enjoyments.
+
+The middling signs of the ḍākinī: the chief draws down the vajra from the sky. The signs of the mistress, the goddess, and the guardian are: showers of substances, deepest darkness, a rain of flowers, thunder, a red wind, the appearance of a woman's form, and rainbows.
+
+The signs of the maidservant Remati are: thunder, red wind, knocking at the door, burning on the rooftop, dull thuds, and chattering voices.
+
+The lesser signs show themselves in dreams. If one dreams of a bodhisattva, it is the chief. If one dreams of a mother or sister, it is the lady. If one dreams of a wife or maidservant, it is a servant. If one dreams of a donkey or a deer, it is the mistress. If one dreams of a mule or a crow, it is the maidservant.
+
+When the mamos are accomplished and come under one's power, and women bow to me, smiling and engaging in intimacy, that is their conduct. When the mamos are accomplished but do not come under one's power, they appear in ugly forms and pretend to be the mistress; beasts of prey come to devour, and the mamos wring their hands.
+
+If the pledges decline and the mamos are stirred to anger, the mamos fight within, and a rain of weapons falls. The black crows fight within, and a mist of blood gathers. If one sees such omens, it is a sign that punishment is coming.
+
+If one's practice is obstructed by the damsi spirits, such as the Black Goddess who holds the ritual dagger, one is gripped by cold, longs to go home, longs to talk idly, and burns with anger. One dreams of women stooping and of divinatory signs. If the torma offering passes beyond its proper time, divination signs and portents of former empowerment appear. Smoke gathers and one sees a woman fainting. If one sees a woman weeping, decline and harm result.
+
+If one's eyes are closed, it is a sign that one's absorption is wandering. If one claps the hands, it is said that one's samaya commitments are incomplete. If one shows the tip of the tongue, the essence has been cut off. If the teeth grind together noisily, a fight with others will come. If one hears wild laughter, it is a sign that enemies and obstructing spirits are being destroyed. If one is angry, obstacles will come, and this is a prediction. If one is engaged in union, it is a giving of accomplishments. If one sees someone singing a long-drawn song, accomplishment is far off. If there are marks of weeping on the face, an epidemic will come. If one sees dance gestures being performed, whatever one wishes will be accomplished. If one sees someone playing a flute, he wants a torma offering. If one sees someone counting a rosary, he wants a fire offering. If he makes milk in the mouth, he wants union. If one dreams of riding a donkey, she is a mistress. If one dreams of riding a mule, she is a servant woman. If one sees someone holding a parasol, one is attached to oneself. If one sees someone holding a banner, one is attached to oneself. If one sees someone holding a mirror, one is attached to the body of one's wife. If one sees someone performing gestures of display, one is attached to the body of a disciple. Birds and beasts of prey eating the torma is good. If a crow perches there, the essence, the mudrā, and wealth are lost. If one sees a smile, it is a sign that one's own life will be long. If there is a burn mark of fire on one's clothing, one's disciples will decline. If one rides a deer, it is a sign that wealth will increase.
+
+Whatever signs of the Mātaras' accomplishment may appear, when one then sees good signs of accomplishment, one should make the mudrā of the nectar vase and recite the mantra for receiving accomplishments, and in the heart take whatever accomplishment one desires. Bind the mothers, sisters, and servant women by oath. When one sees bad omens, make the trident mudrā that averts bad omens, and avert the bad omens with mantra. If one seeks some aim elsewhere, a woman should carry a full vessel in her hand. It is good if birds and beasts of prey go forward in view. At that time, offer a torma and go about the task. If one sees someone carrying an empty vessel, do not pursue the aim. The signs of heat of accomplishment are dear to yogins in general.
+
+This is the twelfth chapter, the chapter teaching the signs of heat, from the Tantra of the Blazing Flames of the Ḍākinī.
+
+Then Indra, the Lord of the Gods, spoke to glorious Vajrapāṇi as follows.
+
+Holder of the vajra, master of method and wisdom, if one practices the vajra ḍākinī and still does not succeed, I ask you to give courage and bring it to the crux.
+
+When he had thus entreated, glorious Vajrapāṇi spoke.
+
+A person with absorption, intelligence, and ability who takes up the secret mantra of the vajra ḍākinī as his chief practice cannot fail to attain whatever accomplishment he desires. Yet when the practice drags on for long, there are four faults in it. The four are these: the continuation of former karma has not been connected; the days of the preliminary recitation are too few; obstructing spirits interrupt; and the yogin has damaged his samaya. These are the four causes of a long-drawn practice. So too, identify the signs. If the continuation of former karma has not been connected, then even if one practices, there is no sign of accomplishment. If the recitations of the preliminary are few, signs of accomplishment come, but the work is not obeyed. If obstructing spirits interrupt, the heart is unhappy, one wants to leave, and one is afraid. If the yogin has damaged his samaya, powerful obstacles and adverse conditions arise. Yet do not abandon it; practice again and again.
+
+If the continuation of former karma has not been connected, first perform the preliminary practice for a long time. Then to bring it to the crux, in the northeast of the practice maṇḍala, on the ground of a charnel ground, mark out a triangle. Build it up to the height of a cubit. Sprinkle it with human blood. Then, on the right of the field and the rest, paint an image of the goddess herself. Tie a thread of sinew at her heart, and press the triangle down with the body laid flat upon it. Holding the tip of the thread firmly, visualize oneself clearly as Hūṃ-mdzad Chenpo. Recite the essence mantra that slays the Mātaras.
+
+Rag-mo tsitta rakta sti ra ti ti mā ra ya hūṃ. Jaḥ.
+
+Having recited the secret mantra in this way, one meditates on drinking the heart's blood of the Mātaras. One imagines that the Mātaras, together with their donkey-faced attendants, collapse like a heap of dregs. Then one presses down upon their hearts with the stone, and with the syllables Citta Jvala Raṃ, one imagines that fire blazes forth from one's own mouth and burns the Mātaras to ashes.
+
+The seed syllable of the Mātaras is the black Mṃ. From the lineage beneath one's own feet, as one utters Mama Ru Lu, one visualizes that from beneath one's own feet the goddess Śrī Devī, wearing a garland of powerful skulls, sits with palms joined. With the horse-neck mudrā one draws them under one's power; with the garuḍa-wing mudrā one crushes them in overwhelming force. One burns the sacred substances that have been driven into the vital points. When one has slain them once in this way, one draws the body out from beneath the stone. One invites it to dwell in the northeast corner. One offers confession and sings a lament, and nourishes it with the five kinds of nectar. One sucks it from the navel and urges it on from the vital points. Then one begins the accomplishment again, and it will be achieved without doubt.
+
+If the number of days of the approach practice is few, then using a rosary of human bone, or of nirūraga flesh, or of lungthang beads, one may perform the approach by undistracted counting, even if one recites only seven times a hundred thousand. Or else the recitation may be accomplished through the appearance of signs.
+
+When obstructors create interruptions, dig a three-cornered black pit. Fill it with fragments of human, dog, and pig remains. On a lingam made of khamsa clay, write the name of the oath-breaking demon at its heart, and place it in the skull of a black one of cut lineage. Place the skull within the pit. Meditate clearly on a blazing maṇḍala. Summon the oath-breaking demon, make it dissolve into the figure, and drive in a human-bone peg of eight finger-widths, visualizing it clearly as Acala, the Immovable Protector. Recite the mantra that averts evil omens. Over this, on a black stone, draw Mount Meru with a vajra fence. Seal the mouth of the pit, and above it build a black reliquary mound. This is taught as the suppression of the oath-breaking demon.
+
+When a yogin lets the sacred bond decay, the punishment of the ḍākinīs will come. If the decay is great, the punishment is great: no signs of accomplishment arise, and one's own life comes under threat. The punishment for middling decay is that obstacles and epidemic diseases afflict one's retinue. The punishment for slight decay is that harm comes to one's enemies and one's wealth.
+
+Next the restoration of decay is taught. To restore a great decay, one restores it with ten thousand torma offerings, ten thousand fire offerings, and likewise with three Rājas. If even this does not satisfy them, one first restores with three Khyung-ldings, and then with three black crystals. When a middling punishment has occurred, one restores it with a thousand tormas, a thousand fire offerings, two Khyung-ldings, two Spyi-nag, and likewise two Rājas, and offers eighteen lamps of radiance. When a slight punishment has occurred, it is taught that one satisfies them with a hundred tormas, a hundred fire offerings, one Khyung-lding, one black crystal, and one Rāja.
+
+This is the thirteenth chapter, on restoring the commitments of the heart-vow, drawn from the Tantra of the Blazing Flames of the Ḍākinī.
+
+Then Indra, lord of the gods (Śakra), made this request to the glorious Vajrapāṇi:
+
+Fierce and blazing lord of the wrathful yakṣas, for one who wishes to accomplish the siddhi of the vajra ḍākinī and who always relies upon her, let the vajra holder speak.
+
+Thus he requested. The glorious Vajrapāṇi then declared:
+
+Listen. As for constant reliance upon the ḍākinī: first, it is precious to have accomplished her and to have obtained signs. Then it is taught in three ways, outer, inner, and secret. The outer support of the mistress is the peacock. In the peacock's heart, from Bhyo, generate the goddess. The outer support of the maidservant is the black bird. In its heart, from Bhyo, generate Remati. Take the peacock, a dark one, or a black crystal, and well bring down the Mātaras, mistress and attendants, into its nostrils. Then confer the outer, inner, and secret empowerments, honor it at the proper times with torma offerings, and hold it as a support.
+
+The inner support is the body and the secret emblem. Join one's own form with the secret emblem. In between, Ruti, vajra, lotus, and man; bestow the secret camphor and bind it to the body. The secret support is the coemergent deity.
+
+One should see it as the secret wisdom, the drop, the Mamo. Then one should never abandon the mantras, the mudrās, the substances of absorption, and the samaya. It is taught that one should always rely on her with offerings of food. This is the fourteenth chapter, on constantly relying on the Mamos, from the Tantra of the Blazing Flame of the Ḍākinī.
+
+Then Indra, the lord of the gods, a hundred-sacrificer, made this request to the glorious Vajrapāṇi:
+
+Hail, great blazing one, radiant as a thousand suns,
+vajra goddess, ḍākinī, goddess of glory,
+the bringing down of the sign of the maidservant, and the empowerment of disciples,
+the secret mantra for bringing down the Mamos, I ask you to speak it to me.
+
+When he had made this request, the glorious Vajrapāṇi declared:
+
+For bringing down the goddess and empowering the disciple,
+the master himself must be accomplished in the Mamos, this is what is precious.
+Then that master who has accomplished the Mamos
+should perform a seven-day retreat in a great charnel ground,
+equipped with mantra, with instruction, and with the substances.
+First, bring down the Mamo so that she descends upon oneself.
+Then the disciple enters the maṇḍala,
+casts the flower, and is shown the deity,
+and the four empowerments of the glorious Vajrapāṇi are conferred.
+The first is the empowerment of the blazing five-pronged vajra.
+The second is the empowerment of wisdom and the bell.
+Likewise the third is the diadem.
+The fourth is the empowerment of the five families and the five wisdoms.
+
+Then the four empowerments of the dark goddess are conferred.
+The first is the empowerment of the skull cup.
+With the second one confers the empowerment of the wisdom sword.
+The third is the play of the mongoose.
+Likewise the fourth is the hero's giving of the hand gesture.
+
+Then the four empowerments of Remati are conferred.
+The first is the empowerment of the charnel ground, the abyss.
+The second is the empowerment of the vajra ḍamaru.
+The third is the empowerment of the khaṭvāṅga and the skull staff of Māra.
+Likewise the fourth is the empowerment of the knife of desire.
+One should also recite the mantra of conferral for the empowerments.
+Having first followed the twelve stages,
+one should assess the samayas of body and speech.
+
+Then one should enter the secret empowerment.
+Take girls of the brahmin, kṣatriya, and vaiśya classes, of eight, sixteen, or twenty years,
+with long, broad eyes, a fine blue-black color, and full breasts,
+with beautiful hair and white teeth, and the charm of the utpala.
+Bathe her and adorn her with golden flowers.
+Seal her five sense faculties with nectars.
+On her forehead write the secret mantra of Vajrapāṇi.
+At her heart write the heart mantra of the goddess,
+and at her navel write the heart mantra of Remati.
+Give her food of the five medicines and the five nectars,
+and grant the vajra Ruhi in her secret lotus.
+
+Then, in the west of the maṇḍala of accomplishment,
+build a round red platform for the empowerment.
+Place the girl upon it.
+In all the directions and intermediate directions burn fat and mustard.
+Above and below, spread the mats made from the first yield of the field.
+In front and behind, offer torma.
+Then recite the heart mantra of the Mamos a hundred thousand times.
+Then the vajra master, the guru,
+beats the ḍamaru and fiercely calls the Mamos.
+Her life-force and heart become straight, and she trembles and sways.
+Then fix the mind upon that girl,
+recite this mantra, and constantly gaze at her face.
+Make the girl unwavering and have her meditate in clarity.
+
+Oṃ caṇḍa mahāroṣaṇa hūṃ samaya prathā ruru roru capala aśug me samaya prathā khamuntra pramaya matiṣṭi prayoga siddhi samaya prathā āveśa a.
+
+Fiercely urge and bring down the Mamos.
+If she is difficult to descend, burn the substances of descent at the vital point.
+By the third time, with a hundred thousand recitations of the Mamo, she will surely descend.
+She will speak clearly of signs, good and bad, fortunate and unfortunate.
+Or she may descend even without speaking.
+
+Then upon that girl's body,
+with incense, flowers, lamps, and perfumed water,
+first make the outer offering,
+with the five meats, the five nectars, and food and drink.
+Then secondly present the inner offering.
+As the secret offering, with that drop of seminal fluid,
+first, honor the principal one, the Vajra-Holder.
+With the second, make offering to the goddess, mistress and attendants.
+With the third, take the fluid oneself, drink it, and receive the accomplishment.
+
+Generate with certainty that the mantra consort is a ḍākinī. Place the mantra on the consort's tongue and mingle it with the samaya substance. Then place the drop on the disciple's tongue. After that, bestow the empowerment of the mind of the Mothers.
+
+Then, before that girl, set up a red crescent as the sign of the empowerment. Then place the disciple at the mouth of the platform. Make offerings of burnt offering and torma to all the ḍākinīs.
+
+Then let that girl, the wisdom consort, bring the Mother down upon the disciple who desires her. Burn the substances that urge the Mothers on. Bring down the outer and inner warmth and the signs. When the signs have arrived, bring down the samaya of the mind. Then confer the secret empowerment that mingles the samayas. By this, it is taught, the ḍākinī is directly accomplished.
+
+This secret tantra of the mind of the Mother ḍākinīs, if taught to a disciple without empowerment and samaya, even one single word, will hasten the ending of life. He will die swiftly and be born in the vajra hell. Therefore it is taught that one should give it only to those who have received empowerment and permission.
+
+This is the fifteenth chapter, on conferring empowerment, from the tantra of the Blazing Tongue of Fire of the Ḍākinī.
+
+Then Śakra, the lord of the gods (Indra), addressed glorious Vajrapāṇi with these words:
+
+Alas, great Vajrapāṇi, supreme among marvelous blessings, please explain the stages of ritual action of the yogin who has accomplished the goddess.
+
+Thus he asked, and glorious Vajra-Holder declared:
+
+Listen, Śakra, lord of the gods, listen. The yogin who has attained accomplishment of the goddess, even without setting out purposely upon each separate rite, accomplishes whatever he wishes simply by thinking it in his mind. Yet if one sets out to practice with deliberate intent, I shall explain the supreme distinctions of ritual action. These are to be performed by those who have accomplished the Mothers. Beginners in the work should not undertake them. Listen, Śakra.
+
+The special features of pacifying action are these. Take raw sugar, honey, gorocana, guggul, incense, milk, clarified butter, sesame, and rice, together with agarwood and turuṣka, along with the name of the one for whom the rite is done. Make ten thousand pills. Set up a round pacifying hearth, and a fire of wood that yields milk. See all the ḍākinīs as white, holding vases of nectar. From the crown of the head of the one for whom it is done, visualize an empowerment pouring down, pacifying the body. Light the fire and burn the pills in sequence. Recite and offer the life-essence and heart-essence mantras of the upper ones. As the insertion into the life-essence, recite "Śāntiṃ kuru svāhā." After reciting four hundred thousand times, demons and obstructors are pacified, and enemies and epidemics are pacified.
+
+For enriching action, take saffron, grapes and raisins, utpala, clarified butter, gorocana, the five nectars, and the wish-fulfilling tree, together with the name of the one for whom it is done. Make twenty thousand pills. The enriching hearth is square, with a fire of wood that bears fruit. The principal deity is Vajrapāṇi, and all the ḍākinīs are yellow, holding treasuries of jewels and vases. In the heart of the one for whom it is done, visualize the aggregates growing through empowerment, and say "May they increase." Light the fire and offer the pills in sequence. Oṃ caṇḍa mahāroṣaṇa hūṃ, kha muntra vatra vatrag ragmo pukṭiṅ kuru svāhā. Recite eight hundred thousand times. This increases life and lineage, and increases wealth and enjoyments.
+
+For magnetizing action, take honey, the blood of a wild goat, beer and fermented dregs, together with kukcho, sheep's eye, yung, lac, brass filings, fish flesh, butter, and mustard. Make thirty thousand pills. The magnetizing hearth is a crescent. Set up a fire of thorny wood. The principal and the retinue of Mothers are all red, holding hooks. Visualize them summoning the one for whom it is done. Light the fire and burn the pills in sequence. Oṃ caṇḍa mahāroṣaṇa hūṃ, pacala aśuk me, prama mahāsti prace gemo ākarṣaṇāya hrīḥ jaḥ. When one has recited one million six hundred thousand times, one will be able to magnetize a wheel-turning king, tigers, elephants, jewels,
+
+Good beings, ministers, soldiers, gods and humans, nāgas, yakṣas, and young women: all will come under one's power.
+
+Now the rite of expulsion is taught. In a fierce triangular fire hearth, make a fire of poison-tree and thorny wood. Take horse flesh, camel flesh, and fat, the feather of a crow, and the beer of fermented dregs, together with the name of the one for whom it is done. Recite one hundred thousand times. Upon the maṇḍala of wind, set a dark blue wind-drum, and upon it set the one for whom it is done. Visualize that Remati leads him by the nose, the Dark Goddess drives him out from behind, and Vajrapāṇi pushes him forth from the back, expelling him eighty thousand leagues away. Recite the essence mantra and burn the offering at the upper end. In the final essence, urge them: "Drive him out!" One will be able to uproot him from his land and make him wander. Phaṭ caca pala aśuk me, sphāraṇa mayaṃ phaṭ phaṭ, drive him out!
+
+Now the rite of division is taught. Take the flesh of a horse, a yak, a raven, and an owl, a fierce poison, and the fat of a jackal. Add the names of the two friends. Make a fire of thorny wood. Perform the offering one hundred thousand times. At the end of the life-essence, recite: Mama trag rag śa rutra māraya hūṃ phaṭ, gaccha phaṭ. One will be able to divide them without doubt.
+
+Now the method of summoning a woman. Take salt, mustard, stone-coal, fermented dregs, molasses, and fish, together with honey, womb-blood, and semen, and the name or hair of the one for whom it is done. Make one hundred and eight pills and burn them in a fire of sengdeng wood. When smoke arises, desire is aroused; when the flames blaze, she is drawn forth. Perform the mantra with the essence of the Ḍākinī. At the end, "Draw this woman here!" By this one will succeed without doubt.
+
+Now the rite of rendering mute is taught. Make an enemy-effigy of dough. Write the name on a sheep's palate and place it at the heart of the effigy. Place a fish head in the mouth, and pierce the mouth well with thorns. Set the effigy in the mouth of a dog's head, and bind the dog's head with jackal sinew. Recite the secret mantra one hundred and eight times. Oṃ vajra caṇḍa roṣaṇa hūṃ, remati cege mo bagha hūṃ. If one wishes to restore him, undo it again. If it is not undone and remains suppressed, his mouth will stay closed until death.
+
+Now the rite of madness. Take a fierce poison, the dead body of a datura, a black snake, the horn of a sinner, and a small dead bird, together with the name of the one for whom it is done, and burn it in that very place. Cege mo śatru nanā, śapra maya hūṃ phaṭ. Without doubt he will rave and go mad.
+
+Now the rite of paralysis is taught. Take burnt bones of a vulture's corpse, the fruit of the black abhra, the soot from a commoner's house, cat's flesh, fierce poison, black guggul, and the husk and chaff of grain, and mix them well into a powder. Recite the mantra one hundred thousand times. Oṃ maṇi vajra mahākāli caṇḍa hūṃ, spota grum sno sreng hūṃ hūṃ hūṃ. Whoever this powder is scattered upon will be paralyzed.
+
+Now the method of concealing one's own body. Take a black crow's nest-wood and smear it with the fluid of a black utpala. Anoint oneself with a brahmin's gorocana. In the center of the maṇḍala of the practitioner, draw the figure, and recite the essence of Vajrapāṇi. Then take seven young girls' cloths, wrap them in rākṣasa wool, and set them aside. Recite the essence of the Goddess and her attendants. Hang the rākṣasa wool on a tuḷpo tree. Keep it on the body unseen by others, and think: "No one sees me."
+
+Listen, Indra, Lord of Gods, listen. I shall fully explain the rites for destroying the harsh doctrine, for those who despise the vajra master, and for killing. The four rites of killing by the Mistress, and the six sessions of the Dark Maidservant: I have spoken them without doubt.
+
+The four rites of killing are taught thus. First, to bring down blood sickness. Second, to bring down plague. Third, to blaze with fever and black pustules. Fourth, to blaze with a piercing pain in the heart. Whichever of the four illnesses one wishes, it blazes forth and kills. If one kills an enemy with blood sickness,
+
+Draw a lingam on a cloth taken from a corpse. Smear it with the fluid of the three hot substances. Recite the mantra, offer the torma, and invoke the deity to descend and be roused to action.
+
+Oṃ vajra caṇḍa mahāroṣaṇa hūṃ. Oṃ ruru tiṣṭha pato si. Ruru bero ruru be tiṣṭha pato si. Capala aśuga me. Che ge mo rakta roga na ga māraya hūṃ phaṭ.
+
+Recite this ten thousand times, then offer the lingam as a torma. The enemy will die of blood sickness.
+
+Now I shall explain how to bring down plague. Take the poison of the btsan spirit, arrow poison, the blood of one who has been impaled on a spike, wine, and the poison of the year, together with blood, making four. Place them in a skull cup cut into eight pieces. Seal its mouth with a cloth from a field, and recite this mantra three hundred thousand times.
+
+Oṃ vajra caṇḍa mahāroṣaṇa hūṃ. Ruru be tiṣṭha pato si. Ruru ro ru ho ruṣṭa pato si. Capala aśuga me hūṃ, bya ha di ma roga na ga āveśaya, māraya phaṭ.
+
+Take on the appearance of wrathful form yourself, and scatter the offering at night in the direction of the enemy. Plague will surely strike them down.
+
+For killing with the hot fever sickness: take the flesh and blood of a black ram, the flesh and fat of crows and owls, the hearts of lions, tigers, vultures and cuckoos, the hearts of a black horse, a raven and a pig, the hearts of a she-wolf, the flesh of a mi-gri creature, along with melted brass and bezoar. Mix in poison and blood as well. Make forty thousand pills, and shape the black Mātaṅgī's face. Into the mouth of that Mātaṅgī, burn a fire offering of black poison tree wood.
+
+Visualize the vajra ḍākinī chief and her attendants, and the dark woman with wild hair and a fierce, bold manner, holding a sword in her hand, cutting up and eating the enemy's flesh. Attach one enemy name to each pill and carry out the rite of burning. Burn the substances that rouse the Mothers one by one.
+
+The curse of the Great Dark Woman is this: Oṃ vajra caṇḍa mahāroṣaṇa hūṃ. Ruru be tiṣṭha pato si, ruru ro ru be tiṣṭha pato si. Capala aśuga me. Mama sarva śatruṃ amuka śīghraṃ māraṇa. Jvala raṃ citta jvala jipaṃ rudhiraṃ māraya nāśaya hūṃ phaṭ.
+
+Then press down the ashes with a hoṃ-khung. There is no doubt that the fever sickness will come.
+
+If one kills an enemy with blazing heart-pain, take a spike of iron or poison-tree wood and hold it against the body while making the offering of approach. Visualize Vajrapāṇi at the crown. Visualize the Dark Goddess at the waist. Visualize Remati at the tip. At the sides, visualize the retinue of Mothers. Those who meditate on the kīlaya should visualize the upper body adorned with ornaments and bearing weapons, the waist wrapped in serpents of aversion, and the lower body a blazing, vicious spike. Hold it against the body and make the offering of approach.
+
+Oṃ vajra caṇḍa mahāroṣaṇa hūṃ. Ruru be tiṣṭha pato si. Ruru ro ru be tiṣṭha pato si. Capala aśuga me. Remati vajra kīli kilaya hūṃ māraṇa hūṃ phaṭ.
+
+Make the offering of approach constantly, and honor the deity with torma, giving and burnt offerings. Then fashion the enemy's image. If you strike its hands and feet, it brings suffering. If you strike its heart, it brings death. This is the rite of blazing heart-pain.
+
+The six sessions of the Dark Maidservant are these: the skull session of Guli the Dark Woman, the arrow session of Nirti the Dark Woman, the blood session of Rakta the Dark Woman, the door-lintel session of Tsaraṃ the Dark Woman, the poison session of Byisha the Dark Woman, and the heart session of Citta the Dark Woman. Thus the six sessions of the Dark Woman are properly explained.
+
+For the skull and arrow of Guli the Dark Woman: on a wrapping cloth from a corpse, with ink of poison and blood, write letters circling outward from the center. In the center write: Oṃ caṇḍa mahāroṣaṇa hūṃ. In the next ring write: Ruru pe tiṣṭha vado si, ruru ro ru be tiṣṭha vado si, capala aśuga me hūṃ bhyo. In the ring beyond that write: Ruru bero roru hūṃ tiṣṭha vado si, ragmo citta kha ragma hūṃ bhyo, mama tragrakṣa kha muntra vatra va tragrakṣa citra kha ragma, remati samaya mahā pra masti pradun bhyo jaḥ jaḥ, rulu bhyo bhyo. In the next ring, surround it with the Dark Mothers. In the ring beyond that, surround it with bhyo.
+
+Then the wheel of mantra was bestowed upon eight fragments of a skull. Inside that skull place a bhaṃ, the heart of a dog and of a crow, the womb-blood of a woman in her season, the flesh, bone, and blood of whatever illness one desires, various poisons and various bloods. Mix these with beer and pour them into the skull. Set the skull upon a triangular base. Having offered it to the rakta, the jāti, the bhaṃ, and to the ḍākinī, recite this mantra over black mustard and the great ash, and pour it into the skull:
+
+Oṃ ruru bero ruru hūṃ tiṣṭha vado si, hūṃ hūṃ, capala aśuga me karma de byi mudi rāga bhaṃ hūṃ hūṃ capala aśuga me, muyaṃ rakṣa thumdu nanan, kharag camunti hūṃ hūṃ capala aśuga me, akama māraṇa hūṃ phaṭ.
+
+When this mantra has been recited ten thousand times, seal the mouth of the skull with gorocanā. Go to the charnel ground, and at midnight hurl the skull-arrow at the enemy. Burn the sacred substances that rouse the Mamo. This makes the enemy waste away and perish.
+
+The session of the Black Nirṛti's arrow: feather the arrow with the feathers of a jay and a kite, and set up a shaft of black poison-wood. Take the heart-blood of a snake, the blood of a woman in her season, strong poison, white mustard, and black mustard; the teeth and nails of the nine human lineages; the talons of birds and the nine beasts of prey; nine thorns and nine weapons; the blood of a vulture, and earth from a battlefield. Over the powder in which all these are mixed, rouse the Mamo to their work with the root mantra, and seal it with the mantra that brings down the vital point. Into its depths, with the power of the session, recite the spike mantra of the Black Dark Mother:
+
+Ragmo citta mo caca mo bhyo, hili hili mama bhyo, vajra aliga sri gasi hūṃ bhyo, vajra mamati bhyo.
+
+Having recited the mantra in this way, put the substances, the dagger, and the session's material into the arrow-quiver. Smear the arrow itself with poison and blood. Take the thigh-bone of one who died in a charnel ground and burn the tip of the shaft. At midnight hurl that arrow at the enemy. The one against whom it is directed will die by the dagger.
+
+The Black Rakta's blood session: the blood of a human, a horse, a dog, and a pig, the blood of plague, and guggul; nine thorns and nine fang-claws; water of the nāgas, strong poison, and a hundred thousand swords of the drum, placed inside a skull-cup. Over white mustard recite this session mantra seventy thousand times, and pour it into the blood:
+
+Ruru ca duga aśuga me pati rutra khaśalmo, chegemo amuka rakta caranan, mārayā mārayā ruti raṃ, ākarṣaya a hūṃ phaṭ.
+
+Having recited the mantra over the blood in this way, add the mantra that rouses the Mamo to their work. Then bestow upon that blood-spike arrow a whirring bundle wrapped in a corpse's cloth. At midnight hurl it at the enemy. Whoever it is aimed at will die.
+
+The egg session of the Black Cara: in the egg of a black hen, in an egg whose crown has been pierced and hollowed, place the blood of plague and strong poison. Over it recite the heart of life a hundred thousand times with mustard, the great ash, and weapons. At the end, recite the egg-session mantra:
+
+Kha muntra vatra vatra tragsha ragmo te ke ma jā jā, kharag te kem bhyo bhyo.
+
+Then seal the egg's mouth, place it in a hand, and hurl it. Even if it strikes a fortress, it can destroy it; if hurled at an enemy, there is no doubt.
+
+The poison session of the Black Byiśa: in a buffalo horn or the horn of a bamen, put arrow-poison, strong poison, leaf-poison, the blood of plague, and beer, and fill the horn's interior to its mouth. At the outset add the heart of the ḍākinī, and the mantra that rouses the work together with the name. Then recite the mantra of poison's potency:
+
+Hūṃ remati mama rulu rakṣa bhyo, remati byiśi mayasta yakṣa krodha chegemo mārayā phaṭ.
+
+When the fine tip of the horn has been cut, let the essence of the poison be poured into a human skull. When the skull is full of poison, burn the substances that rouse the Mamo. With the khrambam and the mudrā, at midnight hurl it wrathfully at the enemy. Without doubt the enemy is destroyed.
+
+The portion of the heart for the Black Woman is this: the heart of the wolf, the tiger, and the weasel, the heart of the dog, the owl, and the fox, the blood of the raven, and the heart of the snake. Place these within a skull. First, recite the mantra that rouses the Mamo, the chieftain, and her servants, upon the vital point. Burn the sacred substances that rouse the Mamo. Then the mantra of the heart portion:
+
+Trag rakṣa citta dung rota mata smara rata bhyo.
+
+By reciting it in that way, this heart portion will bring ruin even if hurled at a town. This six-fold blazing portion of the Black Woman will destroy even a fortress when hurled at it. Even when struck against a great battlefront, it turns back. It turns back the sorcery and mantras of others. Concerning enemies and obstructors, there is no doubt.
+
+Again, I shall explain further. Listen, Śakra (Indra), lord of the gods. For the enemies of the body of the Teaching, the fierce protectors, one brings down the black bird of ill omen. First seize the black bird, and bestow upon it the stages of the twelve empowerments. Then bring the Mamo down upon the bird. When the bird's eyes and veins grow fierce, when it cries out and spreads its wings, that is the sign that the Mamo has arrived. Make outer and inner offerings. Display the nine mudrās to it, and give it empowerment and the sacred pledges. Then recite the mantra that rouses the Mamo, and burn the sacred substances that urge the work. With this mantra, release the bird to fly up into the sky:
+
+Oṃ kṣa rakṣa citta kharaga ma citta tung tung jaśa yuta tibhyo. Remati rākṣasi rulu rulu pra mama mahā sti pra dungbhyo. Karma samaya bhyo bhyo bhyo.
+
+Thus release it. It goes wherever it is directed, a black bird.
+
+This is the sixteenth chapter, showing the particular kinds of the Mamo, from the Tantra of the Blazing Flame of the Ḍākinī's Activity.
+
+Then Śakra, lord of the gods, addressed glorious Vajrapāṇi in these words:
+
+Hail, holder of awareness mantras, lord of secret mantras, master of secrets,
+Vajrapāṇi, bindu, for the sake of guarding the Teaching,
+you who hold the nectar and yet extinguish the lamp,
+great being, sovereign, I pray you, explain.
+
+When he had asked this, glorious Vajrapāṇi declared:
+
+When the final five hundred years blaze like fire,
+listen as I explain the practice for killing those who have degenerated.
+First, the yogin who accomplishes the Flame of the Ḍākinī,
+when entering upon the work of killing in time of need,
+should first perform the approach practice in which the signs arrive.
+Offer the torma, perform the burnt offering, and work with the sti ras bu tsa.
+With the footprint soil, the urine, the hair, and the nail clippings,
+write the name of the one concerned upon the heart.
+Place it within the torma of poison and nectar.
+Then bring down the Mamo and press upon the target for seven days.
+Burn the sacred substances that rouse her to descend upon the vital point,
+and recite the mantra that rouses the work as she descends upon that point.
+Between the absorption and the blood-drinking demoness,
+draw her forth with rays of light from the heart.
+The practice of drawing out the nectar is this:
+clear and complete, in a general siddhi, but reversed,
+draw the secret nectar into the mouth of the demoness.
+Let the white and red of the heart-mind emanate into a lotus tube.
+In my own hollow, the glory of the heart expands.
+Then the absorption for extinguishing the lamp:
+gathered into four, from the center the Nṛ blazes with light.
+I myself am clearly the nature of the demoness.
+By the wind of emanation, kindle the lamp from its depths.
+By the wind of expulsion, snuff the lamp suddenly.
+By the wind of drawing, draw it to the tip of the bindu.
+At the first, the radiance is lost; at the second, a third fades;
+at the third, half; at the fourth, two thirds are gone;
+at the fifth, it becomes like a dark chamber, clear before me.
+The lamp nectar can endure for years.
+Then place the enemy's effigy into a black vessel.
+Within the pit, surround it with stakes of wood.
+The Black Woman, a corpse-eater with fire blazing at her mouth,
+the mother, king of demons, of surpassing compassion,
+the blood-drinker Remati: her curse is this:
+
+Trāga rakṣa Remati hūṃ amuka sri kra mama maraṇaya maragmo ārya caca thigima khala bhyo bhyo. Ragmo citta kharagma bhyo. Ragmo tikima jaḥ jaḥ. Khale dun bhyo. Kharag tikima ja khale dun bhyo. Marag thunma bhyo. Chegemo mārayā hūṃ phaṭ.
+
+Repeat this secret mantra twenty thousand times.
+
+Empower white mustard seeds and great ashes with the mantra, and press them down into the depths of an old charnel ground, together with the agula wood. Whoever the rite is directed against will succumb within seven days.
+
+This is the seventeenth chapter, the chapter on revealing the lamp, from the Tantra of the Blazing Flames of the Ḍākinī.
+
+Then Śakra, the hundred-gifted lord of the gods (Indra), made this request to the glorious Vajrapāṇi:
+
+Oh, Vajradhara, great bliss!
+In order to cut the stream of the path of saṃsāra
+and to give rise to the power of wisdom,
+please, out of compassion, explain
+this oral instruction on the drop of wisdom.
+
+When he had made this request, the glorious Vajrapāṇi, from the secret place of his heart, sent out rays of light called Arising of Wisdom, and with a smiling radiance spoke as follows:
+
+The vajra drop of wisdom
+is uncommon and hard to understand.
+It is explained as twofold, ultimate and conventional.
+The ultimate is the domain of the mind's activity.
+The conventional is the actual consort of action.
+Rely upon a maiden of the royal caste.
+Through the power of self-awareness the winds are stirred;
+the drop of wind is the fire of wisdom.
+The secret vajra rouses the seed.
+If one rests the mind unmoving in equipoise
+upon the secret drop free of concepts,
+it becomes stable like the tip of a lamp flame.
+Within the space of the abiding channels,
+when one meditates on the drop that draws forth the life force,
+all things, stable and moving,
+become clear, the meaning of the two truths and awakening,
+like reflections in clear water.
+The state of the Victor will be gained within oneself,
+and the nature of the ḍākinī is accomplished.
+This is the meaning of the co-emergent goddess.
+
+This is the eighteenth chapter, the chapter explaining the drop of wisdom, from the Tantra of the Blazing Flames of the Ḍākinī.
+
+Then Śakra, the hundred-gifted one, made this request to the glorious Vajrapāṇi:
+
+Lord of obstructors, sovereign master,
+in order to protect beings with compassion,
+great hero, please explain
+the sixteen vajra tantras of magical display.
+
+When he had asked this, the glorious Vajrapāṇi spoke:
+
+So that sentient beings of the future
+may give rise to faith and joy,
+I shall explain the sixteen miracles; listen.
+First, in the yoga of the deity,
+one must obtain the warmth and the signs.
+Then, to engage in the magical display,
+prepare pills of anusati.
+Take peacock, crane, and the meat of the netso bird,
+fish, monkey, and the flesh of a cat,
+the flesh of the female ox-bird, crow, and goose,
+the meat of the mongoose, the cuckoo, and the blue-pill bird.
+Dry all of these and grind them to powder,
+and add bilva wood and arura,
+shingtsa, sugmel, tortoise bone,
+kakaru, and the fire-bearing rākṣasa plant,
+human bone, the blood of a wild boar,
+the hair of a wild man, and feathers of a water-reading bird.
+Mix these together and form them into pills.
+Gather the whole in a vulture's head
+and bind it into a skull-cup from a charnel ground.
+Recite the heart mantra of Vajrapāṇi
+and the life-heart mantra of the Mātaraḥ seven hundred thousand times,
+and in between, offer it into a brahmin's fire.
+Then, when light and sparks of fire
+have just begun to radiate from the pill at its tip,
+place it in an amulet box of copper or iron.
+Then to the vajra ḍākinī
+offer a burnt offering of poison and blood.
+When one tastes that pill of abusiti
+with one's own tongue,
+one will always be able to drink fierce poison.
+Or again, to the mātarī and ḍākinīs
+offer a burnt offering of crow and raven.
+When that pill of abusiti
+is smeared on the soles of the feet,
+one will walk upon the surface of water.
+To the retinue of mātarīs and ḍākinīs
+offer a burnt offering of beer and vulture.
+Smear the pill on the four limbs,
+and one will fly through the sky.
+To the vajra ḍākinīs
+offer a burnt offering of human fat.
+When the pill is tasted on the tongue,
+one will be able to remember past and future lives.
+To the mātarīs and ḍākinīs
+offer a burnt offering of butter and goat's blood.
+When that pill of abusiti
+is smeared upon the forehead of any woman,
+she will come under one's power.
+To the Great Black Vajra Woman...
+
+To the retinue of mātarīs and ḍākinīs
+offer a burnt offering of beer and vulture.
+Then smear the pill upon the eyes,
+and one will see all three realms of existence at once.
+To the Great Vajra Ḍākinī
+offer a burnt offering of wine and crow.
+Smear the pill on the soles of the feet,
+and in a single day one will travel eighty thousand leagues.
+To the Black Vajra Goddess
+offer a burnt offering of blood and butter oil.
+When the pill is smeared in both armpits,
+no one will be able to see one's own body.
+To the retinue of the glorious Goddess, her attendants,
+offer a burnt offering of rice and molasses.
+When the pill is swallowed into the belly,
+one will surely live for a thousand years.
+To the glorious Vajra Goddess
+offer a burnt offering of grain and butter oil.
+When the pill is bound upon the body,
+one will come to enjoy treasuries of wealth.
+Then to the ḍākinīs
+offer a burnt offering of sesame and human flesh.
+Place that pill of abusiti
+in the mouth of a corpse,
+and recite the heart mantra of the mātarīs one hundred thousand times.
+The corpse will rise and grant accomplishments.
+It may turn into gold and silver.
+Or else give it a sword,
+and it will do the work of a messenger as one wishes.
+Whichever of the four kinds of activity is entrusted to it will be accomplished.
+To the glorious Vajra Goddess
+offer a burnt offering of gorocanā.
+Smear the pill on the body of the sick,
+and the sick will be made to live.
+Again, to the Vajra Goddess
+offer a burnt offering of beer and gandha.
+Smear the prepared pill on the navel,
+and those who are weak will live.
+To the glorious Black Vajra Goddess
+offer a burnt offering of sesame oil and ... .
+When the pill is burned in a fire,
+hail and frost fall upon one's enemies.
+To the Black Vajra Goddess
+offer a burnt offering of butter and pearls.
+Smear the pill upon the forehead,
+and the punishment of kings will not befall one,
+and neither fire nor water will be able to harm one.
+To all the vajra ḍākinīs
+offer a burnt offering of flowers and molasses.
+When the pill is smeared on the navel,
+neither snakes nor powerful spirits will be able to harm one,
+and even sorcery and hostile spells will be turned back.
+
+This is the nineteenth chapter, on the sixteen magical powers, from the Tantra of the Blazing Flame of the Ḍākinī.
+
+At that time, from within the assembled retinue, Śakra, the king of the gods (Indra), rose from his seat and praised the glorious Vajrapāṇi.
+
+Blessed Lord, Protector, holder of the vajra,
+god endowed with the five wisdoms of body and speech,
+whose very nature is skillful means and wisdom,
+who holds the substances of knowledge mantras and secret mantras,
+the place consecrated by the three realms of existence,
+honored and praised by the eight classes of gods and spirits,
+completely victorious over the māras of affliction:
+to Vajrapāṇi, the Great One, I prostrate and offer praise.
+
+Then Śakra praised the glorious Goddess through the ten virtues. After that, the classes of gods, māras, and the eight kinds of spirits each praised the glorious Goddess in turn. Then the attendant Remati was praised by Māra Ritī Gongnyag, through the gate of the empowerment of the means of taming.
+
+Sovereign over the gods, Goddess of blazing glory,
+daughter of the Lord, radiant Goddess,
+chief of the dwelling places of the thirty-three,
+Goddess Remati, I prostrate and offer praise.
+
+Sovereign over the māras, Māra Lady of blazing glory,
+Ritī Gongnyag's daughter, Remati,
+the Black Lady, chief of the dwelling of the nine peaks,
+Māra Lady Remati, I prostrate and offer praise.
+
+Sovereign over the nāgas, Nāga Lady of blazing glory,
+Jewel-crested daughter, the Enchanting One,
+chief of the dwelling places of the seven playful lakes,
+Nāga Lady Remati, I prostrate and offer praise.
+
+Sovereign over the yakṣas, Yakṣa Lady of blazing glory,
+Pāñcika's daughter Śaṅkanā,
+chief of the net-like forest groves,
+Yakṣa Lady Remati, I prostrate and offer praise.
+
+This is the twentieth chapter, the chapter of praises.
+
+Then the glorious Vajrapāṇi rose from his lotus seat and spoke as follows: "Supreme child, holiest of the retinue, Śakra, listen."
+
+Gods and asuras, humans and sky-soarers,
+obstructing spirits, lords of death, and the Mother Goddesses,
+flesh-eaters, bloated-bellied ones, and scent-eaters,
+rākṣasas, kumbhāṇḍas, māras, and mortals,
+mantra-holders, yogis, and yakṣas,
+all of my retinue, listen closely.
+
+By me the vajra absorption has been spontaneously accomplished.
+By me the mudrā that destroys all signs has been found.
+By me the māras who teach the common ways have been vanquished.
+By me all beings are set in virtue through compassion.
+By me skillful means and wisdom are practiced in everything.
+This secret tantra of the vajra ḍākinīs,
+this uncommon, blazing flame,
+this marvelous, supreme means, the foundation of sublime accomplishment,
+I have now finished teaching, and I entrust it fully to you.
+
+I entrust it to the fortunate, who have faith and diligence.
+I entrust it to those devoted to compassion and of great austere conduct.
+I entrust it to those with firm joy in realizing the meaning of the two truths.
+I entrust it to all worthy vessels who can retain it after examining it.
+Take it up, hold it firmly, and speak it to worthy vessels.
+Listen to its meanings with one-pointed mind.
+
+Through this one attains the great victory banner of the Dharma that never falls.
+Through this one attains the station of sovereignty over the Dharma.
+Through this one attains the blazing wish-fulfilling jewel.
+Through this one attains whatever accomplishment one wishes, without obstruction.
+
+Keep it secret from the dull-witted, the narrowly learned hearers.
+Keep it secret from the non-Buddhists (tīrthikas) wandering at the edge of false views.
+Keep it secret from the arrogant, the unskilled, and those who denigrate.
+Keep it secret from those without faith, who have abandoned compassion.
+Keep it secret from the ignorant, the bewildered, and the lazy.
+
+Having spoken thus, he said, and Śakra (Indra) received it upon his crown.
+
+This is the twenty-first chapter, the chapter of entrusting to the retinue.
+
+Then Śakra, sovereign of the gods, spoke to the glorious Vajrapāṇi as follows: "O Blessed One, please give a prophecy. Sugata, please give a prophecy concerning the ḍākinī."
+
+When he had made this request, the glorious Vajrapāṇi declared:
+
+This ḍākinī, the Dark Goddess,
+long ago, many eons past,
+saw the faces of the Victors of the three times.
+In this lowly realm, by an emanation body,
+she has shown herself in the form of a goddess
+and strives diligently for the benefit of beings.
+She has completely abandoned the afflictive obscurations,
+and now she purifies the cognitive obscurations.
+Her handmaid Remati,
+through the power of aspiration, works for the welfare of beings.
+Having become firmly established in the path of cultivation,
+she now purifies the afflictive obscurations.
+
+From now, in a later time,
+this ḍākinī, the Dark Goddess,
+in the world-realm in the northeast intermediate direction,
+in the place called Lotus Play,
+will become a perfectly complete buddha
+named Padmaśrī, Glory of the Lotus.
+Thus I prophesy concerning the goddess.
+Her attendant Remati,
+in that realm of the Lotus-Bearer,
+will be a bodhisattva of happiness
+named Mati, Intelligence, the Spiritual Friend.
+Then, from here
+
+This concludes the translation. The following are translator's notes.
+
+The opening lines are the end of the preceding text's mantra instructions, which are fragmentary here. Several proper names and creature names in the retinue list are obscure or corrupt in transmission (for example Sa-bdag Lag-chen, Lto-phye Rab-brtan, neco, and some of the animal names), and I have left them transliterated or rendered tentatively. The line about a charnel ground in the face of Utpala is a literal rendering of an odd phrase. The list following "the sage" is probably Agnivyāsa, though the Tibetan reads "the sage who enters the four fires," so this identification is uncertain. The mention of Akṣobhya seated on his head is a standard iconographic detail for this form of Vajrapāṇi.  The opening animal names are partly uncertain. The word rendered "bamenpa beasts" and the "gla-ba" are retained as transliterations because their identification is unclear. The name Rab-brtan matches the continuity passage's Lto-phye Rab-brtan. The "pra" divination (pra) is left as a technical term of uncertain sense. The opening of the verse list is read as the request's own enumeration of the tantra's chapter topics, which structure the work.  The passage ends mid-sentence in the source. The proper names of the asura leaders (Heranakeśuna, Rabsim, Kamala, Laṅka the Black) are transliterated or rendered tentatively, as the Tibetan renderings are corrupt or unclear. "Triple-Tiered" and "Copper-Weaver" translate the asura names Sumbrtsegs and Thags-zangs-ris (Vemacitrin is likely meant by the latter). "Pra divination" in the preceding list is left as is.  Several names are uncertain in transliteration: Hvā Deva, Hiraṇyakaśipu (written Hera-ṇa-keśu), and the garuḍa Karuṇa. The nāga called "Conch-Boiled" (dung gi mdzer ba can) is rendered literally; it may be an epithet. The name Viṣṇu (Biṭṇu-rāja) and the Śrīvatsa (dpal be'u) are kept as in the Tibetan. I rendered "lha'i dbang po brgya byin" as Indra, the Hundred-Giver, glossing Śakra. The final sentence appears to cut off mid-thought in the source; I translated it as it stands.  This passage is a vernacular, perhaps Tibetan-composed narrative, and the text is in places corrupt or obscure. The proper names Gagarma, Remati, Nalatse, Umā, and the epithets "Hidden One" and "Unconquerable Wrathful Fury, the Risen Corpse" are rendered as they appear. "Phurpa-God" (the rākṣasī's name) is a literal rendering of an unclear epithet. The "tree of awakening" opening line has no stated subject; I have supplied "she," presumably the goddess Protector of the Conch from the preceding passage. The goddess is called Śaṅkhapālā in this passage and the Tibetan text sometimes varies in naming the goddess.  The proper names in the verse and the curse are partly reconstructed from the Tibetan: Daśagrīva (ད་ཤ་གྲཱི་བ), Laṅkāpura, Umā, and Śaṅkhapālā (here rendered "conch-guardian" from དུང་སྐྱོང་མ). The servant's names Rematī and Phurpā are left as in the Tibetan, since their Sanskrit forms are uncertain. The "gathering tree" (འདུ་ཤིང) is a literal rendering of an uncertain place-name in the goddess's heaven. The son names in the list (Siṃhacandra, Puṣpacūḍa, Himavān, Saptadaṃṣṭra) are reconstructions from their Tibetan translations.  Several names are of uncertain Sanskrit or Tibetan identity and are rendered as transliterations or as best-guess translations: Rematī, Marutse, Ritigongnyag, Dranpa Wangjed, Namdru Armor-Bearer. "Bāyabe" is a mantric cry and is left as transliterated. "Yamarājñī Marutse" interprets "gshin rje ma ru rtse" as a female counterpart to the Yama-god. The cry "Śakra, listen!" addresses Indra, who is spoken to in the narrative frame. The ritual of seven-day meditation on Yama "with the wheel of wind" is rendered literally; its precise ritual sense is unclear.  Many proper names are transliterated from the Tibetan and are uncertain: Dungkyongma, Rematī Rolangma, Riti Gongnyak, Jahamu, Rabjin Sal, Senge Tsal, Drangden, Pūrṇa. "Dramba" renders khram bam, which I took as a kind of weapon; its exact nature is uncertain. The "deep red dagger" (gru gu) is likewise tentative. The passage ends mid-sentence, as in the source.  The Tibetan is corrupt in several places and the proper names and mantras are transliterated phonetically, so their spellings are uncertain; I have kept them as they appear. The rendering "carnal indulgence" for the nine husbands follows the plain sense of the text. "Chok-sé" (Mchog-sred) and the names Tenpé-dé, Darri-dé, Lam-nga-geu-ri, and Kha-dar are rendered phonetically because their Sanskrit or Tibetan etymology is unclear. The name Rematī in the preceding passage appears here as Remati and Yakṣa Remati; I treat these as the same figure.  Several names are phonetic renderings in the Tibetan and are left as transliterated: Nala Tse, Phramenma, Māru Tse. The sentence about the two girls, the milk, and the rākṣasī's hand is syntactically obscure; I have kept it close to the Tibetan. Vajrapāṇi and Heruka are linked here, and Remati is the same name given earlier in the continuity passage. Viṣṇu is the likely sense of Khyab-jug; Vaiśravaṇa's son is the sense of Rnam-thos-sras; Nanda is the likely sense of Klu Dga'-bo.  The names of the past buddhas are doubtful. The Tibetan reads "who destroyed the cycle of existence" for the first, "Golden Sage" (gser thub, Kanakamuni) for the second, and "Protector of Light" (od srung, Kāśyapa) for the third; I have rendered them by sense, giving Kāśyapa for the last. The sentence on ripening "in the teaching of Śākyamuni" and the line about the servant Rematī are terse and possibly corrupt; I followed the sense as it stands. The Tibetan says the goddess "dejected" or "cramped" (lcheb pa) for her rākṣasa period; I rendered it as dejected. In the third chapter, the Tibetan text is somewhat obscure at "self and clinging to a self"; I kept the standard doctrinal reading.  This passage is corrupt in places. Several substance names are obscure or transliterated (ཧ་སྟ, རུ་ཧི, ཏྲ, ཙ་ཀ་ལི), and I have kept or approximated them. The Tibetan opens with a corrupt word beginning the address to Indra, taken as "Indra." "Four qualities" renders the obscure "gnas bzhi'i sa," and "fortune-base" with "black pair of fabric" is a tentative reading of an unclear line. "Rākṣasa gesture," "turquoise-colored beast," and "spice" are provisional. The passage breaks off mid-sentence in the source.  The ḍākinī name Rematī (Skt. Revatī, rendered Rematī to match the preceding passage) is retained for continuity. A few items are uncertain: the brahmin's name "Sreda" is a conjectural rendering of "mchog sred" ("supreme craving"), and the sequence of mantra syllables is corrupt in places, so I give their syllables as transliterated rather than interpreting them. The last sentence breaks off mid-clause at the end of the passage given. The final "bhyo" I left untranslated as a seed-syllable.  The Tibetan renders mantra syllables in corrupt, partly unintelligible forms, so I have given them in plausible transliteration without attempting emendation. A few implement and garment terms in the visualization of Remati (for example the items rendered as drum, lasso, and flock of weapons) are obscure, and my renderings of them are tentative. The first sentences of the passage are the visualization of the goddess herself, which the preceding passage had left unfinished.  The Sanskrit mantric syllables are transliterated from the Tibetan and are often corrupt, so they are given as they stand. The rendering of "the servant" for ཁོལ་མོ and the name Remati follows the preceding passage. The instruction on the mudrās is obscure, and the translation is cautious in that part. "Hundred-Giver" is the standard etymology of Śatakratu or Indra's epithet བརྒྱ་བྱིན. The passage breaks off mid-sentence at the end of the Tibetan, and the translation does too.  Several mudrā names and descriptions are obscure, as is typical of such terse ritual verse, and the finger positions are rendered as literally as the syntax allows. "Black Wind" and similar names appeared in the previous passage. "Trampling cudgel" renders ཁྲམ་བམ, whose reading is uncertain. "Donkeys" renders བོང་བུ, taken as the name of the mudrā of the seat. The terms jagada and rakta (red substance, blood) are left in their transliterated Sanskritic form as ritual substances. The mantra is a corrupt transliteration in the Tibetan and is given as it stands.  The mantras are transliterated as the Tibetan gives them, with the corrupt Sanskrit left unemended, so some syllables are uncertain. The imagery in the pledges of the goddess and her servant is obscure and may carry coded meanings: the "five fruits," the "mongoose" (ནེའུ་ལེ), the "shaman-like women" (ཚུབ་མ), and the "nosebleed" (སྣ་ཁྲག). The rendering of lines such as "cut at the waist" and "vessel of tilled-field hides and substances" is tentative. "Rematī" is kept in line with the continuity text, where it appeared as "Remati."  The first lines are difficult. I took "the sign is anointed with melted charcoal" as a ritual instruction, but the referent of the sign is unclear. "The people of Ruhi, Vajra, and Padma" is rendered literally. Ruhi probably stands for the Buddha family, parallel to the Vajra and Padma families, but this is uncertain. "The mouth becomes hollow" renders ཁ་ཡང་ཡོ literally and may be an idiom. "Remati" is the transliterated Sanskrit name of a goddess, so I kept it. "Raising of corpses" refers to the rotaṅ (vetāla) practice. The passage ends mid-sentence, as the source does.  Several lines are textually unclear. The names Remati, rendered as the tradition's proper name for this ḍākinī class, and "the mistress" for rje mo, are retained throughout for consistency; "Remati" is likely a deity name, not a descriptor. The line about the black woman says "gives me" in the Tibetan (bdag la), kept as a speaker's first-person voice. "Damsi" (dam sri) denotes oath-breaking demonic spirits. The "vajra" drawn from the sky in the middling signs is read as a literal vajra emblem. Some animal readings (bong bu, sha ba, dre'u) follow the Tibetan literally.  Several lines are corrupt or elliptical, and these renderings are provisional. Examples are "the essence, the mudrā, and wealth are lost," "makes milk in the mouth," and "the body laid flat." The line "Bind the mothers, sisters, and servant women by oath" is read as binding by samaya. "Hūṃ-mdzad Chenpo" is kept as a proper name, being a wrathful form whose Sanskrit I cannot reconstruct with certainty. The final mantra is given in the transliteration closest to the Tibetan, since the syllables are partly corrupt. The rhetorical question of how to read "Rag-mo" in the mantra is left open.  This passage is a dense wrathful-tantra ritual text with several obscure terms that I have left in transliteration where their referents are uncertain: Khyung-lding, Spyi-nag, Shel-nag (rendered black crystal), Rāja, nirūraga flesh, lungthang beads, and the lingam of khamsa clay. The mantric syllables are preserved as in the Tibetan. The phrase "the lineage beneath one's own feet" and the line "In between, Ruti, vajra, lotus, and man" are cryptic and rendered literally. The passage ends mid-instruction, so the final line about the secret support is incomplete.  The sequence "Remati" and "Mamo/Mātaras" is kept as in the continuity passage. The line "the play of the mongoose" (nēu le'i rkyal bu) is rendered literally; the sense of the object is uncertain. "Make the girl unwavering and have her meditate in clarity" renders ma yengs sa le, a loose reading. The mantra is transliterated as it stands in the Tibetan, which is corrupt in places, and is not translated. The "twelve stages" (bcu gnyis rim pa) are not specified here. Indra's epithet "a hundred-sacrificer" (Śatakratu) is the standard rendering of brgya byin.  Several mantra syllables here are corrupt in the Tibetan transmission (for example "kha muntra vatra vatrag ragmo pukṭiṅ" and "pacala aśuk me, prama mahāsti prace gemo"); I have transliterated them as they stand. The "tens of thousands" (khri tsho) pill-counts and the "hundred thousands" ('bum tsho) recitation-counts follow the usual reading of tsho as a counting unit, so "four hundred thousand," "eight hundred thousand," and "one million six hundred thousand" are tentative. The "mother-god" (mamo) language in the opening lines is rendered as "Mother(s)," meaning the class of fierce goddesses. The obscure substances kukcho and yung in the magnetizing recipe are left untranslated as unidentified.  Several ingredient names are obscure transliterations or dialect terms (for example, tuḷpo, abhra, sengdeng, and the mantra syllables); I have left them close to the Tibetan. "Remati" and "Dark Goddess" are retained as names of the wrathful goddess figures. Some mantra syllables are corrupt in transmission and are given as they stand. "Mistress" translates a title of the principal goddess, and "Dark Maidservant" a related figure.  Several terms are obscure and rendered cautiously: "hot substances" (tsha ba gsum), the btsan spirit poison, the "mi-gri" creature, "poison of the year," and "hoṃ-khung" (rendered as a technical implement or pit for pressing the ashes). "Field cloth" translates zhing ras. The Tibetan transliterated mantras are corrupt in places, so I have rendered them as they stand, with only tentative Sanskrit restoration.  The passage is a tantric rite of black magic, and its mantras are heavily corrupted in the Tibetan transliteration; I have rendered them as they stand, not reconstructing them. Several substance names are obscure or possibly scribal errors: rakta, jāti, and bhaṃ in the offering, gorocanā, the khrambam, the "hundred thousand swords of the drum," the "arrow-quiver" for the vessel, and "bamen." Unclear terms are kept in transliteration rather than guessed. The phrase "the enemy is destroyed" translates a word meaning to waste or ruin, and I have not softened the rite's stated aim.  The mantra syllables are in corrupt Tibetan transliteration, so the Sanskrit reconstructions are tentative. The terms "sti ras bu tsa" and "Nṛ" are left as transliterated because their meaning is unclear. The passage "clear and complete, in a general siddhi, but reversed" is obscure in the Tibetan and rendered literally. Some details, such as the "bindu" in the address to Vajrapāṇi (he is named Thigle, "Bindu"), are kept as in the text.  The passage breaks off mid-sentence at its end; the final line is rendered as it stands. Several ingredient names in the pill recipe are transliterated or obscure Tibetan names for animals, plants, and birds (for example netso, kakaru, shingtsa, sugmel, and the "water-reading" bird), and the identifications are uncertain; I kept the transliterated forms where I could not identify them securely. The pill name varies in the Tibetan between anusati, abusiti, and similar forms, and I have followed the spelling of each occurrence. The opening line's "agula" renders a doubtful Tibetan reading.  Several offering substances are obscure transliterations or unclear: "ཁྭ་ཏ" is rendered "crow" on the reading ཁྭ་ཐ and ཀྭ་ཏ remains uncertain; "gorocanā" (the bovine bezoar) and "gandha" for གི་ཝང and གི་ཝང་ are conventional guesses. In the sesame-oil line the item "སྐེ་ཚེ" is unclear, hence the ellipsis. The preceding verse ends with "offer a burnt offering"; the opening lines here complete that stanza. "Ritī Gongnyag" renders the name of the māra figure, and "Pāñcika" for གང་བ་བཟང་པོ is a conjectural identification. "Śakra" and "king of the gods" correspond to ལྷའི་དབང་པོ་བརྒྱ་བྱིན. The stanza on the goddess Remati also includes the phrase "blazing glory" for དཔལ་འབར་མ, treated as an epithet rather than a name.  The passage breaks off mid-sentence in the source, so the final line is left incomplete. Padmaśrī and the name of the bodhisattva (rendered Mati, "Intelligence," from blo gros) are reconstructed Sanskrit equivalents. The line "chief of the dwelling places" in the preceding passage and the epithet "Dark Goddess" (lhamo nagmo) are kept consistent; the Sanskrit could be Kālī. The phrase "bodhisattva of happiness" translates the text as it stands, though the original may intend a bodhisattva named Bliss or Sukha-.
 
 The following is a note about this translation.
 

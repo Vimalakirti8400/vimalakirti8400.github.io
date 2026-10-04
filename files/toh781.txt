@@ -1,18 +1,18 @@
-This short work, known in English as the Dhāraṇī for Causing Displeasure and pre
+The Dhāraṇī for Making the Displeased Pleased
 
-This short work, known in English as the Dhāraṇī for Causing Displeasure and preserved in Tibetan translation without a clearly attested Sanskrit title, is catalogued as Toh 781 in the Kangyur. It belongs to the broad class of dhāraṇī texts—brief ritual incantations attributed to the Buddhist canon that combine mantra recitation with simple material rites for practical ends. Here the text opens with homage to the Three Jewels and then presents a short mantra, "Oṃ namaḥ śaparaṇaḥ svāhā," to be intoned over a tooth-stick before it is placed in the mouth, a rite said to cause whomever the practitioner looks upon to feel displeasure rather than delight. Its concise, formulaic structure is typical of the many minor dhāraṇī and mantra collections found in the Kangyur, which address specific worldly aims such as protection, influence over others, or, as in this case, the deliberate arousal of an emotional response in those one encounters.
+The Dhāraṇī for Making the Displeased Pleased is a very short work of the dhāraṇī type, a brief ritual formula of the kind used for practical, worldly aims. Its Tibetan title lines open with homage to the Three Jewels and give the mantra, and its closing line names it as the dhāraṇī for making the displeased pleased; a Sanskrit title is not stated in the source lines, so none is given here. The text prescribes reciting the mantra over a pinch of dried ginger root, which, once placed in the mouth, is said to make whomever one looks upon become well disposed toward the practitioner. It is Toh 781 in the Kangyur, the Tibetan canon of translated buddhavacana, where it belongs to the Tantra section among the many short dhāraṇīs and protective or ritual formulas.
 
 Homage to the Three Jewels.
 
-Oṃ namaḥ śaparaṇaḥ svāhā.
+Oṃ namaḥ śaparanase svāhā.
 
-Having cast this mantra upon a tooth-stick and placed it in the mouth, whomever one then looks upon will become pleased.
+Empower a pinch of dried ginger root by reciting this mantra over it. If it is then placed in the mouth, whoever one looks upon will become well disposed toward one.
 
-This completes the dhāraṇī for causing displeasure.
+This concludes the dhāraṇī for making the displeased pleased.
 
 This concludes the translation. The following are translator's notes.
 
-The colophon title states this is "the dhāraṇī for causing displeasure" (མི་དགའ་བར་བྱེད་པའི་གཟུངས), yet the instructions describe the opposite effect — that those looked upon become pleased or joyful (དགའ་བར་འགྱུར་རོ). This apparent contradiction may reflect a scribal error or textual corruption in the source; it has been rendered literally as found, without emendation.
+Two points of uncertainty. The mantra is transcribed exactly as it stands in the Tibetan; its syllables are probably corrupt or abbreviated and I have not emended them. The substance named as the object of the mantra (so rtsi) most likely means dried ginger root, or possibly a similar spice; the identification is a reasonable choice rather than a certain one. The final phrase can also be understood as "the dhāraṇī that causes the unhappy to become happy," and the sense given above, making the displeased pleased, follows the effect described in the body of the text.
 
 The following is a note about this translation.
 

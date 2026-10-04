@@ -1,16 +1,16 @@
-This short text, known in Tibetan by its opening description as a "settled" or "
+Concluding Section
 
-This short text, known in Tibetan by its opening description as a "settled" or "established" instruction (gtan la phab pa), belongs to the genre of dhāraṇī and ritual manuals that preserve a specific mantra formula together with instructions for its application. Opening with homage to the Three Jewels, it presents the mantra "Oṃ smara smara vismanaskara mahājaba hūṃ" and describes the practice of reciting it while rubbing a jewel, a ritual act said to invoke an immeasurable rain of precious parasols, victory banners, and other auspicious and wish-fulfilling substances. No Sanskrit title is preserved, and the text is generally classified among the tantric or ritual materials of the Kangyur concerned with mantra recitation and the invocation of material and spiritual abundance. It is catalogued as Toh 774 in the Kangyur, situating it among the shorter dhāraṇī and ritual texts of that section of the canon.
+The text translated here as "Concluding Section" (Tibetan: gtan la phab pa) is a short ritual text, Toh 774 in the Kangyur, belonging to the Tantra division of the canon. Its title appears to mark it as the closing portion of a longer liturgical or ritual cycle, though the Sanskrit title is not evident from the source lines. After a homage to the Three Jewels, it gives a brief mantra-based procedure: one recites a mantra beginning "Oṃ smara smara" and strikes a jewel, thereby sending down an immeasurable rain of offerings such as precious parasols and victory banners. The text is thus concerned with the practical performance of an offering rite, in which mantra recitation and a simple physical action together bring about an abundant shower of auspicious and precious gifts.
 
-Thus it has been established.
+Concluding Section.
 
 Homage to the Three Jewels.
 
-Reciting "Oṃ smara smara vismanaskara mahājaba hūṃ," and rubbing the jewel, brings forth an immeasurable rain of precious parasols, victory banners, and the like...
+Reciting "Oṃ smara smara, vismana-kara mahā-jvala hūṃ," and striking the jewel, one sends down an immeasurable rain of precious parasols, victory banners, and the like.
 
 This concludes the translation. The following are translator's notes.
 
-This passage is a fragment, breaking off mid-sentence at "immeasurable rain of...," so the verb/continuation is not present in the given text. The opening line "gtan la phab pa" ("thus it has been established" / "the settled version") appears to be the closing colophon-phrase of a preceding text, followed by the auspicious page marker and the homage and mantra opening a new ritual passage. The mantra syllables are given in transliterated form rather than translated, per convention for mantra; exact Sanskrit reconstruction of "vismanaskara mahājaba" is uncertain, as this string does not correspond to a standard, easily identifiable Sanskrit phrase.
+The mantra syllables are given as they appear in the Tibetan transliteration. The reading "vismana-kara mahā-jvala" is a tentative reconstruction, and the original Sanskrit may differ. The word for "striking" (brdar ba) is rendered by its most natural sense. The passage breaks off mid-sentence, so the clause describing the rain of precious objects is incomplete, and the continuation is needed to understand what the rain accomplishes. The opening title is rendered "Concluding Section" on the supposition that it labels a section of a larger work.
 
 The following is a note about this translation.
 

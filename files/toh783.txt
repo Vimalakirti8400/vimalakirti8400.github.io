@@ -1,18 +1,18 @@
-This short text, known as the Dhāraṇī for Pacifying Tumors, belongs to the genre
+The Dhāraṇī for Pacifying Tumors
 
-This short text, known as the Dhāraṇī for Pacifying Tumors, belongs to the genre of dhāraṇī literature—brief incantatory formulas invoking protective or curative power through sacred sound—here specifically directed toward healing swollen growths or tumors of the spleen through ritual recitation combined with the application of certain substances. Opening with homage to the Three Jewels, it presents a mantra built from resonant syllables and invocations to the tathāgatas, to be recited twenty-one times as part of a healing rite, with the text itself testifying confidently to its efficacy. No distinct Sanskrit or Tibetan title beyond this descriptive designation is given, reflecting the practical, formulaic character typical of such dhāraṇīs preserved in the canon. This work is catalogued as Toh 783 in the Kangyur, situated among the collection of dhāraṇī texts that address specific practical and medical concerns through mantric means.
+This brief text is the Dhāraṇī for Pacifying Tumors, found in the Kangyur as Toh 783; its Sanskrit and Tibetan titles cannot be determined from the material at hand. It belongs to the dhāraṇī class of Buddhist literature, a genre of short ritual formulas believed to carry protective or healing power. After a homage to the Three Jewels, it gives a mantra invoking multiple faces, including that of the Tathāgata, with commands to cut and break apart. It then prescribes a simple procedure: the formula is recited twenty-one times over mustard seed, ash from a burnt offering, and a long nail, whereupon even a large tumor is said to subside. As a compact healing rite of this kind, it reflects the practical, this-worldly concerns that dhāraṇī texts address alongside more doctrinal material.
 
 Homage to the Three Jewels.
 
-Oṃ mukha mukhi trimukhi trimukhi sahasramukhi tathāgatamukha sthihana chinda chinda bhinda bhinda svasthānaṃ gaccha svāhā svāhā.
+Oṃ mo kha mukhi, trimukhi, trimukhi, sahasramukhi, tathāgatamukha stīhana, chinda chinda, bhinda bhinda, svāthānāṃ gaccha slāhe svāhā.
 
-Having recited this twenty-one times over madse, partaka, and long gagon, the tumor of the spleen will be pacified. There is no doubt of this.
+Recite this twenty-one times over mustard seed, over ash from a burnt offering, and over a long nail, and then the tumor will be pacified, even if it is large. There is no doubt.
 
-This completes the Dhāraṇī for Pacifying Tumors.
+This completes the dhāraṇī for pacifying tumors.
 
 This concludes the translation. The following are translator's notes.
 
-This is a short medical dhāraṇī text, and several points remain genuinely uncertain due to the terse, phonetically rendered nature of the source. First, the mantra syllables are given in Tibetan transliteration of Sanskrit and have been rendered here in a standard reconstructed form (invoking the "thousand-faced" Tathāgata to "cut, cut, break, break, go to your own place"); the exact original San
+The mantra syllables are given as the Tibetan transliteration of an Indic original, and they are clearly corrupt in places, as is typical for dhāraṇīs transmitted in Tibetan. I have rendered them in a plain reconstructed Sanskritic spelling without attempting to emend or translate them. The ingredients named in the ritual instructions are uncertain. "Mad se" most plausibly means mustard seed (a common ritual substance in pacifying rites), though the form is unusual. "Pa rta ka" is obscure; I have tentatively taken it as ash from a burnt offering, but it may be a transliterated Indic term or a corrupt reading. "Ga gon ring po" is read as a long nail, but this too is not secure. The phrase "gshegs nam cher pa'i" is likely a corruption and has been read as "even if it is large"; the sense of the sentence, that the tumor is pacified, is clear.
 
 The following is a note about this translation.
 

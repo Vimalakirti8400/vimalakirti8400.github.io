@@ -1,22 +1,22 @@
-This folio preserves the close of one dhāraṇī text and the opening of another, b
+Pacifying Poison
 
-This folio preserves the close of one dhāraṇī text and the opening of another, both belonging to the same genre of short protective incantations found within the Kangyur. The text beginning here is the Dhāraṇī Called Pacifying Poison, known in Sanskrit as the Viṣaṇāśanī or similarly titled poison-pacifying dhāraṇī, and in Tibetan as the Dug zhi bar byed pa'i gzungs. It is dedicated to Vasudhārā, goddess of ambrosial medicine, and consists of a mantra formula together with a declaration invoking the truth and splendor of the Buddha to neutralize various forms of poison—from venomous bites of nāgas and snakes to compounded and infused toxins. As Toh 795 in the Kangyur, it belongs to the class of dhāraṇī or protective spell literature, texts recited for practical ritual purposes such as healing and warding off harm.
+Pacifying Poison (Tibetan: duk zhiwar jepa) is a short dhāraṇī text that offers a protective formula for neutralizing the effects of poison. It opens with homage to a goddess of medicinal nectar, called the Stream of Wealth, and gives a brief mantra along with an invocation of the truth and splendor of the Buddha, by which poisons from nāgas, snakes, compounded substances, bites, roots, and fanged beasts are said to be vanquished. The text also gives practical instructions, such as reciting the formula over a leaf, flower, or fruit that is then given to another person, who will become delighted. The Sanskrit title is not evident from the material at hand. It is Toh 795 in the Kangyur, and belongs to the class of dhāraṇī and mantra texts, which are compact ritual formulas used for protection, healing, and other worldly aims.
 
-...it will be accomplished. Having praised leaves, flowers, or fruit, and given them to someone, that person will become joyful. This completes the Dhāraṇī for Accomplishing Deeds.
+...it will take effect. Having recited it over a leaf, a flower, or a fruit, whoever one gives it to will become delighted. The dhāraṇī for accomplishing the action is complete.
 
-The Dhāraṇī Called Pacifying Poison
+Pacifying Poison.
 
-Homage to Vasudhārā, goddess of ambrosial medicine.
+Homage to the goddess of medicinal nectar, the Stream of Wealth.
 
-Tadyathā: oṃ suru suru ka varavarake viri hiri śuddhe viśuddhe svāhā.
+Tadyathā: Oṃ suru suru ka, vara vara ke, viri hiri, śuddhe viśuddhe svāhā.
 
-By the truth of the Buddha, the Blessed One, and by his splendor, the poison of nāgas, the poison of snakes, compounded poison, poison of infusion, root poison, and the poison of the fangs of predatory beasts are defeated. One should proclaim: "The poison is certainly defeated."
+By the truth of the Buddha, the Blessed One, and by his splendor, the poison of nāgas, the poison of snakes, the poison of compounded substances, the poison of bites, the poison of roots, and the poison of fanged beasts of prey are vanquished. One should say: "The poison is utterly vanquished."
 
-This completes the Dhāraṇī for Pacifying All Poisons.
+The dhāraṇī for pacifying all poisons is complete.
 
 This concludes the translation. The following are translator's notes.
 
-The term rendered "poison of infusion" (བརླངས་ཀྱི་དུག) is uncertain; it may instead denote poison arising from soaking, steeping, or dampness, but no fully secure equivalent could be established from context alone. The deity name ནོར་གྱི་རྒྱུན was rendered as Vasudhārā ("Stream of Wealth"), the standard Sanskrit deity whose name this Tibetan phrase translates, though she is not further identified in the text itself.
+The opening fragment belongs to the preceding dhāraṇī, so its sense is partly lost. The mantra syllables are given in the Tibetan transcription with Sanskrit reconstructed, and they are not translated. The goddess's name, translated here as "Stream of Wealth," renders the Tibetan literally. The Sanskrit original is not securely recoverable from this passage. "Compounded substances" renders a term for poisons made by mixing ingredients, and "bites" renders a term whose exact sense, a poison from biting or from a contact bite, is somewhat uncertain.
 
 The following is a note about this translation.
 

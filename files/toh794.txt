@@ -1,16 +1,24 @@
-This short text is a dhāraṇī, or protective spell, belonging to the ritual and i
+This is a short dhāraṇī, or protective spell, preserved in the Kangyur as Toh 79
 
-This short text is a dhāraṇī, or protective spell, belonging to the ritual and incantatory literature of the Kangyur, presented here without a securely attested Sanskrit or Tibetan title beyond the invocations and mantra syllables that open the work. Catalogued as Toh 794, it opens with homage to the Three Jewels—Buddha, Dharma, and Saṅgha—followed by a string of mantra syllables invoking various deities and spirits, after which the text explains the mantra's purpose and application. It promises that mere recitation, without elaborate ritual preparation, will accomplish all manner of practical aims, including overcoming head ailments, epidemic fevers, malevolent walking corpses, and harmful spirits, and it goes on to describe simple procedures, such as reciting the spell and applying it to oneself, for use in situations of need such as hunger. As such, it represents the genre of apotropaic and protective dhāraṇī texts found within the Kangyur, valued for their promised efficacy in warding off illness and danger through the power of sacred sound.
+This is a short dhāraṇī, or protective spell, preserved in the Kangyur as Toh 794. The Tibetan title line in the source gives only the opening homage to the Three Jewels and the Buddha, Dharma, and Saṅgha, followed by the invocation "Namo Hari-dhiye," and does not state an explicit title, so the text is best identified by its opening invocation. Its Sanskrit and Tibetan titles cannot be determined from the material at hand. The text consists of a mantra, partly in Sanskrit and partly in transliterated or untranslated words, together with a brief account of its ritual procedure. That account promises that merely reciting or remembering the spell, without any formal practice of accomplishment, will accomplish every action and overcome illnesses, epidemics, fevers, and harmful spirits, and it adds practical applications such as relief from hunger. Within the canon it is Toh 794 in the Kangyur, belonging to the Tantra division, where short dhāraṇīs of this kind are gathered.
 
 Homage to the Three Jewels. Homage to the Buddha. Homage to the Dharma. Homage to the Saṅgha.
 
-Namo haridhiye, hari rhi kumāri, gauri, gandhāri, caṇḍali, mataṃgi, kali kili, so-and-so's mohehi, khar khar, paca paca, apadhaya, mūracāya, so-and-so's mashamanāya svāhā. Oṃ bhura bhuvā, jvala jvala jvalimanāni, devi sarva saṃskāra kāriṇi ja, tale tale, jvala jvala svāhā.
+Namo Hari-dhiye. Hari-rdhi Kumāri. Gaurī. Gandhārī. Caṇḍālī. Mātaṅgī. Kali kili. Che ge mo zhig gi mo he hi. Khar khar. Paca paca. Apadhaya. Mūra-cāya. Che ge mo zhig gi ma sha manāyā svāhā. Oṃ bhura bhubā. Jvala jvala jvali manāni. De bi sarva saṃskāra karini ja. Tale tale. Jvala jvala svāhā.
 
-As for the rite of this mantra, all activities will be accomplished by mere recitation, without needing to be ritually established through elaborate practice. Head ailments, epidemic fevers accompanied by rising smoke, walking corpses, and harmful spirits will all be overcome. Merely by recollecting it, one will be freed from all of these. If one is hungry, one should go into a village, recite it seven times, and smear it on one's face, whereupon food will be obtained. If it is recited upon the tongue, then at the time of rendering a verdict...
+As for the ritual procedure of this spell: merely by reciting it, without any formal practice of accomplishment, every action will be accomplished. Brain disease, epidemics, smoky fevers, corpse-raising demons, and harmful spirits will all be defeated. By merely remembering it, all of these will release their hold.
+
+If you are hungry, go into a village, recite it seven times, and smear the face with it; you will find food. If you recite it upon the tongue, then at the time of cleaving a branch, the...
+
+The passage breaks off here mid-sentence.
 
 This concludes the translation. The following are translator's notes.
 
-The passage breaks off mid-sentence at "ལན་" (the final clause concerning reciting the mantra on the tongue "at the time of rendering a verdict/argument" is incomplete in the source). The recurring phrase "ཆེ་གེ་མོ་ཞིག" is a standard ritual placeholder meaning "so-and-so," where the practitioner inserts the name of the intended target; it has been rendered literally as "so-and-so." The mantra syllables are given in Roman transliteration of the Sanskrit rather than translated, per convention for dhāraṇī material. The phrase "རིམས་ལྡང་དུ་བ་ཅན" (epidemic fever "accompanied by rising smoke") likely denotes a specific febrile or miasmic contagion in traditional medical/ritual literature; the precise clinical referent is uncertain.
+The mantra syllables are transliterated rather than translated, as is proper. The phrases "che ge mo zhig gi mo" and "de bi" appear corrupt or unclear in this transmission, so I have left them as they stand and not forced a Sanskrit reconstruction. The name "Hari-dhiye" is only provisional, and "Hari-rdhi" may be a corrupted form of a goddess's name (the sequence Gaurī, Gandhārī, Caṇḍālī, Mātaṅgī recalls a known list of female deities, so this is likely a dhāraṇī to Mahāvidyā-type goddesses).
+
+"Smoky fevers" renders "rims ldang du ba can," which is uncertain. It most likely refers to a type of epidemic fever or inflammatory illness, but the exact disease category is unclear. "Brain disease" renders "klad nad," a standard term for disorders of the brain. "Corpse-raising demons" renders "ro langs" (Skt. vetāla). "Harmful spirits" renders "gdon," a general class of malevolent beings.
+
+The final sentence is truncated in the source, and the phrase "shags 'gyed pa'i tshe" is difficult. It may refer to splitting or cutting a branch, but I have not forced a reading.
 
 The following is a note about this translation.
 

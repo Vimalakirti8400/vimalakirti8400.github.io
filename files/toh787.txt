@@ -1,20 +1,22 @@
-This short text, Toh 787 in the Kangyur, belongs to the dhāraṇī and mantra liter
+The Dhāraṇī Thoroughly Pacifying All Misdeeds (Sarvapāpapraśamanī-nāma-dhāraṇī)
 
-This short text, Toh 787 in the Kangyur, belongs to the dhāraṇī and mantra literature of the Buddhist canon, transmitted in Tibetan translation with its mantras preserved in transliterated Sanskrit. It concludes one incantation, called in English Thoroughly Pacifying All Negative Deeds, a purificatory dhāraṇī invoking the Three Jewels for the cleansing of misdeeds, before introducing a further mantra practice meant to be recited while facing east, its power activated by touching the mantra-charged hand to one's own face so as to pacify anger and bring peace to those one encounters. As is typical of such ritual dhāraṇī texts, no formal Sanskrit or Tibetan title is given beyond the descriptive name of the spell itself, and the passage functions as part of a larger collection of protective and apotropaic incantations attributed to the Buddha's word. Its concern is thus practical and ritual rather than doctrinal, offering a spoken formula and accompanying gesture said to neutralize hostility and negative karma.
+The Dhāraṇī of Thoroughly Pacifying All Misdeeds (Tibetan: Sdig pa thams cad rab tu zhi bar byed pa zhes bya ba'i gzungs) is a very short dhāraṇī text, and its Sanskrit title is not clearly attested in the material at hand. It presents a brief mantra for pacifying misdeeds, paired with a second mantra, offered after a homage to the Three Jewels, for calming the anger of others. The accompanying instruction is simple and practical: one sits facing east, recites the mantra, and rubs the face seven times with one's own hand, so that those who are angry in an assembly one then enters will become pleased. It is Toh 787 in the Kangyur, where it belongs to the Tantra section, among the many brief dhāraṇīs and ritual spells preserved there.
 
-Phaṭ phaṭ. Samaya samaya. Amṛto tbhavo tbhava. Pāvaṃ me nāśaya svāhā.
-
-Thus concludes the dhāraṇī called Thoroughly Pacifying All Negative Deeds.
+Phaṭ phaṭ. Samaya samaya. Amṛto tbhava, botbhava. Pāvaṃ me nāśaya svāhā. Here ends the dhāraṇī called "Thoroughly Pacifying All Misdeeds."
 
 Homage to the Three Jewels.
 
-Oṃ vakavatse jambhani stambhani mohani sarva-roṣa-praśamani svāhā.
+Oṃ vakavace jambhani stambhani mohani sarva-roṣa-praśamani svāhā.
 
-Sit facing toward the east and recite this mantra. Having rubbed it upon your own face seven times with your own hand, if you then go into an assembly, whoever is angry there will become pleased.
+Sit facing the east. Recite this mantra, and seven times rub your face with your own hand. Then, if you go into an assembly, those who are angry will become pleased.
 
 This concludes the translation. The following are translator's notes.
 
-The mantra syllables are given here as close phonetic transliterations of the Tibetan transcription of Sanskrit; some passages (e.g., "amṛto tbhavo tbhava") appear to preserve a corrupted or abbreviated form of the underlying Sanskrit and have been rendered as written rather than emended. The text appears to be a compilation of two separate short dhāraṇī/mantra items, the first concluding with its own colophon ("Thus concludes the dhāraṇī called...") before a new mantra and its ritual instructions begin.
+The opening mantra is transmitted in corrupt, phonetically transliterated form, and I have given a conservative reconstruction rather than a translation. Samaya means "pledge" or "commitment," and "nāśaya svāhā" probably means "destroy (my misdeeds)." "Pāvaṃ me nāśaya" most likely corresponds to "pāpaṃ me nāśaya," meaning "destroy my misdeed," which fits the dhāraṇī's title. The phrases "amṛto tbhava" and "botbhava" are uncertain and may reflect scribal corruption.
+
+The second mantra seems to be a fuller Sanskrit form. Jambhani, stambhani, and mohani mean "paralyzing," "immobilizing," and "bewildering," followed by "pacifying all anger." The transliteration "vakavace" is uncertain.
+
+The final instruction is ritual and is rendered closely, with "those who are angry" and "become pleased" following the Tibetan.
 
 The following is a note about this translation.
 
