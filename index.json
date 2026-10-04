@@ -14669,6 +14669,82 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 855,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī called the Heart of the Buddhas",
+  "sanskrit": "Ārya-buddha-hṛdaya-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Dhāraṇī Called the Heart of the Buddhas (Sanskrit: Ārya-buddha-hṛdaya-nāma-dhāraṇī; Tibetan: Phags pa sangs rgyas kyi snying po zhes bya ba'i gzungs) is a short scriptural text of the dhāraṇī type, a form of protective or mnemonic formula that a buddha teaches for the benefit of beings. In the opening of this work, the Buddha is shown residing in a grove beside the ocean in the realm of the buddhas, seated on a lion throne and surrounded by gods, and he addresses the sons of the gods of the Pure Abodes, whom he tells that he will teach a Dharma discourse, the dhāraṇī itself, for the sake of the time after the Tathāgata has passed away. The text is Toh 855 in the Kangyur, the Tibetan canon of translated words of the Buddha, where it is classified among the dhāraṇī texts of the Tantra section.",
+  "pdf": "files/toh855.pdf",
+  "txt": "files/toh855.txt",
+  "link84000": "",
+  "date": "2026-10-04"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 856,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called \"Endowed with the Limbs of All the Buddhas\"",
+  "sanskrit": "Ārya-sarvabuddhāṅgavatī-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Dhāraṇī Called \"Endowed with the Limbs of All the Buddhas\" (Sanskrit Ārya-sarvabuddhāṅgavatī-nāma-dhāraṇī, Tibetan Phags pa sangs rgyas thams cad kyi yan lag dang ldan pa zhes bya ba'i gzungs) is a short scripture centered on a protective incantation. It is set on the bank of the Ganges, where the Buddha addresses the four great kings, the Guardians of the World, headed by Vaiśravaṇa. He speaks to them of the four great fears that afflict human beings, namely aging, sickness, decline, and death, and singles out the fear of the lord of death as the greatest, since it has no traceable beginning, admits no antidote, and always follows close behind. The text then offers its dhāraṇī as a means of protection against these dangers. It is Toh 856 in the Kangyur, where it is classed among the dhāraṇīs of the Tantra division.",
+  "pdf": "files/toh856.pdf",
+  "txt": "files/toh856.txt",
+  "link84000": "",
+  "date": "2026-10-04"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 857,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called \"The Sandalwood Limb\"",
+  "sanskrit": "Ārya-candanāṅga-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Sandalwood Limb (Candanāṅga) is a short dhāraṇī text whose Sanskrit title is Ārya-candanāṅga-nāma-dhāraṇī and whose Tibetan title is Phagpa Tsendän gyi Yenlak ches jawé Zungs, rendered in English as \"The Noble Dhāraṇī called 'The Sandalwood Limb.'\" Set in Rājagṛha, where the Buddha addresses a large assembly of monks, bodhisattvas, and gods, it presents a dhāraṇī, a protective formula of spoken power, spoken by the Blessed One and directed in part to the bodhisattvas Avalokiteśvara and Candraprabha. It belongs to the genre of dhāraṇī literature, in which such formulas are taught together with their benefits and the way they are to be used. In the canon, it is Toh 857 in the Kangyur, and it is classed among the Tantra division.",
+  "pdf": "files/toh857.pdf",
+  "txt": "files/toh857.txt",
+  "link84000": "",
+  "date": "2026-10-04"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 858,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī of the Supreme Lamp, King of Knowledge Mantras",
+  "sanskrit": "Ārya-agrapradīpa-dhāraṇī-vidyārāja",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Dhāraṇī of the Supreme Lamp, King of Knowledge Mantras (Sanskrit: Ārya Agrapradīpadhāraṇī Vidyārāja; Tibetan: Phags pa rig sngags kyi rgyal po sgron ma mchog gi gzungs) is a dhāraṇī text, a scripture centered on a protective formula of spoken power. It is set in Śrāvastī, at the Jeta Grove, where the Buddha is teaching a vast assembly of monks, gods, humans, and bodhisattvas. His discourse turns to a distant world-realm called Boundless Flowers, where a buddha named Supreme Lamp dwells, and the dhāraṇī takes its name and authority from this buddha. In the canon it is Toh 858 in the Kangyur, belonging to the Tantra division, in the class of dhāraṇī and related ritual scriptures.",
+  "pdf": "files/toh858.pdf",
+  "txt": "files/toh858.txt",
+  "link84000": "",
+  "date": "2026-10-04"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 862,
   "suffix": "",
   "state": "at84000",
