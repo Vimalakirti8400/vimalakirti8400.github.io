@@ -9821,6 +9821,24 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 588,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī by Which One Holds the Noble Great Pratisarā",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "This short text, catalogued as Toh 588 in the Kangyur, is a dhāraṇī connected with the noble Great Pratisarā (Mahāpratisarā), a female deity known as the queen of spells. The Tibetan title line preserved in the source is only partly legible, beginning with the word for \"Jewel\" or \"Precious One,\" so the full Tibetan and Sanskrit titles cannot be given with confidence here; the translation's own closing line, however, identifies it as the dhāraṇī by which one comes to hold the noble Great Pratisarā. The text itself is extremely brief, consisting of an opening homage to the Three Jewels, a mantra beginning with a salutation to all the buddhas whose teaching is unobstructed, and a closing statement that holding this formula amounts to holding the goddess herself. As a dhāraṇī, it belongs to the class of protective incantations that Buddhist tradition treats as concentrated expressions of a deity's power and blessing, meant to be recited, memorized, or carried for protection. Within the canon it appears in the Kangyur, the collection of translated discourses attributed to the Buddha, among the tantra and dhāraṇī materials that center on protective spells.",
+  "pdf": "files/toh588.pdf",
+  "txt": "files/toh588.txt",
+  "link84000": "",
+  "date": "2026-10-05"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 589,
   "suffix": "",
   "state": "translated",
@@ -14742,6 +14760,62 @@
   "txt": "files/toh858.txt",
   "link84000": "",
   "date": "2026-10-04"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 859,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called \"Empowerment\"",
+  "sanskrit": "Āryābhiṣiñcanī-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "The Noble Dhāraṇī Called \"Empowerment\" (Sanskrit: Ārya Abhiṣiñcanī Nāma Dhāraṇī; Tibetan: Phags pa dbang bskur ba zhes bya ba'i gzungs) is a short scriptural text that presents itself as a discourse of the Buddha. Like other texts of its kind, it centers on a dhāraṇī, a formula of protective and empowering power that is taught for the benefit of those who receive and practice it. The opening, in the classic style, places the Buddha at Śrāvastī, in Prince Jeta's Grove, with a great assembly of monks and countless bodhisattvas, and shows him addressing Śāriputra on qualities of the bodhisattva path, including the mother of the bodhisattvas, their former conduct, and the aspiration of truth. It is Toh 859 in the Kangyur, the Tibetan canon of the Buddha's word, and belongs to the class of dhāraṇī texts found among the tantra and dhāraṇī sections of that collection.",
+  "pdf": "files/toh859.pdf",
+  "txt": "files/toh859.txt",
+  "link84000": "",
+  "date": "2026-10-05"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 860,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Heart Dhāraṇī of Śākyamuni",
+  "sanskrit": "Śākyamunihṛdayadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Praise of the Buddha"
+  ],
+  "explainer": "The Heart Dhāraṇī of Śākyamuni, Toh 860 in the Kangyur, is a very short text devoted to the buddha Śākyamuni. Its Sanskrit title is probably close to Śākyamuni-hṛdaya-dhāraṇī, though the exact Sanskrit and Tibetan titles are not given in the lines available here. After a homage to the Tathāgata, the arhat, the perfectly complete buddha Śākyamuni, the text presents a brief mantra, \"oṃ muni muni mahāmunaye svāhā,\" which plays on the epithet muni, \"sage.\" It then promises that reciting it even once purifies every negative deed accumulated over an immense number of eons. In the Kangyur it belongs to the class of dhāraṇī texts, those compact formulas of recitation that are gathered within the Tantra division and valued for their protective and purifying power.",
+  "pdf": "files/toh860.pdf",
+  "txt": "files/toh860.txt",
+  "link84000": "",
+  "date": "2026-10-05"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 861,
+  "suffix": "",
+  "state": "translated",
+  "title": "This short text is a dhāraṇī whose closing title identifies it as The Heart of t",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "This short text is a dhāraṇī whose closing title identifies it as The Heart of the Noble Vairocana, a brief mantra-based work devoted to the Buddha Vairocana, here called King of Light, and to the bodhisattva Ākāśagarbha. It opens with homage to the Three Jewels and to these two figures, then gives the dhāraṇī itself, which invokes Ākāśagarbha through the radiance of Vairocana. The text promises that one who recites it will succeed and be protected from weapons, fire, water, poison, sorcery, and threats from kings and thieves, and that where it is written down and kept, epidemics and contagious diseases will not arise. It further says that one will attain a meditative absorption called Stainless Light. The text is Toh 861 in the Kangyur, where it belongs to the Tantra section as a dhāraṇī; its Sanskrit and Tibetan titles are not given in the material available here, so they are not supplied.",
+  "pdf": "files/toh861.pdf",
+  "txt": "files/toh861.txt",
+  "link84000": "",
+  "date": "2026-10-05"
  },
  {
   "corpus": "kangyur",
