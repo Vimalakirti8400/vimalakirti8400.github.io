@@ -14834,6 +14834,44 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 863,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of Jinottara",
+  "sanskrit": "Jinottaradhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "This short dhāraṇī text is known in English as The Dhāraṇī of Jinottara, with the Tibetan title rendered as Gyalwé Lama'i Zung, \"the dhāraṇī of Jinottara,\" and a Sanskrit title along the lines of Jinottaradhāraṇī, though the Sanskrit form is not certain from the material at hand. It concerns a protective dhāraṇī-mantra that the bodhisattva Jinottara, a great being, requests permission to present to the Blessed One. The text states that whoever holds and retains it will hold all phenomena, pass beyond the eight unfavorable states, be guarded by yakṣas in every lifetime, and be free from fear of disease. Its brief body consists chiefly of the mantra itself, an invocation of buddhas, awakening, and the blessing of the buddhas. It is Toh 863 in the Kangyur, where it belongs to the class of dhāraṇī texts gathered in the Tantra section.",
+  "pdf": "files/toh863.pdf",
+  "txt": "files/toh863.txt",
+  "link84000": "",
+  "date": "2026-10-06"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 864,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī-Mantra of the Blessed One Amitābha",
+  "sanskrit": "Bhagavān Amitābhadhāraṇīmantra",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Dhāraṇī-Mantra of the Blessed One Amitābha, known in Sanskrit as Bhagavān Amitābha Dhāraṇī Mantra, is a short ritual text centered on the buddha Amitābha, the buddha of boundless light. It opens with a homage to Amitābha, followed by a brief dhāraṇī whose epithets praise his limitless qualities and which ends with a petition for the destruction of all afflictions. The text goes on to describe the benefits of recitation: reciting it three times is said to exhaust the obscurations of karma accumulated over a hundred thousand eons, and reciting it twenty-one times purifies even the grave downfalls of the four roots and plants roots of virtue with a thousand buddhas. It is Toh 864 in the Kangyur, where it belongs to the class of tantra-related texts, specifically the dhāraṇīs and mantras used in devotional and purificatory practice.",
+  "pdf": "files/toh864.pdf",
+  "txt": "files/toh864.txt",
+  "link84000": "",
+  "date": "2026-10-06"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 865,
   "suffix": "",
   "state": "at84000",
@@ -14846,6 +14884,43 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh865",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 866,
+  "suffix": "",
+  "state": "translated",
+  "title": "This short text is a dhāraṇī, a protective incantation of the kind collected in ",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "This short text is a dhāraṇī, a protective incantation of the kind collected in the Tantra division of the Kangyur, and its title begins with the word for \"Jewel\" or \"Rare and Supreme One\" (dkon mchog), though the full Tibetan and Sanskrit titles cannot be determined from the fragment of the title line available here. It opens with homage to the Three Jewels, to the Tathāgata Padmanetra (Lotus Eye), and to the bodhisattva Sarvanīvaraṇaviṣkambhin, the one who clears away all obscurations, and then gives a mantra in the usual Sanskrit syllables followed by instructions for its use. The rite prescribes reciting the dhāraṇī one hundred and eight times each morning, promising that after twenty-one days all karmic obscurations will be exhausted, the five eyes will become completely pure, and disease, eye ailments in particular, will not arise. It is Toh 866 in the Kangyur, where it belongs to the Tantra section and is classed as a dhāraṇī, a short text whose main purpose is to supply a spoken formula together with the practice and benefits connected to it.",
+  "pdf": "files/toh866.pdf",
+  "txt": "files/toh866.txt",
+  "link84000": "",
+  "date": "2026-10-06"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 867,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of Amitābha",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "This short text, which can be rendered in English as the Dhāraṇī of Amitābha, is a brief dhāraṇī dedicated to the Buddha Amitābha, the Buddha of Infinite Light. The Tibetan title lines open with homage to the Blessed One, the Tathāgata Amitābha, and the colophon identifies it as the Recollection of Amitābha. A specific Sanskrit title and Tibetan title are not clearly given in the lines available here, so they are best described generally rather than stated with precision. The text consists of an homage, the dhāraṇī itself, beginning with the words \"amite, amitodbhave,\" and a short statement of its benefits, which promises that reciting it purifies grave karmic obscurations and the downfalls of the root vows, and plants roots of virtue under many buddhas. It is Toh 867 in the Kangyur, where it belongs to the class of dhāraṇī texts, the short mantric formulas of protection and merit gathered among the tantra and dhāraṇī sections of the collection.",
+  "pdf": "files/toh867.pdf",
+  "txt": "files/toh867.txt",
+  "link84000": "",
+  "date": "2026-10-06"
  },
  {
   "corpus": "kangyur",
