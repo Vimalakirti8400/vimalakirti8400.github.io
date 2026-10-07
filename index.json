@@ -14924,6 +14924,81 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 868,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Tathāgata Candraprabha",
+  "sanskrit": "Candraprabhatathāgata",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Recollection of the Name of Candraprabha, whose Tibetan title begins with the words for the Tathāgata Moonlight, the arhat, is a very short scripture centered on the buddha Candraprabha, whose name means \"Moonlight.\" It is Toh 868 in the Kangyur, where it belongs to the class of dhāraṇī and protective-formula texts, though I cannot confirm the full Sanskrit and Tibetan titles from the lines given here. The text opens with a homage to the Tathāgata Candraprabha and then offers a brief mantra, which invokes the buddha, dharma, and saṅgha as sources of blessing. It concludes with a promise of benefit: anyone who rises early each morning and calls the buddha's name to mind will remember their past lives over forty thousand eons and will not fall into the lower realms. In this way the text presents the simple practice of recollecting a buddha's name as a means of protection and spiritual merit.",
+  "pdf": "files/toh868.pdf",
+  "txt": "files/toh868.txt",
+  "link84000": "",
+  "date": "2026-10-07"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 869,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Recollection of the Heart of All the Tathāgatas",
+  "sanskrit": "Sarvatathāgatahṛdayānusmṛti",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Recollection of the Heart of All the Tathāgatas (in Sanskrit, Sarvatathāgatahṛdayānusmṛti, though the Tibetan title line given here does not state it) is a very short dhāraṇī text, consisting of a single mantra followed by a statement of its benefit. The mantra opens with homage to the hearts of all the tathāgatas and concludes with the syllables \"oṃ kuruṃgini svāhā.\" The brief colophon-like promise that follows declares that reciting it even once exhausts the obscurations of karma accumulated over eight hundred million eons. It belongs to the genre of protective and purificatory spells, a type of text that circulates widely in Buddhist practice for the removal of karmic hindrances. It is Toh 869 in the Kangyur, where it is classed among the tantra section's dhāraṇī texts.",
+  "pdf": "files/toh869.pdf",
+  "txt": "files/toh869.txt",
+  "link84000": "",
+  "date": "2026-10-07"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 870,
+  "suffix": "",
+  "state": "translated",
+  "title": "Recollection of the Name of the Buddha Ratnaśikhin",
+  "sanskrit": "Ratnaśikhinnāmānusmṛti",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Recollection of the Name of the Buddha Ratnaśikhin is a very short dhāraṇī text in the Kangyur, devoted to the buddha Ratnaśikhin, whose name means \"Jewel Crest\" or \"Jewel Topknot.\" The Tibetan title line begins with a homage to this buddha and gives the spoken formula in transliterated Sanskrit, and the Tibetan title appears to concern recollection at the time of death, though the line is cut off and its full wording cannot be confirmed here. The text consists of a brief homage, a short mantra-like invocation addressed to the tathāgata, arhat, and perfectly awakened one, and a promise of benefit: whoever recalls it at the moment of death will be freed from all the lower realms and will be reborn as a god in the Heaven of the Thirty-Three. It belongs to the genre of dhāraṇī and name-recollection texts, which offer concise protective formulas and the invocation of a buddha's name as a practice for securing a favorable rebirth. It is Toh 870 in the Kangyur, found among the tantra-section texts, where many such short dhāraṇīs are gathered.",
+  "pdf": "files/toh870.pdf",
+  "txt": "files/toh870.txt",
+  "link84000": "",
+  "date": "2026-10-07"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 871,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called \"The Stainless\"",
+  "sanskrit": "Ārya Vimala Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Dhāraṇī Called \"The Stainless\" (Sanskrit: Ārya Vimala Nāma Dhāraṇī; Tibetan: 'Phags pa dri ma med pa zhes bya ba'i gzungs) is a short scriptural discourse centered on a dhāraṇī, a protective formula of the kind that is recited for spiritual benefit. It is set at Rājagṛha, on Vulture Peak, where the Buddha addresses the bodhisattva Viśuddhamati, explaining that the Tathāgata is completely pure because each of his qualities, among them moral discipline, meditative absorption, patience, and loving-kindness, is itself completely pure. The text thus joins a reflection on the perfected purity of a buddha with the practice of reciting a dhāraṇī named for that stainlessness. It is Toh 871 in the Kangyur, the Tibetan canon of translated words of the Buddha, and belongs to the class of dhāraṇī texts found among the tantra section.",
+  "pdf": "files/toh871.pdf",
+  "txt": "files/toh871.txt",
+  "link84000": "",
+  "date": "2026-10-07"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 891,
   "suffix": "",
   "state": "at84000",
@@ -16192,16 +16267,20 @@
   "corpus": "tengyur",
   "toh": 1180,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Hevajrapindarthatika",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Extensive Commentary on the Condensed Meaning of the Hevajra Tantra",
+  "sanskrit": "Hevajrapiṇḍārthaṭīkā",
+  "category": "Tantra",
+  "tags": [
+   "Commentary",
+   "Doctrinal",
+   "Ritual"
+  ],
+  "explainer": "The Extensive Commentary on the Condensed Meaning of the Hevajra Tantra, known in Sanskrit as Hevajrapiṇḍārthaṭīkā and in Tibetan as Kyé Dorjé düpé dön gyi gyaché drelpa, is a commentary on the Hevajra Tantra, one of the major texts of the Buddhist tantric tradition. It opens with homage to glorious Hevajra and a verse of praise to the deity, then moves into an explanation of his symbolism, in which the deity's eight faces, sixteen hands, and other features are read as embodiments of liberations, emptinesses, and compassions. As an exegetical work, it aims to draw out the meaning of the root tantra's condensed teachings and to guide practitioners toward realizing the deity's nature. It is Toh 1180 in the Tengyur, the canonical collection of Indian treatises and commentaries, where it belongs to the tantra commentary class.",
+  "pdf": "files/toh1180.pdf",
+  "txt": "files/toh1180.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-07"
  },
  {
   "corpus": "tengyur",
