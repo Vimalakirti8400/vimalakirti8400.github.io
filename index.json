@@ -213,18 +213,18 @@
   "suffix": "",
   "state": "translated",
   "title": "The Noble Perfection of Wisdom in Eight Thousand Lines",
-  "sanskrit": "Āryāṣṭasāhasrikā Prajñāpāramitā",
+  "sanskrit": "Ārya-aṣṭasāhasrikā-prajñāpāramitā",
   "category": "Perfection of Wisdom (Prajñāpāramitā)",
   "tags": [
-   "Doctrinal",
    "Prose",
-   "Root text"
+   "Doctrinal",
+   "Philosophical"
   ],
-  "explainer": "This text is the Āryāṣṭasāhasrikā Prajñāpāramitā, known in Tibetan as the Phags pa shes rab kyi pha rol tu phyin pa brgyad stong pa, or in English The Noble Perfection of Wisdom in Eight Thousand Lines, one of the most celebrated and historically significant scriptures of the Mahāyāna Prajñāpāramitā literature. Catalogued as Toh 12 in the Kangyur, it belongs to the Prajñāpāramitā section of sūtras attributed to the Buddha's discourses on the perfection of wisdom, emphasizing the nature of emptiness, non-attachment, and the bodhisattva path. The opening scene situates the teaching at Vulture Peak Mountain near Rājagṛha, where the Buddha addresses a vast assembly of realized arhats and bodhisattvas, establishing the setting for an extended and profound exposition on wisdom that unfolds across many chapters. As one of the foundational and earliest expressions of the Prajñāpāramitā tradition, this sūtra had immense influence on the development of Mahāyāna philosophy and practice throughout India and Tibet.",
+  "explainer": "The Perfection of Wisdom in Eight Thousand Lines (Sanskrit: Āryāṣṭasāhasrikāprajñāpāramitā; Tibetan: Phags pa shes rab kyi pha rol tu phyin pa brgyad stong pa) is one of the foundational scriptures of the Mahāyāna. It is a sūtra that presents the bodhisattva path through the perfection of wisdom, the understanding of the emptiness of all phenomena, and describes how bodhisattvas should practice, what they should realize, and how this wisdom relates to the other perfections. It opens in the traditional manner, with the Buddha teaching at Rājagṛha on Vulture Peak before a great assembly of arhats. The text is Toh 12 in the Kangyur, belonging to the Prajñāpāramitā class of sūtras, and it is widely regarded as the oldest and most central of the Perfection of Wisdom scriptures, standing as the basis from which many longer and shorter versions were developed.",
   "pdf": "files/toh12.pdf",
   "txt": "files/toh12.txt",
   "link84000": "",
-  "date": "2026-09-21"
+  "date": "2026-10-08"
  },
  {
   "corpus": "kangyur",
@@ -14996,6 +14996,81 @@
   "txt": "files/toh871.txt",
   "link84000": "",
   "date": "2026-10-07"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 872,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called \"The Distinguished\"",
+  "sanskrit": "Ārya Viśiṣṭavatī Nāma Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "The Noble Dhāraṇī Called \"The Distinguished\" (Sanskrit: Ārya Viśiṣṭavatī Nāma Dhāraṇī; Tibetan: Phagpa Khyepar Chen zhé jawé Zung) is a short scriptural text of the dhāraṇī type, a genre built around protective or empowering formulas of sacred speech. It opens in the manner of a sūtra, with the standard \"Thus did I hear at one time,\" and situates the Buddha in a temple in a town called Sañco in the Land of Doves, where a monk named Tsejö, traveling on business, encounters a man of enormous size whom he takes to be the bodhisattva Mañjuśrī. The narrative frame leads into the teaching and recitation of the dhāraṇī itself, together with the benefits promised to those who uphold it. The text is Toh 872 in the Kangyur, the Tibetan canon of translated words of the Buddha, and it belongs to the Tantra division, where dhāraṇīs of this kind are gathered.",
+  "pdf": "files/toh872.pdf",
+  "txt": "files/toh872.txt",
+  "link84000": "",
+  "date": "2026-10-08"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 873,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Hundred and Eight Names of the Buddha, the Blessed One, together with the Dhāraṇī-Mantra",
+  "sanskrit": "",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Praise of the Buddha",
+   "Mantra",
+   "Devotional"
+  ],
+  "explainer": "The Hundred and Eight Names of the Buddha, the Blessed One, together with the Dhāraṇī-Mantra (Tibetan: Sangs rgyas bcom ldan 'das kyi mtshan brgya rtsa brgyad pa gzungs sngags dang bcas pa) is a short devotional text that praises the Buddha through a series of epithets. It opens with homage to the Omniscient One and then celebrates the Blessed One's fragrant, compassionate body, his marks and signs, and his radiant smile and features. The listing of a hundred and eight names is combined with a dhāraṇī-mantra, a formula of protective and merit-bringing recitation. The work is Toh 873 in the Kangyur, the collection of translated words of the Buddha, where it is classed among the dhāraṇī and related ritual texts of the canon. Its Sanskrit title is not given in the lines above, so it is best described simply as a litany of the Buddha's names intended for praise, recitation, and blessing.",
+  "pdf": "files/toh873.pdf",
+  "txt": "files/toh873.txt",
+  "link84000": "",
+  "date": "2026-10-08"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 874,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble One Hundred and Eight Names of Avalokiteśvara, together with the Dhāraṇī-Mantra",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "The Noble One Hundred and Eight Names of Avalokiteśvara, together with the Dhāraṇī-Mantra, is a short scripture devoted to the bodhisattva of compassion, whose name in Tibetan is Phags pa spyan ras gzigs dbang phyug gi mtshan brgya rtsa brgyad pa gzungs sngags dang. The title in Sanskrit is not given in the portion available here, so it is best described simply as a text on the one hundred and eight names of Avalokiteśvara. It belongs to the genre of dhāraṇī and mantra literature: it opens with an homage and a mantra of Avalokiteśvara, then describes how all the tathāgatas of the ten directions bless the bodhisattva and affirm the benefit of his teaching, before turning to the enumeration of his names. As Toh 874 in the Kangyur, it is preserved among the tantra-related and dhāraṇī texts of the Tibetan canon, where recitation of sacred names and protective formulas is a central devotional and ritual practice.",
+  "pdf": "files/toh874.pdf",
+  "txt": "files/toh874.txt",
+  "link84000": "",
+  "date": "2026-10-08"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 875,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Hundred and Eight Names of Maitreya, together with the Dhāraṇī-Mantra",
+  "sanskrit": "Āryamaitreyāṣṭaśatanāmadhāraṇīmantrasahita",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "The Noble Hundred and Eight Names of Maitreya, together with the Dhāraṇī-Mantra (in Tibetan, Phakpa Jampé Tsen Gya Tsa Gyépa Zungngak Dang Chépa) is a short devotional and ritual text centered on the bodhisattva Maitreya, the future buddha. It is Toh 875 in the Kangyur, and it belongs to the tantra class of texts, which is evident from its focus on mantra and dhāraṇī. The text opens with homage to Maitreya, who then speaks his own heart mantra, which the assembled Tathāgatas praise as a dhāraṇī of immense qualities that is extremely rare to hear and free from all obscurations. From there it moves into the litany of Maitreya's names that gives the work its title, a form of praise that doubles as a vehicle for the protective and purifying benefits attributed to reciting them. A Sanskrit title is not given in the details available here, so it is best described simply as a Maitreya name-litany with accompanying dhāraṇī.",
+  "pdf": "files/toh875.pdf",
+  "txt": "files/toh875.txt",
+  "link84000": "",
+  "date": "2026-10-08"
  },
  {
   "corpus": "kangyur",
