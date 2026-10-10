@@ -250,15 +250,19 @@
   "toh": 14,
   "suffix": "",
   "state": "translated",
-  "title": "The Noble Teaching on the Perfection of Wisdom Requested by Suvikrāntavikrama—kn",
-  "sanskrit": "",
-  "category": "Other",
-  "tags": [],
-  "explainer": "The Noble Teaching on the Perfection of Wisdom Requested by Suvikrāntavikrama—known in Sanskrit as the Ārya Suvikrāntavikrama Paripṛcchā Prajñāpāramitā Nirdeśa and in Tibetan as ’Phags pa rab kyi rtsal gyis rnam par gnon pas zhus pa shes rab kyi pha rol tu phyin pa bstan pa—is a Mahāyāna sūtra belonging to the vast Prajñāpāramitā, or Perfection of Wisdom, literature. Set at Vulture Peak's Bamboo Grove near Rājagṛha, it opens with the Buddha surrounded by a great assembly of monks and bodhisattvas, before the bodhisattva Suvikrāntavikrama comes forward to pose questions that occasion the Buddha's teaching on the profound nature of wisdom's perfection. As is typical of this genre, the text likely explores themes of emptiness, non-attachment, and the bodhisattva path through dialogue between the Buddha and the questioning bodhisattva. This work is catalogued as Toh 14 in the Kangyur, placing it among the canonical discourses attributed directly to the Buddha, and it forms part of the broader Prajñāpāramitā section that constitutes one of the foundational bodies of Mahāyāna scripture.",
+  "title": "The Noble Teaching of the Perfection of Wisdom Requested by Suvikrāntavikrāmin",
+  "sanskrit": "Āryasuvikrāntavikramaparipṛcchāprajñāpāramitānirdeśa",
+  "category": "Perfection of Wisdom (Prajñāpāramitā)",
+  "tags": [
+   "Prose",
+   "Doctrinal",
+   "Philosophical"
+  ],
+  "explainer": "The Noble Teaching of the Perfection of Wisdom Requested by Supreme Prowess, known in Sanskrit as the Ārya-suvikrāntavikrama-paripṛcchā-prajñāpāramitā-nirdeśa and in Tibetan as Phakpa Rab kyi Tsal gyi Nampar Nönpe Zhüpa Sherab kyi Pharol tu Chinpa Tenpa, is a Mahāyāna sūtra on the perfection of wisdom. Set in the Bamboo Grove at Kalandaka near Rājagṛha, it opens with the Buddha teaching before twelve hundred and fifty monks and countless bodhisattvas gathered from many buddha fields. A bodhisattva named Supreme Prowess then questions him, and the Buddha's answers set out the perfection of wisdom as a profound insight beyond all conceptual grasping and fixed views. This text is Toh 14 in the Kangyur, where it belongs to the Prajñāpāramitā, or Perfection of Wisdom, class of sūtras.",
   "pdf": "files/toh14.pdf",
   "txt": "files/toh14.txt",
   "link84000": "",
-  "date": "2026-09-23"
+  "date": "2026-10-10"
  },
  {
   "corpus": "kangyur",
@@ -15074,6 +15078,81 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 876,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble One Hundred and Eight Names of Ākāśagarbha, together with the Dhāraṇī-Mantra",
+  "sanskrit": "Āryākāśagarbhanāmāṣṭaśatakadhāraṇīmantrasahita",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "The Noble One Hundred and Eight Names of Ākāśagarbha, together with the Dhāraṇī-Mantra, known in Tibetan as Phakpa Namkhé Nyingpö Tsen Gya Tsa Gyepa Zung Ngak Dang Chepa, is a short devotional and ritual text in praise of the bodhisattva Ākāśagarbha, whose name means \"Essence of Space.\" It opens with homage to Ākāśagarbha as one whose vast countenance and radiant eyes perfume the center of the sky and whose sphere of activity is space itself, illuminating the whole earth. It then presents a brief dhāraṇī. As soon as the dhāraṇī is spoken, the lower realms are pacified, the earth quakes, great drums resound, and all the buddhas voice their approval. After this the Blessed One Vairocana addresses the assembled beings and extols this supreme dhāraṇī of the heart-essence of Ākāśagarbha. The work is Toh 876 in the Kangyur, where it belongs among the dhāraṇī texts, the collection of incantations and name litanies recited for protection, purification, and blessing.",
+  "pdf": "files/toh876.pdf",
+  "txt": "files/toh876.txt",
+  "link84000": "",
+  "date": "2026-10-10"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 877,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble One Hundred and Eight Names of Samantabhadra, together with the Dhāraṇī-Mantra",
+  "sanskrit": "Ārya-samantabhadra-nāmāṣṭaśataka-dhāraṇī-mantra-sahita",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Devotional",
+   "Mantra"
+  ],
+  "explainer": "The Noble One Hundred and Eight Names of Samantabhadra, together with the Dhāraṇī-Mantra, known in Tibetan by a title beginning \"Phakpa Kuntu Zangpo,\" the Noble Samantabhadra, and corresponding to a Sanskrit title along the lines of Ārya Samantabhadra Nāmāṣṭaśataka, is a short devotional and incantatory work centered on the great bodhisattva Samantabhadra, whose name means \"All-Good.\" It opens with an homage praising his great compassion, his clear realization of the Dharma, his nature as vast as space, and his manifold forms. It then relates how Samantabhadra enters a bodhisattva meditative absorption, setting the stage for the recitation of his one hundred and eight names and an accompanying dhāraṇī-mantra, a sacred formula valued for recitation and spiritual protection. The text is Toh 877 in the Kangyur, where it belongs to the class of dhāraṇī and name-litany texts associated with the tantric section of the canon.",
+  "pdf": "files/toh877.pdf",
+  "txt": "files/toh877.txt",
+  "link84000": "",
+  "date": "2026-10-10"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 878,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Hundred and Eight Names of Vajrapāṇi, Together with the Dhāraṇī-Mantra",
+  "sanskrit": "Ārya Vajrapāṇi Nāmāṣṭaśataka Dhāraṇī Mantra Sahita",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "The Noble Hundred and Eight Names of Vajrapāṇi, Together with the Dhāraṇī-Mantra, known in Tibetan as Phakpa Lakna Dorjé Tsen Gya Tsa Gyepa Zungngak Dang Chepa, is a short scripture devoted to the bodhisattva Vajrapāṇi, the fierce protector who wields the vajra. Its Sanskrit title is not securely attested, though it would correspond to something like Ārya Vajrapāṇi Nāma Aṣṭaśataka. The text opens with Vajrapāṇi proclaiming his own heart mantra, at which the earth shakes and obstructing spirits cry out in terror. The Buddha, smiling, gently urges him not to frighten the assembly too much, and Vajrapāṇi responds by praising his dhāraṇī as supremely secret and the highest of all knowledge-mantras. It is Toh 878 in the Kangyur, where it belongs among the dhāraṇī texts associated with the tantra section, works valued for the protective and purifying power of their recited formulas and names.",
+  "pdf": "files/toh878.pdf",
+  "txt": "files/toh878.txt",
+  "link84000": "",
+  "date": "2026-10-10"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 879,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Hundred and Eight Names of Noble Mañjuśrī Kumārabhūta, together with the Dhāraṇī-Mantra",
+  "sanskrit": "Āryamañjuśrīkumārabhūtāṣṭottaraśatakanāmadhāraṇīmantrasahita",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Devotional",
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Hundred and Eight Names of Noble Mañjuśrī Kumārabhūta, together with the Dhāraṇī-Mantra, known in Tibetan as Pakpa Jampal Shönnur Gyurpé Tsen Gyatsa Gyepa Zungngak Dang Chepa and corresponding to a Sanskrit title along the lines of Ārya Mañjuśrī Kumārabhūta Aṣṭottaraśataka Nāma Dhāraṇī Mantra Sahita, is a short devotional and ritual text centered on the bodhisattva of wisdom, Mañjuśrī, here called Kumārabhūta, \"the Youthful,\" and Mañjughoṣa, \"Gentle Voice.\" It opens with homages to the fully awakened buddhas of the ten directions, whose pure intelligence pervades all that can be known, and to Mañjuśrī himself, whose stainless mind and radiant qualities draw the reverence of gods, humans, asuras, nāgas, and vidyādharas, and who is praised as one who destroys rebirth in the lower realms. It then presents a Sanskrit dhāraṇī-mantra that invokes him through a long series of epithets, celebrating him as jewel-adorned, as a liberator of other beings, and as the holder of the great treasury of the Tathāgata's teaching. The work is Toh 879 in the Kangyur, where it belongs among the dhāraṇī texts, the collection of incantations and name-recitations prized for their protective and purifying power.",
+  "pdf": "files/toh879.pdf",
+  "txt": "files/toh879.txt",
+  "link84000": "",
+  "date": "2026-10-10"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 891,
   "suffix": "",
   "state": "at84000",
@@ -15967,61 +16046,77 @@
   "corpus": "tengyur",
   "toh": 1155,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Gunaparyantastotra",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Praise of Infinite Qualities",
+  "sanskrit": "Guṇāparyantastotra",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Praise of the Buddha",
+   "Devotional"
+  ],
+  "explainer": "The Praise of Infinite Qualities, in Sanskrit Guṇāparyantastotra and in Tibetan Yönten Tayepar Töpa, is a hymn of praise in verse addressed to the Buddha, attributed in its colophon to the master Triratnadāsa. Speaking directly to the Buddha, the poet celebrates the boundless qualities he cultivated over countless lives as a bodhisattva: his refusal to seek peace for himself alone, his tireless generosity and diligence, his compassion for afflicted beings, and his skill in means, which led him to take birth even among animals for their sake. The hymn culminates in his awakening and his teaching of the four noble truths, and closes by dedicating the merit of the praise to the good of all beings. It is Toh 1155 in the Tengyur, where it belongs to the section of praises, or stotras, and it was translated into Tibetan by the Indian preceptor Sarvajñadeva and the translator Rinchen Chok, and edited by Paltsek.",
+  "pdf": "files/toh1155.pdf",
+  "txt": "files/toh1155.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-10"
  },
  {
   "corpus": "tengyur",
   "toh": 1156,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Gunaparyantastotratika",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Commentary on the Praise of Infinite Qualities",
+  "sanskrit": "Guṇāparyantastotraṭīkā",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Commentary",
+   "Praise of the Buddha",
+   "Doctrinal"
+  ],
+  "explainer": "The Commentary on the Praise of Infinite Qualities, in Sanskrit Guṇāparyantastotraṭīkā and in Tibetan Yönten Tayepar Töpé Drelpa, is a brief Indian commentary that its colophon attributes to the great master Dignāga. It explains a hymn of praise to the Buddha, the Praise of Infinite Qualities, by mapping the hymn's verses onto the stages of the Buddha's career: the phase of the cause, from the first resolve for awakening through the practice of the perfections to the exercise of mastery; the phase of the result, his awakening; and the phase of acting for the benefit of beings, beginning with his turning of the wheel of Dharma. Across six short chapters it identifies each verse of the hymn by its opening words and names the point that verse teaches, closing with the dedication of merit. It is Toh 1156 in the Tengyur, where it belongs to the section of praises (stotra).",
+  "pdf": "files/toh1156.pdf",
+  "txt": "files/toh1156.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-10"
  },
  {
   "corpus": "tengyur",
   "toh": 1157,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Gunaparyantastotrapadakarika",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Verses on the Meaning of the Praise of Infinite Qualities",
+  "sanskrit": "Guṇāparyantastotrabatukārikā",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Commentary",
+   "Praise of the Buddha"
+  ],
+  "explainer": "The Verses on the Meaning of the Praise of Infinite Qualities, whose Sanskrit title is transcribed in the Tibetan as Guṇa Aparyanta Stotra Batu Kārikā and whose Tibetan title is Yönten Tayepar Töpé Dön gyi Tsik Leur Jepa, is a short work of ten verses that its colophon attributes to the great master Dignāga. It condenses into verse the structure of a hymn of praise to the Buddha, the Praise of Infinite Qualities, showing how that hymn covers the cause of awakening in its phases of intention, application, and mastery, then the result, and finally the Buddha's work for the benefit of others, and even noting how many of the hymn's verses are given to each topic. Its colophon records that it was translated into Tibetan by the Indian preceptor Sarvajñādeva and the translator Rinchen Chok, and revised by the chief editor Paltsek. It is Toh 1157 in the Tengyur, where it belongs to the section of praises (stotra).",
+  "pdf": "files/toh1157.pdf",
+  "txt": "files/toh1157.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-10"
  },
  {
   "corpus": "tengyur",
   "toh": 1158,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Buddhanirvanastotra",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Praise of the Buddha's Final Nirvāṇa",
+  "sanskrit": "Buddhasya Nirvāṇastotram",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Devotional",
+   "Praise of the Buddha"
+  ],
+  "explainer": "The Praise of the Buddha's Final Nirvāṇa, in Sanskrit Buddhasya Nirvāṇastotram and in Tibetan Sangyé Yongsu Nyangen Lé Depa La Töpa, is a short hymn in verse that its colophon attributes to the great master Dharmakīrti. It honors the Buddha at his passing, first recalling his birth among the Śākyas, his awakening, his turning of the wheel of Dharma, and his final nirvāṇa in the sāl grove, and then mourning his departure with repeated cries of \"Alas.\" Through a series of vivid images it laments the Buddha as a ford to the happy realms now run dry, a great tree fallen, a moon and a sun that have set, and a great elephant and a lion gone to peace, before closing by dedicating the merit of the praise so that the poet may benefit beings just as the Buddha did. It is Toh 1158 in the Tengyur, where it belongs to the section of praises (stotra).",
+  "pdf": "files/toh1158.pdf",
+  "txt": "files/toh1158.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-10"
  },
  {
   "corpus": "tengyur",
