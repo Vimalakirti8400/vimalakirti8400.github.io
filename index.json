@@ -15153,6 +15153,63 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 880,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble One Hundred and Eight Names of Sarvanīvaraṇaviṣkambhin, Together with the Dhāraṇī-Mantra",
+  "sanskrit": "Āryasarvanīvaraṇaviṣkambhināmāṣṭottaraśatakadhāraṇīmantrasahita",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "The Noble One Hundred and Eight Names of Sarvanīvaraṇaviṣkambhin, Together with the Dhāraṇī-Mantra, known in Tibetan as Phakpa Dribpa Tamche Nampar Selwé Tsen Gya Tsa Gyepa Zung Ngak Dang Chepa, is a short scriptural work devoted to the bodhisattva whose Sanskrit name, Sarvanīvaraṇaviṣkambhin, means \"Remover of All Obscurations.\" It opens with homage to this great being and a brief mantra, after which the Tathāgata Vairocana stretches out his right hand, praises the bodhisattva for bringing forth his dhāraṇī-mantra, and explains the benefits it brings to beings. Vairocana says that anyone who hears it gains roots of virtue as vast as if planted before countless buddhas, and becomes free of obscurations simply by having it reach their ears. The work is Toh 880 in the Kangyur, where it belongs among the dhāraṇī texts, the class of scriptures centered on sacred formulas and the recitation of names for protection, purification, and spiritual merit.",
+  "pdf": "files/toh880.pdf",
+  "txt": "files/toh880.txt",
+  "link84000": "",
+  "date": "2026-10-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 881,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble One Hundred and Eight Names of Kṣitigarbha, Together with the Dhāraṇī-Mantra",
+  "sanskrit": "Ārya Kṣitigarbhāṣṭottaraśatakanāma Dhāraṇīmantrasahita",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Verse",
+   "Devotional"
+  ],
+  "explainer": "The Noble One Hundred and Eight Names of Kṣitigarbha, Together with the Dhāraṇī-Mantra, known in Tibetan as Phagpa Sai Nyingpoi Tsen Gya Tsa Gyepa Zung Ngak Dang Chepa, is a short devotional and incantatory work centered on the bodhisattva Kṣitigarbha, whose name in Sanskrit means \"Earth Womb\" or \"Earth Matrix.\" It opens with homage to Kṣitigarbha as great king of the maṇḍala and gives his dhāraṇī. In verse, the recitation causes the vajra maṇḍala and Mount Kailāsa to shake, and Vajrapāṇi then praises Kṣitigarbha for a mantra that averts the suffering and faults of beings, so that those who hear it remain unstained by saṃsāra, like lotuses rising from the mud. The text belongs to the genre of litanies of one hundred and eight names joined with protective and meritorious mantras. It is Toh 881 in the Kangyur, where it is found among the dhāraṇī texts.",
+  "pdf": "files/toh881.pdf",
+  "txt": "files/toh881.txt",
+  "link84000": "",
+  "date": "2026-10-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 882,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra called The Eight Maṇḍalas",
+  "sanskrit": "Āryāṣṭamaṇḍalakanāmamahāyānasūtra",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Prose"
+  ],
+  "explainer": "The Noble Great Vehicle Sūtra called The Eight Maṇḍalas, known in Sanskrit as Ārya Aṣṭamaṇḍalaka nāma Mahāyāna Sūtra and in Tibetan as Pakpa Kyilkhor Gyepa, is a short Mahāyāna sūtra set on Mount Potalaka, the abode of the noble bodhisattva Avalokiteśvara. There, amid a vast assembly of bodhisattvas, the bodhisattva Jewel Essence Moonlight rises respectfully and asks the Blessed One for permission to pose a question. This request opens a teaching centered on a set of eight maṇḍalas, which are associated with devotional and ritual practice and its benefits. The work is Toh 882 in the Kangyur, where it is placed among texts of a ritual and dhāraṇī character, and a closely related version of the same sūtra also appears elsewhere in the collection.",
+  "pdf": "files/toh882.pdf",
+  "txt": "files/toh882.txt",
+  "link84000": "",
+  "date": "2026-10-11"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 891,
   "suffix": "",
   "state": "at84000",
@@ -16122,16 +16179,20 @@
   "corpus": "tengyur",
   "toh": 1159,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Desanastava",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Praise of Confession",
+  "sanskrit": "Deśanāstava",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Devotional",
+   "Praise of the Buddha"
+  ],
+  "explainer": "The Praise of Confession, in Sanskrit Deśanāstava and in Tibetan Shakpé Töpa, is a hymn in verse by the master Candragomin, addressed to the Buddha as the unequaled king of physicians. In it the poet lays bare his own spiritual sickness: a mind churned by the afflictions, meditation that swings between laxity and excitement, good qualities that turn to faults in his hands, and remedies that seem to fail him, all described through vivid images of disease, poison and medicine. Against this he sets the Buddha's teaching, his presence and his dharmakāya as the cure that destroys the seeds of the afflictions, and he closes by dedicating the merit of his praise so that all beings may reach Sukhāvatī, the Land of Bliss. It is Toh 1159 in the Tengyur, in the section of praises, or stotras, and it was translated into Tibetan by the Indian preceptor Śraddhākaravarman and the chief editor-translator Rinchen Zangpo.",
+  "pdf": "files/toh1159.pdf",
+  "txt": "files/toh1159.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-11"
  },
  {
   "corpus": "tengyur",
