@@ -579,7 +579,7 @@
   "toh": 32,
   "suffix": "",
   "state": "translated",
-  "title": "The Story of the Birth Tales",
+  "title": "The Introduction to the Birth Stories",
   "sanskrit": "Jātakanidāna",
   "category": "Discourses (Sūtra)",
   "tags": [
@@ -587,11 +587,11 @@
    "Biography",
    "Prose"
   ],
-  "explainer": "This text is the *Jātakanidāna*, known in Tibetan as *Skyes pa rabs kyi gleng gzhi*, or \"The Introduction to the Birth Stories\" — a foundational narrative frame that precedes and introduces the collected jātaka tales of the Buddha's former lives. Composed in a rich literary style, it opens with a series of similes illustrating the causes of suffering and the nature of the path to liberation, comparing the plight of unawakened beings to a man fallen into filth who fails to reach a lotus-filled lake, or one surrounded by bandits who does not flee to safety. As such, it serves both as a doctrinal preamble on karma, affliction, and the possibility of liberation, and as a narrative setting for the birth-story genre that follows. This work is catalogued as Toh 32 in the Kangyur, situated among the sūtra and narrative literature dedicated to the life and past lives of the Buddha.",
+  "explainer": "The Introduction to the Birth Stories, known in Sanskrit as the Jātakanidāna and in Tibetan as Kyepa Rab kyi Lengzhi, is a narrative work that sets the stage for the Buddha's tales of his former lives. It opens in the Jeta Grove at Anāthapiṇḍada's park, where the elder Arthadarśin asks the Blessed One to teach the lineage of the buddhas. The compilers then introduce the background of the birth stories in successive stages, beginning with the distant introduction, which traces the long path of a bodhisattva across many ages. The text is Toh 32 in the Kangyur, and it belongs to the broad class of jātaka and narrative literature on the Buddha's past lives and the origins of his awakening.",
   "pdf": "files/toh32.pdf",
   "txt": "files/toh32.txt",
   "link84000": "",
-  "date": "2026-09-28"
+  "date": "2026-10-12"
  },
  {
   "corpus": "kangyur",
@@ -773,15 +773,19 @@
   "toh": 43,
   "suffix": "",
   "state": "translated",
-  "title": "Toh 43 is a sutra of the Kangyur belonging to the early scriptural narrative cla",
-  "sanskrit": "",
-  "category": "Other",
-  "tags": [],
-  "explainer": "Toh 43 is a sutra of the Kangyur belonging to the early scriptural narrative class, here concluding with the account of the sun and moon deities and the demon Rahu—known in Tibetan as the \"Sutra of the Moon\" (Zla ba'i mdo), corresponding to a Sanskrit title such as Candra Sūtra. The passage preserved here depicts Rahu, the seizer who grasps the heavenly bodies, declaring that upon hearing the Buddha's verses he dare not withhold the moon, for fear that his head would split into seven pieces and he would find no ease in his existence. This brief but vivid episode illustrates the Buddha's power to command even cosmic and demonic forces through the simple utterance of verses of truth, a theme recurring in several short sutras of this type preserved in the Kangyur. As Toh 43, it stands among the discourses attributed directly to the Buddha, valued both for its doctrinal content on the protective power of the Dharma and for its place within the broader cycle of texts concerning celestial bodies and their guardian deities.",
+  "title": "The Sūtra of Great Auspiciousness",
+  "sanskrit": "Mahāmaṅgalasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Ethics",
+   "Narrative",
+   "Verse"
+  ],
+  "explainer": "The Sūtra of Great Auspiciousness, known in Sanskrit as the Mahāmaṅgala Sūtra and in Tibetan as the Bkra shis chen po'i mdo, is a short discourse in which the Buddha explains what truly constitutes auspiciousness. Its setting is the Jeta Grove at Śrāvastī, in the park of Anāthapiṇḍada. There, in the night, a host of gods illuminates the grove with many-colored light, approaches the Buddha, and asks him in verse to resolve their doubts and describe the supreme auspiciousness. The Buddha answers in verse, presenting genuine good fortune as a matter of ethical conduct, wise associations, and spiritual practice rather than omens or rituals. This text is Toh 43 in the Kangyur, where it is classed among the sūtras, the discourses attributed to the Buddha.",
   "pdf": "files/toh43.pdf",
   "txt": "files/toh43.txt",
   "link84000": "",
-  "date": "2026-10-03"
+  "date": "2026-10-12"
  },
  {
   "corpus": "kangyur",
@@ -15207,6 +15211,63 @@
   "txt": "files/toh882.txt",
   "link84000": "",
   "date": "2026-10-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 883,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra, the Dhāraṇī Called \"The Casket of Secret Relics, the Essence of the Blessing of All Tathāgatas\"",
+  "sanskrit": "Āryasarvatathāgatādhiṣṭhānahṛdayaguhyadhātukaraṇḍanāmadhāraṇīmahāyānasūtra",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Narrative"
+  ],
+  "explainer": "The Noble Great Vehicle Sūtra, the Dhāraṇī Called \"The Casket of Secret Relics, the Essence of the Blessing of All Tathāgatas,\" known in Sanskrit as the Ārya Sarvatathāgatādhiṣṭhānahṛdayaguhyadhātukaraṇḍa Nāma Dhāraṇī Mahāyāna Sūtra and in Tibetan as Phags pa de bzhin gshegs pa thams cad kyi byin gyis brlabs kyi snying po gsang ba ring bsrel gyi za ma tog ces bya ba'i gzungs theg pa chen po'i mdo, is a Mahāyāna dhāraṇī scripture. It opens in the land of Magadha, where the Buddha dwells in the Stainless Park beside a pool made of the seven precious substances. He is surrounded by bodhisattvas, śrāvakas, and countless gods, nāgas, and other beings, as well as the people of that land, and a great brahmin in the assembly sets the teaching in motion. The text centers on the sacred power of relics and the blessing of all the tathāgatas, and it presents a dhāraṇī long associated with consecrating stūpas and the merit of honoring them. It is Toh 883 in the Kangyur, where it belongs among the dhāraṇī texts.",
+  "pdf": "files/toh883.pdf",
+  "txt": "files/toh883.txt",
+  "link84000": "",
+  "date": "2026-10-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 884,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called \"The Stūpa Accomplished as Bringing Everything to Perfection through Knowledge\"",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Dhāraṇī Called \"The Stūpa Accomplished as Bringing Everything to Perfection through Knowledge,\" known in Tibetan as Shepé Tamché Tartar Chinpar Druppé Chörten Zhejawé Zung, is a short scriptural incantation whose opening gives only a Tibetan title, with no Sanskrit title preserved. It begins with homages to the Three Jewels, to the Blessed One Vajradhara, to the buddhas of the three times, to Akṣobhya, Amitābha, and Avalokiteśvara, and to the three buddha families. It then presents a teaching set on a great Mount Meru made of five substances, whose very base is described as having the nature of a stūpa and on which stands a jeweled mansion. The text centers on the stūpa as a sacred embodiment of awakened knowledge and on a dhāraṇī connected with it. It is Toh 884 in the Kangyur, where it belongs to the class of dhāraṇī texts, the collected spells and incantations of the canon.",
+  "pdf": "files/toh884.pdf",
+  "txt": "files/toh884.txt",
+  "link84000": "",
+  "date": "2026-10-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 885,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called the King of Detailed Rites, the Secret of the Supreme Secret, the Well-Established Palace of the Vast Great Jewel",
+  "sanskrit": "Āryamahāmaṇivipulavimānasupratiṣṭhitaguhyaparamarahasyakalparājanāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Dhāraṇī Called the King of Detailed Rites, the Secret of the Supreme Secret, the Well-Established Palace of the Vast Great Jewel, known in Sanskrit as the Ārya Mahāmaṇi Vipula Vimāna Supratiṣṭhita Guhya Parama Rahasya Kalparāja Nāma Dhāraṇī, is a lengthy dhāraṇī scripture, with its Tibetan title rendering these same epithets. It opens at Rājagṛha, where the Blessed One, having defeated ten million māras and subdued the Mīmāṃsakas, wandering ascetics, naked ascetics, and other non-Buddhist teachers, has crossed to the far shore of saṃsāra. The vast armies of Māra then fill Jambudvīpa, setting the stage for the Buddha's teaching of protective incantations and the detailed ritual procedures that accompany them. Organized in more than one volume, the work belongs to the class of dhāraṇī and ritual texts that combine narrative framing with practical rites. It is Toh 885 in the Kangyur, where it is found among the collected dhāraṇīs.",
+  "pdf": "files/toh885.pdf",
+  "txt": "files/toh885.txt",
+  "link84000": "",
+  "date": "2026-10-12"
  },
  {
   "corpus": "kangyur",
