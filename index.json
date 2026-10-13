@@ -869,16 +869,20 @@
   "corpus": "kangyur",
   "toh": 49,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The array of amitabha",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Mahāyāna Sūtra \"The Display of Amitābha\"",
+  "sanskrit": "Āryāmitābhavyūhanāmamahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Narrative",
+   "Cosmology"
+  ],
+  "explainer": "The Noble Great Vehicle Sūtra called The Display of Amitābha, known in Sanskrit as the Ārya Amitābhavyūha Nāma Mahāyāna Sūtra and in Tibetan as Pakpa Ö Pakmé Kyi Köpa, is a Mahāyāna sūtra devoted to the buddha Amitābha and the splendor of his realm. It opens with the Buddha at Vulture Peak Mountain near Rājagṛha, surrounded by a great assembly of thirty-two thousand monks who are all arhats. It then describes Amitābha's buddhafield, the pure land of Sukhāvatī, and the aspirations through which it came to be, and it is closely related to the larger Sukhāvatīvyūha tradition so influential in East Asian Pure Land Buddhism. It is Toh 49 in the Kangyur, where it appears as the fifth chapter of the Heap of Jewels, or Ratnakūṭa, the great collection of Mahāyāna sūtras.",
+  "pdf": "files/toh49.pdf",
+  "txt": "files/toh49.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-13"
  },
  {
   "corpus": "kangyur",
@@ -15268,6 +15272,63 @@
   "txt": "files/toh885.txt",
   "link84000": "",
   "date": "2026-10-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 886,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called \"Heap of Flowers\"",
+  "sanskrit": "Āryapuṣpakūṭanāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Prose",
+   "Ritual"
+  ],
+  "explainer": "The Noble Dhāraṇī Called \"Heap of Flowers,\" known in Sanskrit as the Āryapuṣpakūṭanāmadhāraṇī and in Tibetan as Pakpa Metok Tsekpa Zhejawé Zung, is a dhāraṇī text, a scripture centered on a sacred incantation believed to carry protective and spiritually transformative power. It opens with the Buddha dwelling at the great lake Anavatapta, in the palace of the nāga king of the same name. He is accompanied by five hundred monks and a thousand highly realized bodhisattvas gathered from other world systems, all of them masters of dhāraṇīs and meditative absorption who stand only one birth away from awakening. Within this setting the text presents its dhāraṇī and the benefits of upholding it. It is Toh 886 in the Kangyur, where it belongs to the class of dhāraṇī scriptures gathered in the canon's collections of incantations.",
+  "pdf": "files/toh886.pdf",
+  "txt": "files/toh886.txt",
+  "link84000": "",
+  "date": "2026-10-13"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 887,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called Great Mahīndra",
+  "sanskrit": "Āryamahāmahīndranāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Dhāraṇī Called Great Mahīndra, known in Sanskrit as the Ārya Mahāmahīndra Nāma Dhāraṇī and in Tibetan as Phakpa Sai Wangpo Chenpo Zhe Jawai Zung, is a short scripture centered on a dhāraṇī, a sacred formula of protective and spiritual power. It opens in the classic sūtra style, recounting that the buddha Samantaprabha was staying in the dwelling of the brahmin Mahāmahīndra, a place attended by gods, and that the brahmin approached him, bowed at his feet, and sat to one side to address him. From this setting the text leads into the teaching and recitation of the dhāraṇī associated with the brahmin's name. The work is Toh 887 in the Kangyur, where it belongs among the dhāraṇī texts gathered in the canon's collections of incantations and protective formulas.",
+  "pdf": "files/toh887.pdf",
+  "txt": "files/toh887.txt",
+  "link84000": "",
+  "date": "2026-10-13"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 888,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Dhāraṇī",
+  "sanskrit": "Āryamahādhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Prose",
+   "Narrative"
+  ],
+  "explainer": "The Noble Great Dhāraṇī, known in Sanskrit as the Āryamahādhāraṇī and in Tibetan as Phagpa Zung Chenpo, is a short scripture centered on a protective incantation taught by the Buddha. It opens at Śrāvastī, in Prince Jeta's Grove, where the Blessed One is staying with a great assembly of twelve hundred and fifty monks. The venerable Ānanda, having completed the summer rains retreat in the city of Sāketa and finished making his robes, comes to pay his respects. The Buddha then addresses him, introducing a great dhāraṇī to be taught for the benefit, welfare, and happiness of beings. The work is Toh 888 in the Kangyur, where it belongs to the class of dhāraṇī texts, scriptures that preserve and transmit sacred formulas believed to protect and bring blessings to those who recite and uphold them.",
+  "pdf": "files/toh888.pdf",
+  "txt": "files/toh888.txt",
+  "link84000": "",
+  "date": "2026-10-13"
  },
  {
   "corpus": "kangyur",
