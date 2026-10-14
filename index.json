@@ -15332,6 +15332,44 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 889,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Incantation for Remembering Past Births",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Heart of Sukhāvatī, known in Tibetan as Dewachen gyi Nyingpo and likely corresponding to a Sanskrit title such as Sukhāvatīhṛdaya, is a brief incantation text, or dhāraṇī, centered on the noble bodhisattva Avalokiteśvara. It opens with homage to the Buddha, the Dharma, the Saṅgha, and Avalokiteśvara, then presents a short mantra that the reciter asks to be accomplished on their behalf. It promises two benefits to anyone who recites it: they will remember their births for a hundred thousand lifetimes, and after death they will be reborn in Sukhāvatī, the pure land of bliss. The work is Toh 889 in the Kangyur, where it belongs among the dhāraṇī texts, the short spells and incantations preserved alongside the tantric scriptures.",
+  "pdf": "files/toh889.pdf",
+  "txt": "files/toh889.txt",
+  "link84000": "",
+  "date": "2026-10-14"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 890,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called \"The Vow of Maitreya\"",
+  "sanskrit": "Āryamaitripratijñānāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Noble Dhāraṇī Called \"The Vow of Maitreya,\" known in Sanskrit as Ārya Maitrī Pratijñā Nāma Dhāraṇī and in Tibetan as Phakpa Jampé Dam Chepa Zhejawé Zung, is a short incantatory text devoted to Maitreya, the bodhisattva who is destined to become the next buddha of our world. After paying homage to the Three Jewels and to Maitreya, it presents a sequence of three mantras, a root secret mantra, a heart mantra, and a near-heart mantra, which invoke the Buddha Śākyamuni and call upon Maitreya under epithets such as the Invincible One. The text then gives Maitreya's own vow: when he attains full awakening, he will benefit anyone who has merely heard, read, recited, kept in mind, or meditated on this dhāraṇī. It is Toh 890 in the Kangyur, where it belongs to the class of dhāraṇī texts, the collection of protective and devotional spells gathered within the Buddhist canon.",
+  "pdf": "files/toh890.pdf",
+  "txt": "files/toh890.txt",
+  "link84000": "",
+  "date": "2026-10-14"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 891,
   "suffix": "",
   "state": "at84000",
@@ -15344,6 +15382,25 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh891",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 892,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called \"Spoken by Mañjuśrī\"",
+  "sanskrit": "Āryamañjuśrīsvākhyātonāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Dhāraṇī Called \"Spoken by Noble Mañjuśrī,\" known in Sanskrit as the Ārya Mañjuśrī Svākhyāta Nāma Dhāraṇī and in Tibetan as Phakpa Jampal gyi Zhal ne Sungpa zhe Jawé Zung, is a short incantation text devoted to the bodhisattva of wisdom. After paying homage to the Three Jewels and to Mañjuśrī, it presents a mantra that invokes the light of wisdom, asks for the protection of the vajra-like mind of awakening, and calls for the cutting off of the afflictions that bind all beings, with gods, nāgas, and other spirits invoked as well. The text closes by describing the benefits of recitation, saying that even reciting it a single time purifies karmic obscurations accumulated over a vast span of time. It is Toh 892 in the Kangyur, where it belongs to the class of dhāraṇī texts, the collected incantations valued for protection, purification, and spiritual blessing.",
+  "pdf": "files/toh892.pdf",
+  "txt": "files/toh892.txt",
+  "link84000": "",
+  "date": "2026-10-14"
  },
  {
   "corpus": "kangyur",
