@@ -888,16 +888,20 @@
   "corpus": "kangyur",
   "toh": 50,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The array of the tathagata aksobhya",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra called The Array of the Tathāgata Akṣobhya",
+  "sanskrit": "Āryākṣobhyatathāgatasyavyūhanāmamahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Narrative",
+   "Cosmology"
+  ],
+  "explainer": "The Array of the Tathāgata Akṣobhya, known in Sanskrit as the Akṣobhyatathāgatasya Vyūha and in Tibetan as De bzhin gshegs pa mi 'khrugs pa'i bkod pa, is a Great Vehicle sūtra presented as the sixth chapter of the Heap of Jewels collection. It opens with the Buddha staying on Vulture Peak Mountain near Rājagṛha, accompanied by a great assembly of twelve hundred and fifty monks, all of them arhats. The discourse concerns the buddha Akṣobhya, whose name means the Immovable One. It recounts the vows he made as a bodhisattva and describes the splendid buddha realm, traditionally called Abhirati, that arose from those aspirations. This text is Toh 50 in the Kangyur, where it belongs to the Heap of Jewels section, a large anthology of Mahāyāna sūtras.",
+  "pdf": "files/toh50.pdf",
+  "txt": "files/toh50.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-15"
  },
  {
   "corpus": "kangyur",
@@ -15401,6 +15405,63 @@
   "txt": "files/toh892.txt",
   "link84000": "",
   "date": "2026-10-14"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 893,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Spell Taught by Mañjuśrī",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "Toh 893 in the Kangyur is a short spell text centered on the bodhisattva Mañjuśrī. Its full English, Sanskrit, and Tibetan titles cannot be confirmed from the opening lines alone. After homage to the Three Jewels and to the Gentle Protector, Mañjuśrī in his youthful form rises before the Blessed One and the assembled gathering and offers to reveal a supreme spell, or vidyā, which he says will be a wonder when spoken. The assembly applauds him, and with the Buddha's approval he pays homage to all phenomena and to the essence of all the buddhas before proclaiming the spell. As a work devoted to presenting a sacred incantation for recitation, it belongs to the dhāraṇī class of texts, which the Kangyur gathers in its collection of dhāraṇīs.",
+  "pdf": "files/toh893.pdf",
+  "txt": "files/toh893.txt",
+  "link84000": "",
+  "date": "2026-10-15"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 894,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Names of Noble Mañjuśrī",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Names of Noble Mañjuśrī is a very brief dhāraṇī-style text devoted to the bodhisattva of wisdom, Mañjuśrī. Its Tibetan title is likely along the lines of Phakpa Jampal gyi Tsen, and a Sanskrit form is not clearly attested in the source lines. After an opening homage to noble Mañjuśrī, it gives a short series of mantric names, each introduced by the syllables oṃ bākye. It then declares that reciting these names twenty-one times purifies all the karmic obscurations of the five acts of immediate retribution, the gravest misdeeds in Buddhist ethics. The text is Toh 894 in the Kangyur, where it belongs among the collected dhāraṇīs and short recitation texts.",
+  "pdf": "files/toh894.pdf",
+  "txt": "files/toh894.txt",
+  "link84000": "",
+  "date": "2026-10-15"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 895,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of the Venerable Noble Mañjuśrī Called \"Increasing Wisdom and Intelligence\"",
+  "sanskrit": "Āryamañjuśrībhaṭṭārakasyaprajñābuddhivardhananāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Dhāraṇī of the Venerable Noble Mañjuśrī Called \"Increasing Wisdom and Intelligence,\" known in Sanskrit as Ārya Mañjuśrī Bhaṭṭārakasya Prajñā Buddhi Vardhana Nāma Dhāraṇī and in Tibetan as Rje btsun 'phags pa 'jam dpal gyi shes rab dang blo 'phel ba zhes bya ba'i gzungs, is a brief incantation devoted to the bodhisattva Mañjuśrī, the embodiment of wisdom. After an homage to the Three Jewels and to Mañjuśrī in his youthful form, it presents a short mantra of purification and victory, then describes the benefits of holding and reciting it. These include gaining intelligence within a month, a melodious voice, a beautiful form, the memory of past lives, great learning, and turning away from cyclic existence for countless eons. It is Toh 895 in the Kangyur, where it belongs to the class of dhāraṇī texts, short works centered on sacred formulas whose recitation is believed to bring spiritual and worldly blessings.",
+  "pdf": "files/toh895.pdf",
+  "txt": "files/toh895.txt",
+  "link84000": "",
+  "date": "2026-10-15"
  },
  {
   "corpus": "kangyur",
