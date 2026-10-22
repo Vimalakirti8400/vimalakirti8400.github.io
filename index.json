@@ -1655,6 +1655,25 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 98,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra \"The Blessing of All the Tathāgatas, Watching over Sentient Beings and Fully Displaying the Arrangement of the Buddhafields\"",
+  "sanskrit": "Āryasarvatathāgatādhiṣṭhānasattvāvalokanabuddhakṣetranirdeśanavyūhanāmamahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Doctrinal",
+   "Cosmology"
+  ],
+  "explainer": "The Blessing of All the Tathāgatas, Watching over Sentient Beings and Fully Displaying the Arrangement of the Buddhafields is a Great Vehicle sūtra whose Sanskrit title is given as Ārya Sarvatathāgatādhiṣṭhānasattvāvalokanabuddhakṣetranirdeśanavyūha, and whose Tibetan title begins Phakpa Dezhin Shekpa Tamché kyi Jingyi Lap Semchen la Zik shing Sangyé kyi Zhing gi. The discourse opens on Mount Potalaka, the jewel-adorned abode of the noble bodhisattva Avalokiteśvara, where the Buddha is dwelling with a great assembly of about five hundred monks, all of them arhats free of defilements. As its title suggests, the sūtra concerns the blessing power of all the buddhas, their compassionate watch over living beings, and a revelation of the splendid arrangements of the buddhafields. It is Toh 98 in the Kangyur, where it belongs to the general sūtra section of Mahāyāna discourses.",
+  "pdf": "files/toh98.pdf",
+  "txt": "files/toh98.txt",
+  "link84000": "",
+  "date": "2026-10-22"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 99,
   "suffix": "",
   "state": "at84000",
@@ -15668,16 +15687,20 @@
   "corpus": "kangyur",
   "toh": 1067,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra of the eight iluminations",
+  "state": "translated",
+  "title": "The Sūtra of the Eight Lights, the Clear and Vast Dharma of the Buddha",
   "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Ritual",
+   "Mantra",
+   "Prose"
+  ],
+  "explainer": "The Sūtra of the Eight Lights, whose full title is The Sūtra Called the Eight Lights, the Clear and Vast Dharma of the Buddha, and whose Tibetan title is Sangyé kyi Chö Selzhing Yangpa Nanggyé, is Toh 1067 in the Kangyur, where it is placed in the collection of dhāraṇī texts; it gives no Sanskrit title, since it derives from a scripture composed in Chinese, the Sūtra of the Eight Yang of Heaven and Earth. In it the bodhisattva Unimpeded asks the Buddha why the beings of this world suffer so much, and the Buddha teaches that reading the Eight Lights three times brings protection and good fortune at birth, marriage, the building of a house, travel, and funerals, wards off illness, evil omens, and harmful spirits, and frees parents and the dead from the lower realms. Addressing popular concerns with auspicious days, geomancy, and astrological spirits, it declares that all days are auspicious, and it includes a short mantra offered by eight bodhisattvas. Toward its end it explains its own title through the eight consciousnesses, teaching that the senses and their objects are empty, that light means clear knowing, and that eight means discerning distinctions.",
+  "pdf": "files/toh1067.pdf",
+  "txt": "files/toh1067.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-22"
  },
  {
   "corpus": "kangyur",
@@ -15698,31 +15721,39 @@
   "corpus": "kangyur",
   "toh": 1096,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The prayer of maitreya",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Aspiration Prayer of Maitreya",
+  "sanskrit": "Āryamaitreyapraṇidhāna",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Devotional",
+   "Doctrinal"
+  ],
+  "explainer": "The Noble Aspiration Prayer of Maitreya, in Tibetan Phakpa Jampé Mönlam, is Toh 1096 in the Kangyur, where it is placed in the dhāraṇī collection among the canon's aspiration prayers; the Tibetan text gives no Sanskrit title. It is a short prayer in verse that follows the classic sequence of Mahāyāna devotion: homage to the buddhas, bodhisattvas, and śrāvakas and to the mind of awakening, confession of wrongdoing, dedication of merit as the seed of omniscience, rejoicing in the merit of others, and urging the bodhisattvas to attain awakening, turn the wheel of Dharma, and remain teaching for countless eons. It then voices aspirations to realize that phenomena are unborn, empty, and without self, and to complete each of the six perfections in turn, from generosity, moral discipline, patience, diligence, and meditative concentration through to wisdom. It closes by presenting this as the very conduct through which the renowned Maitreya perfected the six perfections and came to abide on the ten bodhisattva grounds.",
+  "pdf": "files/toh1096.pdf",
+  "txt": "files/toh1096.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-22"
  },
  {
   "corpus": "kangyur",
   "toh": 1107,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Verses expressing auspiciousness",
+  "state": "translated",
+  "title": "Verses of Benediction",
   "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Verse",
+   "Ritual",
+   "Cosmology"
+  ],
+  "explainer": "The Verses of Benediction, in Tibetan Shipar Jöpé Tsiksu Chépa, is a short collection of auspicious verses that, as its closing lines state, is drawn from the chapter on the merchants Trapuṣa and Bhallika in the noble Lalitavistara Sūtra, the account of the Buddha's life known in English as The Play in Full. In that chapter the two merchants offer food to the newly awakened Buddha, and these verses form the blessing for their journey: they invoke the lunar mansions, the Four Great Kings and their sons, and the young goddesses, shrines, and mountains of each of the four directions, asking that the travelers be kept free from illness, gain wealth, and return home safely. No Sanskrit title is given at its head. It is preserved as Toh 1107 in the Kangyur, where it belongs to the Dhāraṇī collection of protective and benedictory texts.",
+  "pdf": "files/toh1107.pdf",
+  "txt": "files/toh1107.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-22"
  },
  {
   "corpus": "kangyur",

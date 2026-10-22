@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://vimalakirti8400.github.io/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/2/</loc><lastmod>2026-06-06</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/3/</loc><lastmod>2026-08-08</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/4/</loc><lastmod>2026-06-08</lastmod></url>
@@ -50,6 +50,7 @@
   <url><loc>https://vimalakirti8400.github.io/toh/90/</loc><lastmod>2026-06-16</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/91/</loc><lastmod>2026-06-16</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/92/</loc><lastmod>2026-06-16</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/toh/98/</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/102/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/110/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/114/</loc><lastmod>2026-06-17</lastmod></url>
@@ -564,6 +565,9 @@
   <url><loc>https://vimalakirti8400.github.io/toh/899/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/900/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/901/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/toh/1067/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/toh/1096/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/toh/1107/</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/1109/</loc><lastmod>2026-06-05</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/1110/</loc><lastmod>2026-06-05</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/1111/</loc><lastmod>2026-06-05</lastmod></url>
@@ -594,17 +598,17 @@
   <url><loc>https://vimalakirti8400.github.io/toh/1180/</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/3207/</loc><lastmod>2026-09-18</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/toh/3240/</loc><lastmod>2026-09-18</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/kangyur/</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/kangyur/dul-ba/</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/kangyur/sher-phyin/</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/kangyur/phal-chen/</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/kangyur/dkon-brtsegs/</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/kangyur/mdo-sde/</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/kangyur/rgyud-bum/</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/kangyur/rnying-rgyud/</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/kangyur/gzungs-dus/</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/kangyur/dri-med-od/</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/kangyur/other/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/kangyur/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/kangyur/dul-ba/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/kangyur/sher-phyin/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/kangyur/phal-chen/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/kangyur/dkon-brtsegs/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/kangyur/mdo-sde/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/kangyur/rgyud-bum/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/kangyur/rnying-rgyud/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/kangyur/gzungs-dus/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/kangyur/dri-med-od/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/kangyur/other/</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/tengyur/</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/tengyur/bstod-tshogs/</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/tengyur/rgyud-grel/</loc><lastmod>2026-10-21</lastmod></url>
@@ -628,9 +632,9 @@
   <url><loc>https://vimalakirti8400.github.io/tengyur/sna-tshogs/</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/tengyur/other/</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/category/commentary-treatise-sastra/</loc><lastmod>2026-06-07</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/category/dharani/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/category/discourses-sutra/</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://vimalakirti8400.github.io/category/hymns-of-praise-stotra/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/category/dharani/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/category/discourses-sutra/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://vimalakirti8400.github.io/category/hymns-of-praise-stotra/</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/category/other/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/category/perfection-of-wisdom-prajnaparamita/</loc><lastmod>2026-10-10</lastmod></url>
   <url><loc>https://vimalakirti8400.github.io/category/tantra/</loc><lastmod>2026-10-11</lastmod></url>
