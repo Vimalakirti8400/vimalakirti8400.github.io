@@ -1770,16 +1770,20 @@
   "corpus": "kangyur",
   "toh": 105,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The dharma discourse on the eight mandalas",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Dharma Discourse Called \"The Eight Maṇḍalas,\" a Great Vehicle Sūtra",
+  "sanskrit": "Āryamaṇḍalāṣṭanāmamahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "The Noble Dharma Discourse Called \"The Eight Maṇḍalas,\" a Great Vehicle Sūtra, is known in Sanskrit as the Ārya Maṇḍala Aṣṭa Nāma Mahāyāna Sūtra and in Tibetan as Phakpa Kyilkhor Gyé Chejawé Chökyi Namdrang Thekpa Chenpoi Do. It is a Mahāyāna sūtra set at Śrāvastī, in the Jeta Grove of Anāthapiṇḍada's park, where the Buddha is teaching before a vast assembly of monks, bodhisattvas, gods, and other beings. The discourse begins when the bodhisattva Siṃharājavyūha, struck with wonder at the great maṇḍala of the gathered assembly, rises respectfully to address the Blessed One, and the teaching that follows unfolds around the theme of eight maṇḍalas named in its title. The work is Toh 105 in the Kangyur, where it belongs to the general collection of Great Vehicle sūtras.",
+  "pdf": "files/toh105.pdf",
+  "txt": "files/toh105.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-23"
  },
  {
   "corpus": "kangyur",
@@ -17246,16 +17250,20 @@
   "corpus": "tengyur",
   "toh": 1200,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Sriguhyarthaprakasamahadbhuta",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Glorious Great Marvel Illuminating the Profound Meaning",
+  "sanskrit": "Śrīguhyārthaprakāśamahādbhuta",
+  "category": "Tantra",
+  "tags": [
+   "Commentary",
+   "Meditation",
+   "Prose"
+  ],
+  "explainer": "The Glorious Great Marvel Illuminating the Profound Meaning, in Sanskrit Śrī Guhyārthaprakāśa Mahādbhuta and in Tibetan Pal Zabmö Dön Salwa Mé Du Jungwa Chenpo, is a commentary on the Mahāmudrātilaka, a tantra of the unsurpassed yoga class. Opening with homage to Vajrasattva and to the protector whose very self is the Great Seal, it sets out, chapter by chapter, the meaning of that tantra as the author received it from his guru, drawing on the oral instructions of Indian masters such as Indrabhūti, Ḍombipa, Kṛṣṇapa, and Śabari to explain the subtle channels and wheels of the body, the sixteen joys, the union of wisdom and skillful means, and Mahāmudrā as the intrinsic joy free of conceptual elaboration. Its colophon attributes it to Gambhīravajra, a master from Oḍḍiyāna said to have attained the accomplishment of Mahāmudrā, and records its translation into Tibetan by the Indian paṇḍita Prajñāguhya and the translator Yungdrung Nyingpo. It is Toh 1200 in the Tengyur, where it belongs to the class of tantra commentaries.",
+  "pdf": "files/toh1200.pdf",
+  "txt": "files/toh1200.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-23"
  },
  {
   "corpus": "tengyur",
@@ -17321,31 +17329,39 @@
   "corpus": "tengyur",
   "toh": 1205,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Sritattvapradipanamatantraratnamalapanjika",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Jewel Garland: A Commentary on the Difficult Points of the Tantra of the Glorious Lamp of Reality",
+  "sanskrit": "Śrī Tattvapradīpaṃ Nāma Tantra Ratnamālā Pañcikā",
+  "category": "Tantra",
+  "tags": [
+   "Commentary",
+   "Meditation",
+   "Doctrinal"
+  ],
+  "explainer": "The Jewel Garland, in full A Commentary on the Difficult Points of the Tantra of the Glorious Lamp of Reality, carries the Sanskrit title Śrī Tattvapradīpaṃ Nāma Tantra Ratnamālā Pañcikā and the Tibetan title Pal De Khona Nyi kyi Drönmé Gyü kyi Kadrel Rinchen Trengwa. It is a commentary on the difficult points of a tantra, the Glorious Lamp of Reality: after paying homage to Glorious Great Bliss, its author promises to make this supreme tantra clear according to its true meaning, distinguishing in due order the provisional and the definitive meanings that Vajradhara taught. Following the root tantra's dialogue between the Goddess and the Blessed One, it explains the inner yoga of the completion stage, including the joys, the sequence of appearances from which existence and nirvāṇa unfold, and the nondual wisdom of great bliss and the Great Seal, and it closes by warning against explaining the tantra to those without empowerment. Its colophon names the author as the great Indian master Mahāsukhatavajra and the translator as the monk Jangchub Jungné. It is Toh 1205 in the Tengyur, where it belongs to the section of commentaries on the tantras.",
+  "pdf": "files/toh1205.pdf",
+  "txt": "files/toh1205.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-23"
  },
  {
   "corpus": "tengyur",
   "toh": 1206,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Samdhibhasatika",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Commentary on the Intentional Language",
+  "sanskrit": "Samādhibhāṣaṭīka",
+  "category": "Tantra",
+  "tags": [
+   "Commentary",
+   "Meditation",
+   "Prose"
+  ],
+  "explainer": "The Commentary on the Intentional Language, whose Sanskrit title is transcribed in the Tibetan as Samādhibhāṣaṭīka and whose Tibetan title is Gongpé Ké kyi Drelpa, is Toh 1206 in the Tengyur, where it belongs among the commentaries on the tantras. It explains the intentional or coded language of the tantras, the secret vocabulary in which words such as liquor and strength, along with obscure terms like malayaja and kheṭa, stand for hidden meanings, drawing on the code words that the Hevajra Tantra lists and decodes. After paying homage to Vajrasattva and to the vajra ḍākinīs who cut the bonds of conceptual thought, it sets out seven alternative readings of this code, interpreting the same terms in turn through the inner yoga of the winds, through the meanings of individual syllables, through the stages of deity meditation, and through ethical and contemplative counsel, with the seventh being the tantra's own explanation. Its colophon attributes the work to the master Nāgārjuna and records that it was translated into Tibetan by the Indian preceptor Mañjughoṣa and the Tibetan monk Dro Sherab Drak at the hermitage of Yerpa.",
+  "pdf": "files/toh1206.pdf",
+  "txt": "files/toh1206.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-23"
  },
  {
   "corpus": "tengyur",
