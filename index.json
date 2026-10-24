@@ -16826,46 +16826,55 @@
   "corpus": "tengyur",
   "toh": 1172,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Paramagurudharmarajastotra",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "In Praise of the Holy Guru, the Dharma King",
+  "sanskrit": "Paramanagurudharmārājastotranāma",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Devotional"
+  ],
+  "explainer": "In Praise of the Holy Guru, the Dharma King, whose Sanskrit title is given as Paramanagurudharmārājastotra and whose Tibetan title is Lama Dampa Chökyi Gyalpo la Töpa, is a short hymn of four ornate verses composed by the Indian paṇḍita and great poet Lakṣmīkara, who translated it into Tibetan together with the translator Shongtön at the temple of glorious Sakya. The master it celebrates is not named, but the praise of him as the one who calmed the ocean-like hosts of the Mongols with a mere glance, together with the Sakya setting, points to the Sakya hierarch Chögyal Phakpa, who served as preceptor at the Mongol court in the thirteenth century. The poem hails him as a sun of the Dharma that rose on the mountains of Tibet and spread its light to the lands of the east, as one who makes the bull of the Dharma walk the earth as in the golden age even in a degenerate time, and as one whose unfeigned compassion reaches all beings just as the earth, the sun, the clouds, the wind, the moon and space serve the world. Three of its four verses close with the refrain \"may that Dharma King be victorious.\" It is Toh 1172 in the Tengyur, where it belongs to the section of praises (stotra), and it is notable as a hymn by an Indian scholar addressed to a Tibetan master.",
+  "pdf": "files/toh1172.pdf",
+  "txt": "files/toh1172.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-24"
  },
  {
   "corpus": "tengyur",
   "toh": 1173,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Simhanadalokesvarabhattarakastuti",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "In Praise of the Venerable Lokeśvara Siṃhanāda",
+  "sanskrit": "Siṃhanādalokeśvarabhaṭṭārakastuti",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Devotional"
+  ],
+  "explainer": "In Praise of the Venerable Lokeśvara Siṃhanāda, known in Sanskrit as the Siṃhanādalokeśvarabhaṭṭārakastuti and in Tibetan as Jetsün Jikten Wangchuk Sengé Dra la Töpa, is a hymn in ornate verse to Siṃhanāda, the \"Lion's Roar,\" a form of Avalokiteśvara, the bodhisattva of compassion, who is especially invoked as a healer of disease. Its verses praise his love for beings, his lion mount, his trident and sword, his crystal rosary and his blazing matted locks, and they ask him to protect the listener, to crush the sicknesses and afflictions of beings, and to fulfill their aims, before closing with a dedication of merit so that all beings may enter the assembly of the Victors and themselves become guides. The colophon names the author as a glorious lord of poets called the Twice-born Guardian, and records that the hymn was translated by the monk Dharmapālabhadra, the translator of Zhalu, at the command of the holy guru Gyalwa Chennga Rinpoché. It is Toh 1173 in the Tengyur, where it belongs to the section of praises (stotra).",
+  "pdf": "files/toh1173.pdf",
+  "txt": "files/toh1173.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-24"
  },
  {
   "corpus": "tengyur",
   "toh": 1174,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Lokesvararatnamalastava",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Jewel Garland Praise of Lokeśvara",
+  "sanskrit": "Lokeśvararatnamālāstava",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Devotional"
+  ],
+  "explainer": "The Jewel Garland Praise of Lokeśvara, in Sanskrit Lokeśvararatnamālāstava and in Tibetan Jikten Wangchuk gi Töpa Rinpoché Trengwa, is a hymn in verse to Lokeśvara, the bodhisattva of compassion better known as Avalokiteśvara. It praises him as one who, though single, appears in many forms to those he trains, like the moon reflected in many vessels of water. In the manner of the Kāraṇḍavyūha sūtra, it tells how the gods revered by other traditions, among them Maheśvara, Brahmā, the sun and moon, Sarasvatī, Vāyu and Varuṇa, were brought forth from his body to tame their followers. Further stanzas extol his cosmic power, his beauty and his resolve to remain in existence for the sake of beings, hailing him as Victor and Sovereign of the Earth, and the hymn closes with a dedication of merit. Its colophon names the great paṇḍita Vanaratna of eastern India as its author, and says it was translated in his presence by the monk Gyatsö Dé at the great vihāra of Śrī Gopīcandra beside Patan in Nepal; it is Toh 1174 in the Tengyur, where it belongs to the section of praises (stotra).",
+  "pdf": "files/toh1174.pdf",
+  "txt": "files/toh1174.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-24"
  },
  {
   "corpus": "tengyur",
