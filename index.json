@@ -16880,31 +16880,37 @@
   "corpus": "tengyur",
   "toh": 1175,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Ganesvarastava",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "In Praise of Gaṇeśvara",
+  "sanskrit": "Gaṇeśvarastava",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Devotional"
+  ],
+  "explainer": "In Praise of Gaṇeśvara, known in Sanskrit as the Gaṇeśvarastava and in Tibetan as Tsokkyi Wangchuk gi Töpa, is a short hymn in eight verses to Gaṇeśvara, the elephant-faced \"Lord of the Hosts,\" better known as Gaṇeśa or Gaṇapati, who in Buddhist tantric practice is honored as a lord of obstacles and a giver of wealth and accomplishment. Its verses praise his tusked elephant face, his jeweled body and swaying anklets, his blazing weapons and his victory over obstructors and Māra, and they cast him in Buddhist terms, his feet embodying the two truths, conventional and ultimate, before a closing dedication prays that beings may pass beyond all obstacles to the sameness of the ultimate. It was composed by the fifteenth-century Indian master Vanaratna, who gave it as a gift from a monastery in the city of Patan in Nepal to a Tibetan monk, who then translated it into Tibetan as a teaching to be shared with others. It is Toh 1175 in the Tengyur, where it belongs to the section of praises (stotra).",
+  "pdf": "files/toh1175.pdf",
+  "txt": "files/toh1175.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-25"
  },
  {
   "corpus": "tengyur",
   "toh": 1176,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Srisavarapadastotraratna",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Jewel of Praise for Glorious Śabarapāda",
+  "sanskrit": "Śrīśabarapādastotra",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Devotional"
+  ],
+  "explainer": "The Jewel of Praise for Glorious Śabarapāda, in Sanskrit Śrīśabarapādastotra and in Tibetan Dpal ri khrod zhabs kyi bstod pa rin po che, is a tantric hymn in verse honoring Śabara, the great Indian mahāsiddha who lived as a hunter-yogin in the mountains. It opens by explaining his name syllable by syllable and then praises him as a guru and lord of yogins, taking each part of his attire in turn, the bow and arrow, bone ornaments, ash, peacock feathers and a garland of half-red, half-black berries, as a symbol of the path: the bow of wisdom joined with the string of skillful means, the arrow of selflessness, and the union of conventional and ultimate truth. It closes by dedicating its merit so that all beings may be drawn out of the ocean of existence, and according to its colophon it was composed by the great scholar Vanaratna and translated at Dingri, in the author's own presence, by Zhönu Pal. It is Toh 1176 in the Tengyur, where it belongs to the section of praises (stotra).",
+  "pdf": "files/toh1176.pdf",
+  "txt": "files/toh1176.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-25"
  },
  {
   "corpus": "tengyur",
