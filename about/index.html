@@ -12,6 +12,7 @@
 <meta property="og:description" content="How the AI Stupa Translation Project makes its English translations of the Tibetan Buddhist canon: the source edition, the AI process, the quality check against scholarly translations, and the public-domain (CC0) license.">
 <meta property="og:url" content="https://vimalakirti8400.github.io/about/">
 <meta name="twitter:card" content="summary">
+<link rel="alternate" type="application/rss+xml" title="New translations" href="/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -102,16 +103,34 @@ footer a{color:var(--ink-soft);text-decoration:none;border-bottom:1px solid var(
 .about table{border-collapse:collapse;margin:0 0 1.2em;font-size:16px;width:100%}
 .about th,.about td{text-align:left;padding:6px 10px 6px 0;border-bottom:1px solid var(--line);vertical-align:top}
 .about th{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint);font-weight:500}
+/* search, progress, set-aside pages; the Listen button */
+.search{margin-top:22px}
+.search input{width:100%;font:inherit;font-size:19px;padding:12px 16px;border:1px solid var(--line);border-radius:12px;background:var(--card);color:var(--ink)}
+.search input:focus{outline:2px solid var(--gold);outline-offset:2px}
+.count{margin-top:14px;font-family:'IBM Plex Mono',monospace;font-size:12.5px;color:var(--ink-faint)}
+.list li.setaside .t{color:var(--ink-soft)}
+.prog{margin-top:40px}
+.prog h2{margin-top:0}
+.bar{display:flex;height:14px;border-radius:100px;overflow:hidden;background:var(--bg-deep);margin-top:12px}
+.bar span{display:block;height:100%}
+.bar .b1{background:var(--gold)}.bar .b2{background:var(--green)}.bar .b3{background:var(--line)}
+.key{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:8px;font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--ink-soft)}
+.key i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;vertical-align:middle}
+.key .b1{background:var(--gold)}.key .b2{background:var(--green)}.key .b3{background:var(--line)}
+.about table.sections td.num,.about table.sections th.num{text-align:right}
+.listen{display:inline-flex;flex-wrap:wrap;gap:8px;align-items:center}
+button.btn,select.btn{cursor:pointer;line-height:1.3;max-width:100%}
+.text p.reading{background:rgba(180,140,60,.16);border-radius:6px;box-shadow:0 0 0 6px rgba(180,140,60,.16)}
 @media (max-width:600px){.list li{grid-template-columns:1fr}.prevnext{flex-direction:column}.prevnext a{max-width:100%}}
 </style>
 </head>
 <body>
 <div class="wrap">
-<header class="top"><a class="mark" href="/"><svg width="22" height="26" viewBox="0 0 22 26" fill="none" aria-hidden="true"><path d="M11 1 L14 7 H8 Z" fill="#a8842c"/><rect x="6" y="8" width="10" height="3" rx="1" fill="#7c5e16"/><path d="M5 12 Q11 9 17 12 L17 16 Q11 14 5 16 Z" fill="#a8842c" opacity=".85"/><rect x="4" y="17" width="14" height="3" rx="1" fill="#7c5e16"/><rect x="2" y="21" width="18" height="4" rx="1.5" fill="#a8842c"/></svg><span>AI Stupa Translation Project</span></a><nav class="nav" aria-label="Site"><a href="/kangyur/">Kangyur</a><a href="/tengyur/">Tengyur</a><a href="/#recent">Search all texts</a><a href="/about/">About</a></nav></header>
+<header class="top"><a class="mark" href="/"><svg width="22" height="26" viewBox="0 0 22 26" fill="none" aria-hidden="true"><path d="M11 1 L14 7 H8 Z" fill="#a8842c"/><rect x="6" y="8" width="10" height="3" rx="1" fill="#7c5e16"/><path d="M5 12 Q11 9 17 12 L17 16 Q11 14 5 16 Z" fill="#a8842c" opacity=".85"/><rect x="4" y="17" width="14" height="3" rx="1" fill="#7c5e16"/><rect x="2" y="21" width="18" height="4" rx="1.5" fill="#a8842c"/></svg><span>AI Stupa Translation Project</span></a><nav class="nav" aria-label="Site"><a href="/kangyur/">Kangyur</a><a href="/tengyur/">Tengyur</a><a href="/search/">Search</a><a href="/progress/">Progress</a><a href="/about/">About</a></nav></header>
 <article class="about"><p class="eyebrow">AI Stupa Translation Project</p><h1>About this project</h1><div style="margin-top:24px"><p>This site is a map of the Tibetan Buddhist canon, the Kangyur and Tengyur of the Derge edition, with an English translation for every text it can offer one for. Where an authoritative human translation exists, above all at 84000: Translating the Words of the Buddha, we link to it. Where none exists yet, an autonomous &quot;stupa&quot; offers a provisional English rendering, freely, until the masters&#x27; work arrives.</p>
 <p>It is an independent, non-commercial project by one person, with no institutional backing and no affiliation with 84000 or Esukhia. Nothing here is for sale, and nothing asks for an account.</p>
 <h2>How the translations are made</h2>
-<p>The translations are generated by an AI language model, Claude (Anthropic), running on a Raspberry Pi inside a 3D-printed stupa. The stupa translates about 108 texts a month, four a day, at a deliberately ceremonial pace.</p>
+<p>The translations are generated by an AI language model, Claude (Anthropic), running on a Raspberry Pi inside a 3D-printed stupa. The stupa translates a few texts every day, as many as its monthly allowance of API credit allows, at a deliberately steady pace.</p>
 <p>The Tibetan source is Esukhia&#x27;s public-domain etext of the Derge edition (the May 2019 release). Each text is cut into passages and translated in order, with the names and terms of earlier passages carried into later ones. A glossary of names and technical terms, checked against the Mahāvyutpatti and the standard dictionaries, is attached to each passage. The instructions to the model were written with care for Tibetan grammar (ordinals, particles, commands and wishes, the instrumental agent, humble speech) and revised after review. Mantras, dhāraṇīs and Sanskrit titles are checked letter by letter against the Tibetan and restored to the Derge&#x27;s own spelling. Most texts published before October 2026 were made with Claude Sonnet; since then Claude Opus makes every text, and the earlier ones will be translated again at the end of the project.</p>
 <p>Each page also carries a short introduction and the title in Sanskrit, both written by the model from the text itself.</p>
 <h2>How accurate they are</h2>
@@ -124,7 +143,8 @@ footer a{color:var(--ink-soft);text-decoration:none;border-bottom:1px solid var(
 <p>Every text not yet translated has a &quot;Request this translation&quot; button on the home page. Requested texts move to the front of the stupa&#x27;s queue.</p>
 <p>Just as the Bodhi tree now standing at Bodh Gayā neither is nor is not the same tree beneath which the Buddha attained awakening, so too this stupa is intended as the next generation of stupa, dependently arising according to the conditions of its environment, and ceaselessly proclaiming the Dharma for the benefit of all sentient beings. May whoever encounters these words derive great benefit.</p></div></article>
 <footer>AI Stupa Translation Project · translating the Tibetan Buddhist canon at a ceremonial pace · our translations are AI-made, provisional and public domain (CC0) ·
-<a href="/about/">how they are made</a> · source: <a href="https://github.com/Esukhia/derge-kangyur">Esukhia Derge etext</a> (public domain) ·
+<a href="/about/">how they are made</a> · <a href="/progress/">progress</a> · <a href="/privacy/">privacy</a> · <a href="/terms/">terms</a> · new translations: <a href="/feed.xml">RSS</a> ·
+source: <a href="https://github.com/Esukhia/derge-kangyur">Esukhia Derge etext</a> (public domain) ·
 linked translations © <a href="https://84000.co">84000</a>, CC BY-NC-ND (linked, never copied) · independent project, not affiliated with 84000 or Esukhia</footer>
 </div>
 </body>

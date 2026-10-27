@@ -12,6 +12,7 @@
 <meta property="og:description" content="The Tantra commentaries (rgyud &#x27;grel) section of the Derge Tengyur, Toh 3676 – Toh 3785: 109 texts with English translations where they exist (0 translated here, 0 at 84000, 109 awaiting translation).">
 <meta property="og:url" content="https://vimalakirti8400.github.io/tengyur/rgyud-grel/6/">
 <meta name="twitter:card" content="summary">
+<link rel="alternate" type="application/rss+xml" title="New translations" href="/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -102,12 +103,30 @@ footer a{color:var(--ink-soft);text-decoration:none;border-bottom:1px solid var(
 .about table{border-collapse:collapse;margin:0 0 1.2em;font-size:16px;width:100%}
 .about th,.about td{text-align:left;padding:6px 10px 6px 0;border-bottom:1px solid var(--line);vertical-align:top}
 .about th{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint);font-weight:500}
+/* search, progress, set-aside pages; the Listen button */
+.search{margin-top:22px}
+.search input{width:100%;font:inherit;font-size:19px;padding:12px 16px;border:1px solid var(--line);border-radius:12px;background:var(--card);color:var(--ink)}
+.search input:focus{outline:2px solid var(--gold);outline-offset:2px}
+.count{margin-top:14px;font-family:'IBM Plex Mono',monospace;font-size:12.5px;color:var(--ink-faint)}
+.list li.setaside .t{color:var(--ink-soft)}
+.prog{margin-top:40px}
+.prog h2{margin-top:0}
+.bar{display:flex;height:14px;border-radius:100px;overflow:hidden;background:var(--bg-deep);margin-top:12px}
+.bar span{display:block;height:100%}
+.bar .b1{background:var(--gold)}.bar .b2{background:var(--green)}.bar .b3{background:var(--line)}
+.key{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:8px;font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--ink-soft)}
+.key i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;vertical-align:middle}
+.key .b1{background:var(--gold)}.key .b2{background:var(--green)}.key .b3{background:var(--line)}
+.about table.sections td.num,.about table.sections th.num{text-align:right}
+.listen{display:inline-flex;flex-wrap:wrap;gap:8px;align-items:center}
+button.btn,select.btn{cursor:pointer;line-height:1.3;max-width:100%}
+.text p.reading{background:rgba(180,140,60,.16);border-radius:6px;box-shadow:0 0 0 6px rgba(180,140,60,.16)}
 @media (max-width:600px){.list li{grid-template-columns:1fr}.prevnext{flex-direction:column}.prevnext a{max-width:100%}}
 </style>
 </head>
 <body>
 <div class="wrap">
-<header class="top"><a class="mark" href="/"><svg width="22" height="26" viewBox="0 0 22 26" fill="none" aria-hidden="true"><path d="M11 1 L14 7 H8 Z" fill="#a8842c"/><rect x="6" y="8" width="10" height="3" rx="1" fill="#7c5e16"/><path d="M5 12 Q11 9 17 12 L17 16 Q11 14 5 16 Z" fill="#a8842c" opacity=".85"/><rect x="4" y="17" width="14" height="3" rx="1" fill="#7c5e16"/><rect x="2" y="21" width="18" height="4" rx="1.5" fill="#a8842c"/></svg><span>AI Stupa Translation Project</span></a><nav class="nav" aria-label="Site"><a href="/kangyur/">Kangyur</a><a href="/tengyur/">Tengyur</a><a href="/#recent">Search all texts</a><a href="/about/">About</a></nav></header>
+<header class="top"><a class="mark" href="/"><svg width="22" height="26" viewBox="0 0 22 26" fill="none" aria-hidden="true"><path d="M11 1 L14 7 H8 Z" fill="#a8842c"/><rect x="6" y="8" width="10" height="3" rx="1" fill="#7c5e16"/><path d="M5 12 Q11 9 17 12 L17 16 Q11 14 5 16 Z" fill="#a8842c" opacity=".85"/><rect x="4" y="17" width="14" height="3" rx="1" fill="#7c5e16"/><rect x="2" y="21" width="18" height="4" rx="1.5" fill="#a8842c"/></svg><span>AI Stupa Translation Project</span></a><nav class="nav" aria-label="Site"><a href="/kangyur/">Kangyur</a><a href="/tengyur/">Tengyur</a><a href="/search/">Search</a><a href="/progress/">Progress</a><a href="/about/">About</a></nav></header>
 <article style="max-width:860px">
 <p class="eyebrow"><a href="/tengyur/">Tengyur བསྟན་འགྱུར</a> · section</p>
 <h1>Tantra commentaries (rgyud &#x27;grel)</h1>
@@ -230,7 +249,8 @@ Texts translated here open on their own page; those with a human translation at 
 <div class="jump"><a class="chip" href="/tengyur/rgyud-grel/">Part 1: Toh 1180 – Toh 1679</a><a class="chip" href="/tengyur/rgyud-grel/2/">Part 2: Toh 1680 – Toh 2178</a><a class="chip" href="/tengyur/rgyud-grel/3/">Part 3: Toh 2179 – Toh 2680</a><a class="chip" href="/tengyur/rgyud-grel/4/">Part 4: Toh 2681 – Toh 3176</a><a class="chip" href="/tengyur/rgyud-grel/5/">Part 5: Toh 3177 – Toh 3675</a><a class="chip" style=border-color:var(--gold);color:var(--gold-deep) href="/tengyur/rgyud-grel/6/">Part 6: Toh 3676 – Toh 3785</a></div>
 </article>
 <footer>AI Stupa Translation Project · translating the Tibetan Buddhist canon at a ceremonial pace · our translations are AI-made, provisional and public domain (CC0) ·
-<a href="/about/">how they are made</a> · source: <a href="https://github.com/Esukhia/derge-kangyur">Esukhia Derge etext</a> (public domain) ·
+<a href="/about/">how they are made</a> · <a href="/progress/">progress</a> · <a href="/privacy/">privacy</a> · <a href="/terms/">terms</a> · new translations: <a href="/feed.xml">RSS</a> ·
+source: <a href="https://github.com/Esukhia/derge-kangyur">Esukhia Derge etext</a> (public domain) ·
 linked translations © <a href="https://84000.co">84000</a>, CC BY-NC-ND (linked, never copied) · independent project, not affiliated with 84000 or Esukhia</footer>
 </div>
 </body>
