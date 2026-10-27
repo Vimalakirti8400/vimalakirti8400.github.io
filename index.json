@@ -1804,16 +1804,20 @@
   "corpus": "kangyur",
   "toh": 107,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra on the descent into lanka",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra on the Descent into Laṅkā",
+  "sanskrit": "Āryalaṅkāvatāramahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Doctrinal",
+   "Philosophical"
+  ],
+  "explainer": "The Noble Great Vehicle Sūtra on the Descent into Laṅkā, known in Sanskrit as the Āryalaṅkāvatāra Mahāyāna Sūtra and in Tibetan as Phakpa Langkar Shekpé Tekpa Chenpo'i Do, is one of the most influential scriptures of Mahāyāna Buddhism. It opens with the Buddha dwelling in the city of Laṅkā on the jewel-adorned summit of Mount Malaya by the ocean, surrounded by a great assembly of monks and of bodhisattvas gathered from many buddha fields, led by the bodhisattva Mahāmati. Through a long series of questions and answers between Mahāmati and the Buddha, the sūtra explores the nature of mind and perception, teaching that the appearances of the world arise from mind itself. It is especially celebrated for its treatment of the storehouse consciousness and of buddha nature, themes that shaped the Yogācāra tradition and later schools such as Chan and Zen. It is Toh 107 in the Kangyur, where it belongs to the general collection of Mahāyāna sūtras and is divided into several fascicles.",
+  "pdf": "files/toh107.pdf",
+  "txt": "files/toh107.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-27"
  },
  {
   "corpus": "kangyur",
@@ -16916,31 +16920,38 @@
   "corpus": "tengyur",
   "toh": 1177,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Sriguruvanaratnastotrasaptaka",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Sevenfold Praise of the Glorious Guru Vanaratna",
+  "sanskrit": "Śrīguruvanaratnastotrasaptaka",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Devotional"
+  ],
+  "explainer": "The Sevenfold Praise of the Glorious Guru Vanaratna, known in Sanskrit as Śrī Guru Vanaratna Stotra Saptaka and in Tibetan as Palden Lama Nakkyi Rinchen gyi Töpa Dünpa, is a short verse eulogy of the Indian monk and scholar Vanaratna, who was active in Nepal and Tibet in the fifteenth century. Its stanzas extol him as a strict keeper of the monastic vows of the Vinaya, a master of the Great Vehicle who knows the nondual nature of phenomena, a lion before rival debaters and a refuge for all beings, and they credit him with turning the king of Nepal toward the way of the Buddha. According to its colophon, it was composed by a lay devotee from Magadha whose name means the Sun, and it was translated into Tibetan by the Tsetang translator Shönu Pal at the command of the Chennga, the Dharma King. It is Toh 1177 in the Tengyur, where it stands in the section of praises (stotra), and it is unusual there in honoring a human master of comparatively late date rather than a buddha or a deity.",
+  "pdf": "files/toh1177.pdf",
+  "txt": "files/toh1177.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-27"
  },
  {
   "corpus": "tengyur",
   "toh": 1178,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Jatakastava",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "In Praise of the Birth Stories",
+  "sanskrit": "Jātakastava",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Praise of the Buddha",
+   "Narrative"
+  ],
+  "explainer": "In Praise of the Birth Stories, known in Sanskrit as the Jātakastava and in Tibetan as Kyepa Rab kyi Töpa, is a devotional hymn in verse addressed to the Buddha. It celebrates the perfect conduct he showed in his former lives as a bodhisattva, recalling one birth story (jātaka) after another: the gift of his children and wife, the hare who offered his own body in the fire, the patience he kept while his limbs were hacked apart, the six-tusked elephant who gave up his tusks, King Śibi weighed on the scale to save a bird from a hawk, and the gift of his eyes and of his head. Its colophon names the master Jñānayaśas as its author and records that it was translated from an Indian manuscript by Dharmapālabhadra, the translator of Zhalu, and the Tibetan version sets the Sanskrit verses alongside their translation. The work is Toh 1178 in the Tengyur, where it belongs to the Praises (stotra) section.",
+  "pdf": "files/toh1178.pdf",
+  "txt": "files/toh1178.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-27"
  },
  {
   "corpus": "tengyur",
