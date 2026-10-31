@@ -1823,16 +1823,20 @@
   "corpus": "kangyur",
   "toh": 108,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The quintessence of the speech of all the buddhas a chapter from the descent into lanka sutra",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Chapter Called the Heart of the Speech of All Buddhas from the Noble Sūtra of the Precious Descent into Laṅkā",
+  "sanskrit": "Āryalaṅkāvatāraratnasūtra sarvabuddhapravacanahṛdaya nāma parivarta",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Doctrinal",
+   "Philosophical"
+  ],
+  "explainer": "The Noble Sūtra of the Precious Descent into Laṅkā, presented here through its chapter called The Heart of the Speech of All Buddhas, is known in Tibetan as Pakpa Langkar Shekpa Rinpoché Do, and corresponds to the Sanskrit Laṅkāvatāra Sūtra. It is a Mahāyāna discourse set on the summit of Mount Laṅkā by the southern ocean, where the Buddha, surrounded by monks and by bodhisattvas from many buddha fields, answers the questions of the bodhisattva Mahāmati. Its teachings concern the nature of mind and appearances, the idea that the world is mind only, the storehouse consciousness, and the inner realization of the Buddhas' wisdom, themes that made it deeply influential in Yogācāra thought and in the Chan and Zen traditions. This version is Toh 108 in the Kangyur, where it belongs to the general sūtra section. It is generally understood to be the Tibetan rendering of an earlier Chinese translation, standing alongside another Tibetan version of the same sūtra translated from Sanskrit.",
+  "pdf": "files/toh108.pdf",
+  "txt": "files/toh108.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-31"
  },
  {
   "corpus": "kangyur",
@@ -16282,6 +16286,171 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 936,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Six Heart Mantras of the Perfections",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "This short Kangyur work, which might be called in English something like The Heart Mantras of the Perfections, opens with homage to the Three Jewels and then sets out a series of brief Sanskrit mantras, each linked to one of the perfections, the core virtues cultivated on the bodhisattva path. Each mantra is introduced with the promise that hearing it just once brings the quality it embodies, beginning with generosity and continuing through moral discipline, patience, and diligence, and presumably on to the remaining perfections. Its source title lines do not give a distinct Sanskrit or Tibetan title, so the work is best identified by its content: an invocation that pairs devotion to awakened beings with the aspiration to embody these virtues. It is Toh 936 in the Kangyur, where it belongs among the dhāraṇī and mantra texts, compact ritual formulas valued for the blessing and protection they are believed to confer through recitation and hearing.",
+  "pdf": "files/toh936.pdf",
+  "txt": "files/toh936.txt",
+  "link84000": "",
+  "date": "2026-10-31"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 937,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Heart of the Ten Perfections",
+  "sanskrit": "Daśapāramitāhṛdaya",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Heart of the Ten Perfections, known in Tibetan as Pha rol tu phyin pa bcu'i snying po, is a very brief dhāraṇī, a short sacred formula meant to be recited or heard, whose Sanskrit title would correspond to something like the Daśapāramitāhṛdaya. It opens by promising that hearing this \"heart\" of the ten perfections even once will lead to attaining all ten perfections, the bodhisattva virtues that run from generosity through to wisdom. It then gives a single short mantra paying homage to all the tathāgatas who bring the ten perfections to completion, and it closes by naming itself the dhāraṇī for attaining the ten perfections. The work is Toh 937 in the Kangyur, where it belongs among the collected dhāraṇī texts, the compact incantations valued for their protective and spiritually transformative power.",
+  "pdf": "files/toh937.pdf",
+  "txt": "files/toh937.txt",
+  "link84000": "",
+  "date": "2026-10-31"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 938,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī for Attaining Loving-Kindness, Compassion, Joy, and Equanimity",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Dhāraṇī for Attaining the Four Immeasurables is a brief ritual text made up of four short mantras, each paired with the promise that reciting it just once will bring about one of the four immeasurable states of mind: loving-kindness, compassion, joy, and equanimity. Each mantra opens with homage to all the tathāgatas, and the work closes simply by naming itself, with no narrative frame or teaching setting. Its Sanskrit and Tibetan titles are not given in the opening lines, so it is best known by this descriptive English title. The text is Toh 938 in the Kangyur, where it belongs to the class of dhāraṇī texts, the collection of incantations and protective formulas preserved in the Tibetan canon.",
+  "pdf": "files/toh938.pdf",
+  "txt": "files/toh938.txt",
+  "link84000": "",
+  "date": "2026-10-31"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 939,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī for Retaining the Perfection of Wisdom in One Hundred Thousand Lines",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Prose"
+  ],
+  "explainer": "This brief work, known in English as the Dhāraṇī by Which One Comes to Retain the Perfection of Wisdom in One Hundred Thousand Lines, is a short incantation devoted to the great Perfection of Wisdom scripture. It opens with homage to the Blessed Mother, the Noble Perfection of Wisdom, and then gives a Sanskrit mantra that invokes the Dharma under various aspects, including gathering, kindness, and liberation, along with a reference to Vaiśravaṇa. A second, shorter formula calls upon wisdom, hearing, memory, and victory. The text promises that whoever retains this dhāraṇī will come to retain the vast Perfection of Wisdom in One Hundred Thousand Lines itself, which reflects the close link between memorized spells and the preservation of scripture. It is Toh 939 in the Kangyur, where it belongs among the dhāraṇī texts, the collection of protective and empowering incantations that appears alongside the tantra section of the canon.",
+  "pdf": "files/toh939.pdf",
+  "txt": "files/toh939.txt",
+  "link84000": "",
+  "date": "2026-10-31"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 940,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī for Retaining the Noble Avataṃsaka",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Dhāraṇī for Retaining the Noble Avataṃsaka is a very brief incantation that offers a shortcut to the merit of one of the largest scriptures in the Mahāyāna tradition, the Avataṃsaka Sūtra, known in Tibetan as Phal po che. After a homage to the Three Jewels, the text gives a short mantra, opening with namaḥ sarva buddhānām and continuing with seed syllables such as oṃ and bhūṃ. It then declares that whoever retains this formula will in effect retain the noble Avataṃsaka itself, and that writing it out or reading it aloud brings the same result. The work is Toh 940 in the Kangyur, where it belongs among the dhāraṇī texts, the class of short ritual formulas valued for preserving and invoking the power of the Buddha's teachings.",
+  "pdf": "files/toh940.pdf",
+  "txt": "files/toh940.txt",
+  "link84000": "",
+  "date": "2026-10-31"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 941,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of the Essence of the Gaṇḍavyūha",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Heart of the Noble Gaṇḍavyūha is a very brief dhāraṇī text, a short Sanskrit incantation said to condense the vast Gaṇḍavyūha Sūtra, the scripture that recounts the pilgrimage of the youth Sudhana in search of awakening. In Tibetan it is known by a title meaning \"the heart of the noble Gaṇḍavyūha,\" and its Sanskrit form would correspond to a Gaṇḍavyūha heart or essence, though the exact Sanskrit title is not stated in the opening lines. After an homage to the Three Jewels, the text gives a single mantra invoking the unobstructed teaching of the buddhas and the arising of the tathāgatas. It then promises that whoever upholds this mantra will have effectively read and recited the entire Gaṇḍavyūha Sūtra, and will come to know the maṇḍalas, the sacred commitments, and the mudrās of both worldly and transcendent traditions. It is Toh 941 in the Kangyur, where it belongs among the collected dhāraṇī texts.",
+  "pdf": "files/toh941.pdf",
+  "txt": "files/toh941.txt",
+  "link84000": "",
+  "date": "2026-10-31"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 942,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī for Retaining the Noble Sūtra The King of Samādhis",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Dhāraṇī for Retaining the Noble Sūtra The King of Samādhis is a very brief incantation connected to the great Mahāyāna scripture known in Sanskrit as the Samādhirāja Sūtra and in Tibetan as the Ting nge 'dzin gyi rgyal po, the King of Samādhis. After an opening homage to the Three Jewels, it gives a single short mantra invoking the buddhas, whose teaching is said to be unobstructed, and closes with the promise that whoever retains this formula will thereby retain the King of Samādhis sūtra itself. Texts of this kind serve as condensed essences of longer scriptures, allowing a practitioner to hold the power and blessing of an entire sūtra through the recitation of a few syllables. It is catalogued as Toh 942 in the Kangyur, where it belongs among the dhāraṇī texts, the collection of spells and incantations gathered within the canon.",
+  "pdf": "files/toh942.pdf",
+  "txt": "files/toh942.txt",
+  "link84000": "",
+  "date": "2026-10-31"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 943,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Heart of the Noble Mahāmāyūrī",
+  "sanskrit": "Āryamahāmāyūrīhṛdaya",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Heart of the Noble Mahāmāyūrī, known in Tibetan as Pakpa Majachenmoi Nyingpo and plausibly reconstructed in Sanskrit as Āryamahāmāyūrīhṛdaya, is a very brief dhāraṇī text centered on the great peacock queen Mahāmāyūrī, a protective goddess celebrated as one of the Five Protectresses. After opening with homage to the Three Jewels and to the Buddha as the teacher unobstructed in every respect, it presents a single short mantra, oṃ piśune svāhā, and declares that whoever retains this heart mantra will have retained the noble Mahāmāyūrī herself. In this way it serves as a concise distillation of the much longer Mahāmāyūrī scripture, offering its protective power in a compact, easily memorized form. It is Toh 943 in the Kangyur, where it belongs among the collected dhāraṇī texts, the class of works devoted to mantras and incantations for protection and blessing.",
+  "pdf": "files/toh943.pdf",
+  "txt": "files/toh943.txt",
+  "link84000": "",
+  "date": "2026-10-31"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 944,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī for Retaining the Noble Mahāpratisarā",
+  "sanskrit": "Āryamahāpratisarādhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "This brief text, known in English as The Dhāraṇī by Which One Comes to Retain the Noble Mahāpratisarā, takes its name from its Tibetan colophon, which identifies it as a dhāraṇī for holding the noble great goddess Mahāpratisarā, called So sor 'brang ma chen mo in Tibetan. After a homage to the Three Jewels, it presents a single short mantra invoking Mahāpratisarā, the jewel-bearing, vajra-holding protectress, and promises that whoever retains it will thereby have retained this \"queen of knowledge mantras\" herself. Mahāpratisarā is best known as one of the five protective goddesses of the Pañcarakṣā tradition, and this condensed formula offers practitioners a compact means of connecting with her protective power. The work is Toh 944 in the Kangyur, where it belongs to the collection of dhāraṇī texts, the short incantations valued for protection and blessing.",
+  "pdf": "files/toh944.pdf",
+  "txt": "files/toh944.txt",
+  "link84000": "",
+  "date": "2026-10-31"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 953,
   "suffix": "",
   "state": "at84000",
@@ -21573,16 +21742,19 @@
   "corpus": "tengyur",
   "toh": 1431,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Sricakrasamvarasekaprakriyopadesa",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "A Concise Rite of the Glorious Cakrasaṃvara Empowerment",
+  "sanskrit": "Śrīcakrasaṃvarābhiṣekaprakriyopadeśa-nāma",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Verse"
+  ],
+  "explainer": "A Concise Rite of the Glorious Cakrasaṃvara Empowerment, whose Sanskrit title is given as Śrī Cakrasaṃvarābhiṣekaprakriyopadeśa, is a short verse manual on the ritual of conferring empowerment in the Cakrasaṃvara tantric system. After paying homage to Vajrasattva, the author sets out to explain the stages of the empowerment rite tied to the yoga of the three wheels, through which beings of the three realms may reach the state of the Vajra Holder. The text first takes up the maṇḍala that must precede empowerment. It describes the drawn maṇḍala, with its preparation of the site, its lines, and its colors, and then makes a deeper point: beings themselves are by nature an already accomplished, nondual maṇḍala, while constructed forms are adopted for the sake of disciples. The work is Toh 1431 in the Tengyur, where it belongs among the Indian tantric treatises and ritual manuals associated with the Cakrasaṃvara cycle.",
+  "pdf": "files/toh1431.pdf",
+  "txt": "files/toh1431.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-31"
  },
  {
   "corpus": "tengyur",
@@ -21678,16 +21850,19 @@
   "corpus": "tengyur",
   "toh": 1438,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Sridvibhuasamvarasadhana",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Sādhana of the Innate Two-Armed Glorious Cakrasaṃvara",
+  "sanskrit": "Śrīdvibhujasaṃvarasādhana",
+  "category": "Tantra",
+  "tags": [
+   "Meditation",
+   "Ritual"
+  ],
+  "explainer": "The Means of Accomplishment of the Innate Two-Armed Glorious Cakrasaṃvara, known in Sanskrit as the Śrī Dvibhuja Saṃvara Sādhana and in Tibetan as dpal bde mchog phyag gnyis pa'i lhan cig skyes pa'i sgrub thabs, is a short tantric meditation manual devoted to the innate, or sahaja, form of Cakrasaṃvara with two arms. It opens with homage to the glorious innate Cakrasaṃvara and then guides the practitioner to generate the mind of awakening, aspiring to buddhahood in order to free all beings of the three realms from suffering and establish them in perfect bliss. The text then names three kinds of yoga to be understood: blessing, thorough examination, and the yoga of the inconceivable perfected form. It goes on to describe an instantaneous self-generation in which one arises at once as the Vajraḍāka, like a being born miraculously, without the gradual visualization of seed syllables. This work is Toh 1438 in the Tengyur, where it belongs to the tantra commentaries as one of the many sādhanas of the Cakrasaṃvara cycle.",
+  "pdf": "files/toh1438.pdf",
+  "txt": "files/toh1438.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-31"
  },
  {
   "corpus": "tengyur",
@@ -23133,16 +23308,19 @@
   "corpus": "tengyur",
   "toh": 1534,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Lam gyi rab tu bya ba",
+  "state": "translated",
+  "title": "Ritual Procedure of the Path",
   "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Ritual Procedure of the Path, known in Tibetan as Lam gyi rab tu bya ba, is a short tantric ritual manual. Its Sanskrit title is not preserved in the source title lines. Opening with homage to glorious Vajrasattva, it sets out the rites by which a disciple is brought into the maṇḍala of Cakrasaṃvara: the rite of approach, the rite of preparation, and the rite of empowerment. It begins with the disciple's formal request, in which he offers a maṇḍala, prostrations, and flowers, and asks the master for empowerment into the king of maṇḍalas, the Manifest Arising of the Wheel of Cakrasaṃvara. The master then gathers ritual substances and assigns the disciple recitation of the mantra of the wrathful Amṛtakuṇḍalin. The work is Toh 1534 in the Tengyur, where it belongs among the tantric commentarial and ritual treatises associated with the Cakrasaṃvara cycle.",
+  "pdf": "files/toh1534.pdf",
+  "txt": "files/toh1534.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-10-31"
  },
  {
   "corpus": "tengyur",
