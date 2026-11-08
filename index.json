@@ -17072,6 +17072,63 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 971,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of the Noble Compassionate Jambhala Jalendra Called \"The Bestower of Happiness\"",
+  "sanskrit": "Kāruṇikasya Āryajambhalajalendrasuśaṃkaranāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Dhāraṇī of the Noble Jambhala Jalendra, the Compassionate One, Called The Bestower of Happiness, known in Sanskrit as Kāruṇikasya Āryajambhalajalendrasuśaṃkaranāmadhāraṇī and in Tibetan as 'Phags pa gnod 'dzin chu dbang snying rje can gyi gzungs bde byed ces bya ba, is a short dhāraṇī scripture devoted to Jambhala, the yakṣa deity associated with wealth and protection. It opens with the Buddha dwelling in the City of Jewels, in the abode of the son of the great yakṣa general Maṇibhadra, who is also called a bodhisattva. This figure offers to accompany and protect any monk, nun, layman, or laywoman who recites his heart mantra three times by day and three times by night. He promises to guard them from harmful yakṣas across a great distance and to fulfill their wishes. The work is Toh 971 in the Kangyur, where it belongs to the class of dhāraṇī texts, scriptures centered on mantras and incantations recited for blessing, protection, and the fulfillment of aims.",
+  "pdf": "files/toh971.pdf",
+  "txt": "files/toh971.txt",
+  "link84000": "",
+  "date": "2026-11-08"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 972,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Hundred and Eight Names of Jambhala",
+  "sanskrit": "Āryajambhalanāmāṣṭaśataka",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Verse",
+   "Devotional",
+   "Mantra"
+  ],
+  "explainer": "The Noble Hundred and Eight Names of Jambhala, known in Sanskrit as Ārya Jambhala Nāma Aṣṭaśataka and in Tibetan as Phakpa Nödzin gyi Tsen Gya Tsa Gyepa, is a short work in verse devoted to Jambhala, the yakṣa deity associated with wealth and prosperity. It opens in the realm of Alakāvatī, where a radiant yakṣa adorned with gold and jewels clasps the feet of Vajradhara, the Lord of Secrets. With a composed mind, he praises Vajradhara as protector of beings and holder of the secret of all the buddhas, and asks for a teaching to benefit sentient beings, which leads into a litany of names celebrating Jambhala's qualities and powers. The text is Toh 972 in the Kangyur, where it belongs to the class of name-praises and dhāraṇī-related works found among the tantric texts of the canon.",
+  "pdf": "files/toh972.pdf",
+  "txt": "files/toh972.txt",
+  "link84000": "",
+  "date": "2026-11-08"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 973,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called Glorious Jambhala",
+  "sanskrit": "Āryajambhalaśrīnāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Dhāraṇī Called Glorious Jambhala, given in Sanskrit as Ārya Jambhala Śrī Nāma Dhāraṇī and in Tibetan under a title that begins Phakpa Nö, referring to the noble lord of the yakṣas, is a short dhāraṇī scripture devoted to Jambhala, the king of the yakṣas, a deity long associated with wealth and prosperity. It opens in the celestial abode of Alakāvatī, where Vajrapāṇi, the Lord of Secrets, is surrounded by a retinue of yakṣas and asks Jambhala to teach his own life-essence and vidyā-mantra so that the poverty and suffering of beings may be pacified, promising to add his own blessing. Jambhala agrees, presenting the mantra and its practice for those who wish to abandon suffering, attain happiness, and complete the two great accumulations of merit and wisdom. The work is Toh 973 in the Kangyur, where it belongs to the collection of dhāraṇī texts, short works centered on the recitation of sacred formulas.",
+  "pdf": "files/toh973.pdf",
+  "txt": "files/toh973.txt",
+  "link84000": "",
+  "date": "2026-11-08"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 987,
   "suffix": "",
   "state": "at84000",
@@ -37042,16 +37099,19 @@
   "corpus": "tengyur",
   "toh": 2394,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Dhatuvada",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Elixir That Transmutes into Gold",
+  "sanskrit": "Dhātupāda",
+  "category": "Medicine, Craft & Sciences",
+  "tags": [
+   "Verse",
+   "Ritual"
+  ],
+  "explainer": "The Elixir That Transmutes into Gold, whose Sanskrit title appears in the source as Dhāturpāda and whose Tibetan title is Gser 'gyur gyi rtsi, is a short alchemical instruction in verse that opens with homage to the goddess Vajravārāhī. Framed as a means of perfecting the transcendent perfection of generosity and gathering the accumulations of merit, it gives practical recipes for transmuting metals. Combinations of ingredients such as pomegranate, medicinal salt, alum, green vitriol, sour beer, mercury, and pigments are said to turn iron into copper and copper into silver, culminating in the production of gold. The work is Toh 2394 in the Tengyur, where it belongs among the treatises of the tantra section associated with the practical and esoteric instructions of the Indian adept traditions.",
+  "pdf": "files/toh2394.pdf",
+  "txt": "files/toh2394.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-11-08"
  },
  {
   "corpus": "tengyur",
@@ -43387,16 +43447,20 @@
   "corpus": "tengyur",
   "toh": 2810,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Bhadrakumbhisadhana",
+  "state": "translated",
+  "title": "Sādhana of Great Compassion with the Excellent Vase",
   "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Verse",
+   "Devotional"
+  ],
+  "explainer": "This short ritual manual, which may be called The Practice of Great Compassion with the Excellent Vase, is known in Tibetan by its opening homage, Thugs rje chen po bum pa bzang po can, and its Sanskrit title is not clearly attested. It is a practice text devoted to Avalokiteśvara, the bodhisattva of great compassion, in a form associated with a golden treasure vase likened to a wish-fulfilling tree whose branches answer the hopes of beings. The work is addressed to faithful and intelligent practitioners who have fallen into poverty, and it describes how they may seek wealth together with spiritual accomplishment. It gives instructions for building a meditation hut on a site shaped like a vase, drawing and consecrating a vase on the practitioner's seat, and beginning a month of celibate devotion at the full moon. It is Toh 2810 in the Tengyur, where it belongs among the tantric ritual and meditation manuals, or sādhanas, connected with Avalokiteśvara.",
+  "pdf": "files/toh2810.pdf",
+  "txt": "files/toh2810.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-11-08"
  },
  {
   "corpus": "tengyur",
@@ -44407,16 +44471,20 @@
   "corpus": "tengyur",
   "toh": 2878,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Kalashasadhana",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Means of Accomplishment of the Vase",
+  "sanskrit": "Kalaśasādhana-nāma",
+  "category": "Tantra",
+  "tags": [
+   "Ritual",
+   "Verse",
+   "Meditation"
+  ],
+  "explainer": "The Means of Accomplishment of the Vase, known in Sanskrit as the Kalaśasādhana and in Tibetan as Bum pa'i sgrub thabs, is a brief ritual manual centered on the wrathful deity Vajrapāṇi, to whom it opens with homage as the king of wrathful ones and the holder of the indestructible. In verse, it sets out the practice of the vase. The practitioner arranges ritual substances on a blue maṇḍala and generates themselves as the chosen deity. The vase is visualized as a palace of wisdom, and the five medicines, grains, essences, jewels, and scented waters placed within it are blessed into an ocean of nectar. The text then describes binding the practitioner and their seat with a thread spun by a maiden as part of the protective rite. This work is Toh 2878 in the Tengyur, where it belongs to the large class of tantric sādhanas, or practice texts, composed by Indian masters and preserved in Tibetan translation.",
+  "pdf": "files/toh2878.pdf",
+  "txt": "files/toh2878.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-11-08"
  },
  {
   "corpus": "tengyur",
@@ -54405,31 +54473,39 @@
   "corpus": "tengyur",
   "toh": 3543,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Pitavarnasamksiptaprajnaparamitasadhana",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Sādhana of the Yellow Perfection of Wisdom",
+  "sanskrit": "Pītavarṇaprajñāpāramitāsādhana",
+  "category": "Tantra",
+  "tags": [
+   "Meditation",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "The Means of Accomplishment of the Yellow Perfection of Wisdom, known in Sanskrit as the Pītavarṇa Prajñāpāramitā Sādhana, is a short meditation manual devoted to the goddess Prajñāpāramitā, the Perfection of Wisdom personified as a female deity in her yellow form. After paying homage to the noble lady Perfection of Wisdom, it guides the practitioner through visualizing a moon arising from the syllable a, a variegated lotus born from a yellow syllable dhīḥ, and a yellow syllable haṃ encircled by the vowels and consonants of the Sanskrit alphabet. It goes on to describe the eight offering goddesses, Lāsyā, Mālā, Nṛtyā, Gītā, Puṣpā, Dhūpā, Dīpā and Gandhā, and the emergence of a moon of wisdom bearing a lotus and a volume of the Perfection of Wisdom scriptures, from which the deity takes form. The text is Toh 3543 in the Tengyur, where it belongs to the large collection of tantric sādhanas, the practical ritual and meditation texts for invoking and identifying with enlightened deities.",
+  "pdf": "files/toh3543.pdf",
+  "txt": "files/toh3543.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-11-08"
  },
  {
   "corpus": "tengyur",
   "toh": 3544,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Pitavarnasamksiptaprajnaparamitasadhana",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "A Concise Sādhana of the Yellow Prajñāpāramitā",
+  "sanskrit": "Pītavarṇasaṃkṣiptaprajñāpāramitāsādhana",
+  "category": "Tantra",
+  "tags": [
+   "Meditation",
+   "Ritual",
+   "Mantra"
+  ],
+  "explainer": "A Concise Sādhana of the Yellow Prajñāpāramitā, known in Sanskrit as Pītavarṇasaṃkṣiptaprajñāpāramitāsādhana and in Tibetan as Shes rab kyi pha rol tu phyin ma sku mdog ser mo'i sgrub thabs, is a short meditative practice text devoted to Prajñāpāramitā, the goddess who embodies the perfection of wisdom. After meditating on emptiness, the practitioner visualizes a yellow syllable dhīḥ on a red lotus and moon, which transforms into the golden goddess. She has Akṣobhya seated in her crown of matted locks, makes the gesture of teaching the Dharma, and holds a blue utpala lotus bearing a book. The text then gives her mantra for recitation, and it presents itself as following a rite already described, suggesting it belongs to a sequence of related practices. It is Toh 3544 in the Tengyur, where it is preserved among the many sādhanas, or ritual meditation manuals, of the tantra section.",
+  "pdf": "files/toh3544.pdf",
+  "txt": "files/toh3544.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-11-08"
  },
  {
   "corpus": "tengyur",
@@ -65970,16 +66046,18 @@
   "corpus": "tengyur",
   "toh": 4313,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Rasasiddhisastra",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Treatise on the Accomplishment of Mercury",
+  "sanskrit": "Rasaśāstrasiddhi",
+  "category": "Medicine, Craft & Sciences",
+  "tags": [
+   "Verse"
+  ],
+  "explainer": "The Treatise on the Accomplishment of Mercury, whose Sanskrit title is transmitted in the Tibetan as Ras śvasta siddhi (probably a corrupted form of Rasaśāstrasiddhi), and known in Tibetan as Dngul chu grub pa'i bstan bcos, is a short treatise on the alchemical and medicinal preparation of mercury. It opens with verses of homage to the Buddha as the omniscient Lord Protector who bestows both worldly enjoyment and liberation. It then praises mercury as a stainless, self-arisen and supreme substance. The text explains that mercury is harmful when adulterated in its processing, but when properly \"killed\" and prepared by the learned it cures disease, dispels hunger, and is even said to grant the power of moving through the sky. It is Toh 4313 in the Tengyur, where it belongs among the works on medicine and the traditional sciences, reflecting the Indian rasa tradition of alchemy that was transmitted into Tibet alongside Buddhist learning.",
+  "pdf": "files/toh4313.pdf",
+  "txt": "files/toh4313.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-11-08"
  },
  {
   "corpus": "tengyur",
@@ -66960,16 +67038,20 @@
   "corpus": "tengyur",
   "toh": 4379,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Suvarnaprabhasottamasutrendrapranidhana",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "Aspiration of the Sublime Golden Light, King of Sūtras",
+  "sanskrit": "Suvarṇaprabhāsottamasūtrendrarājapraṇidhāna",
+  "category": "Other",
+  "tags": [
+   "Verse",
+   "Devotional",
+   "Ritual"
+  ],
+  "explainer": "The Aspiration of the Sublime Golden Light, King of Sūtras, known in Tibetan as Gser 'od dam pa mdo sde'i dbang po'i smon lam, is a verse prayer drawn from the celebrated Golden Light Sūtra, whose Sanskrit title is Suvarṇaprabhāsottama. After paying homage to the Three Jewels, it invokes the sound of the great drum of the Golden Light, an image from the sūtra itself. It prays that this sound will still the sufferings of the lower realms, of the Lord of Death, and of poverty throughout the trichiliocosm. It also asks that beings be freed from delusion and fear, and that they come to possess the qualities of meditative absorption and the limbs of awakening, just as the Buddha does. This aspiration is Toh 4379 in the Tengyur, where it belongs among the collected aspiration prayers, a class of devotional verses dedicated to the welfare and awakening of all beings.",
+  "pdf": "files/toh4379.pdf",
+  "txt": "files/toh4379.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-11-08"
  },
  {
   "corpus": "tengyur",
