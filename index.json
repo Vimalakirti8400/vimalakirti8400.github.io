@@ -2025,16 +2025,20 @@
   "corpus": "kangyur",
   "toh": 120,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The mahayana sutra of the great parinirvana",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra of the Great Parinirvāṇa",
+  "sanskrit": "Āryamahāparinirvāṇanāmamahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Narrative",
+   "Doctrinal"
+  ],
+  "explainer": "The Noble Great Vehicle Sūtra of the Great Parinirvāṇa, known in Sanskrit as the Āryamahāparinirvāṇanāmamahāyānasūtra and in Tibetan as Phagpa yongsu nyangen le depa chenpo thekpa chenpo'i do, is a Mahāyāna sūtra set at the very end of the Buddha's life. It opens in the grove of twin sāla trees near Kuśinagara, on the bank of the Hiraṇyavatī River, where the Buddha, surrounded by a vast assembly of monks, announces on the full-moon morning of the last month of spring that his final passing is at hand, speaking so that every being understands him in its own language. Against this backdrop the sūtra presents his parting teachings, which are celebrated in the Mahāyāna tradition for proclaiming the permanence of the Tathāgata and the presence of buddha nature in all beings. It is Toh 120 in the Kangyur, where it belongs to the general sūtra section. This lengthy, multi-fascicle version is traditionally understood to have been rendered into Tibetan from a Chinese translation, alongside a separate, shorter Tibetan version of the same sūtra.",
+  "pdf": "files/toh120.pdf",
+  "txt": "files/toh120.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-11-11"
  },
  {
   "corpus": "kangyur",
@@ -17539,6 +17543,176 @@
   "txt": "files/toh995.txt",
   "link84000": "",
   "date": "2026-11-10"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 996,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called Mother of All Dharmas",
+  "sanskrit": "Āryasarvadharmamātṛkānāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Dhāraṇī Called Mother of All Dharmas, known in Sanskrit as the Āryā Sarvadharmamātṛkā Nāma Dhāraṇī and in Tibetan as Phakpa Chö Thamché Kyi Yum Shejawé Zung, is a short scripture centered on a protective incantation. Set at Śrāvastī, it opens with the Buddha instructing his attendant Ānanda to retain this dhāraṇī, which he describes as having been spoken by all the tathāgatas and as having the power to completely pacify all illnesses. The gods of the Pure Abodes then come forward and offer to recite the heart of the dhāraṇī, adding their own formula to the Buddha's teaching. This work is Toh 996 in the Kangyur, where it belongs to the class of dhāraṇī texts, the collections of sacred formulas valued for their healing and protective efficacy.",
+  "pdf": "files/toh996.pdf",
+  "txt": "files/toh996.txt",
+  "link84000": "",
+  "date": "2026-11-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 997,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called the Mother of the Planets",
+  "sanskrit": "Āryagrahamātṛkā nāma dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Cosmology"
+  ],
+  "explainer": "The Noble Dhāraṇī Called the Mother of the Planets, known in Sanskrit as Āryagrahamātṛkā nāma dhāraṇī and in Tibetan as Phakpa Za Yum Zhejawé Zung, is a dhāraṇī scripture centered on the goddess revered as the Mother of the Planets. It opens in the great city of Aṭakāvatī, where the Buddha sits on a lion throne among bodhisattvas such as Vajrapāṇi. He is praised by a vast assembly of gods, nāgas, yakṣas, and other beings, including the Sun, the Moon, the planets, Rāhu, Ketu, and the twenty-eight lunar mansions. The text concerns the protective power of this goddess's dhāraṇī to pacify the harmful influences of the planets and other celestial forces, making it a significant work for Buddhist practices connected with astrology and protection. It is Toh 997 in the Kangyur, where it is classed among the dhāraṇī texts, the collection of incantations and protective formulas preserved in the Tibetan canon.",
+  "pdf": "files/toh997.pdf",
+  "txt": "files/toh997.txt",
+  "link84000": "",
+  "date": "2026-11-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 998,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called Mother of the Planets",
+  "sanskrit": "Grahamātṛkā-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Cosmology"
+  ],
+  "explainer": "The Dhāraṇī Called Mother of the Planets, known in Sanskrit as the Grahamātṛkā Dhāraṇī and in Tibetan as gza' rnams kyi yum zhes bya ba'i gzungs, is a dhāraṇī scripture concerned with the planetary and astral forces that were believed to shape human fortune. It opens in the great city of Aḍakavatī, where the Blessed One sits upon the vajra throne. He is praised by gods, nāgas, yakṣas and other spirits, and by the celestial bodies themselves, including the Sun, the Moon, the planets, Rāhu, the Ketus, and the twenty-eight lunar mansions. He is surrounded by an assembly of bodhisattvas headed by Vajrapāṇi and other vajra-named great beings. The text presents a protective incantation meant to pacify the influence of these heavenly bodies and to bring well-being to those who recite it. It is Toh 998 in the Kangyur, where it belongs to the collection of dhāraṇī texts, the class of works devoted to powerful spoken formulas for protection and blessing.",
+  "pdf": "files/toh998.pdf",
+  "txt": "files/toh998.txt",
+  "link84000": "",
+  "date": "2026-11-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 999,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī of the Eight Goddesses",
+  "sanskrit": "Āryāṣṭadevīdhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Noble Dhāraṇī of the Eight Goddesses, known in Sanskrit as the Āryāṣṭadevīdhāraṇī and in Tibetan as 'Phags pa lha mo brgyad kyi gzungs, is a brief incantatory scripture in which the bodhisattva Vajrapāṇi proclaims a powerful dhāraṇī-mantra. The text praises this mantra as a supreme great queen among dhāraṇīs and as the mother of the tathāgatas, a feminine power said to purify all wrongdoing, pacify every illness, destroy all obstructing forces, and bring about every kind of excellence. After a short homage to all the buddhas and bodhisattvas, the work consists mainly of the mantra itself, followed by a statement naming it as the dhāraṇī of a particular blessed goddess. It is Toh 999 in the Kangyur, where it belongs to the large class of dhāraṇī texts, the short works of protective and purifying recitation that are gathered together in the canon's collection of dhāraṇīs.",
+  "pdf": "files/toh999.pdf",
+  "txt": "files/toh999.txt",
+  "link84000": "",
+  "date": "2026-11-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1000,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Hundred and Eight Names of the Venerable Noble Tārā",
+  "sanskrit": "Āryatārābhaṭṭārikānāmāṣṭaśataka",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Verse",
+   "Devotional",
+   "Mantra"
+  ],
+  "explainer": "The Hundred and Eight Names of the Venerable Noble Tārā, known in Sanskrit as the Āryatārābhaṭṭārikānāmāṣṭaśataka and in Tibetan as rje btsun 'phags ma sgrol ma'i mtshan brgya rtsa brgyad pa, is a short devotional text in praise of the female buddha Tārā, renowned as a swift protector and liberator from fear and suffering. After an opening homage, the text is set on Mount Potala, a richly described paradise of flowering trees, waterfalls, singing birds, and celestial beings, frequented by sages and hosts of bodhisattvas. Against this backdrop it presents a litany of Tārā's epithets, a form of recitation traditionally valued for invoking her blessings and protection. It is Toh 1000 in the Kangyur, where it belongs among the shorter tantric and dhāraṇī-style texts centered on the praise and invocation of a deity.",
+  "pdf": "files/toh1000.pdf",
+  "txt": "files/toh1000.txt",
+  "link84000": "",
+  "date": "2026-11-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1001,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of Noble Tārā",
+  "sanskrit": "Āryatārādhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Dhāraṇī of Noble Tārā, which may be rendered in Sanskrit as Āryatārādhāraṇī and in Tibetan as 'Phags ma sgrol ma'i gzungs, is a very brief incantation text devoted to the female bodhisattva Tārā. After paying homage to the Three Jewels and to the noble Avalokiteśvara, the great compassionate bodhisattva, it presents a single mantra built on Tārā's characteristic syllables, tāre tuttare ture. The mantra calls on her to crush, immobilize, bewilder, and bind all malevolent and hostile forces on behalf of the reciter. The work is Toh 1001 in the Kangyur, where it belongs to the class of dhāraṇī texts, the short protective spells gathered in the canon's compendium of dhāraṇīs.",
+  "pdf": "files/toh1001.pdf",
+  "txt": "files/toh1001.txt",
+  "link84000": "",
+  "date": "2026-11-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1002,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called \"The Vow Made by Noble Tārā Herself\"",
+  "sanskrit": "Āryatārāsvapratijñā-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Dhāraṇī Called \"The Vow Made by Noble Tārā Herself,\" known in Sanskrit as the Ārya Tārā Svapratijñā Nāma Dhāraṇī and in Tibetan as Pakma Drolma Rang Gi Damchepa Zhejawai Zung, is a short dhāraṇī text devoted to the female bodhisattva Tārā. After an homage to Noble Tārā, it presents her speaking a dhāraṇī-mantra that embodies the vow she herself made, and it extols its power: simply calling it to mind is said to dispel all fears, bring every accomplishment, and place all beings under the practitioner's influence. It then gives brief ritual instructions tied to auspicious days of the waxing moon, such as the eighth and fifteenth. This work is Toh 1002 in the Kangyur, where it belongs to the class of dhāraṇī texts, the collection of incantations and protective formulas preserved in the Tibetan canon.",
+  "pdf": "files/toh1002.pdf",
+  "txt": "files/toh1002.txt",
+  "link84000": "",
+  "date": "2026-11-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1003,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Great Queen of Vidyā-Mantras Called Jayavatī",
+  "sanskrit": "Āryajayavatīnāmamahāvidyārājñī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Great Queen of Vidyā-Mantras Called Jayavatī, known in Sanskrit as Āryajayavatīnāmamahāvidyārājā and in Tibetan as Phakma Rikngak kyi Gyalmo Chenmo Gyalwa Chen, is a short scripture centered on a protective incantation personified as the great queen of spells, Jayavatī, \"the Victorious One.\" It opens with the Buddha dwelling on Mount Videha at a time when faithless gods, nāgas, yakṣas, rākṣasas, and many other spirits have grown agitated and are harming monks, nuns, and lay followers devoted to the Three Jewels. Moved by great compassion, the Buddha surveys the four directions, sees lightning, hail, torrential rain, and falling meteors bearing down, and responds by teaching a powerful vidyā-mantra to pacify these threats and protect his followers. It is Toh 1003 in the Kangyur, where it belongs to the class of dhāraṇī texts, the collection of incantations and protective formulas valued for warding off harm and calamity.",
+  "pdf": "files/toh1003.pdf",
+  "txt": "files/toh1003.txt",
+  "link84000": "",
+  "date": "2026-11-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1004,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called Jayavatī",
+  "sanskrit": "Āryajayavatīnāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Dhāraṇī Called Jayavatī, known in Sanskrit as the Ārya Jayavatī Nāma Dhāraṇī and in Tibetan as Pakpa Gyalwachen, is a short scripture centered on a protective incantation described as a \"great queen of spells.\" It opens on Vulture Peak near Rājagṛha, where the Buddha is staying with a thousand monks, and Vajrapāṇi, the great general of the yakṣas, approaches and asks him to proclaim this spell out of loving care for all beings and for the welfare and happiness of the kings of men. Its focus on victory and protection, especially for rulers, reflects the practical aims common to this kind of literature. The work is Toh 1004 in the Kangyur, where it belongs among the dhāraṇī texts, the collection of scriptures devoted to sacred spells and their recitation.",
+  "pdf": "files/toh1004.pdf",
+  "txt": "files/toh1004.txt",
+  "link84000": "",
+  "date": "2026-11-11"
  },
  {
   "corpus": "kangyur",
