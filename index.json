@@ -2078,16 +2078,19 @@
   "corpus": "kangyur",
   "toh": 123,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Words of the dharma the treasury of the buddhas",
+  "state": "translated",
+  "title": "The Dharma Text of the Buddha's Treasury",
   "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Doctrinal"
+  ],
+  "explainer": "The Dharma Text of the Buddha's Treasury, known in Tibetan as Sangs rgyas kyi mdzod kyi chos kyi yi ge, is a Mahāyāna sūtra that also bears the alternative title The Instruction Given on All Phenomena. Set on Vulture Peak Mountain near Rājagṛha before a great assembly of monks and countless bodhisattvas, it opens with Śāriputra rising from meditation to question the Buddha about his teaching that all phenomena are without arising, without cessation, and without characteristics. The Buddha's response unfolds across chapters that explain the \"Buddha's Treasury,\" beginning with an exploration of the true characteristic of all phenomena. The work is Toh 123 in the Kangyur, where it belongs among the general sūtras of the Great Vehicle.",
+  "pdf": "files/toh123.pdf",
+  "txt": "files/toh123.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-11-12"
  },
  {
   "corpus": "kangyur",
@@ -17713,6 +17716,176 @@
   "txt": "files/toh1004.txt",
   "link84000": "",
   "date": "2026-11-11"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1005,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Sūtra of Mahālakṣmī",
+  "sanskrit": "Āryamahālakṣmīsūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Noble Sūtra of Mahālakṣmī, known in Sanskrit as the Āryamahālakṣmīsūtra and in Tibetan as Pakpa Pal Chenmö Do, is a brief scripture centered on the goddess of fortune and prosperity, Mahālakṣmī. Set in the pure land of Sukhāvatī, it opens as the bodhisattva Avalokiteśvara approaches the Blessed One. The Buddha then turns his attention toward Mahālakṣmī and declares that anyone who knows her twelve names will cast off poverty and become wealthy, whether a monk, nun, layman, laywoman, or anyone else. The same blessing extends to those who hold, read, write, or have the names written. The text is Toh 1005 in the Kangyur, where it belongs among the short dhāraṇī-style works that pair a sacred formula or list of names with promised benefits for those who recite and preserve it.",
+  "pdf": "files/toh1005.pdf",
+  "txt": "files/toh1005.txt",
+  "link84000": "",
+  "date": "2026-11-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1006,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Twelve Names of the Goddess Śrī",
+  "sanskrit": "Śrīdevīdvādaśanāma",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Twelve Names of the Goddess Śrī, known in Tibetan as Pal gyi Lhamo'i Tsen Chunyipa, is a short scripture devoted to Śrī, or Lakṣmī, the great goddess of fortune and prosperity. It opens in the realm of Sukhāvatī, where the bodhisattva Avalokiteśvara and the great goddess Śrī, herself honored here as a bodhisattva and great being, come before the Blessed One. The Buddha then turns to Avalokiteśvara to teach the benefits that will come to monks, nuns, lay followers, or any being who keeps and recites the goddess's twelve names, which are held to bring good fortune and remove poverty and misfortune. The text is Toh 1006 in the Kangyur, where it belongs among the dhāraṇī texts, the collection of brief scriptures centered on sacred formulas and recitations.",
+  "pdf": "files/toh1006.pdf",
+  "txt": "files/toh1006.txt",
+  "link84000": "",
+  "date": "2026-11-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1007,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called Vasudhārā",
+  "sanskrit": "Āryavasudhārānāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Dhāraṇī Called Vasudhārā, known in Sanskrit as Āryavasudhārānāmadhāraṇī and in Tibetan as Phakpa Nor gyi Gyün zhejawé Zung, is a short scripture centered on a dhāraṇī, a sacred incantation associated with Vasudhārā, the goddess whose name means \"stream of wealth.\" The text opens at Kauśāmbī, where the Buddha is staying in the Kaṇṭaka forest with a great assembly of monks and bodhisattvas, and a faithful householder named Sucandra, who supports a large family, comes to him for help. In response, the Buddha teaches the Vasudhārā dhāraṇī as a means of bringing prosperity, abundance, and relief from poverty, while placing these material blessings within a framework of faith and the Buddhist path. The work is Toh 1007 in the Kangyur, where it belongs to the collection of dhāraṇī texts, a class of scriptures devoted to protective and beneficial incantations.",
+  "pdf": "files/toh1007.pdf",
+  "txt": "files/toh1007.txt",
+  "link84000": "",
+  "date": "2026-11-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1008,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Vidyā-Mantra Called Purifying the Eye",
+  "sanskrit": "Ārya-cakṣurviśodhanī-nāma-vidyāmantra",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Narrative",
+   "Ritual"
+  ],
+  "explainer": "The Noble Vidyā-Mantra Called Purifying the Eye, known in Sanskrit as Āryacakṣurviśodhanī nāma vidyāmantra and in Tibetan as Pakpa Mik Nampar Jongwa Zhejawé Rikngak, is a short scripture centered on a vidyāmantra, a spell of awareness, whose title points to the purification and healing of the eyes. It opens in the classic sutra manner, with the Blessed One staying among the Śākyas, and introduces a devout Śākya named Sukha, whose unwavering faith in the Buddha, the Dharma, and the Saṅgha is described at length and sets the scene for the teaching of the mantra. Works of this kind present protective and healing formulas within the framework of the Buddha's teaching, offering practical benefit to those who recite them with faith. The text is Toh 1008 in the Kangyur, where it belongs among the dhāraṇī and mantra texts gathered in the canon's collection of incantations.",
+  "pdf": "files/toh1008.pdf",
+  "txt": "files/toh1008.txt",
+  "link84000": "",
+  "date": "2026-11-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1009,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called \"Completely Purifying All Karmic Obscurations\"",
+  "sanskrit": "Ārya-sarvakarmāvaraṇaviśodhanī-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Noble Dhāraṇī Called Completely Purifying All Karmic Obscurations, known in Sanskrit as the Ārya Sarvakarmāvaraṇaviśodhanī Nāma Dhāraṇī and in Tibetan as Phakpa Le Kyi Dripa Tamche Nampar Jongwa Shyejawé Zung, is a brief incantation text centered on a single dhāraṇī-mantra. Opening with homage to the Tathāgata Akṣobhya, it presents the mantra and then explains its rite and benefits. Constant recitation is said to purify karma carried from life to life, and recitation three times a day to purify even the five acts of immediate retribution. A single recitation is said to dispel bad omens and nightmares, and the text also praises the protective power of wearing the written mantra on the body. It is Toh 1009 in the Kangyur, where it belongs to the collection of dhāraṇī texts.",
+  "pdf": "files/toh1009.pdf",
+  "txt": "files/toh1009.txt",
+  "link84000": "",
+  "date": "2026-11-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1010,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī-Mantra That Dispels All Obstacles",
+  "sanskrit": "Ārya-sarvāntarasaṃgrāsa-dhāraṇī-mantra",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Dhāraṇī-Mantra That Dispels All Obstacles, known in Sanskrit as the Ārya Sarvāntarasaṃgrāsa Dhāraṇī Mantra and in Tibetan as Pakpa Bardu Chöpa Tamché Selwé Zung Ngak, is a short dhāraṇī text in which the Blessed One addresses the bodhisattva Vajrapāṇi about the protective power of a sacred incantation. The Buddha explains that anyone who upholds, carries, and recites this dhāraṇī-mantra will not fall prey to the thirteen kinds of untimely death, among them poison, weapons, starvation, wild beasts, fire, drowning, epidemics, incurable disease, falls, sorcery, choking, and suicide, and goes on to describe further protections against hostile and dangerous beings. Its concern is thus the removal of obstacles and the safeguarding of life through devoted recitation. The work is Toh 1010 in the Kangyur, where it belongs to the collection of dhāraṇī texts gathered among the tantric scriptures.",
+  "pdf": "files/toh1010.pdf",
+  "txt": "files/toh1010.txt",
+  "link84000": "",
+  "date": "2026-11-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1011,
+  "suffix": "",
+  "state": "translated",
+  "title": "Thorough Purification of Offerings",
+  "sanskrit": "Dakṣiṇāpariśodhanī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Thorough Purification of Offerings, known in Sanskrit as the Dakṣiṇāpariśodhanī and in Tibetan as Yon yongs su sbyong ba, is a brief dhāraṇī text concerned with purifying the offerings that donors make to the religious community. After paying homage to all buddhas and bodhisattvas, to the tathāgata Samantaprabharāja, and to the bodhisattva Mañjuśrīkumārabhūta, it presents a short incantation whose recitation, even once, is said to purify all misdeeds and cleanse offerings that need purifying. It goes on to explain that this practice causes the donor's offerings, and the merit accumulated through them, to increase. The work is Toh 1011 in the Kangyur, where it belongs among the collection of dhāraṇīs, the short incantations and their accompanying instructions preserved in the tantra section of the canon.",
+  "pdf": "files/toh1011.pdf",
+  "txt": "files/toh1011.txt",
+  "link84000": "",
+  "date": "2026-11-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1012,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī for Purifying Offerings",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Dhāraṇī for Purifying Offerings, known in Tibetan as Yon yongs su sbyong ba'i gzungs, is a very brief dhāraṇī text that gives a single incantation for purifying offerings, especially gifts received in faith. The dhāraṇī pays homage to the Tathāgata Sumeru Kalparāja, the \"King of Aeons like Mount Meru,\" and then invokes purification with the words kalpe, kalpe, mahākalpe. The text explains that reciting it just once purifies offerings as vast as Mount Meru, and so it advises reciting it about five or six times. It is Toh 1012 in the Kangyur, where it belongs among the short dhāraṇī texts, the class of works preserving spells and incantations for recitation.",
+  "pdf": "files/toh1012.pdf",
+  "txt": "files/toh1012.txt",
+  "link84000": "",
+  "date": "2026-11-12"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1013,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī of the Blessed One, the Tathāgata Who Completely Clears Away All Lower Realms, the Arhat, the Perfectly Complete Buddha",
+  "sanskrit": "Sarvadurgatipariśodhanī-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Dhāraṇī of Purifying All Lower Realms, whose Sanskrit title likely corresponds to Sarvadurgatipariśodhana, is a very brief scripture centered on the Tathāgata whose name in Tibetan, Ngensong Tamché Yongsu Selwa, means \"He Who Completely Clears Away All Lower Realms.\" After paying homage to this buddha, the text gives a short mantra-like incantation, or dhāraṇī, that calls for the purification of all negative deeds and karmic obscurations. It then describes the benefits of memorizing and retaining even a portion of the dhāraṇī: the ability to remember past lives across vast stretches of time, the purification of karmic obscurations, swift attainment of irreversibility on the path, and merit that remains inexhaustible until one reaches awakening. This work is Toh 1013 in the Kangyur, where it belongs among the dhāraṇī texts, the class of short incantation scriptures valued for their protective and purifying power.",
+  "pdf": "files/toh1013.pdf",
+  "txt": "files/toh1013.txt",
+  "link84000": "",
+  "date": "2026-11-12"
  },
  {
   "corpus": "kangyur",
