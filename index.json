@@ -2216,16 +2216,20 @@
   "corpus": "kangyur",
   "toh": 132,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra on the samadhi of valiant progress",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra called The Samādhi of Heroic Progress",
+  "sanskrit": "Āryaśūraṅgamasamādhināmamahāyānasūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Meditation",
+   "Doctrinal"
+  ],
+  "explainer": "The Noble Great Vehicle Sūtra called The Samādhi of Heroic Progress, known in Sanskrit as the Ārya Śūraṅgamasamādhi Nāma Mahāyāna Sūtra and in Tibetan as Pakpa Pawar Drowé Tingngedzin, is a Mahāyāna sūtra devoted to a powerful meditative absorption, the \"heroic progress\" samādhi, through which bodhisattvas advance fearlessly along the path to awakening. The discourse opens on Vulture Peak near Rājagṛha, where the Buddha is accompanied by a vast assembly of monks and tens of thousands of bodhisattvas, praised for their higher knowledges, unfailing memory, inexhaustible eloquence, and steady meditative stability. In this setting the text explores the nature and qualities of this samādhi and the remarkable abilities of those who attain it. It is Toh 132 in the Kangyur, where it belongs to the collection of general Mahāyāna sūtras. It should not be confused with the similarly named Śūraṅgama Sūtra of the Chinese tradition, which is a different work.",
+  "pdf": "files/toh132.pdf",
+  "txt": "files/toh132.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-11-14"
  },
  {
   "corpus": "kangyur",
@@ -18057,6 +18061,25 @@
  },
  {
   "corpus": "kangyur",
+  "toh": 1023,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Thoroughly Pacifying All Misdeeds",
+  "sanskrit": "Sarvapāpapraśamanadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "Thoroughly Pacifying All Misdeeds is a very brief dhāraṇī text whose Sanskrit and Tibetan titles are not given in the opening lines. After homage to the Three Jewels and to the Buddha as Tathāgata, arhat, and perfectly complete Buddha, it consists almost entirely of a single incantation. The incantation calls upon Mañjuśrī in his youthful form, urging him to come quickly, to free the reciter from all suffering, and to destroy their negative deeds. As its title suggests, the text is meant to purify and pacify harmful actions through recitation. It is Toh 1023 in the Kangyur, where it belongs among the collected dhāraṇīs, the short ritual formulas preserved in the tantric portion of the canon.",
+  "pdf": "files/toh1023.pdf",
+  "txt": "files/toh1023.txt",
+  "link84000": "",
+  "date": "2026-11-14"
+ },
+ {
+  "corpus": "kangyur",
   "toh": 1024,
   "suffix": "",
   "state": "at84000",
@@ -18069,6 +18092,173 @@
   "txt": "",
   "link84000": "https://84000.co/translation/toh1024",
   "date": ""
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1025,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī That Pacifies Anger",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Dhāraṇī That Pacifies Anger, known in Tibetan as Khro ba zhi bar byed pa'i gzungs, is a very brief ritual text centered on a single mantra invoking the Blessed One to subdue, stupefy, and calm all wrath. After an opening homage to the Three Jewels, it gives the mantra and a simple instruction: sitting facing east, one recites it, wipes one's face seven times with one's own hand, and then enters a gathering, whereupon those who are angry will become joyful. Its practical aim is to dissolve hostility and bring harmony to social encounters. The work is Toh 1025 in the Kangyur, where it belongs among the collection of dhāraṇī texts, the short incantations and protective formulas preserved in the Tibetan canon.",
+  "pdf": "files/toh1025.pdf",
+  "txt": "files/toh1025.txt",
+  "link84000": "",
+  "date": "2026-11-14"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1026,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī That Pacifies Anger",
+  "sanskrit": "Ārya Krodhapraśamanī Dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Noble Dhāraṇī That Pacifies Anger, known in Tibetan as Pakpa Tröpa Shiwar Jepé Zung, is a very short incantation text whose Sanskrit title is not securely attested but would correspond to a noble dhāraṇī for the pacification of anger. After a brief homage to Mahāśrī, the Great Glorious One, it gives a single mantra and explains its use: when recited in the presence of someone who is angry, that person's anger will be calmed, and he will be drawn favorably toward the one reciting it. It is Toh 1026 in the Kangyur, where it belongs to the collection of dhāraṇī texts, the brief spells and protective formulas valued for their practical, everyday benefits.",
+  "pdf": "files/toh1026.pdf",
+  "txt": "files/toh1026.txt",
+  "link84000": "",
+  "date": "2026-11-14"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1027,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of Powerful Speech is a brief ritual incantation that opens with hom",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Dhāraṇī of Powerful Speech is a brief ritual incantation that opens with homage to the Three Jewels and a short mantra invoking the Blessed One as the uṣṇīṣa, the crown protuberance of a buddha. Its Sanskrit and Tibetan titles cannot be determined with confidence from the surviving title lines. The text promises that its formula works even without prior practice. It then sets out a series of simple practical rites. Reciting it over bezoar and marking the forehead, or over eye ointment applied to the eyes, makes others well disposed toward the practitioner. Reciting it over a handful of water and drinking it brings food without begging. Reciting it while holding the hem of one's garment before entering an assembly makes one's words prevail over all others. It is Toh 1027 in the Kangyur, where it belongs among the many short dhāraṇī texts that offer protective and worldly benefits through the recitation of sacred formulas.",
+  "pdf": "files/toh1027.pdf",
+  "txt": "files/toh1027.txt",
+  "link84000": "",
+  "date": "2026-11-14"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1028,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī for Protecting Oneself",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Dhāraṇī for Protecting Oneself is a very brief protective incantation from the Buddhist tradition. After a homage to the Three Jewels, it gives a short mantra and a simple ritual instruction. The practitioner faces the sun, recites the mantra seven times over water, and then scatters the water in the ten directions to secure personal protection. The source lines do not clearly preserve its Sanskrit and Tibetan titles, but the text identifies itself by this name in its closing line. It is Toh 1028 in the Kangyur, where it belongs to the large class of dhāraṇī texts, short spells and formulas valued for their protective power.",
+  "pdf": "files/toh1028.pdf",
+  "txt": "files/toh1028.txt",
+  "link84000": "",
+  "date": "2026-11-14"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1029,
+  "suffix": "",
+  "state": "translated",
+  "title": "Homage to the King of Lunar Days, Constellations, and Moments",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Dhāraṇī for Accomplishing All Aims is a very short incantation text, known in Tibetan under a title that expresses the same idea of bringing every purpose to fulfillment. After paying homage to the Three Jewels, it honors a buddha called the King of Lunar Days, Constellations, and Moments, a name that evokes the astrological reckoning of auspicious times. It then gives a brief Sanskrit dhāraṇī invoking the constellations and lunar days, followed by a simple rite: anyone about to set out in any direction should recite the formula seven times before departing, and all their aims will be accomplished. The work is Toh 1029 in the Kangyur, where it belongs to the collection of dhāraṇī texts, the short protective and beneficial spells gathered within the tantra section of the canon.",
+  "pdf": "files/toh1029.pdf",
+  "txt": "files/toh1029.txt",
+  "link84000": "",
+  "date": "2026-11-14"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1030,
+  "suffix": "",
+  "state": "translated",
+  "title": "This short work, catalogued without a clearly preserved title in its opening lin",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "This short work, catalogued without a clearly preserved title in its opening lines, is a dhāraṇī, a sacred incantation in Sanskrit-based syllables, introduced by homage to the Three Jewels, the Buddha, the Dharma, and the Saṅgha. After the spell itself, which invokes a series of goddess-like names and leaves blanks where the practitioner inserts the name of the person concerned, the text sets out a brief rite. It claims that merely reading or recalling the formula accomplishes all aims without further practice. It promises protection from brain diseases, fevers, and harmful spirits such as vetālas and grahas, along with everyday benefits like obtaining food when hungry and prevailing in debate. It is Toh 1030 in the Kangyur, where it belongs among the collected dhāraṇī texts, short ritual and protective formulas valued for their practical and apotropaic power.",
+  "pdf": "files/toh1030.pdf",
+  "txt": "files/toh1030.txt",
+  "link84000": "",
+  "date": "2026-11-14"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1031,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī for Obtaining Garments",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Dhāraṇī for Obtaining a Hundred Garments is a very brief ritual text from the Kangyur's collection of dhāraṇīs. It opens with homage to the Three Jewels and to the fierce Vajrapāṇi, called here the great general of the yakṣas. It then gives a short mantra-like incantation and explains how to use it: one recites it a thousand times over a single set of garments and then gives the garments to a noble person, a teacher, or anyone else, and within half a month one will receive a hundred sets in return. The same practice is said to bring wealth, food, and livestock, so the text belongs to the class of practical dhāraṇīs that promise worldly prosperity through generosity. It is Toh 1031 in the Kangyur, and its original Sanskrit and Tibetan titles are not stated in the opening lines given here.",
+  "pdf": "files/toh1031.pdf",
+  "txt": "files/toh1031.txt",
+  "link84000": "",
+  "date": "2026-11-14"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1032,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī That Causes Displeasure",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "This brief work, known in English as The Dhāraṇī That Causes Displeasure, is listed as Toh 1032 in the Kangyur, where it belongs to the class of dhāraṇī texts, the collection of incantations and spells preserved within the canon. Its Sanskrit and Tibetan titles are not stated in the opening lines, and the text itself is extremely short. After a homage to the Three Jewels, it gives a single mantra together with a ritual instruction: by reciting the mantra over tooth powder and placing the powder in one's mouth, anyone one looks at will become pleased. The gap between its closing title, which speaks of displeasure, and its stated effect of pleasing others is notable, and it may reflect the way such short practical spells were named and transmitted. Like many works in this section of the Kangyur, it is a compact, practice-oriented formula meant for a specific worldly purpose, here winning the favor of others.",
+  "pdf": "files/toh1032.pdf",
+  "txt": "files/toh1032.txt",
+  "link84000": "",
+  "date": "2026-11-14"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1033,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble One Called \"Pleasing\"",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble One Called \"Pleasing,\" known in Tibetan as Phakpa Yidu Ongwa Zhejawa and concluding under the name The Pleasing Dhāraṇī, is a very brief ritual text built around a short mantra addressed to the uṣṇīṣa, the crown protuberance of a buddha. After an opening homage to the buddhas, it gives the mantra and says it works through recitation alone, without any prior practice. It then describes several simple applications. Reciting the mantra one hundred and eight times over bezoar and marking the forehead makes one pleasing to everyone. Applying an empowered substance to the eyes causes others to look on one with favor. Drinking water over which the mantra has been recited leads others to offer food and hold one dear. A Sanskrit title for the work is not clearly attested, so it is best described simply as a dhāraṇī of attraction and goodwill. It is Toh 1033 in the Kangyur, where it belongs among the dhāraṇī texts, the collection of short incantations valued for their protective and practical benefits.",
+  "pdf": "files/toh1033.pdf",
+  "txt": "files/toh1033.txt",
+  "link84000": "",
+  "date": "2026-11-14"
  },
  {
   "corpus": "kangyur",
