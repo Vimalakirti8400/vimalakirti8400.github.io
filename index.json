@@ -2235,16 +2235,20 @@
   "corpus": "kangyur",
   "toh": 133,
   "suffix": "",
-  "state": "awaiting",
-  "title": "The sutra on the samadhi in which the buddhas of the present all stand before one",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The Noble Great Vehicle Sūtra called The Samādhi in Which the Buddhas of the Present Stand Directly Before One",
+  "sanskrit": "Ārya-pratyutpanna-buddha-saṃmukhāvasthita-samādhi-nāma-mahāyāna-sūtra",
+  "category": "Discourses (Sūtra)",
+  "tags": [
+   "Prose",
+   "Meditation",
+   "Doctrinal"
+  ],
+  "explainer": "The Noble Great Vehicle Sūtra called The Samādhi in Which the Buddhas of the Present Stand Directly Before One, known in Sanskrit as the Pratyutpannabuddhasaṃmukhāvasthitasamādhi Sūtra and in Tibetan as Phakpa Datar Gyi Sangye Ngönsum Du Zhukpé Tingngé Dzin, is a Mahāyāna discourse on a meditative absorption through which a practitioner comes to behold the buddhas of the present age as if they were standing right before them. Set at Rājagṛha in the Bamboo Grove at the Kalandaka Feeding Place, where the Buddha dwells with a great assembly of arhat monks, the sūtra explains how this samādhi is cultivated, the qualities and conduct that support it, and the insight into emptiness that accompanies such visionary encounters. It is regarded as one of the earliest Mahāyāna scriptures and is especially remembered for its teaching on visualizing the Buddha Amitābha, which made it influential in later devotional and meditative traditions. In the Tibetan canon it is Toh 133 in the Kangyur, where it belongs among the general sūtras of the Great Vehicle.",
+  "pdf": "files/toh133.pdf",
+  "txt": "files/toh133.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-11-16"
  },
  {
   "corpus": "kangyur",
@@ -2362,6 +2366,25 @@
   "txt": "files/toh140.txt",
   "link84000": "",
   "date": "2026-06-18"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 141,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called Six Doors",
+  "sanskrit": "Ārya-ṣaṇmukha-nāma-dhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Prose",
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Noble Dhāraṇī Called Six Doors, known in Sanskrit as the Ārya Ṣaḍmukha Nāma Dhāraṇī and in Tibetan as Phakpa Go Drukpa Zhejawé Zung, is a short dhāraṇī text, a formula meant to be memorized and recited for spiritual benefit. It opens with homage to the youthful Mañjuśrī and is set in a jeweled assembly courtyard suspended in the sky above the Pure Abodes, where the Buddha addresses a vast gathering of bodhisattvas. He urges them to take up this dhāraṇī for the benefit and happiness of all beings. Rather than a string of mantric syllables, the dhāraṇī takes the form of a series of aspirations, beginning with the wish that whatever suffering one meets throughout cyclic existence never be marked by ignorance of its sameness with all beings. The text is Toh 141 in the Kangyur, where it is placed among the general sūtras.",
+  "pdf": "files/toh141.pdf",
+  "txt": "files/toh141.txt",
+  "link84000": "",
+  "date": "2026-11-16"
  },
  {
   "corpus": "kangyur",
@@ -18447,6 +18470,213 @@
   "txt": "files/toh1043.txt",
   "link84000": "",
   "date": "2026-11-15"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1044,
+  "suffix": "",
+  "state": "translated",
+  "title": "Dhāraṇī for Not Forgetting (The Dhāraṇī of Avalokiteśvara for Retention)",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Dhāraṇī for Learning a Thousand Ślokas is a brief incantation text that pairs a short mantra with a simple ritual recipe for strengthening memory and learning. After paying homage to the Three Jewels and to the bodhisattva Avalokiteśvara, the great being endowed with great compassion, it gives a dhāraṇī invoking the powers of intelligence, radiance, and the retention of what one has heard. It then instructs the practitioner to grind the medicinal herb brāhmī, boil it in milk, recite the mantra over it twenty-one times, and drink it for seven days, promising that one will retain whatever one hears, whether the words of the Buddha or a treatise, and will be able to learn a thousand verses in a single day and night. The work is Toh 1044 in the Kangyur, where it belongs among the dhāraṇī texts, the class of short scriptures centered on spells and mnemonic formulas for protection, blessing, and practical benefit.",
+  "pdf": "files/toh1044.pdf",
+  "txt": "files/toh1044.txt",
+  "link84000": "",
+  "date": "2026-11-16"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1045,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī for Learning a Thousand Ślokas is a brief ritual text devoted to the",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Dhāraṇī for Learning a Thousand Ślokas is a brief ritual text devoted to the noble bodhisattva Avalokiteśvara, intended to strengthen memory and the capacity for learning. After paying homage to the Three Jewels and to Avalokiteśvara, it gives a short Sanskrit incantation and then a simple rite. The practitioner makes a maṇḍala before an image of the bodhisattva, presents whatever offerings are available, and consecrates water with the mantra. Each morning the mantra is recited seven times over the water, and food taken with milk is blessed with it. The text promises that after seven days one will be able to learn as many as a thousand verses in a single day, with reassuring signs of success. It is Toh 1045 in the Kangyur, where it belongs among the dhāraṇī texts, the short works of protective and beneficial incantations found within the tantra section of the canon.",
+  "pdf": "files/toh1045.pdf",
+  "txt": "files/toh1045.txt",
+  "link84000": "",
+  "date": "2026-11-16"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1046,
+  "suffix": "",
+  "state": "translated",
+  "title": "This brief work, known in English as the Dhāraṇī for Mastering a Thousand Ślokas",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "This brief work, known in English as the Dhāraṇī for Mastering a Thousand Ślokas, is a short incantation text devoted to the bodhisattva Avalokiteśvara, the great being endowed with great compassion. After paying homage to the Three Jewels, the Buddha, and Avalokiteśvara, it presents a compact mantra along with simple ritual instructions. Reciting the mantra seven times over water and washing one's face with it is said to make one pleasing to all people. Reciting it over water placed before Avalokiteśvara, drinking that water, and eating food mixed with milk each morning for seven days is said to grant the ability to master a thousand ślokas of scripture in a single day. The source supplies no complete Sanskrit or Tibetan title, so the work is best identified by its descriptive English name. It is Toh 1046 in the Kangyur, where it belongs to the class of dhāraṇī texts, the collection of spells and protective or empowering formulas.",
+  "pdf": "files/toh1046.pdf",
+  "txt": "files/toh1046.txt",
+  "link84000": "",
+  "date": "2026-11-16"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1047,
+  "suffix": "",
+  "state": "translated",
+  "title": "Avalokiteśvara Dhāraṇī for the Sweet Flag Root Rite",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "This short work, known in English as The Dhāraṇī for Mastering Three Thousand Ślokas, is a brief ritual and incantatory text, a dhāraṇī, dedicated to the noble bodhisattva Avalokiteśvara, the great being endowed with great compassion. After homages to the Three Jewels and to Avalokiteśvara, it gives a short mantra and instructs the practitioner to make a maṇḍala before the bodhisattva, recite the mantra one hundred and eight times over a thumb-sized piece of sweet flag root, and then eat it. The promised result is a rapidly expanding power of memory: a thousand verses mastered on the first day, three thousand after three days, and after seven days the ability to retain whatever one hears. Its Sanskrit and Tibetan titles are not clearly given in the opening lines, though the closing line names it after this power of mastering three thousand ślokas. The text is Toh 1047 in the Kangyur, where it belongs to the collection of dhāraṇī texts, short incantations prized for their practical and protective benefits.",
+  "pdf": "files/toh1047.pdf",
+  "txt": "files/toh1047.txt",
+  "link84000": "",
+  "date": "2026-11-16"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1048,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of Non-forgetting",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Dhāraṇī of Non-forgetting is a very brief incantation text, known in Tibetan by a title meaning \"the dhāraṇī for not forgetting,\" and preserved in the Kangyur as Toh 1048, where it belongs among the dhāraṇī texts. It opens with homage to the Three Jewels and to the bodhisattva Avalokiteśvara, then presents a short Sanskrit mantra invoking memory, mind, and radiant knowledge. The text gives a single practical instruction: one recites the mantra over white sweet flag, a medicinal root long associated with sharpening the mind, and then eats it. Doing so, the text promises, will without doubt enable one to retain whatever one hears. It thus offers a compact ritual aid for memory, valued in a tradition where hearing, remembering, and reciting the teachings were central to study and practice.",
+  "pdf": "files/toh1048.pdf",
+  "txt": "files/toh1048.txt",
+  "link84000": "",
+  "date": "2026-11-16"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1049,
+  "suffix": "",
+  "state": "translated",
+  "title": "Homage to the Three Jewels",
+  "sanskrit": "Ratnatrayanamaskāra",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Devotional"
+  ],
+  "explainer": "The Dhāraṇī for Making Prostrations is a very brief ritual text that opens with homage to the Three Jewels and then teaches a short mantra to be recited before a representation of the Buddha, the Dharma, and the Saṅgha, with a full-length prostration made at each recitation. It promises that three such prostrations bring merit equal to hearing, contemplating, and meditating on the entire Tripiṭaka, and that performing three prostrations every day leads in this very life to the meditative absorption of the wisdom of the path of seeing, while protecting the practitioner from harm by humans, nonhumans, spirits, and epidemic disease until that attainment is reached. The mantra itself invokes Mañjuśrī and auspicious glory. The text is Toh 1049 in the Kangyur, where it belongs to the collection of dhāraṇī texts, the short incantations valued for their protective power and merit-generating practice.",
+  "pdf": "files/toh1049.pdf",
+  "txt": "files/toh1049.txt",
+  "link84000": "",
+  "date": "2026-11-16"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1050,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called \"Invulnerable to Epidemics and Creatures\"",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Dhāraṇī Called \"Invulnerable to Epidemics and Creatures,\" known in Tibetan as Phakpa Rim Dang Sokchak Kyi Mi Tsukpa Zhejawé Zung, is a very brief protective incantation preserved in Tibetan translation. After a homage to the Three Jewels, it presents a single mantra that invokes Parṇaśabarī, a goddess associated with healing and protection from disease. It then gives a simple ritual: the mantra is recited seven times over a bell, and wherever that bell is rung, the place is protected from birds, beasts of prey, insects, rats, and every kind of epidemic illness. The text is Toh 1050 in the Kangyur, where it belongs to the class of dhāraṇī texts, the collected spells and incantations valued for their protective and practical power.",
+  "pdf": "files/toh1050.pdf",
+  "txt": "files/toh1050.txt",
+  "link84000": "",
+  "date": "2026-11-16"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1051,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Pacifier of Poison",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Pacifier of Poison, known in Tibetan as Dug zhi bar byed pa, is a very short dhāraṇī, a protective incantation meant to be recited to neutralize poisons of every kind. It opens with homage to Vasudhārā, here called the goddess of nectar medicine, and then gives a brief mantra followed by a declaration of truth: by the truth and splendor of the buddhas, the poisons of nāgas and snakes, concocted poisons, the poison of breath, the poison of roots, and the venom in the fangs of beasts of prey are all destroyed. Its closing line names it the dhāraṇī that pacifies all poisons, which marks it as a practical, healing and protective formula rather than a doctrinal discourse. It is Toh 1051 in the Kangyur, where it belongs among the dhāraṇī texts, the class of short ritual spells and invocations gathered in the canon for protection, healing, and blessing.",
+  "pdf": "files/toh1051.pdf",
+  "txt": "files/toh1051.txt",
+  "link84000": "",
+  "date": "2026-11-16"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1052,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called \"Luster That Cannot Be Stolen Away\"",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Dhāraṇī Called \"Luster That Cannot Be Stolen Away,\" known in Tibetan as Mdangs phyir mi 'phrog pa, is a very brief protective incantation whose Sanskrit title is not securely attested. It opens with homage to Vaiḍūryaprabha, the buddha whose name means \"Beryl Light,\" and then gives a short mantra in Sanskrit invoking protection. A simple ritual instruction follows: a paste of musk, sweet flag, and a substance called black bhisu is applied as a mark on the throat while the mantra is recited seven times. Done this way, harmful spirits known as bhūtas cannot even look at the person, let alone steal away their vitality and radiance. The work is Toh 1052 in the Kangyur, where it belongs to the collection of dhāraṇī texts, the short spells and incantations valued for protection and practical ritual benefit.",
+  "pdf": "files/toh1052.pdf",
+  "txt": "files/toh1052.txt",
+  "link84000": "",
+  "date": "2026-11-16"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1053,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Terrifying All Māras",
+  "sanskrit": "Āryasarvamārabhayaṃkara",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Noble Text Called Terrifying All Māras, known in Tibetan as Phakpa Dü Tamché Trakpar Jepa, is a very brief dhāraṇī that the colophon also names The Dhāraṇī That Terrifies the Māras. After an opening homage to the Blessed One, Śākyamuni, it presents a single Sanskrit mantra invoking the jewel-like radiance of all the tathāgatas and the essence of the realm of phenomena. It then states the mantra's benefits: when it is recited, the gods of the white side rejoice and offer protection, while the black māras and malicious, haughty spirits are terrified and faint. The work is Toh 1053 in the Kangyur, where it belongs to the collection of dhāraṇī texts, short works centered on protective incantations meant for recitation.",
+  "pdf": "files/toh1053.pdf",
+  "txt": "files/toh1053.txt",
+  "link84000": "",
+  "date": "2026-11-16"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1054,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī-Mantra Called Healing Wounds",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "Healing Wounds, known in Tibetan as Rma ’byor bar byed pa zhes bya ba’i gzungs sngags, is a very brief dhāraṇī-mantra, a short incantation recited for a specific practical benefit; no Sanskrit title is given in the source. After an opening homage to the noble Mañjuśrī, it presents a single mantra and explains that reciting it three times and smearing spittle on the wound will heal many kinds of injury, including wounds from a thrown stone or a weapon, severed blood vessels, and even injuries that have cut into the brain. Texts of this kind reflect the practical, healing side of Buddhist ritual practice, in which spoken formulas are used for protection and recovery. The work is catalogued as Toh 1054 in the Kangyur, where it is among the collection of dhāraṇī texts.",
+  "pdf": "files/toh1054.pdf",
+  "txt": "files/toh1054.txt",
+  "link84000": "",
+  "date": "2026-11-16"
  },
  {
   "corpus": "kangyur",
