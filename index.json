@@ -5983,16 +5983,20 @@
   "corpus": "kangyur",
   "toh": 362,
   "suffix": "",
-  "state": "awaiting",
-  "title": "Kalacakra",
-  "sanskrit": "",
-  "category": "",
-  "tags": [],
-  "explainer": "",
-  "pdf": "",
-  "txt": "",
+  "state": "translated",
+  "title": "The King of Tantras, the Glorious Kālacakra, Issued from the Supreme Primordial Buddha",
+  "sanskrit": "Paramādibuddhoddhṛta Śrīkālacakra Nāma Tantrarāja",
+  "category": "Tantra",
+  "tags": [
+   "Verse",
+   "Root text",
+   "Cosmology"
+  ],
+  "explainer": "The King of Tantras, the Glorious Kālacakra, Issued from the Supreme Primordial Buddha, known in Sanskrit as the Paramādibuddhoddhṛta Śrī Kālacakra Nāma Tantrarāja and in Tibetan as mchog gi dang po'i sangs rgyas las phyung ba rgyud kyi rgyal po dpal dus kyi 'khor lo, is the root scripture of the Kālacakra, or \"Wheel of Time,\" tradition. It opens with King Sucandra bowing before the Buddha, seated on a lion throne, and requesting teachings on the yoga of Kālacakra for the liberation of beings. The tantra presents its vision through interrelated outer, inner, and alternative dimensions. The outer dimension concerns the cosmos and the cycles of time, the inner concerns the subtle body of channels, winds, and drops, and the alternative concerns the practice of initiation, meditation, and the realization of empty form and immutable bliss. It is Toh 362 in the Kangyur, where it belongs to the tantra section among the highest yoga tantras, and it has long been regarded as one of the most comprehensive and influential tantric scriptures in Tibetan Buddhism.",
+  "pdf": "files/toh362.pdf",
+  "txt": "files/toh362.txt",
   "link84000": "",
-  "date": ""
+  "date": "2026-11-19"
  },
  {
   "corpus": "kangyur",
@@ -19136,6 +19140,212 @@
   "txt": "files/toh1079.txt",
   "link84000": "",
   "date": "2026-11-18"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1080,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī That Saves the Preta Jvālāmukha",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Narrative"
+  ],
+  "explainer": "The Dhāraṇī That Saves the Preta Jvālāmukha, known in Tibetan as Yi dgas kha nas me 'bar ba la skyabs mdzad pa'i gzungs, is a short dhāraṇī scripture whose Sanskrit title is associated with the name of the flame-mouthed hungry ghost, Jvālāmukha. It opens with the Buddha teaching in Kapilavastu, while the venerable Ānanda, meditating alone at night, is confronted by a terrifying preta whose mouth blazes with fire and whose throat is as thin as a needle. The preta warns Ānanda that he will die in seven days and be reborn among hungry ghosts. The text goes on to present the protective dhāraṇī and the practice of offering food to pretas, by which beings in that realm are relieved and the practitioner's life and merit are safeguarded. This work is Toh 1080 in the Kangyur, where it belongs among the dhāraṇī texts, the class of scriptures centered on spoken formulas of protection and blessing.",
+  "pdf": "files/toh1080.pdf",
+  "txt": "files/toh1080.txt",
+  "link84000": "",
+  "date": "2026-11-19"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1081,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called Obstructing Generosity",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Prose",
+   "Narrative",
+   "Ethics"
+  ],
+  "explainer": "The Dhāraṇī Called Obstructing Generosity is a short scripture whose title is given only in Tibetan, with no Sanskrit title recorded, which suggests it may have been composed or compiled in Tibet rather than translated from an Indian original. After paying homage to all the buddhas and bodhisattvas, it warns that obstructing the generosity of others brings consequences even worse than stinginess. It illustrates this through a story in which the noble disciples Śāriputra and Maudgalyāyana, while meditating in a remote place, encounter a tormented female hungry ghost whose wretched appearance reveals the karmic results of such conduct. The text is Toh 1081 in the Kangyur, where it belongs among the dhāraṇī texts, a class of works centered on incantations and their associated teachings.",
+  "pdf": "files/toh1081.pdf",
+  "txt": "files/toh1081.txt",
+  "link84000": "",
+  "date": "2026-11-19"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1082,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī for Giving Away the Body's Outflows as an Act of Generosity",
+  "sanskrit": "",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Dhāraṇī for Giving Away the Body's Outflows is a brief ritual text in which the bodily excretions, including saliva, phlegm, nasal mucus, the dirt of the body, excrement, and urine, are offered as an act of generosity to the beings who feed on them. It opens with homage to the Three Jewels and gives a short mantra for each substance, instructing the practitioner to wish that those who eat these things may obtain them, to snap the fingers, and finally to dedicate the resulting merit to awakening for the sake of all sentient beings. According to its colophon, the mantras were extracted from the sūtras and tantras by the master Vajrāsana and translated into Tibetan by Bari Lotsāwa, and the surviving title lines do not clearly establish a formal Sanskrit or Tibetan title. It is Toh 1082 in the Kangyur, where it belongs among the dhāraṇī texts, the collection of short incantations and protective or meritorious formulas.",
+  "pdf": "files/toh1082.pdf",
+  "txt": "files/toh1082.txt",
+  "link84000": "",
+  "date": "2026-11-19"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1083,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī Called the Seven Vetālas",
+  "sanskrit": "Āryasaptavetāḍakanāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Prose"
+  ],
+  "explainer": "The Noble Dhāraṇī Called the Seven Vetālas, known in Sanskrit as the Āryasaptavetāḍaka nāma dhāraṇī and in Tibetan as the Phakpa Rolang Dünpa, is a short protective scripture set on Vulture Peak Mountain near Rājagṛha, where the Buddha is staying with a great assembly of monks and his attendant Ānanda. Non-Buddhist ascetics send seven great vetālas, reanimated corpse-spirits, to harm the Buddha. Finding no way to touch him, they turn instead to Ānanda, who is struck by severe suffering when they make contact with his body. This crisis prompts the teaching of a dhāraṇī, a sacred incantation meant to ward off such malevolent forces and protect those who recite it. The work is Toh 1083 in the Kangyur, where it belongs to the class of dhāraṇī texts, the protective and ritual formulas gathered in the collection's compendium of dhāraṇīs.",
+  "pdf": "files/toh1083.pdf",
+  "txt": "files/toh1083.txt",
+  "link84000": "",
+  "date": "2026-11-19"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1084,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Heart of Gaṇapati",
+  "sanskrit": "Āryagaṇapatihṛdaya",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Prose",
+   "Ritual"
+  ],
+  "explainer": "The Noble Heart of Gaṇapati, known in Sanskrit as Āryagaṇapatihṛdaya and in Tibetan as Pakpa Tsokkyi Dakpö Nyingpo, is a short dhāraṇī text centered on Gaṇapati, the Lord of the Hosts, a figure better known in wider Indian tradition as Gaṇeśa. Set on Vulture Peak Mountain near Rājagṛha, where the Buddha is accompanied by a great assembly of monks and bodhisattvas, it records the Buddha telling the venerable Ānanda that whoever holds the heart of Gaṇapati will accomplish all their activities, achieve their aims, and find success in secret mantra practice. The Buddha then sets out the dhāraṇī itself, a long incantation of repeated Sanskrit syllables invoking Gaṇapati's power. It is Toh 1084 in the Kangyur, where it belongs among the collected dhāraṇī texts, the class of works devoted to protective and empowering spells.",
+  "pdf": "files/toh1084.pdf",
+  "txt": "files/toh1084.txt",
+  "link84000": "",
+  "date": "2026-11-19"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1085,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī Called Glorious Mahākāla",
+  "sanskrit": "Śrīmahākālanāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Narrative"
+  ],
+  "explainer": "The Dhāraṇī Called Glorious Mahākāla, the Protector, known in Sanskrit as Śrī Mahākāla Nāma Dhāraṇī and in Tibetan as Dpal mgon po nag po zhes bya ba'i gzungs, is a short scripture centered on a protective incantation associated with the wrathful guardian deity Mahākāla. It is set soon after the Buddha's awakening, while he is still dwelling at the foot of the tree of awakening, having subdued Māra on the vajra seat. There Mahākāla, described as the great commander of the gods, the Lord of Hosts, and the glorious great Black Protector, approaches the Blessed One, bows at his feet, and offers him his own knowledge mantra, asking the Buddha to accept it. The text is Toh 1085 in the Kangyur and belongs to the class of dhāraṇī texts, the collections of sacred formulas valued for their protective and ritual power.",
+  "pdf": "files/toh1085.pdf",
+  "txt": "files/toh1085.txt",
+  "link84000": "",
+  "date": "2026-11-19"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1086,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Noble Dhāraṇī of Mahākāla That Brings Liberation from All Fevers",
+  "sanskrit": "Āryamahākāladhāraṇī Sarvajvaravimocanī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual"
+  ],
+  "explainer": "The Noble Dhāraṇī of Mahākāla That Brings Liberation from All Fevers, known in Tibetan as Pakpa Nakpo Chenpö Zung Rimné Tamché Lé Tarwar Jepa, is a brief protective incantation addressed to Mahākāla, the Great Black One, a fierce guardian deity. After paying homage to all buddhas and bodhisattvas, the text introduces the dhāraṇī as the spell of Mahākāla, described as a dark yellow figure with sharp fangs, and presents it as a means of gaining complete freedom from fever and febrile illness. Its core is a Sanskrit mantra that commands the fever to be struck down and burned away, then asks that it release each part of the body in turn, from the head, eyes, and ears down to the hands, feet, and fingers, before ordering it to depart elsewhere. The work is Toh 1086 in the Kangyur, where it belongs among the dhāraṇī texts, the collection of short ritual formulas recited for healing and protection.",
+  "pdf": "files/toh1086.pdf",
+  "txt": "files/toh1086.txt",
+  "link84000": "",
+  "date": "2026-11-19"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1087,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Dhāraṇī of the Goddess Mahākālī",
+  "sanskrit": "Devīmahākālīnāmadhāraṇī",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Mantra",
+   "Ritual",
+   "Narrative"
+  ],
+  "explainer": "The Dhāraṇī of the Goddess Mahākālī, known in Sanskrit as Devī Mahākālī Nāma Dhāraṇī and in Tibetan as Lha mo nag mo chen mo'i gzungs, is a short scripture centered on a powerful protective incantation. It is set shortly after the Buddha's awakening, as he stays at the foot of the tree of awakening, when the goddess Mahākālī approaches him. She is described as Sovereign Lady of the Desire Realm, mother of Māra, and sister of Yama, and she offers the Buddha a knowledge-mantra in homage and asks him to accept it. The Buddha responds by charging her with binding and protective duties, framing a once-formidable deity as a guardian in service of the Dharma. The work is Toh 1087 in the Kangyur, where it belongs to the class of dhāraṇī texts, scriptures devoted to the recitation of potent spells for protection and blessing.",
+  "pdf": "files/toh1087.pdf",
+  "txt": "files/toh1087.txt",
+  "link84000": "",
+  "date": "2026-11-19"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1088,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Hundred and Eight Names of Śrīdevī Kālī",
+  "sanskrit": "Śrīdevīkālīnāmāṣṭaśataka",
+  "category": "Dhāraṇī",
+  "tags": [
+   "Devotional",
+   "Mantra",
+   "Narrative"
+  ],
+  "explainer": "The Hundred and Eight Names of Śrīdevī Kālī, known in Sanskrit as Śrīdevīkālīnāma Aṣṭaśataka and in Tibetan as Dpal lha mo nag mo'i mtshan brgya rtsa brgyad pa, is a short scripture of praise that sets out a litany of epithets for the fierce goddess Śrīdevī, also called Mahākālī. It opens on Vulture Peak Mountain, where the Buddha is teaching the true names to the bodhisattvas and the goddess herself arrives to pay homage. The bodhisattva Siṃhavīrya then asks the Buddha to enumerate the names of this bodhisattva who works for the benefit of the world in the guise of a rākṣasī, a fearsome demoness, and the Buddha responds by proclaiming her many names. The text presents a wrathful protector as an enlightened being acting out of compassion, and it belongs to the genre of name-recitation texts used in devotion and protective practice. It is Toh 1088 in the Kangyur, where it is grouped among the short dhāraṇī and invocation texts of the canon.",
+  "pdf": "files/toh1088.pdf",
+  "txt": "files/toh1088.txt",
+  "link84000": "",
+  "date": "2026-11-19"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1089,
+  "suffix": "",
+  "state": "translated",
+  "title": "The Praise by Śakra, Lord of the Gods",
+  "sanskrit": "",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Devotional"
+  ],
+  "explainer": "The Praise by Śakra, Lord of the Gods, known in Tibetan as Lha'i dbang po brgya byin gyis bstod pa, is a very brief verse hymn attributed to Śakra, the king of the gods also known as Indra. No Sanskrit title is preserved with it. In a few lines, it describes the suffering of saṃsāra across the three times, driven by attachment, aversion, and delusion, in which gods and asuras alike are shaped by the ripening of their deeds. It then addresses a fierce protective goddess who delights in flesh and blood, calling on her to keep her pledge of victory to the gods and destroy the armies of the asuras on the field of battle. The work is Toh 1089 in the Kangyur, where it belongs among the short praises and invocations connected with the tantric and dhāraṇī collections.",
+  "pdf": "files/toh1089.pdf",
+  "txt": "files/toh1089.txt",
+  "link84000": "",
+  "date": "2026-11-19"
+ },
+ {
+  "corpus": "kangyur",
+  "toh": 1090,
+  "suffix": "",
+  "state": "translated",
+  "title": "Praise of the Mistress of Diseases",
+  "sanskrit": "",
+  "category": "Hymns of Praise (Stotra)",
+  "tags": [
+   "Verse",
+   "Devotional"
+  ],
+  "explainer": "The Praise of the Mistress of Diseases, known in Tibetan as Nad kyi bdag mo la bstod pa, is a short devotional hymn addressed to a fierce goddess who presides over illness. Her iconography closely recalls the Indian smallpox goddess often called Śītalā, though no Sanskrit title is securely attested here. In vivid verse, the hymn describes her anointed with sesame oil, wearing a single braid and earrings of lead, naked and riding a donkey through the world. It also shows her as a terrifying, skull-bearing Black One who swallows all beings at the dissolution of saṃsāra and who delights in charnel grounds as the domain of accomplished yogins. Yet it praises her as both peaceful and terrible, a deity who crushes the deceitful and dispels the fear of disease and death, so that the poem serves as a protective invocation as well as an expression of awe. The work is Toh 1090 in the Kangyur, where it belongs among the brief hymns, dhāraṇīs, and related ritual texts gathered within the tantric portion of the collection.",
+  "pdf": "files/toh1090.pdf",
+  "txt": "files/toh1090.txt",
+  "link84000": "",
+  "date": "2026-11-19"
  },
  {
   "corpus": "kangyur",
