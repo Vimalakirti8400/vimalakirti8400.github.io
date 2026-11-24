@@ -1,0 +1,29 @@
+Explanation of the Sixty-Four Daṇḍas
+
+The Explanation of the Sixty-Four Daṇḍas, known in Tibetan as dbyu gu drug cu rtsa bzhi'i bshad pa, is a short technical treatise on reckoning time, where a daṇḍa is a traditional Indian unit of time equivalent to a water-clock period. It defines the daṇḍas by counting breaths, five thousand four hundred in half a day and twenty-one thousand six hundred in a full day and night, with three hundred and sixty breaths in each period. It explains how the sixty-four periods are counted to account for the lengthening and shortening of days, and gives practical instructions for making a copper water-clock vessel of set weight and dimensions, pierced with a fine hole, to measure these intervals. The work is Toh 1210 in the Tengyur, the Tibetan collection of translated Indian treatises, where it belongs among the commentarial works associated with the tantras, reflecting the close link in tantric traditions between the breath, the body, and the measurement of time.
+
+Here is contained the Explanation of the Sixty-Four Daṇḍas.
+
+The defining characteristic of the sixty-four daṇḍas is this: the number of breaths in half a day is five thousand four hundred. Counted in this way, a day and a night come to twenty-one thousand with a hundred more. One should understand how they are reckoned by number. In one water-clock period (nāḍikā) there are three hundred and sixty breaths.
+
+The defining characteristic of the sixty-four daṇḍas is now stated. The water-clock periods are sixteen of day and night, and four for their lengthening and shortening; thus, it is said, sixty-four are to be counted.
+
+Take a vessel hammered out of twelve palas of copper, twelve finger-widths across at the mouth and eight finger-widths high. It has a hole pierced by a needle, hammered out of three measures of gold, of equal thickness at head and tail and six finger-widths long. Set the vessel on the surface of water. The time it takes to fill with the water coming in through the hole and sink to the bottom is one water-clock period. A daṇḍa is likewise the same.
+
+Translated by the Indian preceptor Ratnavajra and the monk Shākya Yeshé.
+
+This concludes the translation. The following are translator's notes.
+
+The figures are given as they stand in the Tibetan. Five thousand four hundred breaths for half a day implies 21,600 for a full day and night, but the text reads "twenty-one thousand with a hundred more." The statement that there are "sixteen" periods of day and night plus four does not add up to sixty-four. Both look like transmission slips, perhaps for "six hundred" and "sixty."
+
+The phrase rendered "three measures of gold" (Tibetan gser man cha gsum) is unclear. It may refer to a weight such as three māṣas of gold, the unit used in Indian descriptions of the water-clock's gold needle.
+
+"Daṇḍa" renders Tibetan dbyu gu ("staff, rod"), the Indian time unit equivalent to a ghaṭikā or nāḍikā.
+
+The following is a note about this translation.
+
+This is an AI-generated translation from the AI Stupa project. It was produced by a careful, doctrine-aware process aiming at a high degree of accuracy, but it has not been reviewed by a human translator and may contain errors. It is offered as a provisional translation for those texts of the Tibetan Buddhist canon that have not yet received an authoritative human translation. Where a published translation exists — above all from 84000: Translating the Words of the Buddha (84000.co) — that translation is definitive and should be preferred; please consult it instead. These translations are released into the public domain (CC0) in the spirit of spreading the Dharma to all corners of the earth.
+
+Just as the Bodhi tree now standing at Bodh Gayā neither is nor is not the same tree beneath which the Buddha attained awakening, so too this stupa is intended as the next generation of stupa — dependently arising according to the conditions of its environment, and ceaselessly proclaiming the Dharma for the benefit of all sentient beings.
+
+May whoever encounters these words derive great benefit.
