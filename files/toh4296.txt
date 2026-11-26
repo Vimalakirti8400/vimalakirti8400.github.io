@@ -1,0 +1,1255 @@
+Commentary on the Weapon-like Gateway to Speech (Vacanamukhāyudhopamanāmavṛtti)
+
+The Commentary on the Weapon-like Gateway to Speech, known in Sanskrit as the Vacanamukhāyudhopama-nāma-vṛtti and in Tibetan as Smra ba'i sgo mtshon cha lta bu zhes bya ba'i 'grel pa, is Toh 4296 in the Tengyur, where it belongs to the section of treatises on grammar and the science of language. It is a commentary on a short verse treatise of the same name, and explains, verse by verse, how letters combine into names, names into phrases, and phrases into verses and whole treatises. Along the way it discusses the etymology of words, the difference between arbitrary and meaningful names, the main types of compound, kinds of negation, and the uses of the grammatical particles, with many of its examples drawn from the Tibetan language itself. Its colophon associates the work with the Indian master Smṛtijñānakīrti, who taught it in Tibet for a Tibetan disciple and translated and edited it there, so it stands as one of the early aids by which Indian grammatical learning was brought into the Tibetan language.
+
+In the language of India: vacanamukhayudhobamanāmapṛtti. In the language of Tibet: Commentary on the Weapon-like Gateway to Speech.
+
+Homage to the Omniscient One, supreme among speakers.
+
+Here, wishing to compose a treatise, the author first pays homage, in order to remove obstacles and to accord with the custom of the noble. In order that the purpose may be understood, he makes a promise as to what he will explain. He then properly sets out the body of the treatise itself. And so that the composing of the treatise may also become of great benefit, he presents the roots of virtue together with their dedication.
+
+Now, the body of this treatise teaches the collections of letters, the collections of words, and the collections of phrases. Their components, as they are taught, are, to put it briefly, presented by way of their causes, their own nature, their number, their etymology, and their divisions.
+
+First, then, to show the homage here, he says, "Having paid homage to the chief, supreme among speakers." The chief of all who speak with reasoning, ascetics (śramaṇas), brahmins, gods, māras and the rest, is the Buddha. It teaches that, having paid homage to him, one will explain.
+
+For what purpose? With the words "In order to complete the components of speech," and so on, he sets out his promises. Here the purpose is said to be "in order to complete all the causes and conditions of speech without remainder."
+
+What is it that he will explain? He says, "That which is the assemblage of verbal formations." The activity of speech is formation, and its assemblage is its causes and conditions. The meaning is, "That I shall explain."
+
+Now, in setting out the body of the text, letters are taught first. To show how sound arises through the contact of the articulators with the general and the particular places of articulation, he says:
+
+From chest, throat, palate and tongue,
+Nose and crown, teeth and lips,
+From these in general and from their individual parts,
+Through contact and through slight contact,
+Through narrowing and through opening,
+Arise the tones: straight, upright and bent,
+Elevated and lowered,
+Tense and relaxed.
+
+Here, "in general" means that these places produce sound by way of their general share. For example, the sound of a vīṇā arises from all of it: its body, its skin, its strings, its neck and so on. In the same way, the sounds of the letters arise from the general assemblage of these places. "Their individual parts" means this: just as, in the sound of a vīṇā, the male tones arise from the male strings and the female tones from the female strings, so the sounds of the individual letters arise chiefly from these places individually. These are to be understood in detail in the explanation below.
+
+"Through contact and through slight contact, through narrowing and through opening": these four are the conditions of articulation. For example, just as the sound of a vīṇā becomes differentiated when it is set in motion by the thumb and the bow, so in these places the sound becomes differentiated through conditions such as contact. This too is to be understood in detail below.
+
+What sort of sounds arise from these? He says, "Straight, upright and bent," and so on. This shows that from the contact of place and articulator the seven roots of the vowels arise. These seven utterances, straight and the rest, are the roots of verbal formation. Of them, straight is a. Upright is e. Bent is i. Elevated is o. Lowered is u. Tense is ṛ. Relaxed is ḷ.
+
+These seven tones are the defining characteristic of all speech; they are the letters by nature. All the syllables that are pronounced, ka and the rest, also arise from them. Of these, the three a, i and u are the roots, and the rest are combinations of them with one another. How so? a joined with i is e. a joined with u is o. i itself, made tense and joined with the strong stroke, is ṛ. i itself, relaxed and drawn out, is ḷ. That is why they are combinations of one another.
+
+Among the syllables ka and the rest there are likewise roots and combinations. ya is i joined with a. va is u joined with a. ra and la are just as was shown above. The three śa, ṣa and sa are like ra, being joined with the strong stroke. These five, ṅa, ña, ṇa, na and ma, are nasal, and are included in what is called e. So, for the moment, the root letters are twenty-five.
+
+Among these, moreover, the thirds, ga and the rest, are the firsts, ka and the rest, joined with a. The fourths, gha and the rest, are the thirds, ga and the rest, joined with ha. So the root letters are eleven. The seconds, kha and the rest, also have a share of the sound of ka and the rest together with a share of sound that arises from within. That being so, the root letters are these: a, ka, ca, ṭa, ta, pa and ha. And their root, in turn, is a. Therefore a is the mother of all letters.
+
+Now, to show that from the seven roots there come to be sixteen vowel letters, he says:
+
+Straight, bent and lowered,
+Tense and relaxed,
+Divided by drwar and tswang,
+
+and so on. Thus these five, a, i, u, ṛ and ḷ, are each divided in two, by drwar, which is long, and by tswang, which is short, and so become ten vowel letters, namely: a ā, i ī, u ū, ṛ ṝ, ḷ ḹ. Further:
+
+Upright, and upright then bent,
+Elevated, and elevated then lowered,
+With the nasal and the visarga,
+The tones are held to be sixteen.
+
+By this the vowel letters become sixteen. Thus, upright is e. Upright then bent is ai. Elevated is o. Elevated then lowered is au. The nasal is aṃ. The visarga is what is called aḥ. In this way they become sixteen vowel letters.
+
+Now it shows that each of these vowel roots further becomes eighteen and twelve variants. Of these, to show first that they become eighteen variants, he says:
+
+The variants of the tones are these:
+Straight, bent and lowered
+Have three measures, long and short;
+These in turn are of three kinds, great, middling and so on;
+These nine, with the nasal, make eighteen.
+
+That is what he says. The variants of those vowel letters are these. The three, straight a, bent i and lowered u, each have three measures of sound: hrasva, the short, which is the ordinary one; dīrgha, the long, pronounced for the duration of two; and pluta, the very long, pronounced for the duration of three. Each of these in turn has three grades, great, middling and so on: udātta, the great, which has the sound of two letters; anudātta, the small, which is half; and svarita, the middle, which is that of a single basic letter. In this way they become nine. These again are divided into those with the nasal, the sound called aṃ, and those without the nasal, and so each becomes eighteen.
+
+Now, to show the kind that becomes twelve variants, he says:
+
+Those to be cleared away are these:
+For upright and elevated, the short;
+For tense and relaxed, the long.
+They are twelve.
+
+Of the vowel letters, those whose variants are to be removed and cleared away are these. The two called upright and elevated, e and o, by their nature have no short. So, since the three grades, great and the rest, of the short are cleared away, they become six; and when these again are divided into those with the nasal and those without, each becomes twelve. In the same way, the two called tense and relaxed, ṛ and ḷ, by their nature have no long. So, since the set divided by the long is cleared away, these too each become twelve. Thus the three a, i and u have eighteen each, and the four e, o, ṛ and ḷ have twelve each. Since in this way they become one hundred and two, he says "one hundred and two."
+
+Now, to show how many aspects of the letters there are in general, he says:
+
+In general, one hundred and eleven;
+And with its own place, twelve.
+These are the aspects of a single letter,
+The assemblage of verbal formation.
+
+Even a single letter such as ka is endowed with the seven, a, i, u, e, o, ṛ and ḷ. So with a there are the three variants of length, long and short, and each of these has three grades, great, middling and so on, making nine. Dividing these into those with the nasal and those without makes eighteen. The same holds for i and u, which makes fifty-four. e and o, having no short, have twelve each, and ṛ and ḷ, having no long, have twelve each. Adding these forty-eight makes one hundred and two. When the eight common sources and any one of the kinds of condition, nine in all, are also counted, there are one hundred and eleven.
+
+"And with its own place" means that the particular place is not counted as a separate entity. Because it is included among the common places, it is for the moment merely predominant, and so it is not counted as a separate entity.
+
+"These are the aspects of a single letter" refers to the aspects of ka and the rest; it does not apply to the vowel letters.
+
+Of so many aspects, how many arise at one time? He says:
+
+At one time, eleven,
+Or with the nasal, twelve;
+With its own place, thirteen.
+
+The eight common sources, any one of the kinds of condition, any one of the three variants of length, long and short, and any one of the three grades, great, middling and so on: thus eleven arise. When the nasal is added, twelve arise. Its own place is as before.
+
+Now, to show the example of the seven kinds of verbal formation by means of the seven kinds of bodily formation, he says:
+
+Striking with weapons, dancing and labor,
+The various ways of stepping and of gazing:
+Through movements of the feet, the hands and the eyes,
+The seven bodily formations are these.
+Just as there is looking straight ahead and looking upward,
+Likewise looking turned back,
+Looking elevated and looking lowered,
+Looking tense and looking relaxed,
+So it is with dancing and the rest.
+Like the seven bodily formations
+Are the formations of speech.
+
+Thus these seven verbal formations correspond to the seven bodily formations. When the body, as agent, sets bodily formations in motion, it acts straight, and likewise raised, bent, elevated, lowered, tense and relaxed. There is no bodily formation beyond these seven.
+
+Let us take gazing as the example, and the others are to be understood in the same way. When one looks at a single object to be looked at, looking straight ahead is looking straight without the eyes shifting. Looking raised is looking upward from the place of looking. Looking bent is looking turned back and around from another direction. Looking elevated is raising the level of the eyes. Looking lowered is lowering the level of the eyes. Tense and relaxed are the tightening and the relaxing of the eyes' particular movement.
+
+In the same way, the steps of the feet are also seven, by these distinctions: setting the foot down straight ahead, setting it down in a turned-back manner, raising it, lifting it high, lowering it, tightening inward, and relaxing.
+
+So too with striking with weapons, dancing and the rest. To act just as the agent and the action first stand is straight. To act as if upward is raised. To act from elsewhere is bent. And so on with lifting high, lowering, tightening and relaxing. Just so, the sounds of speech too, drawn out straight, become the group endowed with a. Drawn out raised, they become the group endowed with e. Drawn out bent, they become the group endowed with i. Likewise elevated is endowed with o, lowered is endowed with u, tense is endowed with ṛ, and relaxed is endowed with ḷ. It is in this way that the seven verbal formations come about.
+
+Now, to show the shapes of the letters that serve as signs indicating the seven verbal formations, and the places where these are set, he says:
+
+The way the shapes that show them are set
+Is like an arrow, a rhinoceros, an elephant's trunk,
+A parasol and a footrest,
+And like a fire-mountain and a water maṇḍala.
+Straight on, at an angle and at the side,
+Above and below, upon their own bodies:
+These signs that are placed there should be known.
+
+Of these, the straight letter is like an arrow. The raised letter is like the horn of the rhinoceros. The bent letter is like an elephant's trunk. The elevated letter is like a parasol. The lowered letter is like a man's footrest. The tense letter is like a fire-mountain.
+
+The relaxed letter is like a water maṇḍala. In this way, these seven shapes are made into signs that correspond to their respective sounds: for the straight sound there is a straight sign, and so it is to be understood for the others as well.
+
+As for the way those marks are set: the one like an arrow indicates straight on; the rhinoceros indicates at an angle; the elephant's trunk indicates from the angle out to the side; the parasol, above; the footrest, below; and the fire-mountain and the water maṇḍala indicate upon the letter's own body. This too shows that speech and sign correspond: for the straight it indicates straight on, for the raised it indicates at an angle, and so it is to be understood for the others as well.
+
+Now it shows that the arising of the sounds indicated by those signs comes about from the assemblage of seven causes. Of these, to show that the impelling cause is conceptual thought, he says:
+
+When the signs that it shows come forth,
+As a magnet does to pieces of iron,
+So by the power of conceptual thought the places are moved.
+
+Just as iron moves by the power of a magnet, so by the power of conceptual thought the wind called bāyata, which dwells in the body, is impelled, and it in turn sets in motion the places from which sound arises. That is the meaning.
+
+How does conceptual thought set the wind in motion? He says:
+
+Just as, though there is no support to rest on,
+Wings moving in the sky give rise to wind,
+So, when it is set in motion by conceptual thought,
+The wind called bāyata
+Is stirred throughout the body.
+
+For example, when a bird flies in the sky, wind arises just from the movement of its wings. In the same way, when the mind that would make another understand a conceptual thought connecting a name and the thing named sets it in motion, the wind called bāyata, which pervades the whole body and has the function of moving things, rises up and stirs.
+
+What happens when that wind stirs? The articulators are all set in motion, and the articulators, being moved, come into contact with the places. To show this he says:
+
+When the moving wind is fully stirred,
+It sets the articulators all in motion,
+And in the places, narrow and open,
+They make contact and slight contact.
+
+Here, the narrow places are the throat, the nose and the cavity of the head. The rest are open. The joining of palate and tongue, of teeth and tongue, and of the two lips is contact. The rest are slight contact. This too will be explained below.
+
+To show the cause that arises together with them at that time, he says, "At that time it arises together with the wind called niḥśvāsvā." Thus, when place and articulator meet, the wind called niḥśvāsvā, which is the breath, mingles with the assemblage of sound and arises with it. This is the co-arising cause.
+
+To show the pervasive cause, he says:
+
+Just as forms arise from the elements,
+So it is by relying on the tones.
+
+For example, just as all forms are produced by the four great elements, so all the collections of letters are pervaded by the sixteen vowel letters and the eighteen variants. Therefore it is in reliance on what are called the tones, the vowels and their variants, that all the collections of letters, words and phrases arise. This is the pervasive cause.
+
+To show the homogeneous cause, he says:
+
+From conceptual thought's own aspect of appearance,
+Like a reflection, what is of like kind arises.
+
+At that time, the aspect in which conceptual thought appears to its own object appears as the connection of name and thing named. Thus, a pillar as a thing is given the name "pillar"; because one clings to the connection with that name at the time of the convention, when later a person engages with the object, a letter that accords with one's own appearance arises, just as a reflection arises from the disk of a face. This is the homogeneous cause.
+
+Now, so that those causes of the verbal formations may be easily understood, wishing to present them in summary, he says:
+
+The places and the articulators,
+Conceptual thought and the two winds,
+The tones, the variants and the aspect of appearance
+Produce all the formations of speech.
+
+The places from which sound arises, the throat and the rest, are the basis cause. The articulators, contact and the rest, are the producing cause. Conceptual thought is the impelling cause. Of the two winds, called bāyata and niḥśvāsvā, the bāyata is the cause that moves the articulators, and the niḥśvāsvā is the co-arising cause. The sixteen tones and the eighteen variants are the pervasive cause. The apprehended aspect that appears of itself is the homogeneous cause. The meaning is that these causes produce the assemblage of sound.
+
+Having thus shown that these causes produce it, but not having given the names of the causal properties of each cause, he next wishes to set out the nature of each, and so he speaks the passage from "Of what arises from the seven causes, the places are the basis cause" up to "the homogeneous cause."
+
+Here, the places, called the basis cause, are like the hollow of a bell. Because they are the basis cause, the place where the sounds take on their distinctions, they are called the basis cause.
+
+"The articulators are the producing cause" means that they are like the clapper of a bell. Because they strike and bring forth, they are called the producing cause.
+
+In "Likewise conceptual thought is the impelling cause," he says "likewise" because it is similar in impelling. It is somewhat like a person: because it is the agent, it is called the impelling cause.
+
+"Just as wind does to a tree, the bāyata is the cause that moves the articulators" means this: just as wind sets a tree swaying, so the bāyata wind moves the articulators, and therefore the bāyata wind is called the moving cause.
+
+"Like a person and a mount, the niḥśvāsvā is the co-arising cause" means this: just as, when a person rides a horse, that person relies on the horse and goes along together with the horse, so sounds rely on the breath and arise together with the breath. Therefore the niḥśvāsvā wind is called the co-arising cause.
+
+"The tones and the variants are the pervasive cause, which goes everywhere" means this: just as, wherever there is a resultant form, it is pervaded by the four great elements, so all utterance whatsoever is pervaded by the sixteen tones and the eighteen variants. Therefore the tones and the variants are called the pervasive cause.
+
+"What arises resembling the aspect of appearance is called the homogeneous cause" means this: just as a reflection arises resembling a face, so the sounds of the letters arise resembling the aspect of appearance of conceptual thought. Therefore the aspect of appearance of conceptual thought is called the homogeneous cause.
+
+Now he shows the distinctions in the sound quality of the letters that arise from those causes. Different results are preceded by different causes, and so, to show that they are differentiated by their causes, he says:
+
+The distinctions of sound quality there
+Are differentiated by the causes;
+They should be understood as preceded by them.
+
+To show that they are differentiated by the seven causes and by the seven root natures, he says, "Therefore cause and nature." The causes having already been explained, to show from which root they derive and from which place they arise, he speaks at length, beginning:
+
+Arising from the straight tone,
+From the group of ka and the rest in order.
+
+Here the meaning is: "These are the ones that derive from the straight tone, the root a."
+
+"From the group of ka and the rest in order, the five groups" means the five groups beginning with the ka group: kha ga gha ṅa, ca cha ja jña ña, ṭa ṭha ḍa ḍha ṇa, ta tha da dha na, pa pha ba bha ma. These are called the five groups. Because each is the collection of its own group, they are called groups.
+
+What is called antastha is the four ya ra la va. Because they stand at the end of the groups, they are called "standing at the end."
+
+"And the uṣmaṇa" refers to the four śa ṣa sa ha. Because they depend on the breath, they are called "the warm ones."
+
+"Finally exhausted" refers to kṣa, because it is called kṣanta.
+
+To give the names of these letters, he says:
+
+The thirty-four letters of the places
+Are called "name" and "male."
+
+Of the pair "letters of sound" and "letters of place," these letters are called letters of place, because they depend on their individual places. Of the pair "vowel letters" and "name letters," they are called name letters, because they display the individual syllables clearly. Of the pair "female letters" and "male letters," they are called male letters, because they are clear and strong. Likewise, of the pair "inner letters" and "outer letters," they are called outer letters, because when heard they appear close at hand.
+
+Now he wishes to set out the divisions by place. Of these, first, to show those that arise from the throat, he says:
+
+Of these, the first group,
+And the fourth of the ūṣmaṇa,
+Together with the visarga, are from the throat.
+
+The ka group, hā, and those having the strong stroke arise from the throat.
+
+To show those that arise from the palate, he says:
+
+The seconds, and of the antastha
+The first, and of the uśma the first,
+Arise from the palate.
+
+The ca group, ya and śa arise from it.
+
+To show those that arise from the crown, he says:
+
+The thirds, and of the antastha
+The second, and of the uṣma the second,
+Arise from the crown.
+
+The ṭa group, ra and ṣa arise from the crown.
+
+To show those that arise from the teeth, he says:
+
+The fourth, and of the antastha
+The third, and of the uṣma the third,
+Arise wholly from the part of the teeth.
+
+The ta group, la and sa arise from the teeth.
+
+To show those that arise from the lips, he says:
+
+The fifth, and of the antastha
+The fourth, arise from the lips.
+
+The pa group and va arise from the lips.
+
+The place from which kṣa arises is given in the words, "The finally exhausted, from the throat and the crown."
+
+Now, to show the five sub-varieties within each of the five groups, he says, beginning:
+
+Of the five groups, each of five,
+The first is strong, from its own place,
+
+and so on. Each group has five, and of these the firsts are pronounced strongly from their own places: ka ca ṭa ta pa.
+
+"The second is middling, with a share of the crown" means this: kha cha ṭha tha pha. kha arises when ka is drawn out at middling strength and meets with a share of the sound of the crown. The same is to be applied to the rest.
+
+"The thirds are weak" means this: ga ja ḍa da ba. ka drawn out weakly is ka; when ka is joined with a it becomes ga. The others are to be applied in the same way.
+
+"Called hāprāṇa, the fourth is from its own place and from within" means this: gha jha ḍha dha bha are called "of great strength." They possess a share of their own respective place and of sound from within. It is stated in the Sūtra of Easy Practice that what possesses a share of the sounds of ga and ha is called "of great strength." The others are to be applied in the same way.
+
+"Called anusvara, the fifth arises from its own place and the nose" means this: ṅa ña ṇa na ma are the letters of the nasal dot. They arise from the meeting of their own respective place with the sound of the nose: from the meeting of the throat and the nose, ṅa arises. The others are to be applied in the same way.
+
+Now, to show the places of the articulations, he says:
+
+The throat, the nose and the cavity of the head
+Are narrow; the others are open.
+Palate, teeth, tongue and lips
+Are contact; the others are called otherwise.
+
+Here, "are narrow" means that the letters arising from these places, the throat and the rest, are produced by the condition of a narrow place, so this articulation is called narrowing. "Open" means that the rest are produced by the condition of an open place, so this articulation is called opening. "Contact" means that the letters arising from these places, the palate and the rest, arise from two places meeting each other, so these too are called by that name. "Otherwise" means that the rest arise from the places coming close to meeting, so they are called slight contact.
+
+Now, wishing to explain the number of the letters, he says:
+
+However many letters of the parts of place there are,
+What is bound by a single tone
+Is also called one letter.
+The very subtle aspect,
+That too is called one letter.
+
+Here, the word "letter" comes, according to context, to have two senses: the letter bound by a single vowel, and the letter at the end of a name.
+
+Of these, the letter bound by a single vowel is one bound by a single tone. Such things as oṃ, hūṃ and phaṭ are each called a single syllable. Although even oṃ by itself is made up of the assemblage of three, a, oṃ and aṃ, nevertheless, since oṃ is bound and gathered together by a single vowel letter, oṃ is called a single syllable.
+
+What is called "the very subtle aspect" is the letter at the end of a name. For example, when forms are broken down, they end in the minute particle, and there is no other form subtler than that. In the same way, that in which names end when they are broken down, beyond which no further division into distinct parts can be drawn out, is called one letter. It is like a part of the eighteen variants.
+
+Now, to show the detailed division of the letters by their measures of drawing out, he says, beginning:
+
+For these sounds, the measures of drawing out:
+alpaprāṇa is two as one,
+
+and so on. Here, "alpaprāṇa is two as one" means that where two letters have no more than the sound of a single letter, this is called "without strength," because its strength is small. It is like what is called phaṭ: the sound of ṭa, being half, is absorbed within, so that it has gone into the sound of a single letter.
+
+"mahāprāṇa is one as two" means that a single letter has the sound of two. Among the letters of the groups, the fourths are called "of great strength," because their strength in drawing out is great.
+
+"anusvara is an indrawn sound" means that the letters of the nasal dot are drawn in from the breath of the nose. Because they follow upon the vowel letters, they are called the after-tone.
+
+"bisarjja is the cut-off" refers to the strong stroke. Because it makes the sound strong and cuts it off, it is called the visarga.
+
+"hrasva is the ordinary sound" means that, since any letter whatever is pronounced in the ordinary way, it is called common.
+
+"dīrghata is the duration of two" means that, since it is pronounced for the duration of two letters, it is called long.
+
+"pluta likewise is three" means that, since it is pronounced for the duration of three, it is called very long.
+
+"udatta is two alike as one" means that two like letters attached together are called out as one great sound, as in kkaccha. This is called the great.
+
+"anudātta is a half part" means that it is the sound of half a letter. Being just half, it is called the small.
+
+"svarita is its own sound" means that it is neither lengthened nor shortened. This is called the middle.
+
+"With the nasal, the part of the anusvara": what is called "with the nasal" is that which has the nasal dot.
+
+"What are called 'with a' and 'without a' are names for the greater and the lesser" means that "endowed with a" and "not endowed with a" are the distinction between having a greater or a smaller share of a. Ones entirely without a do not exist.
+
+Having thus shown the parts of the straight, to show the parts of the other roots, upright and the rest, he says:
+
+As it is for the straight ones,
+So it is for the other tones too.
+
+Just as are the places and parts that derive from the share of the straight, that is, of a, so it should be understood for the upright, the bent, the elevated, the lowered, the tense and the relaxed as well. Of these, the ones that accord with the sound of the straight were simply shown above. To explain the ones taught as somewhat different, he says, beginning:
+
+Here, as to the slightly different parts of place,
+From the parts of the palate and the throat
+Arise the upright and the bent tones,
+
+and so on. The slightly different place is this: the upright and the bent arise from the throat and the palate. a bent is i. a joined with i is the upright, that is, e.
+
+"Likewise from the lips the elevated and the lowered" means that o and u arise from the lips. Further, a lowered is u, and a joined with u is o.
+
+"The tense is from the part of the crown": the ṛ so named arises from the crown. When the tip of the tongue is brought near and pressed against the palate, the sound arises from the crown. It is like the sound of a flute: when one blows at the top, it seems to resound at the foot.
+
+"The relaxed ones are the teeth": the ḷ so named arises from the joining of teeth and tongue.
+
+So that it may be understood that, when bound and gathered together by these vowels, the distinctions of parts are to be applied just as was stated in the section on the straight, he says:
+
+When bound by these,
+The parts are as stated before.
+
+Now, although the sounds upright, bent and the rest have been named, it has not been shown to which essential nature each refers. Therefore he says:
+
+Mi, de, mu, do, ṛ and ḷ:
+Apply them to the parts of sound accordingly.
+
+"Mi" is i. Likewise "de" is e, "mu" is u, and "do" is o. ṛ and ḷ are themselves. These are conventions established by the masters of old. "Apply them to the parts of sound accordingly" means: apply i to the bent; likewise e is the upright, u the lowered, o the elevated, ṛ the tense, and ḷ the relaxed.
+
+What, then, is the straight? He says, "The part of a is examined before." The straight is the part of a; the meaning is, "It has already been explained above."
+
+Then are i and the rest not also called parts of a? He says, "The rest are called parts of aspect." Thus, "For the rest, the part of aspect" means that they are aspects or particulars of a. Therefore they are called a and the aspects of a.
+
+Here, what is called "part" further becomes twofold: one's own part and the general part. The part present in each individually is its own part; the part present in common is the general part. To show just this, he says:
+
+These are the parts of each one;
+Whatever rely on one another
+Are general parts, because they pervade everywhere.
+
+Here, "rely on one another" means that the letters rely on one another, each upon the other, as oṃ, for example, relies upon and is pervaded by o.
+
+To show that what has thus been taught also sets out the particulars, or detailed divisions, of the letters, he says, "These are the particulars of the letters."
+
+Now, wishing to explain the etymology of "letter," he says:
+
+Because it has no manifold synonyms,
+Because it makes names and phrases clear,
+Because it expresses meanings,
+It is called a letter.
+These are etymologies by nature, by action and by purpose,
+In that order.
+
+"Has no manifold synonyms" gives the etymology by way of its own essence. Because the nature of the letters does not change into other synonyms and is not manifold, it is called the unchanging (akṣara).
+
+"Makes clear" gives the etymology by way of its action: because, being unchanging, it makes names and phrases clear, it is called "the clarifier."
+
+"Expresses" gives the etymology by way of its purpose: having made them clear, it expresses the meanings of things, brings them to mind and makes them known, and so it is called "the expresser."
+
+Now, in order to explain the collections of letters, he says:
+
+Collection, body and aggregate
+Are synonyms; apply them likewise.
+
+The word kāya applies to a collection, to an aggregate and to a body, and these belong together as synonyms. "Apply them likewise" means that this sense of "collection" is to be applied to names and phrases as well.
+
+That being so, these collections of letters too are explained by way of cause, nature, measure, etymology and divisions. Among these, the divisions are to be understood as division by the root from which they arise, division by cause, division by place, division by name, and division by drawing out; and everything explained above should be understood as included within these.
+
+Now he teaches the collection of names. Wishing to present it as twofold, the established name and the derived name, he says the passage beginning:
+
+Just as a lump comes from particles,
+When letters have come together,
+A name is fully established.
+
+Here this teaches the cause of the collection of names. In the same way, one should understand that it is also taught by way of its own essence, its measure, its etymology and its divisions.
+
+As for the cause: just as, for example, when a lump is formed from an aggregate of particles, it cannot be said to be either the same as them or other than them, so a name is established from an aggregate of letters. The letters themselves are not the name, yet apart from the letters there is no name either; the state in which letters have come together is called a name. Likewise, a phrase comes from an aggregate of names.
+
+Now, wishing to teach its own essence and so on, he says:
+
+Whatever, through a gathering of components,
+Expresses the very essence of a meaning,
+Whether the components be many or few,
+Is declared to be a name.
+
+If a name is an aggregate of letters in this way, one may ask how many letters must come together for a name to be established. When it only shows the essence of things, there is no fixed measure for the number of letters. For example, an expression such as parikaṣa, with the particular forms of its four letters, is called a name; and a single letter such as kha is also called a name. In short, the state of an aggregate of letters that is able to show merely the essence of a thing, without showing its particular qualifications, is called a name.
+
+Having thereby taught its own essence and its measure explicitly, he has also taught its etymology by implication: when it expresses an essence, it leads to that thing and indicates it, and therefore it is called a name.
+
+Now, wishing to teach its divisions, he says:
+
+It is of two kinds:
+The first name and the derived.
+
+Its divisions are two: the name first established, and the derived name, which depends on what is established.
+
+As to whether that first-established name is arbitrary or meaningful, he says:
+
+The first is an arbitrary name.
+
+Because it is a designation imputed to things although that is not present in them, it is arbitrary, and it has no etymology.
+
+As to what the derived kind is like, he says:
+
+The derived are held to be meaningful,
+And indeed to be of both kinds.
+
+Because the derived depends on the established, it is meaningful; but since some apply it wrongly to their objects, it becomes twofold, meaningful and arbitrary. To show just this, he says:
+
+These have an etymology, or have none.
+
+The meaningful has an etymology, while the arbitrary has no etymology.
+
+Now he clarifies these very established and derived names. Therefore he says the passage beginning:
+
+Whatever designation is made
+Without dependence on another is the first.
+
+Here the established name is a name that is imputed to a thing itself without depending on the name of another thing. Thus the name "pillar" does not depend on anything else, and so there is no answer to why this is called a pillar. If it were said to be dependent, it would rely on something else that serves as its basis, and so it would not be a first name.
+
+The derived is:
+
+What depends on that is the derived,
+Held to be twofold, arbitrary and meaningful.
+
+What depends on the established is the derived. For example, calling a steadfast man a "pillar": first "pillar" has been established, and afterwards this depends on it. Among these, an arbitrary derived name is like calling a black dog "Conch." A meaningful one is like calling a white dog "Conch."
+
+Then, if the established name is arbitrary, and the derived name wrongly applied is also arbitrary, why is the first name called "established"? He says:
+
+Though alike in being arbitrary,
+It is established because it does not depend:
+Since it depends on no other name,
+Nothing else contradicts it.
+
+The first name is called "established" because it depends on no other name. Why? A name that does not depend on another cannot be undermined by anything else; no one is able to refute it or to prove it. Thus, with "pillar," no one can prove by demonstration that it is called a pillar for this reason, nor can anyone prove the contrary, that it is not fitting to call it a pillar for this reason.
+
+To give an example for the two kinds of name, he says the passage beginning:
+
+Just as reasonings that prove by demonstration
+Rest upon the nature of reality,
+
+For example, a reasoning that proves by demonstration, such as the application of a sign with three modes, rests on the force of the reasoning of the nature of reality. Thus one infers the cause by way of the effect, as in: "In this place there is fire, because there is smoke; and smoke is the effect of fire alone, since it is not the effect of anything else." But if one asks why smoke is the effect of fire, one arrives at the reasoning of the nature of reality: "That is its nature." Just as this rests on the nature of reality,
+
+So too the meaningful name
+Rests upon the arbitrary first one.
+
+When one gives the etymology, "This dog is called Conch because its color is white," and one is then asked why something white is called "conch," there is nothing to say other than "That is its name." Therefore the derived name rests upon the established name.
+
+Is there then no etymology for an arbitrary derived name? He says:
+
+For the arbitrary derived name,
+The etymology is set aside, because it would prove something false.
+
+There is indeed an etymology, but if it were explained it would establish something false; therefore the etymology is set aside and not explained. The arbitrary established name has no ground on which an etymology could be explained. Therefore he says:
+
+Whatever is an arbitrary first name
+Has no ground for etymology, like the nature of reality.
+
+That is, just as, for example, the reasoning of the nature of reality has no further ground by which it could be proved.
+
+Now, in order to teach the etymologies that express the meaningful names that depend on established names, he says:
+
+The etymology of the meaningful that depends on that:
+Because it is that, and because that is present,
+Because it benefits that, because it does that,
+Because it is done by that, and because it is like that,
+Because that is that, and because it is that very thing,
+Its name is called so.
+Whether there is a marker or not,
+One states the etymology by the force of the context.
+
+Here, the application by being is: "Because it is that, it is called so." Likewise, presence is: "That in which this is present is called so." Benefiting it is: "Because it benefits that, it is called so." The agent is: "Because it is done by this, it is called so." The action is: "Because it does this, it is called so." Likeness is: "Because it is like this, it is called so." "That is that" means "that is that," as when one says, "Fire is fire." "That very thing" means: "Because it is its essential nature, it is called so."
+
+The marker of these names is a letter able to show the convention. Thus one who has a field is called a "field-man," that is, a farmer, and the marker shows that he possesses a field and has it; the word "expresser" shows the agent of expressing, and the word "expressed" shows the action. Whether there are such markers or not, the etymology should be explained by the force of the context.
+
+These, moreover, are comprised in two: actual names and imputed names. To show this he says:
+
+Being, establishing the essence,
+And the abstract suffix are actual names;
+The rest are called imputed.
+
+Here, the three, establishing as being, establishing the essence, and the abstract suffix, are actual names. The remaining five, application by presence, application as agent, application as object, application as benefiting it, and application by likeness, are called imputed names.
+
+What is the difference among the three names of own essence? He says:
+
+Because they give the etymology of own essence,
+Exclude the other, imputed names,
+And exclude its other particular qualities,
+Being, establishing the essence,
+And the abstract suffix are so, in order.
+
+Establishing as being establishes merely its own essence and does not bear on anything else. The expression that establishes the essence rejects and excludes the five imputed names: when one says, "Fire is fire," it means, "This is actual fire, and not the five, such as that which possesses fire." The abstract suffix excludes even its own particular qualities: when one says "heatness," it means, "Heat alone is fire, and not its other qualities, such as brightness."
+
+Wishing to explain the imputed names, he says the passage beginning:
+
+Imputing what is supported to the support,
+
+Application by presence is imputing the name of what is supported to the support, as when one says, "Because this man has skill he is called Skill," or "He is the skilled one."
+
+Application as benefiting it is:
+
+The effect to an indirect cause,
+
+That is, imputing the name of the effect to what is merely an indirect cause, as when water and manure are given the name "food."
+
+Establishing as agent, he says:
+
+And likewise to a direct cause,
+
+That is, imputing the name of the effect: all agents of an action are names of the effect.
+
+Establishment as object, he says:
+
+And imputing the name of the cause
+To what becomes the effect or the action,
+
+That is, imputing to what has become the effect or the object by way of another, its cause.
+
+Application by likeness is:
+
+And names by way of another, an example,
+
+That is, taking up the words of an example, as when someone is called a god because he is like a god.
+
+Teaching these very things in this way is this:
+
+By way of these meanings
+Come presence and benefiting it,
+Establishing as agent and as object,
+And application by likeness, in order.
+
+"Collection" has already been explained in the section on letters.
+
+Now, wishing to explain the collection of phrases, and wishing to teach it together with the particles of speech, he spoke at length in the passage beginning:
+
+Whether two names come together,
+Or many come together,
+
+Here too it should be understood by way of cause, own essence, measure, etymology and divisions. The cause is names. The own essence is expressing a particular meaning through their coming together. The measure is that, simply by expressing a particular, it does not go beyond an aggregate of letters. The etymology is that it is clear and formed into syllables. The divisions are the formations that compound words, and the particles of speech.
+
+To teach just these, he says in brief:
+
+Whether two names come together,
+Or many come together,
+If they express a particular,
+It is declared to be a phrase,
+And it comes with particles as well.
+
+Here a phrase is said of an aggregate of names: when it shows a particular meaning, whether two names or many come together, it is called a phrase. Thus, when one says "a long pillar," it expresses a particular of the pillar. Likewise, "This long pillar is white," and so on, are also called phrases. What connects the words is a particle of speech.
+
+Now, wishing to explain the formations that compound words, he says:
+
+Here there are ten word formations:
+The bahuvrīhi and the mere compounding of words,
+Qualification and member,
+Basis and single-basis compounding,
+Common basis and the tatpuruṣa,
+Division into pairs, and the mere part.
+
+Here the word "compound" is to be supplied to the remaining words. Thus it is to be read as: the bahuvrīhi compound, the compound by mere compounding of words, the qualification compound, the member compound, the single-basis compound, the common-basis compound, the tatpuruṣa compound, the compound of division into pairs, and the compound that shows a mere part.
+
+Now he teaches the bahuvrīhi. To show that it has six divisions, he says:
+
+Divided into those of two words and of many,
+Possessing its own name, not possessing it,
+Direction, number, mutual,
+And many words: these are the six kinds.
+
+These six divisions are divisions of the two: the bahuvrīhi of two words and the bahuvrīhi of many words. A bahuvrīhi of two words is like "having a dappled cow." A bahuvrīhi of many words is like "having a red dappled cow."
+
+Of these, the five beginning with "possessing its own name" are divisions of the bahuvrīhi of two words. Possessing its own name is like "a man having strength." Not possessing its own name is like "having a dappled cow." Direction indicates an intermediate quarter, as in "east-south." Number is what possesses a number, as in "tenfold," "hundredfold," and so on. Mutual is when, through mutual dependence, its own name and the one possessing the name are established, as in "having a dappled cow"; examples are "hard to cut," "hard to pierce," and so on. Many words is what possesses many words: three, and as many as there may be.
+
+These, moreover, become four alternatives through the division into the bahuvrīhi with a common basis and that with distinct bases. Therefore he says:
+
+Through the division into concordant and distinct,
+Concordant in all respects, and in one respect,
+It is held to have four divisions.
+
+That is, concordant in all respects, discordant in all respects, and the two, concordant in one respect and discordant in one respect: four. Here, concordant in all respects is like "Devadatta having hanging ears." Discordant in all respects is like "having bow and arrow." Concordant in one respect is like "having hands and feet." Likewise, discordant in one respect is like "having a dappled cow."
+
+Now, to show that these very natures can also be inflected by the six case words, he says:
+
+Inflection by the six kārakas
+Fully applies to them all.
+
+Here, a bahuvrīhi with the word of the second case is: one in whom there is practice of the Dharma is called "one practicing the Dharma." This should be applied likewise to the others: the third is "one having growth through the Dharma," the fourth is "one striving for the sake of the Dharma," the fifth is "one arising from the Dharma," the sixth is "one having talk of the Dharma," and the seventh is "one abiding in the Dharma." When such cases as these are divided sevenfold, by the six kārakas together with the word of the first case, they become one hundred and sixty-eight varieties. At any one time, however, a compound possesses three features: one of the root words, either two or many; one division; and one case word. To show that it possesses these three, he says:
+
+From the hundred and sixty-eight,
+At one time, take it as having three.
+
+Now he explains the compounding of words. Therefore he says:
+
+The compounding of words is of five kinds:
+Of two, of number, of particular,
+Of another, and of case words.
+
+That is, the compound of two words, the compound of number, the compound of particular, the compound of another word, and the compound of case words. Other teachers of former times explained these by designating them with other names: the compound of two is the dvandva; the compound of number is the dvigu; the compound of particular is the karmadhāraya; the compound of another word is the bahuvrīhi; and the compound of case words is the tatpuruṣa. So it is explained elsewhere, and it is also explained elsewhere that there are differences of scope among these.
+
+If one divides the compound of case words alone, it is sixfold. Therefore he says:
+
+Divided as object and the rest,
+From the second up to the seventh,
+The kārakas are held to be six;
+Know these as the mere compounding of words.
+
+A compound of the second case, the object, is like "going to the village," which becomes "village-going." A compound of the third is like "struck by an arrow," which becomes "arrow-struck." A compound of the fourth is like "gold for the sake of ornament," which becomes "ornament-gold." A compound of the fifth is like "arising from the country," which becomes "country-born." A compound of the sixth is like "Devadatta's horse," which becomes "Devadatta-horse." A compound of the seventh is like "dwelling in the country," which becomes "country-dweller." These are called compounds of case words.
+
+The restriction expressed by "mere" excludes them by setting them apart in every meaning; there is no fault if these five compoundings of words coincide in meaning with the other compounds.
+
+Now he explains the qualification compound. Therefore he says:
+
+By joining it before or after,
+The qualification compound is of two kinds.
+
+Joining the former word as the qualifier is like "the utpala that is blue," which becomes "blue utpala." Joining the latter word as the qualifier is like "the utpala, the blue one," which becomes "utpala-blue."
+
+Now he explains the member compound. Therefore he says:
+
+Of connection, of order,
+Of meaning and of renown, the member
+Compounds are four.
+
+The member compound of connection is like "the faculties of the body and so on." The member compound of order is like "the faculties beginning with that of form." The member compound of meaning is like "the jewels beginning with the wheel." The member compound of renown is twofold, what is renowned in the world and what is renowned in the treatises. Therefore renown too:
+
+Is twofold, in the world and in the treatises.
+
+What is renowned in the world is like the conventional usages "pillar," "vase," and so on. What is renowned in the treatises is like the case words, the kārakas beginning with the object.
+
+Now he explains the basis compound. Therefore he says:
+
+With the class made clear and with it not made clear,
+The basis compound is twofold.
+
+A compound with the class made clear is like "all phenomena." A compound with the class not made clear is like "all," "every," and so on.
+
+Now he explains the single-basis compound. Therefore he says:
+
+Making into one side,
+And making separate things into one side:
+The single-basis compound is twofold.
+
+A compound that makes into one side is like "All conditioned things are impermanent." A compound that makes separate things into one side is like "All things, conditioned and unconditioned, are selfless."
+
+Now he explains the common-basis compound.
+
+Therefore he says:
+
+Qualifier and qualified, the two,
+And two qualifiers, on a single basis,
+To make them understood as concordant:
+The common-basis formation is of two kinds.
+
+Joining qualifier and qualified on a single basis is like "blue utpala," where both blue and utpala are joined. Compounding two qualifiers on a single basis is compounding both blue and rough on the single basis "utpala." "To make them understood as concordant" means that the joining of words on an occasion when distinct properties are to be understood as having a single basis is the common-basis compound.
+
+Now he explains the tatpuruṣa. It is threefold: the tatpuruṣa of case words, the karmadhāraya tatpuruṣa, and the dvigu tatpuruṣa. To show just this, he says:
+
+The tatpuruṣa, which makes things understood as distinct,
+Whether they be entities or properties,
+Is of three kinds: of case words,
+The karmadhāraya, and the one called dvigu.
+
+The tatpuruṣa is what makes things understood as distinct. Whether it joins entities as distinct, or joins distinct properties of a single entity, on the occasion of joining them as distinct it is called a tatpuruṣa.
+
+The tatpuruṣa of case words, moreover, has eight divisions. To show this, he says:
+
+Here there are eight kārakas:
+The seven inflections of case,
+From the first up to the seventh;
+But because it lacks particles and joining,
+The vocative is not joined with others;
+With negation, they are held to be eight.
+
+Here, the compound of the first-case tatpuruṣa is one in which the intervening word is not manifest, that is, in which the sound of the first case is made unmanifest. The object and the rest are like the compounds of the six kārakas. The vocative is excepted because no other word may be joined to the word of address, as with "the color black." Therefore there is no compounding of words with the vocative. With negation, they become eight.
+
+Wishing to explain that negation, he says:
+
+Divided by the force of characteristics,
+There are fourteen implicative negations;
+And though there is no division of characteristics,
+Divided by place and time,
+There are eleven non-implicative negations.
+Whatever possesses these is held to be a negation.
+
+In brief, these are two: implicative negation (paryudāsa) and non-implicative negation (prasajyapratiṣedha). Implicative negation comprises the fourteen that differ in characteristic. In non-implicative negation there is no difference of characteristic, but there are eleven divided by place and time. Compounding a negative word with a word that possesses these negations, as when, for words such as "is absent" and "is not," something like the negative particle is afterward joined, is called the negation compound.
+
+What, then, are the fourteen differing characteristics of implicative negation? It is this:
+
+Other, discordant, antidote,
+Small, subtle, few,
+Brief, without remainder,
+Not all, free from,
+Inferior, weak, diminished,
+And negation with respect to the similar:
+These are held to be implicative negations.
+
+Here, "other" is like calling a king "not a brahmin." "Discordant" is like calling what is discordant with knowledge "ignorance." "Antidote" is like calling the antidote to attachment "non-attachment." "Small" is like calling small form "formless." "Subtle" is like calling subtle perception "without perception." "Few" is like calling a few possessions "without possessions." "Brief" is like calling a short life "lifeless." "Without remainder" is like calling that beyond which there is no further number "countless." "Not all" is like saying, "Not every cause is bound to every result." "Free from" is like "free from stain" and "nirvāṇa." "Inferior" is like calling one with a bad son "sonless." "Weak" is like calling one with a weak gait "without gait." "Diminished" is like calling one whose strength is diminished "powerless." Negation with respect to the similar is like calling form that is not like the revealing kind "non-revealing form." Because these show their own essence by way of negating something else, they are called implicative negations.
+
+Now he explains the eleven non-implicative negations. Therefore he says the passage beginning:
+
+Through the divisions of similar continuum, intrinsic nature,
+State and support,
+Prior absence and absence after destruction
+Have eight divisions.
+
+Here, of the four kinds of prior absence: prior absence of a similar continuum is like a sentient being who has been born; prior absence of intrinsic nature is like the absence of the sprout in the seed; prior absence of a state is like the absence of the earring in the gold; and prior absence with respect to a support is like the absence of a vase in a place. These are the four kinds of prior absence. Likewise, absence after destruction is also fourfold: absence after destruction of a similar continuum is like the absence of a sentient being after death; absence after destruction of intrinsic nature is like the absence in the sprout of the seed's intrinsic nature, which has been destroyed; absence after destruction of a state is like the absence of the gold in the earring; and absence after destruction with respect to a support is like the absence of a vase after it has been moved to another place. These are the four kinds of absence after destruction. Thus there are eight divisions of prior absence and absence after destruction.
+
+Mutual absence, of one in the other,
+And utter absence, are divided thus:
+Intrinsic nature, in the mutual,
+And utter absence, divided in two,
+Cause and intrinsic nature. These eleven
+Are held to be non-implicative negations.
+
+Mutual absence, of one in the other, is like the absence in a horse of the intrinsic nature of an ox. As for utter absence, utter absence of cause is like the absence in the sky of the cause of a flower, and utter absence of intrinsic nature is like the absence in the sky of the intrinsic nature of a flower. Thus there are eleven. These, moreover, are so when they show mere absence; when they show an entity, they are implicative negations.
+
+The etymology of negation is given in the words:
+
+Because it completely turns back, it is negation.
+
+That is, it negates and turns back the meaning of the word with which it is connected.
+
+Now he explains the karmadhāraya. Therefore he says:
+
+Joining words that cannot be called the same or other,
+Words of likeness to another, and words of particulars,
+Is the karmadhāraya.
+
+The joining of words that cannot be called either the same or other is "blue utpala," since it is both an utpala and blue. The joining of words of likeness is "man-lion," since he is both a man and like a lion. The joining of words of particulars is like "hot-rough," since it is both hot and rough. Thus these karmadhārayas are alike in joining things as properties of a single basis. Because the action is held by the basis, it is "action held by the basis"; or, because it performs the action of the basis, it is "action-holding," the karmadhāraya.
+
+Now he explains the dvigu. Therefore he says:
+
+Through joining number and collective meaning,
+What joins as one or as distinct
+Is held to be the dvigu.
+
+In joining a number word and a collective word, it shows the thing as one through a singular word, and as distinct through a plural word: so there are two kinds. Here, when the number "five" and the collective word "aggregate" are joined as "the five aggregates," what has a suffix that shows a word of possession becomes a dvigu: there are aggregates and there are five, as in "the five aggregates." Whether it is joined as one or as distinct is to be judged by the context. Thus "being a six-village" is "the six-village," a singular word; "the villages being six" is "the six villages," a plural word. The name "dvigu," literally "two cows," refers to two: the cow that has a compound and the cow that has a number; what shows these is the dvigu.
+
+Now he explains the dvandva. Therefore he says:
+
+For collecting and for dividing,
+For joining things as closely distinct,
+Joining the immediately preceding, the others,
+And what is counted on another occasion,
+Is held to be the dvandva.
+
+The dvandva may be joined for the sake of collecting or for the sake of dividing; closely considered, both of these make things understood as distinct. Here, a joining by collection is like "Earth, water, fire and wind are the elements." A joining by division is like "Phenomena are saṃsāra and nirvāṇa." Among the collective kinds, collecting the immediately preceding is when the words "and" or "also" collect the word immediately preceding. Collecting others is collecting meanings that are not mentioned in words. Joining what is counted on another occasion is collecting words mentioned on another occasion. "Dvandva," division by pairs, means showing things as a pair.
+
+Now he explains the one that shows a mere part. Therefore he says:
+
+Collecting merely its own class,
+Excluding all other parts,
+And not grasping the measure of the class:
+This is the formation that shows a mere part.
+
+This is the compounding of words such as "only this" and "each." For example, "mind only" shows the whole class of mind and excludes everything else that is not mind, but it does not grasp the mind's own measure as being just so much; this is called showing a mere part. Likewise it is applied to "each root," "each field," and so on.
+
+Having thus taught the formations that compound words, he now explains the particles of speech. These are twofold: particles and combined particles. To teach the particle, he says:
+
+That which has no meaning of its own
+And clarifies the names that have meaning
+Is called a particle of speech;
+What possesses it is "with particles."
+
+Whatever word has no meaning of its own to be shown, yet assists and clarifies others, is called a particle of speech, like the borax that joins two pieces of iron. A name that has meaning is a word that has a meaning which it shows. "With particles" means possessing particles, having particles.
+
+Having taught them thus in general, in order to teach the application of each, he says the passage beginning:
+
+Here, the particles and their application:
+
+Teaching the application of "which" among the particles of speech, he says:
+
+"Which" has the sense of an interrogative word,
+Joined so as to pervade the universal;
+In collecting pairs it is wholly excluded.
+
+"Which," as an interrogative word, reaches to a pervasive, universal meaning; it applies to everything except words that collect pairs, and is joined as an interrogative word. What is akin to it is:
+
+"What" and the rest are likewise;
+Their pervasion is judged by the context.
+
+"How many," "who," and the like agree with "which": they question and pervade the universal. "Their pervasion is judged by the context" means that, as with "which ones" and "who," the domain of application differs according to the context.
+
+Teaching the application of "that," he says the passage beginning:
+
+The sense of the word "that"
+Applies in three ways: to convention, entity and time;
+To the past, to what has other synonyms,
+And together with a remainder.
+
+Of the three, the word "that" applying to convention, applying to entities, and applying to time, the application to convention alone is again threefold: applying to the past, joining as having other synonyms, and showing together with a remainder. The application to entities he states thus:
+
+The truthful and the secret,
+One's own and the other:
+Four applications to entities.
+
+That is, applying to the truthful, applying to the secret, applying to one's own, and applying to the other. The application to time he states thus:
+
+Past and future:
+Two applications to the two times.
+
+That is, two: applying to the past and applying to the future. It does not apply in two cases, as he says:
+
+Excluded for oneself and for the present.
+
+In the case of entities it does not apply to oneself; in the case of time it does not apply to the present. Does it then not apply to a present entity? He says:
+
+The time of the entity is not abandoned;
+Apply it fully to all.
+
+The basis of application to entities does not abandon any of the three times; it is to be joined as applying to all times.
+
+To teach the application of "this," he says:
+
+The word "this" applies to past and future,
+And to other entities in context;
+Relative to something,
+The near and the directly perceived
+Entities are also two.
+
+The word "this" has three: applying to the past, applying to the future, and applying to other entities. That too is twofold: applying to near entities and applying to the directly perceived. Both of these are relative: it shows, "Relative to something, this is near," and "Relative to something, this is directly perceived."
+
+Where the word "this" does not apply is:
+
+To be excluded are these:
+The hidden and the distant;
+If what is to be shown is time itself,
+Past and future are to be excluded.
+
+It does not apply to an object that is hidden, and it does not apply to an entity that is far away. If the word "this" applies to time, it does not apply to the past and the future.
+
+"All of these possess inflection" means that "which," "that," and "this" possess the seven inflections. Thus: "which," "to which," "by which," "for which," "from which," "of which," and "in which." Likewise it is applied to the others.
+
+Concerning:
+
+The word "now," of the occasion that has arrived,
+Is joined to what is present,
+And is wholly excluded from a past occasion,
+
+the word "now" is a word of the occasion that has arrived for explaining the meaning: it is joined to the present time of the explanation, and does not apply to a past time.
+
+Teaching the application of "na," he says:
+
+The sense of the word "na":
+Distinguishing by specification, reason,
+Reason shown through the meaning,
+Object, purpose, locus of support,
+Showing the following word as other and so on,
+Making the following word certain
+From the unfitting, the difficult, and attachment,
+And just the reverse of that,
+Showing even the contradictory as not contradictory,
+The basis of a wish, of a question, and of doubt,
+And occasions of time: in these it is seen.
+
+The sense of the word "na" applies to all these. Among them, the "na" that distinguishes by specification is twofold: setting out a statement and setting out a supposition. Setting out a statement that distinguishes by specification is like "in reality" or "in brief." Setting out a supposition is like "if perhaps it is" or "if perhaps it becomes."
+
+Reason is of two kinds, words of sign and words of cause. Reason as a word of sign is like "When what is present does one do this?" Reason as a word of cause is like "When this exists, that arises." Reason shown through the meaning is like "If there were no tree at all, what timber could there be?" It either negates by means of a word of existence, or makes a reply by means of a word of question.
+
+The object is like "cut at the top of the tree." Purpose is like "draw water for the sake of the tree." Locus of support is like "it dwells at the top of the tree."
+
+What is included by "and so on" in "showing the following word as other and so on" is showing that it contradicts the following word and showing its absence. Thus, as in "If where there is smoke there is fire, then here there is what is not fire," the following word shows something other than the preceding one, shows it as contradictory, or shows it as absent.
+
+Making the following word certain by means of an unfitting word is like "If even the gods bow, what need is there to mention humans?" or "If even the cause is not born, how could what has a cause be born?" The reverse of that is when the preceding word makes the following one certain, as in "If humans bow to the gods, do the gods also bow?"
+
+Showing even the contradictory as not contradictory shows the ornament of incongruity, as in "If ultimately there is no division, then merely conventionally there is division."
+
+The basis of a wish is like "The aspiration 'If I am to attain the seat of awakening' is the cause of the armor." The basis of a question is like "If form is what is suitable as form, by what is this suitable as form?" The basis of doubt is like "If there is a seed, will a sprout arise or not?" Occasions of time are like "Thus did I hear at one time," or "at which time," or "at that time": this is the seventh case joined to time.
+
+Now he explains the meaning of "ste." To show it as threefold, he says:
+
+"Ste" has a remainder:
+It is held to be threefold: connecting,
+Assertion, and introducing another.
+
+Then, to explain connecting, he says:
+
+What joins agent and action, or else
+Joins both as actions,
+Joining two words in sequence
+Or at one time, is connecting.
+
+As for connecting, in some cases the earlier word is joined as the agent and the later word as the action, applying in sequence at different times, as in "he shot the arrow and it struck." In some cases both are joined as actions, applying in temporal sequence, as in "having worshipped the gods, one does the work." In some cases both are joined as actions at one time, as in "smiling, he shone with radiance." These are also applied in agreement with "nas," "cing," and so on.
+
+Assertion is:
+
+That by which the preceding
+Is clarified is assertion.
+
+These are the assertion of a synonym, and likewise a reason, an etymology, the explanation of a statement, and so on: those in which the later word assists and clarifies the earlier.
+
+Introducing another is:
+
+Showing merely that a remainder exists,
+And being other than these, is introducing another.
+
+What merely shows that there is still something further to be taught, and shows something other than both of the above, is introducing another, as in "In the eastern direction is Indra, and in the southern direction is Yama." These show that the words have a remainder; this itself is not a word.
+
+Teaching the application of "dang," he says:
+
+"Dang" has five: dividing, collecting,
+Reason, occasion of time, and instruction.
+And the collective "dang," joined to that very thing,
+To others, and to another count,
+Is held to be threefold.
+
+Here, dividing is like "Phenomena are saṃsāra and nirvāṇa." Collecting is like "knowing the phenomena of saṃsāra and nirvāṇa." Reason is like "When listening has been done, insight increases." An occasion of time is like "and when those monks had listened to the Blessed One." Instruction is like "Monks, listen well and carefully, and keep it in mind." The collective "dang" alone, moreover, has three divisions, whether past or future: collecting that shows what is near itself, collecting another entity, and collecting what was shown on another occasion.
+
+Teaching the application of "ni," he says:
+
+"Ni" is a word of separating and of adding,
+Specifying or ascertaining;
+It is to be joined with the following word.
+
+The word "ni" becomes a word of separating and of adding. Separating, moreover, is separating from a counterpart and separating from what has been set out. Separating from a counterpart is when, though the thing it is separated from is not mentioned specifically, it is to be understood as present by implication. Separating from what has been set out is like first setting out the essence and afterwards stating the reason. Adding, too, is adding the essential nature and adding a division by synonyms. Adding the essential nature becomes like "itself" and "alone." Adding another synonym becomes like "or else."
+
+"It is to be joined with the following word" means that, since it is in general an interrogative word, it is joined with the following word: it is to be joined with "for which reason," "if one asks what it is," and "namely."
+
+The application of "kyang," "yang," and the like is:
+
+"Kyang" and "yang" are words of collecting,
+And they also show the discordant as concordant.
+From the past, the future, or others,
+Collect as is appropriate.
+"Yang" is also adding.
+
+When they show collecting, whether of the past, of the future, or of another entity, they collect things alike in quality. They also show contradictory qualities as not contradictory, and then become the ornament of incongruity. On occasions that show the past, show the future, or show the collecting of others, it says "collect as is appropriate": the expression "as is appropriate" refers to those that collect others even though these were not mentioned on the past occasion. "Adding" means that in some places it becomes a word of adding, like "ni," showing the addition of another synonym.
+
+Now, in order to teach the meaning of the word "kho na," he says:
+
+The sense of a word of restriction:
+Not possessing another, not in another,
+Holding as mere possession,
+Two kinds of the uncertain,
+And likewise the undeceiving:
+"Kho na" is of six kinds.
+
+Here, words such as "nyid" and "kho na" apply to six meanings: restriction as not possessing another, restriction as not being in another, the uncertain with regard to not possessing another, the uncertain with regard to not being in another, restriction as mere possession, and the meaning of true and undeceiving: six.
+
+Here, not possessing another is like "The Tathāgata possesses only perfect qualities," which shows that there are no other qualities in him. Restriction as not being in another is like "In the Tathāgata alone are there many perfect qualities," which shows that they are not present in others. The uncertain with regard to not possessing another is like "Pārtha is only quick at archery": since he also has other good qualities, such as skill in calculation, this becomes uncertain. The uncertain with regard to not being in another is like "Pārtha alone is skilled in calculation": since Siddhārtha is more skilled in calculation than Pārtha, this becomes uncertain. Holding as mere possession is like "Pārtha is indeed skilled in calculation": this establishes mere possession and does not bear on anything else. Application to the meaning of true and undeceiving is like "the reality of the conventional and the ultimate."
+
+To teach the application of "nyid," he says:
+
+"Nyid" is likewise; in some respects
+It is not distinct from the following word,
+And it becomes the abstract suffix.
+
+"Nyid" is for the most part like the six senses of "kho na." Differing slightly, it may also be joined to the following word as not distinct from itself, as in "The utpala itself is blue." In some places it becomes the abstract suffix, as in "hardness," which shows the entity of the hard as hard-ness.
+
+The application of "tsam" is:
+
+Measuring, and excluding excess:
+"Tsam" is of two kinds.
+
+The "tsam" of measuring is like "as much as a minute particle" or "as much as Mount Meru." The "tsam" that excludes excess is like "mere cognition." To teach what is akin to it, he says:
+
+"Ba' zhig" and the rest are applied likewise;
+Their pervasion is judged by the context.
+
+"Only," "nothing but," and the like are also applied to exclude excess; which of them has the wider pervasion is applied by the force of the context.
+
+Now, to teach the particles that do and do not show an added meaning, he says:
+
+"Correctly," "completely," "entirely," and so on
+Are as their sound, and are particles.
+
+"Correctly," or "completely," or "entirely," and likewise "thoroughly," "variously," "closely," and "extremely": on some occasions these show according to their sound. On some occasions they show no added meaning, and are merely particles of speech and ornament.
+
+Now, wishing to teach how the word "tshul" becomes a particle, he says:
+
+"Tshul" applies to likeness, disparagement,
+Door, restraint, characteristic,
+Means, reasoning, meaning, tenet,
+And the excellent. Among these,
+Its joining as likeness is held to be a particle.
+
+Of the ten meanings, as stated, to which the word "tshul" applies, its application to likeness is to be joined as an example. Its application to disparagement is like calling a bad person "the mere guise of a man." Its application to a door is like calling the door of meaning "the mode of meaning." Its application to restraint is like "one who has entered the way of discipline." Its application to characteristic is like calling a bad disposition "bad manners." Its application to means is like calling the means of mantra "the method of the vidyā-mantra." Its application to reasoning is like calling what is endowed with reasoning "endowed with propriety." Its application to meaning is like calling a good meaning "a good mode." Its application to tenet is like calling the tenets held by others "the system of others." Its application to the excellent is like calling acting without error "acting properly." Of the meanings of "tshul" to which it applies, its joining as likeness is taken as a particle of speech.
+
+Teaching the application of "bzhin" and the like:
+
+The sense of the words "bzhin" and the like
+Is joined as the unerring, as being,
+And as likeness.
+
+The sense of the words "de bzhin" and "de lta bu" applied to the unerring is like "suchness." Applied to being, it is like "What is that is thus." Applied to likeness, it is like "What is like that is likewise."
+
+To teach the application of "cing" and the like, he says:
+
+"Cing" and the like serve
+To collect and to connect.
+
+When "cing," "zhing," and "shing" apply to collecting, they apply in agreement with "yang," "kyang," and the like. Connecting shows them in agreement with "ste," "te," and the like, as in "desiring and attached."
+
+Now, to teach the meaning of "la," he says:
+
+"La" is held to be the second, the fourth,
+The seventh, collecting, joining,
+Wish, measuring, basis,
+And occasions of time.
+
+The meaning of "la" becoming the second case is like "cut the tree." Becoming the fourth is like "draw water for the tree." Becoming the seventh is like "the bird dwells in the tree." Becoming collecting is like "having washed the hands, eat the food." Joining is like "Here it is present, and here it is absent." A wish is like "When shall I become such a one, and, having become so..."
+
+Measuring is like "for as much as, for that much," said of doing just so much. Occasions of time are like "at that time" or "there."
+
+Teaching the particle of the sixth case:
+
+"Kyi" is a word of relation.
+
+As in "Devadatta's horse," it is held to be the grammatical device that joins meanings in mutual relation.
+
+Teaching the application of the third case, he says:
+
+"Kyis" is held to be the agent.
+
+As in "done by Devadatta."
+
+To show that these have an ornament of incongruity, he says:
+
+The ornament of incongruity is in all three.
+
+"La" becoming an ornament of incongruity is like "wanting a result where there is no cause." "Kyis" becoming an ornament of incongruity is like "though it is so." "Gyis" becoming an ornament of incongruity is like "nevertheless."
+
+To teach the application of the fifth case:
+
+"Las" is cause, source,
+And separation; "nas" is likewise.
+
+The meaning of cause is like "a sprout from a seed." The meaning of source is like "gold from a mountain." The meaning of separation is like "a layman from among the householders." The meaning of "nas" agrees with "las." To show where it differs slightly, he says:
+
+Collecting and connecting
+Are a slight addition in "nas."
+
+What the word "nas" shows over and above "las" is collecting and connecting, as in "from the eye up to the body," or "he lies with mouth open," or "he looked with eyes turned back."
+
+Of the six case words, all except the sixth can also come to show a reason. To show this, he says:
+
+Becoming reasons
+Applies to all except the sixth alone.
+
+Here, the third becoming a reason is like "therefore." Becoming the fourth is like "for that reason." Becoming the fifth is like "From what is that known?" Becoming the seventh agrees with the fourth, and the sound of the second is likewise. Thus "la," "gis," and "las" can become reasons.
+
+To teach the application of "du" and the like, he says:
+
+"Du" and the like agree with "la";
+"That itself" is an addition;
+Likewise "la" has a remainder.
+
+"Du," "su," "ru," and "ra" agree with the sound "la." For "in this," the forms "here," "hereto," "hither," "wherein," and "in the middle" all agree entirely with the sound "la." Showing something as "that itself" goes beyond the meaning of "la," as in "it was roofed to rise to nine storeys," "the latticed timbers were laid in rows," and "it was built square in shape": these show more than the meaning of "la." The sound that shows a word as having a remainder is "la," as in "having washed the hands, prepare the food."
+
+The closing particles are:
+
+"O" and the rest are closing particles.
+
+Among the ten final letters, those that have the sound "o" are the closing particles of words, as in "yin no," or likewise "yod do," "sgom mo," "sgrub po," "gyur ro," "tshal lo," "shes so," "byung ngo," "gog go," and "de'o." These ten are the closing particles.
+
+Now, as the occasion arises, he shows how single letters become particles of speech. "'O na' is a word of understanding": "o na" and "on te" join the occasion of the following word after the earlier meaning has been understood.
+
+"'Am' is dividing and collecting": the ten forms beginning with "am" are dividing and collecting, as in "form or," "feeling or," "perception or," "formations or," "the eye or," "the ear or," "arises or," "becomes or," "is accomplished or," "is or," "seeks or," and "meditates or."
+
+"'Dag' and 'rnams' are words of plurality" means that they show a word as plural, as in "trees" and "the trees."
+
+"'Sogs' collects all": the word "sogs" collects everything, as in "form and so on," where, by means of the first word, it collects without the final word needing to be mentioned.
+
+"'Pa' or 'can' is to be applied in the sense of owner or possessor": one who is the owner of gold, or who possesses gold, is called "gser pa" or "gser can."
+
+Showing how the sound "ba" differs slightly from these, he says:
+
+"Ba" is set down as general,
+Not fixing domain or time;
+Like "eating," for the eaten and the eater,
+It is to be set down as neuter.
+
+When the sound "ba" occurs in a name that shows an action, it extends to the general of domain and time, as in "eating," or "seeing," "hearing." Here, not fixing the domain means that it does not show the agent, or the action, or a word of oneself, or a word of another. Not fixing the time means that it does not show any one word of past, future, or present. For example, "eating" applies generally to what is eaten and to the eaters. Since it does not show the thing as one complete whole, it is to be set down as neuter.
+
+Now he teaches combined particles. Therefore he says:
+
+If two particles come together,
+Or else many come together,
+They are joined so that earlier and later overpower each other,
+Or as possessing their own portions.
+
+If two words that have become particles come together, or else many come together and occur as the particle of a single occasion in the speech, their meaning becomes threefold: the earlier particle overpowers the later, the later overpowers the earlier, or it possesses the portions of both. Wishing to show that it possesses the portions of both, he says:
+
+When what does not specify
+And "te na," which specifies, become one particle,
+That is the power of becoming twofold.
+
+Thus the meaning of the word "gal te na" becomes twofold. Here the sound "gal" extends to universal pervasion and does not specify. "Te na" makes it one-sided. That is, from "gang la ci zhig na," "ga" and "la" are joined and contracted into "gal," and the sound "ci zhig" is afterwards transformed into "te na." When one says "gal te na," it shows that there is a later meaning other than the earlier one. Mutual overpowering and transformation are applied to the others in the same way.
+
+To teach "on te na" and the like, which accord with that, he says the passage beginning:
+
+Having understood one side,
+What asks about one side
+Is the force of the word "o na."
+
+The word "o na" is a particle of speech which, having understood one side of the meaning, asks about the other side. "On te" and "o na" differ merely in having their letters contracted or not; it is the coming together of the particles "o" and "na."
+
+Moreover, specifying, as before;
+Introducing another is "te";
+"Na" makes it one-sided.
+
+This is the joining of the sound "on te na." "As before" means that the sound "on te" is also like "gal te." It is like "acting likewise." Of the meanings to which "properly" applies, its joining as likeness is taken as a particle of speech. Teaching the application of "bzhin" and the like:
+
+The sense of the words "bzhin" and the like
+Is joined as the unerring, as being,
+And as likeness.
+
+The sense of the words "de bzhin" and "de lta bu" applied to the unerring is like "suchness." Applied to being, it is like "What is thus is such." Applied to likeness, it is like "what is like that." Introducing another: the sound "te" introduces another, from a word that has a remainder. The sound "na" in "on te na" makes it one-sided: it is the "na" that distinguishes by specification.
+
+To show what was promised above, that it becomes twofold, he says:
+
+The particles that possess both
+Are two: possessing specification and not possessing it.
+
+The particles of speech that apply to the general, that make one-sided, and that possess both, are two: those that specify and possess it, and those that do not possess it. Here, to show that if the later one has specification, the earlier one, which applies to the general and does not possess it, is to be included by implication, while if the earlier one has specification, it includes the earlier directly, he says:
+
+The earlier is to be included by implication;
+If present, the earlier is included directly.
+
+Teaching the conclusion of these, he says:
+
+"Gal te," "ci ste," "on te,"
+And "de ste" are to be joined with "na."
+
+"Gal te na," "de ste na," and the like are joined so that the earlier word does not specify, or so that, from applying to the general, the later specifies one-sidedly.
+
+To show that some possess two collectings, he says:
+
+"On kyang" and "o na yang"
+Possess two collectings, and collect two.
+
+Words such as "on kyang" or "o na yang" possess two words: the sound "o na" is a collecting word, and "kyang" and "yang" are also collecting words. When they thus possess two collectings, it should be understood that they collect both the earlier assertion and the later other point.
+
+To show that whether they collect the concordant or the discordant is to be understood by the force of the context, he says:
+
+Concordant and distinct: by the force of the context.
+
+Sometimes:
+
+"Gang ltar," "ji ltar," "de ltar,"
+"De bzhin," "de skad," and the like,
+Possessing both portions as added, as was said:
+All particles such as these,
+Whether they overpower or possess portions,
+Are to be condensed, each into its purpose.
+
+When "gang ltar," "ji ltar," and the like are stated in a context of concordant meaning, whether two particles are added or many are added, all of them are to be condensed into a single meaning. How so? In some cases the earlier overpowers the later, and they are to be condensed into one. In some cases the later overpowers the earlier, and they are to be condensed. In some cases what possesses the portions of both is to be condensed into one thing to be shown, and collected. Why? Because he teaches:
+
+Just as with the ten formations of meaning and words,
+And the formation of particles,
+So, whether two particles come together
+Or many come together,
+Since what possesses them shows nothing additional,
+Having examined the context and the implication of the words,
+The intelligent should join them as appropriate.
+
+That is, because all combinations of particles of speech show no meaning beyond the ten formations of words and what possesses particles. The force of the context is the force of the purpose. The force of the words is the force of the grammatical formation of sounds. The domain of implication is what is not specifically intended and not directly expressed. "As appropriate" means not contradicting the meaning and the wording.
+
+Now, to show that letters, names and phrases are the root by which meaning is ascertained, an example is given here:
+
+For example, if some person
+Wishes to know the particulars of form,
+Knowing the characteristic of the minute particle,
+He knows without effort the characteristics
+And functions of the large particle, the lump,
+And the great mass;
+Knowing these, whatever is to be done on the occasion,
+He is like one unafraid in their application.
+
+For example, if a person wishes to know the particulars of form, he should first become expert in the characteristic of the most minute particle. Then particles come together and become large particles, and he comes to know that. From the coming together of large particles there arises a lump, and he comes to know that. From a lump there arises a great mass, and he comes to know its characteristics and functions as well. Just as that person, who knows functions and characteristics well, has no fear when anyone asks him about the particulars of form, so likewise:
+
+When the person who wishes to speak
+Has well understood the particulars
+Of the base and final letters,
+The names they combine into, and likewise the phrases,
+ślokas, chapters, and so on,
+Since name, phrase and letter are alike,
+The composition of words becomes effortless.
+
+"These are likewise": so it is to be joined. Thus a person who wishes to speak meaningful words should first understand well the particulars of the final letters of names. Then, from the coming together of those letters, a name is established, and he should understand its characteristic. Likewise, from the coming together of names there is the phrase. If he understands its particulars, then he will know with little effort the formations of words of the other combinations: the coming together of phrases in a śloka, the chapter that arises from the coming together of ślokas, and the great treatises and so on that arise from the coming together of these. Therefore:
+
+This is known through training;
+It was taught by the best of speakers and those who speak after him;
+Since it is known with little effort,
+This is a subject for training.
+
+So it has been explained by the best of speakers, the Omniscient One, and by the former masters who spoke after him.
+
+Now he teaches the dedication of the root of virtue. To teach the dedication by way of the qualities of the name of the work, he says:
+
+The gateway of speakers, which leads into meaning;
+Like a weapon, for it opens the mind and cuts through delusion;
+Army and armor, granting fearlessness and confidence;
+A firm fortress, not undermined by those who speak of meaning in error;
+Taught by the best of speakers and those who speak after him:
+May all beings, led to sound itself and to meaning,
+Fully develop both these powers!
+
+Because it is like a door that leads one in, showing meaning just as it is, it is the gateway to speech. Because it opens the minds of persons and cuts through the net of delusion, it is like a weapon; hence "weapon-like." Because through it one gains fearlessness and confidence before opponents who argue with meaningful speech, it is like an army and armor. Because it brings about a firm mind that is not undermined by the fault of corrupt wisdom, which in one's own mind speaks of sound and meaning in error, it is like a firm fortress. The meaning is this: since this treatise of this kind has been spoken and explained following the Omniscient One and the former masters, may beings become expert in sound and in the meaning of sound.
+
+The commentary on the Weapon-like Gateway to Speech is complete.
+
+The Indian preceptor Smṛtijñānakīrti, having heard it from the master Renowned Excellent Wealth, set down the formation of names in brief and explained the formation of particles in brief for the sake of his disciple Zhönnu Drakpa, and translated, edited and finalized it.
+
+Here is contained the Sarasvatī Grammar Sūtra.
+
+This concludes the translation. The following are translator's notes.
+
+"Elevated" and "lowered" render bstod pa and smad pa, which literally also mean "praised" and "disparaged"; they are technical names for the vowels o and u, paired as upper and lower. In the vīṇā example, rgyu is taken in its sense of gut strings, not "cause". The root verse reads dog pa ("narrowing") where the commentary repeats it as dogs pa; the root verse's reading is followed. "The strong stroke" renders tsheg drag, a term of Tibetan grammar here apparently naming a forceful or trilled element; its precise phonetic sense is uncertain. The statement that the five nasals "are included in what is called e" is translated as written, though one might expect the anusvāra (aṃ) here. Drwar and tswang are given in phonetics because they are the text's own terms, which it glosses as "long" and "short". In the final section gsal byed, usually "consonant", here evidently means the variants of each vowel (in the Indian system, by length, pitch and nasality); "three measures" renders 'dren pa gsum, the short, long and prolonged lengths.  In the grades of the three measures, gsal byed is again taken as "variant" of a vowel. In the verse on the twelve variants, gsal bar bya ba plays on gsal, "to clear"; the commentary glosses it as what is removed and cleared away, so it is rendered "those to be cleared away". The written rid nga po is an evident slip for ring po, "long", and is translated so. The shapes described (arrow, rhinoceros horn, elephant's trunk, parasol, footrest, fire-mountain, water maṇḍala) appear to describe the written vowel signs.  Bāyata (Sanskrit vāyu, "wind") and niḥśvāsvā (evidently niḥśvāsa, "exhalation, breath") are kept as the text spells them. Where the text once writes bzhi'i rgyu, "fourfold cause", for the places, this is evidently a slip for gzhi'i rgyu, "basis cause", and is translated so.  The Tibetan writes ca cha ja jña ña for the palatal row, kept as written. In the sentence on the nasals, the text writes da arising from throat and nose, evidently a slip for nga (ṅa), and in "the ta group" it writes snga for sde; both are translated in their evident sense, as is khod pa for khong pa, "within". "The Sūtra of Easy Practice" renders bde spyod kyi mdo; the grammatical work meant is not identified with confidence. "The crown" (spyi bo) is the text's term for the cerebral (retroflex) place.  The statement that oṃ is made up of a, oṃ and aṃ is translated as written, though o in place of the second member would be expected. Rgan, "elder", in the verse on the palate is evidently a slip for rkan, "palate", and is translated so. Mi, de, mu and do are Tibetan conventional labels for the vowels i, e, u and o, given in phonetics.  Several readings have been taken as copyists' slips: དེ་དེར་ན read as དཔེར་ན ("for example"); ཡི་གེ་ངི་ཙམ as ཡི་གེ་ཇི་ཙམ ("how many letters"); ང་ནི at the start of the clarification of the two kinds of name as ད་ནི ("now"); and དྲིན་ལྡན in the root verse on derived names as དོན་ལྡན ("meaningful"), as the commentary on that line requires. The fifth kind of division of the letters, འདྲེན་པས་རབ་ཏུ་དབྱེ་བ, is rendered literally as "division by drawing out"; it most likely refers to the length or prolongation of vowels, but the sense is not certain. "Pillar" and "Conch" are the examples as the Tibetan gives them; the Sanskrit original likely used Sanskrit equivalents.  Tibetan དངོས་པོའི་རྐྱེན is rendered "the abstract suffix," the grammatical sense of bhāvapratyaya, the suffix forming abstract nouns such as "heatness"; here རྐྱེན means a grammatical suffix, not a "condition." The compound types are rendered literally except where the Tibetan is a standard rendering of a Sanskrit term: འབྲུ་མང་པོ་པ as bahuvrīhi, དེའི་སྐྱེས་བུ as tatpuruṣa; ཟླས་དབྱེ་བ ("division into pairs") is the dvandva and གཞི་མཐུན་པ ("common basis") likely corresponds to the karmadhāraya, though these have been left in English. The verse announces ten formations, while the expansion lists nine, the verse's "basis" and "single-basis" apparently forming one item; this is translated as it stands. In "the etymology should be explained," the text's དེས་ཚིག is read as ངེས་ཚིག, an evident slip. The example of the farmer plays on the Tibetan affix -pa in ཞིང་པ ("field" plus marker); the Sanskrit original doubtless used a Sanskrit affix.  The examples follow the classical Sanskrit grammatical tradition: "having a dappled cow" corresponds to the stock bahuvrīhi citragu, and the "compound of number" called "two-cow" in Tibetan is the dvigu. The Tibetan བྱེད་པ, the case relations named by ordinal number (second, third and so on), is rendered "kāraka." The explanation of the "mutual" bahuvrīhi, with the examples "hard to cut" and "hard to pierce," does not fit the classical mutual type (as in "hair-to-hair fighting") and seems disturbed in transmission; it is translated as it stands. The sentence on the restriction "mere" is obscure, and its rendering is tentative. The initial པ་ཁྲ་མོ་ཅན is read as བ་ཁྲ་མོ་ཅན ("having a dappled cow"), as the same example is spelled elsewhere in the passage.  མ་ཡིན་དགག and མེད་དགག are rendered "implicative negation (paryudāsa)" and "non-implicative negation (prasajyapratiṣedha)," the two kinds of negative compound recognized by Sanskrit grammarians and logicians. The text's བྱེད་པའི་ཚིག་གི་དའི་སྐྱེས་བུ is read as དེའི་སྐྱེས་བུ ("tatpuruṣa"), an evident slip. The phrase about joining "something like the negative particle" renders ཕྱི་ནས་མ་ལྟ་བུ་སྦྱར་བ, apparently alluding to the Sanskrit replacement of the negative na by the prefix a- in compounds; the wording is compressed. The example given for the vocative, "the color black," is obscure as transmitted. Several examples of implicative negation (formless, without perception, countless, non-revealing form) are technical Abhidharma terms, used here to illustrate the grammatical point.  The Tibetan རྐྱེན, here in its grammatical sense, is rendered "suffix," not "condition." The explanation of the name "dvigu" plays on its literal sense, "two cows" (Tibetan བ་གཉིས་པ); the commentator's account of the "two cows" is translated as it stands. The "borax" (ཚ་ལ) is the flux used in soldering metal. The passage on "this" first says that it applies to past and future and then that, when it is used of time, it excludes them; this tension is in the text and is translated as it stands.  This portion explains the uses of individual Tibetan particles (na, ste, dang, ni, and in passing nas and cing); since the discussion turns on their Tibetan forms, they are given in transliteration. The verse on "na" lists "the unfitting, the difficult, and attachment," but the commentary illustrates only the first. In "When listening has been done, insight increases," the particle "dang" under discussion appears to have dropped out of the example as transmitted. The text's བརྣན is read as བསྣན ("adding").  This section continues the treatment of individual Tibetan particles and words (kyang, yang, kho na, nyid, tsam, ba' zhig, tshul, bzhin, cing, la), which are given in transliteration since the discussion turns on their Tibetan forms; the English renderings of the examples can only approximate the Tibetan wordplay. སྲིད་སྒྲུབ is taken as Pārtha (Arjuna), following the stock logical example "Pārtha alone is an archer" as rendered in Tibetan, and དོན་གྲུབ as Siddhārtha. The third of the six senses of "kho na," written ངེས་བ ("certain"), is read as མ་ངེས་པ ("uncertain"), as the verse and the example require; and སྒྲོ in the verse on "tshul" is read as སྒོ ("door"), as the commentary has it. The particles glossed as "correctly," "completely," "entirely," "thoroughly," "variously," "closely," and "extremely" are the Tibetan equivalents of Sanskrit verbal prefixes such as sam-, pari-, ā-, pra-, vi-, upa- and ati-.  This section continues the account of Tibetan grammatical particles (kyi, kyis, gyis, las, nas, du, su, ru, ra, the final "o," o na, am, dag, rnams, sogs, pa, can, ba, gal te na), which are given in transliteration since the discussion turns on their Tibetan forms; the English renderings of the examples only approximate them. The term ཟླ་སྡུད་པ here designates the closing or terminal particle; it may carry the same sense in the earlier remark that "which" is excluded "in collecting pairs." The derivation of "gal te na" from "gang la ci zhig na" is the commentator's own and is translated as given.  In the explanation of "on te na," the text as transmitted breaks off after "like 'gal te'" and repeats, in garbled form, material from the earlier treatment of "tshul" and "bzhin," before resuming with "Introducing another." This appears to be a dittography in transmission; it is translated as it stands. The particles discussed (o na, on te na, gal te, ci ste, de ste, on kyang, o na yang, gang ltar, ji ltar, de ltar, de bzhin, de skad) are given in transliteration since the discussion turns on their Tibetan forms. "The best of speakers" is an epithet of the Buddha, invoked in the text's opening homage.  The master from whom Smṛtijñānakīrti heard the text, ནོར་བཟངས་གྲགས་པ, could not be identified with confidence, so his name is translated literally; it may reflect a Sanskrit name such as Sudhanakīrti, or he may have been a Tibetan teacher. The disciple གཞོན་ནུ་གྲགས་པ is taken to be Tibetan and given in phonetics. The final line is the title of the following text in the collection, not part of this commentary.
+
+The following is a note about this translation.
+
+This is an AI-generated translation from the AI Stupa project. It was produced by a careful, doctrine-aware process aiming at a high degree of accuracy, but it has not been reviewed by a human translator and may contain errors. It is offered as a provisional translation for those texts of the Tibetan Buddhist canon that have not yet received an authoritative human translation. Where a published translation exists — above all from 84000: Translating the Words of the Buddha (84000.co) — that translation is definitive and should be preferred; please consult it instead. These translations are released into the public domain (CC0) in the spirit of spreading the Dharma to all corners of the earth.
+
+Just as the Bodhi tree now standing at Bodh Gayā neither is nor is not the same tree beneath which the Buddha attained awakening, so too this stupa is intended as the next generation of stupa — dependently arising according to the conditions of its environment, and ceaselessly proclaiming the Dharma for the benefit of all sentient beings.
+
+May whoever encounters these words derive great benefit.
